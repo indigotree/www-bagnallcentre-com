@@ -1,7 +1,7 @@
 {{ define "main" }}
 
     <div class="hero-pages">
-        <img alt="Bagnall Centre News" src="/src/header-latestnews.jpg">
+        <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
         <div class="herotext-pages">
             <span class="largetext">News</span>
         </div>
@@ -9,32 +9,23 @@
     <div class="greybackground">
         <div class="page-container">
             <div class="three-quarter-col colpadding-right">
-                <h1>Making lasting positive changes</h1>
-                <h2>by The Bagnall Centre on December 21st 2017</h2>
-                <div class="orangeline"></div>
-                <div class="article-content">
-                    <p class="p1"><span class="s1">It’s nearly the end of 2017 and a new year is about to begin – how did that happen already?! After all the festive excess our minds often begin to turn to detox plans and resolutions to get fit, drink less or lose weight.</span></p>
-                    <p class="p1"><span class="s1">However, traditional New Year’s resolutions often fall by the wayside sometime around mid-January and make us feel guilty and demotivated. We often make resolutions with the aim of changing ourselves and our habits in one clean sweep, an unrealistic aim that can set us on the path to disappointment and failure.</span></p>
-                    <p class="p1"><span class="s1">So this year, why not take a more balanced, holistic approach, making gradual changes and setting yourself on a harmonious and healthy path to next January and beyond? Here are a few ideas to help you decide what positive changes you are seeking in your life and how to go about making them happen.</span></p>
-                    <p class="p1"><span class="s1"><strong>Take care of yourself and be positive</strong></span></p>
-                    <p class="p1"><span class="s1">Instead of fixed goals that focus on the negative, try to focus on positive changes. For example, instead of a resolution to lose a certain amount of weight, try making a positive decision to try some new healthy recipes using plenty of vegetables, or even attend a cookery class if you need to brush up your skills.&nbsp;</span></p>
-                    <p class="p1"><span class="s1">It’s also important to reflect on what you are already feeling positive about in your life, perhaps by writing a list of past achievements or a gratitude list. Boosting your self-esteem in this way can help you to recognise that you deserve to take time to care for yourself and your wellbeing.&nbsp;</span></p>
-                    <p class="p1"><span class="s1"><strong>Take responsibility – take control</strong></span></p>
-                    <p class="p1"><span class="s1">In our busy lives, it can be tempting to equate looking after ourselves with treating ourselves, perhaps with unhealthy food or habits. But true self-care involves focusing on the bigger picture and taking responsibility for our own overall mental and physical health.</span></p>
-                    <p class="p1"><span class="s1">Writing can be a powerful tool when it comes to working out what we want and how to get there. One interesting idea is to write a letter from your future self in which you visualise how you want your life to be in one year’s time and describe the steps you took to make it happen, for example by taking a new exercise class, learning a new skill or giving up an unhealthy habit.</span></p>
-                    <p class="p1"><span class="s1"><strong>Focus on the whole picture</strong></span></p>
-                    <p class="p1"><span class="s1">It is becoming increasingly accepted that our current Western crisis of lifestyle-related medical conditions and mental health problems requires a new holistic approach to nutrition, exercise and rest. Integrative health practitioner Dr. Rangan Chatterjee describes four ‘pillars’ underpinning good health and wellbeing - sleep, rest, food and movement.&nbsp;</span></p>
-                    <p class="p1"><span class="s1">So when you set out your intentions, try not to focus all your attention on one thing, such as excess weight or a habit you want to quit, but instead consider what changes you would like to make in each of these key areas. Doing this will help you to create a positive, inspiring and realistic plan for lasting change.</span></p>
-                    <p class="p1"><span class="s1">Finally, remember that this doesn’t all have to happen on the first of January – achieving lasting balance takes time, reflection and consideration.</span></p>
-                    <p class="p1"><span class="s1">You are more likely to reach your goals if you break them down into small steps and regularly take time to look back at what you have already achieved.</span></p>
-                </div>
+
+                {{ range first 1 (where .Site.Pages "Section" "news") }}
+                    <h1>{{ .Title }}</h1>
+                    <h2>by {{ .Params.author }} on {DATE}</h2>
+                    <div class="orangeline"></div>
+                    <div class="article-content">
+                        {{ .Content }}
+                    </div>
+                {{ end }}
+                
             </div>
             <div class="one-quarter-col">
                 <div class="articles">
                     
                     <h2>Articles</h2>
                     {{ range where .Site.Pages "Section" "news" }}
-                        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>September 1st 2016</p>
+                        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{DATE}</p>
                     {{ end }}
 
                 </div>
