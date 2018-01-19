@@ -54,7 +54,7 @@ html {
 }
 
 body {
-    background: url(../images/tree_footer.svg) no-repeat bottom right;
+    background: url(../images/footer-tree.svg) no-repeat bottom right;
     background-size: 50%;
     color: #5b6677;
     font-family: 'Lato', sans-serif;
@@ -466,7 +466,7 @@ a .secondarynavoff:hover, a .secondarynavofftwo:hover, a .secondarynavoffthree:h
 /* ----------------- */
 
 .hero {
-    background: url(../images/header-home.jpg) no-repeat top center;
+    background: url(../uploads/banner-home.jpg) no-repeat top center;
     background-size: cover;
     height: 35vw;
     margin-top: 4.4vw;
@@ -538,7 +538,7 @@ a .secondarynavoff:hover, a .secondarynavofftwo:hover, a .secondarynavoffthree:h
 }
 
 .orangebackground {
-    background: #fe7600 url(../images/contact-tree.svg) no-repeat bottom right;
+    background: #fe7600 url(../images/white-translucent-tree.svg) no-repeat bottom right;
     background-size: 56%;
 }
 
