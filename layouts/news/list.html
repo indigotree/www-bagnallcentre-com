@@ -10,7 +10,7 @@
         <div class="page-container">
             <div class="three-quarter-col colpadding-right">
 
-                {{ range first 1 (where .Data.Pages "Section" "post") }}
+                {{ range first 1 (where .Site.Pages "Section" "news") }}
                     <h1>{{ .Title }}</h1>
                     <h2>by {{ .Params.author }} on {DATE}</h2>
                     <div class="orangeline"></div>
