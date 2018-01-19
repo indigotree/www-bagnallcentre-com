@@ -10,11 +10,14 @@
 </footer>
 
 <div class="social-media-wrapper">
-    <a href="https://fb.com/BagnallCentre/">
-    <div class="social-media-button facebook">
-        <i aria-hidden="true" class="fa fa-facebook"></i>
-    </div></a> <a href="https://twitter.com/BagnallCentre">
-    <div class="social-media-button twitter">
-        <i aria-hidden="true" class="fa fa-twitter"></i>
-    </div></a>
+    <a href="{{ .Site.data.facebook }}" target="_blank" rel="noopener">
+        <div class="social-media-button facebook">
+            <i aria-hidden="true" class="fa fa-facebook"></i>
+        </div>
+    </a>
+    <a href="{{ .Site.data.twitter }}" target="_blank" rel="noopener">
+        <div class="social-media-button twitter">
+            <i aria-hidden="true" class="fa fa-twitter"></i>
+        </div>
+    </a>
 </div>
