@@ -1,0 +1,29 @@
+<div id="headercontainer" style="box-shadow: none;">
+    <header style="position:relative;" class="site-header" role="banner">
+        <div class="logo">
+            <a href="{{ .Site.BaseURL }}">
+                <img src="./src/logo_header.svg" alt="{{ .Site.Title }}">
+            </a>
+        </div>
+        <nav>
+            <div class="navon"><i class="fa fa-home primary" style="font-size:1.3em;"></i></div>
+            <div class="navoff"><a href="/fitness-and-exercise">Fitness &amp; Exercise</a></div>
+            <div class="navoff"><a href="/therapy-and-wellbeing">Therapy &amp; Wellbeing</a></div>
+            <div class="navoff"><a href="/nutrition-and-lifestyle">Nutrition &amp; Lifestyle</a></div>
+            <div class="navoff"><a href="/working-with-us">Working with us</a></div>
+            <div class="navoff"><a href="/contact-us">Contact Us</a></div>
+            <a href="/#toggle" onclick="showHide()"><div class="navoff circle"><i class="fa fa-search"></i></div></a>
+        </nav>
+        <div id="burger-menu" onclick="showMobNav()">
+            <div id="burger-layer-one"></div>
+            <div id="burger-layer-two"></div>
+            <div id="burger-layer-three"></div>
+        </div>
+    </header>
+    <div id="show" style="padding:30px;box-sizing:border-box;z-index:100;text-align:right;color:white;height:200px;width:100%;background-color:rgba(0,0,0,0.7);top:100%;position:absolute;display:none;">
+        <form action="/search/" method="post">
+            <span class="largetext bold">SEARCH</span><br>
+            <input class="search-input" name="search" onblur="this.placeholder = &#39;Search&#39;" onfocus="this.placeholder = &#39;&#39;" placeholder="Search" type="text" value=""> <button class="search-button"><i class="fa fa-search"></i></button>
+        </form>
+    </div>
+</div>

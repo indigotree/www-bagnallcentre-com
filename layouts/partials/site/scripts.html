@@ -1,0 +1,61 @@
+<script>
+// ---- Mobile Burger Menu
+function showMobNav() {
+    var el = document.getElementById("hide_mob_nav");
+    if ( el.style.display != "block") {
+        el.style.display = "block";
+    } else {
+        el.style.display = "none";
+    }
+}
+</script>
+
+<script>
+//---- FIXED HEADER ON SCROLL
+window.onscroll = function fixHeaderOnScroll() {
+    if (document.body.scrollTop > 100 ) {
+        document.getElementById("headercontainer").style.boxShadow = "0 1px 3px rgba(0, 0, 0, 0.15)";
+    } else {
+        document.getElementById("headercontainer").style.boxShadow = "none";
+    }
+}
+</script>
+
+<script>
+// Drop down for classes on desktop
+  $(document).ready(function() {
+    $(".products .one-col-class").click(function() {
+      if($(this).next("div").is(":visible")){
+        $(this).next("div").slideUp("slow");
+      } else {
+        $(".products .productdescription").slideUp("slow");
+        $(this).next("div").slideToggle("slow");
+      }
+    });
+  });
+</script>
+<script>
+// Drop down for classes on desktop
+  $(document).ready(function() {
+    $(".productsmobile .one-col-class").click(function() {
+      if($(this).next("div").is(":visible")){
+        $(this).next("div").slideUp("slow");
+      } else {
+        $(".productsmobile .productdescription").slideUp("slow");
+        $(this).next("div").slideToggle("slow");
+      }
+    });
+  });
+</script>
+<script>
+function showHide() {
+    var x = document.getElementById('show');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+        $("#show").fadeIn(5000);
+    } else {
+        x.style.display = 'none';
+
+    }
+}
+</script>
