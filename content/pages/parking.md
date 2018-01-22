@@ -1,5 +1,6 @@
 ---
 title: "Contact us"
+slug: "contact-us/parking"
 ---
 
 # Convenient parking can be located at the following places:
