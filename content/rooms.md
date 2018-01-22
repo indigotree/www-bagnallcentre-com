@@ -1,6 +1,7 @@
 ---
 title: "Working with us"
 slug: "working-with-us/rooms"
+draft: false
 ---
 
 # Rooms Available at The Bagnall Centre

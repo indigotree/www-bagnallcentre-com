@@ -1,5 +1,6 @@
 ---
 title: "Fitness & Exercise"
+draft: false
 ---
 
 # Studio & Gym classes diary

@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+draft: false
 ---
 
 ## Send us a message

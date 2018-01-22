@@ -2,6 +2,7 @@
 title: "Amatsu"
 description: "Amatsu uses a range of techniques including soft tissue work, structural adjustment, balance to the organ system and cranial work in order to release the inherent wellness that becomes subdued with disease."
 types: ["therapy"]
+draft: false
 ---
 
 Amatsu uses a range of techniques including soft tissue work, structural adjustment, balance to the organ system and cranial work in order to release the inherent wellness that becomes subdued with disease. It looks at the interaction of five factors for health referred to as Godai (Go being the Japanese for five). These five factors: Structure, Nutrition, Energy, Emotion and Environment are interdependent and can cause illness in any of the other areas.

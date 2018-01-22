@@ -2,6 +2,7 @@
 title: "Homeopathy"
 description: "Homeopaths often see patients with long-term, chronic problems, many of which have failed to respond to conventional medicine."
 types: ["therapy"]
+draft: false
 ---
 
 Homeopaths often see patients with long-term, chronic problems, many of which have failed to respond to conventional medicine. As a system of medicine, homeopathy is aimed at treating the person, rather than the disease diagnosis, and as such can be considered in almost any ill health, where tissue has not been irrevocably damaged.
