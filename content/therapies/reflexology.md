@@ -1,7 +1,7 @@
 ---
 title: "Reflexology"
 description: "Reflexology is based on the principle that there are reflex areas in the feet and hands."
-types: ["therapy"]
+categories: ["therapy"]
 draft: false
 ---
 

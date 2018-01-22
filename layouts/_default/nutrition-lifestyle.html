@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-nutrition.jpg" | absURL }}" alt="a bowl of fruit and person in background meditating">
+        <div class="greenherotext"><span class="largetext">{{ .Title }}</span></div>
+    </div>
+
+    <div class="greybackground">
+        <div class="page-container">
+            
+            <div class="secondarynavon">
+                Nutrition
+            </div>
+
+            <a href="/nutrition-and-lifestyle/lifestyle/">
+                <div class="secondarynavoff greensecondarynavoff">
+                    Lifestyle
+                </div>
+            </a> 
+
+
+
+        </div>
+    </div>
+
+{{ end }}

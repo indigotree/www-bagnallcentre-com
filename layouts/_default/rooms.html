@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
+        <div class="herotext-pages"><span class="largetext">{{ .Title }}</span></div>
+    </div>
+
+    <div class="greybackground">
+        <div class="page-container">
+
+            <a href="/working-with-us/">
+                <div class="secondarynavoffthree orangesecondarynavoff">
+                    Practitioners
+                </div>
+            </a>
+            
+            <div class="secondarynavonthree">
+                Our Rooms
+            </div>
+
+            <a href="/working-with-us/rentalfees/">
+                <div class="secondarynavoffthree orangesecondarynavoff">
+                    Rental Fees &amp; Times
+                </div>
+            </a>
+            
+            <a href="/working-with-us/apply/">
+                <div class="secondarynavoffthree orangesecondarynavoff">
+                    Apply
+                </div>
+            </a>
+            
+            <div class="mobile-nav-spacer">
+                <br>
+            </div>
+
+            <div class="three-quarter-col colpadding-right">
+                {{ .Content }}
+            </div>
+
+            <div class="one-quarter-col">
+                <h1>Existing Practitioners</h1>
+                <form action="" class="signinform" method="post">
+                    <label for="username">Username</label><br>
+                    <input id="username" name="username" onblur="this.placeholder = 'Username'" onfocus="this.placeholder = ''" placeholder="Username" required="" type="text" value=""><br>
+                    <label for="password">Password</label><br>
+                    <input id="password" name="password" onblur="this.placeholder = 'Your Password'" onfocus="this.placeholder = ''" placeholder="Your Password" required="" type="text" value=""><br>
+                    <input id="rememberme" name="rememberme" type="checkbox" value="remember"> <label>Remember me</label> <!-- | <a href="http://bagnallcentre.com/working-with-us/practitioners-area.php">Forgot password</a> --><br>
+                    <input class="button" name="submit" type="submit" value="Login">
+                </form>
+                <div class="marginspace"></div>
+                <p>If you would like to start your healthcare practice at the Bagnall Centre please contact us on - <b>01494 791288</b> or <b><a href="mailto:booking@bagnallcentre.com">bookings@bagnallcentre.com</a></b><br>
+                We look forward to hearing from you!</p>
+            </div>
+
+
+        </div>
+    </div>
+
+{{ end }}

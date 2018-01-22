@@ -1,7 +1,7 @@
 ---
 title: "Counselling"
 description: "Counselling provides a regular time and space for people to talk about their troubles and explore difficult feelings in an environment that is dependable."
-types: ["wellbeing"]
+categories: ["wellbeing"]
 draft: false
 ---
 

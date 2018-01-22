@@ -1,6 +1,8 @@
 ---
 title: "Nutrition & Lifestyle"
 draft: false
+slug: "nutrition-and-lifestyle/lifestyle"
+layout: "lifestyle"
 ---
 
 The Bagnall Centre for Integrated Healthcare has a range of lifestyle activities and practices that take place at various times of the year. These include:

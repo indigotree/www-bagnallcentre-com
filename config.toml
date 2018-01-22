@@ -30,4 +30,4 @@ isPlainText = true
 notAlternative = true
 
 [taxonomies]
-type = "types"
+category = "categories"
