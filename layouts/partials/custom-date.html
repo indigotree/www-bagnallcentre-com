@@ -1,4 +1,4 @@
-{{ $day := (.Date.Format "1") }}
+{{ $day := (.Date.Format "2") }}
 {{ $.Scratch.Set "suffix" "th" }}
 
 {{ if or (eq $day "1") (eq $day "21") (eq $day "31") }}
@@ -9,4 +9,4 @@
     {{ $.Scratch.Set "suffix" "rd" }}
 {{ end }}
 
-{{ replace (.Date.Format "January 1{suffix} 2006") "{suffix}" ($.Scratch.Get "suffix") }}
+{{ replace (.Date.Format "January 2{suffix} 2006") "{suffix}" ($.Scratch.Get "suffix") }}
