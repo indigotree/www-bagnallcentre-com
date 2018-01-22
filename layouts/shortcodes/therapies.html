@@ -5,10 +5,10 @@
 {{ end }}
 
 {{ range (where .Site.Pages "Section" "therapies") }}
-    {{ if in .Params.types "therapy" }}
+    {{ if in .Params.categories ($.Scratch.Get "category") }}
 
         {{ partial "accordion-item.html" . }}
-
+        
     {{ end }}
 {{ end }}
 
