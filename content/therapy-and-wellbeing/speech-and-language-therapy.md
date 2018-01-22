@@ -1,0 +1,9 @@
+---
+title: "Speech And Language Therapy"
+description: "Speech And Language Therapy Speech and language therapy is concerned with the management of disorders of speech, language, communication and swallowing in children and adults."
+therapy-and-wellbeing: ["therapy"]
+---
+
+Speech and language therapy is concerned with the management of disorders of speech, language, communication and swallowing in children and adults. Therapists are allied health professionals and work closely with occupational therapists, doctors, parents, carers and other professionals, such as teachers and nurses.
+
+Speech and language therapists work with babies with feeding and swallowing difficulties and a wide range of issues on older children and adults. These include moderate or severe learning difficulties, physical disabilities, language delay or impairment, cleft palate, autism and dyslexia.
