@@ -1,0 +1,20 @@
+{{ if .IsNamedParams }}
+    {{ $.Scratch.Set "category" (.Get "category") }}
+{{ else }}
+    {{ $.Scratch.Set "category" (.Get 0) }}
+{{ end }}
+
+{{ range (where .Site.Pages "Section" "therapies") }}
+    {{ if in .Params.types "therapy" }}
+
+        {{ partial "accordion-item.html" . }}
+
+    {{ end }}
+{{ end }}
+
+
+
+
+
+
+
