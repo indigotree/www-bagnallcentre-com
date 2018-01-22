@@ -2,6 +2,7 @@
 title: "Working with us"
 slug: "working-with-us/rentalfees"
 draft: false
+layout: "rentalfees"
 ---
 
 # Room Booking Times

@@ -1,0 +1,38 @@
+.tt-dropdown {
+    font-size: 16px;
+}
+
+.dropdown-content {
+    color:#fff;
+    display: none;
+    position: absolute;
+    background-color: #FF9100;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    text-align:left;
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    margin-left:-10px;
+
+    a {
+        color:#fff;
+    }
+
+    p {
+        padding: 5px;
+
+        &:hover {
+            background-color:#E7EFFC;
+            color:#5b6677;
+
+            a {
+                color:#5b6677;
+            }
+        }
+    }
+
+    .tt-dropdown:hover & {
+        display: block;
+    }
+}

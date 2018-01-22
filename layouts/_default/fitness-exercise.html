@@ -1,0 +1,2230 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-fitness.jpg" | absURL }}" alt="Fitness and Exercise">
+        <div class="redherotext"><span class="largetext">{{ .Title }}</span></div>
+    </div>
+
+    <div class="greybackground">
+        <div class="page-container">
+            <div class="one-col">
+                {{ .Content }}
+                <div class="timetable-filters">
+                    Sort by filter:
+                    <div class="tt-dropdown tt-filter">
+                        <span>Day</span>
+                        <div class="dropdown-content">
+                            <p><a href="?day=monday">Monday</a></p>
+                            <p><a href="?day=tuesday">Tuesday</a></p>
+                            <p><a href="?day=wednesday">Wednesday</a></p>
+                            <p><a href="?day=thursday">Thursday</a></p>
+                            <p><a href="?day=friday">Friday</a></p>
+                            <p><a href="?day=saturday">Saturday</a></p>
+                        </div>
+                    </div>
+                    <div class="tt-dropdown tt-filter">
+                        <span>Class</span>
+                        <div class="dropdown-content">
+                            <p><a href="?class=3">BARRE CONCEPT (Improvers)</a></p>
+                            <p><a href="?class=4">TRX SUSPENSION TRAINING (Mixed ability)</a></p>
+                            <p><a href="?class=12">BABY YOGA</a></p>
+                            <p><a href="?class=16">BASI PILATES (Mixed Ability)</a></p>
+                            <p><a href="?class=20">YOGA (Mixed Ability)</a></p>
+                            <p><a href="?class=21">PILATES (Beginners/Intermediate)</a></p>
+                            <p><a href="?class=25">MOTHER &amp; BABY YOGA (Beginners)</a></p>
+                            <p><a href="?class=31">YOGA FOR HEALTHY LOWER BACKS (Mixed Ability)</a></p>
+                            <p><a href="?class=35">BABY MASSAGE (Beginners)</a></p>
+                            <p><a href="?class=36">TOTAL BARRE (Mixed Ability)</a></p>
+                            <p><a href="?class=39">HULA HOOPING (Mixed ability)</a></p>
+                            <p><a href="?class=40">BARRE, FLEX &amp; FLOW (Intermediate)</a></p>
+                            <p><a href="?class=42">HATHA/IYENGAR YOGA (Mixed Ability)</a></p>
+                            <p><a href="?class=43">BARRE (Mixed Ability)</a></p>
+                            <p><a href="?class=47">MOTHER &amp; BABY YOGA</a></p>
+                            <p><a href="?class=48">DYNAMIC VINYASA FLOW YOGA (Beginners)</a></p>
+                            <p><a href="?class=52">TRX SUSPENSION TRAINING (Mixed ability)</a></p>
+                            <p><a href="?class=61">PILATES (Mixed Ability)</a></p>
+                            <p><a href="?class=62">PILATES (Mixed Ability)</a></p>
+                            <p><a href="?class=63">PILATES (Beginners/Intermediate)</a></p>
+                            <p><a href="?class=64">PILATES (Beginners/Intermediate)</a></p>
+                            <p><a href="?class=65">MUMS HIIT (Post-natal, babies welcome)</a></p>
+                            <p><a href="?class=66">YOGA (Mixed Ability)</a></p>
+                            <p><a href="?class=67">HATHA YOGA (Mixed Ability)</a></p>
+                            <p><a href="?class=68">YIN YOGA &amp; MEDITATION (Mixed Ability)</a></p>
+                            <p><a href="?class=69">PILATES (Advanced level)</a></p>
+                            <p><a href="?class=70">PILATES (Mixed Ability)</a></p>
+                            <p><a href="?class=71">FOREVER YOUNG (Beginners)</a></p>
+                            <p><a href="?class=72">PILATES (Mixed Ability)</a></p>
+                            <p><a href="?class=73">PILATES (Beginners)</a></p>
+                            <p><a href="?class=74">DYNAMIC VINYASA FLOW YOGA (Beginners)</a></p>
+                            <p><a href="?class=75">PILATES (Beginners/Intermediate)</a></p>
+                            <p><a href="?class=76">PILATES (Advanced)</a></p>
+                            <p><a href="?class=77">VINI YOGA</a></p>
+                            <p><a href="?class=78">PREGNANCY YOGA (Mixed Ability)</a></p>
+                            <p><a href="?class=79">YOGA BASICS (Beginners)</a></p>
+                            <p><a href="?class=80">DYNAMIC VINYASA FLOW YOGA (Beginners)</a></p>
+                            <p><a href="?class=81">TRX SUSPENSION TRAINING (Mixed ability)</a></p>
+                            <p><a href="?class=82">Pilates (Mixed ability)</a></p>
+                            <p><a href="?class=83">Iyengar Yoga</a></p>
+                            <p><a href="?class=84"></a></p>
+                            <p><a href="?class=85"></a></p>
+                            <p><a href="?class=86">Tai Chi</a></p>
+                            <p><a href="?class=87">Tai Chi II</a></p>
+                            <p><a href="?class=88"></a></p>
+                        </div>
+                    </div>
+                    <div class="tt-dropdown tt-filter">
+                        <span>Time</span>
+                        <div class="dropdown-content">
+                            <p><a href="?time=morinig">Morning</a></p>
+                            <p><a href="?time=afternoon">Afternoon</a></p>
+                            <p><a href="?time=evening">Evening</a></p>
+                        </div>
+                    </div>
+                    <div class="tt-dropdown tt-filter">
+                        <span>Practitioner</span>
+                        <div class="dropdown-content">
+                            <p><a href="?assoc=1">Hazel</a></p>
+                            <p><a href="?assoc=2">Pali</a></p>
+                            <p><a href="?assoc=3">Heidi</a></p>
+                            <p><a href="?assoc=4">Shiv</a></p>
+                            <p><a href="?assoc=5">Halina</a></p>
+                            <p><a href="?assoc=6">Georgia</a></p>
+                            <p><a href="?assoc=7">Hannah</a></p>
+                            <p><a href="?assoc=8">Dianne</a></p>
+                            <p><a href="?assoc=9">Barbara</a></p>
+                            <p><a href="?assoc=10">Katie</a></p>
+                            <p><a href="?assoc=11">Gemma</a></p>
+                            <p><a href="?assoc=12">Sarah</a></p>
+                            <p><a href="?assoc=13">Luiza</a></p>
+                            <p><a href="?assoc=14">Helena</a></p>
+                            <p><a href="?assoc=16">Suzy</a></p>
+                            <p><a href="?assoc=17">Naweeda</a></p>
+                            <p><a href="?assoc=18">Darrell</a></p>
+                            <p><a href="?assoc=19">Catherine</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+                <div class="products">
+                    <div class="one-col-class-header">
+                        <div class="classdate classborder">
+                            Day
+                        </div>
+                        <div class="classtime classborder">
+                            Time
+                        </div>
+                        <div class="classtitle classborder">
+                            Class
+                        </div>
+                        <div class="classprice classborder">
+                            Price
+                        </div>
+                        <div class="classroom classborder">
+                            Room
+                        </div>
+                        <div class="classterm classborder">
+                            Term
+                        </div>
+                        <div class="classbooking classborder">
+                            Booking
+                        </div>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label monday-bg"><img src="http://bagnallcentre.com/images/tt/monday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                09:00 - 00:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=9:00%20am&amp;day=Monday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:00 - 11:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=10:00%20am&amp;day=Monday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:45 - 19:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">TRX SUSPENSION TRAINING</span><br>
+                                Mixed ability <i>with Pali</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£15<br>
+                                (£14 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=4&amp;course=TRX%20SUSPENSION%20TRAINING%20(Mixed%20ability)&amp;time=6:45%20pm&amp;day=Monday&amp;associate=Pali">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">TRX SUSPENSION TRAINING (Mixed ability) with Pali</span> - TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;TRX SUSPENSION TRAINING (Mixed ability) with Pali&lt;/span&gt; - TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.&lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£12<br>
+                                (£10 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=62&amp;course=PILATES%20(Mixed%20Ability)&amp;time=7:00%20pm&amp;day=Monday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Helena</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking, 1st class free
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=21&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=7:00%20pm&amp;day=Monday&amp;associate=Helena">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Helena</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Helena&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:45 - 20:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">BARRE</span><br>
+                                Mixed Ability <i>with Pali</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£12<br>
+                                (10 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                Studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=43&amp;course=BARRE%20(Mixed%20Ability)&amp;time=7:45%20pm&amp;day=Monday&amp;associate=Pali">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">BARRE (Mixed Ability) with Pali</span> - Barre with Pali- fuses the precision of Pilates with the technique and grace of ballet and conditioning exercises. The combined elements form an energetic and calorie burning workout that will lengthen, tone and sculpt the whole body whilst improving balance, strength, stamina and coordination</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;BARRE (Mixed Ability) with Pali&lt;/span&gt; - Barre with Pali- fuses the precision of Pilates with the technique and grace of ballet and conditioning exercises. The combined elements form an energetic and calorie burning workout that will lengthen, tone and sculpt the whole body whilst improving balance, strength, stamina and coordination &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Helena</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking, 1st class free
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=63&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=8:00%20pm&amp;day=Monday&amp;associate=Helena">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Helena</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Helena&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 per class
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=64&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=8:00%20pm&amp;day=Monday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label tuesday-bg"><img src="http://bagnallcentre.com/images/tt/tuesday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:15 - 19:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">YOGA</span><br>
+                                Mixed Ability <i>with Shiv</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£7 per class
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=66&amp;course=YOGA%20(Mixed%20Ability)&amp;time=6:15%20pm&amp;day=Tuesday&amp;associate=Shiv">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">YOGA (Mixed Ability) with Shiv</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;YOGA (Mixed Ability) with Shiv&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:30 - 19:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">HATHA YOGA</span><br>
+                                Mixed Ability <i>with Halina</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£11<br>
+                                (£50 for 5 &amp; £90 for 10) <b>1st class free</b>
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=67&amp;course=HATHA%20YOGA%20(Mixed%20Ability)&amp;time=6:30%20pm&amp;day=Tuesday&amp;associate=Halina">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">HATHA YOGA (Mixed Ability) with Halina</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;HATHA YOGA (Mixed Ability) with Halina&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:45 - 19:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">Pilates</span><br>
+                                Mixed ability <i>with Pali</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=82&amp;course=Pilates%20(Mixed%20ability)&amp;time=6:45%20pm&amp;day=Tuesday&amp;associate=Pali">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">Pilates (Mixed ability) with Pali</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;Pilates (Mixed ability) with Pali&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:45 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">YIN YOGA &amp; MEDITATION</span><br>
+                                Mixed Ability <i>with Halina</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£11<br>
+                                (£50 for 5 &amp; £90 for 10) <b>1st class free</b>
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=68&amp;course=YIN%20YOGA%20&amp;%20MEDITATION%20(Mixed%20Ability)&amp;time=7:45%20pm&amp;day=Tuesday&amp;associate=Halina">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">YIN YOGA &amp; MEDITATION (Mixed Ability) with Halina</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;YIN YOGA &amp; MEDITATION (Mixed Ability) with Halina&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:45 - 20:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">TRX SUSPENSION TRAINING</span><br>
+                                Mixed ability <i>with Pali</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£15<br>
+                                (£14 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=4&amp;course=TRX%20SUSPENSION%20TRAINING%20(Mixed%20ability)&amp;time=7:45%20pm&amp;day=Tuesday&amp;associate=Pali">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">TRX SUSPENSION TRAINING (Mixed ability) with Pali</span> - TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;TRX SUSPENSION TRAINING (Mixed ability) with Pali&lt;/span&gt; - TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.&lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Advanced level <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£12<br>
+                                (£10 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=69&amp;course=PILATES%20(Advanced%20level)&amp;time=8:00%20pm&amp;day=Tuesday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Advanced level) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Advanced level) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label wednesday-bg"><img src="http://bagnallcentre.com/images/tt/wednesday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                09:30 - 10:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Georgia</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£66 for 6 weeks<br>
+                                (pre book only)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=70&amp;course=PILATES%20(Mixed%20Ability)&amp;time=9:30%20am&amp;day=Wednesday&amp;associate=Georgia">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Georgia</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Georgia&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:30 - 11:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Georgia</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£66 for 6 weeks<br>
+                                (pre book only)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=70&amp;course=PILATES%20(Mixed%20Ability)&amp;time=10:30%20am&amp;day=Wednesday&amp;associate=Georgia">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Georgia</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Georgia&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                11:15 - 12:15
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">FOREVER YOUNG</span><br>
+                                Beginners <i>with Hannah</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£5 per class
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=71&amp;course=FOREVER%20YOUNG%20(Beginners)&amp;time=11:15%20am&amp;day=Wednesday&amp;associate=Hannah">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">FOREVER YOUNG (Beginners) with Hannah</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;FOREVER YOUNG (Beginners) with Hannah&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:00 - 19:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block bookings)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=73&amp;course=PILATES%20(Beginners)&amp;time=6:00%20pm&amp;day=Wednesday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£12<br>
+                                (£10 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=62&amp;course=PILATES%20(Mixed%20Ability)&amp;time=7:00%20pm&amp;day=Wednesday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=75&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=7:00%20pm&amp;day=Wednesday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Advanced <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=76&amp;course=PILATES%20(Advanced)&amp;time=8:00%20pm&amp;day=Wednesday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Advanced) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Advanced) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 per class
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=64&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=8:00%20pm&amp;day=Wednesday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label thursday-bg"><img src="http://bagnallcentre.com/images/tt/thursday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                09:30 - 10:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">VINI YOGA <i>with Barbara</i></span>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=77&amp;course=VINI%20YOGA&amp;time=9:30%20am&amp;day=Thursday&amp;associate=Barbara">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">VINI YOGA with Barbara</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;VINI YOGA with Barbara&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:00 - 11:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Helena</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking, 1st class free
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=63&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=10:00%20am&amp;day=Thursday&amp;associate=Helena">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Helena</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Helena&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:45 - 11:45
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">MOTHER &amp; BABY YOGA <i>with Barbara</i></span>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 per class, £48 for 6 weeks
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=47&amp;course=MOTHER%20&amp;%20BABY%20YOGA&amp;time=10:45%20am&amp;day=Thursday&amp;associate=Barbara">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">MOTHER &amp; BABY YOGA with Barbara</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;MOTHER &amp; BABY YOGA with Barbara&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                18:00 - 19:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=6:00%20pm&amp;day=Thursday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=7:00%20pm&amp;day=Thursday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Beginners/Intermediate <i>with Helena</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking, 1st class free
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=63&amp;course=PILATES%20(Beginners/Intermediate)&amp;time=7:00%20pm&amp;day=Thursday&amp;associate=Helena">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Beginners/Intermediate) with Helena</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Beginners/Intermediate) with Helena&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                19:00 - 20:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">YOGA BASICS</span><br>
+                                Beginners <i>with Barbara</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£48 for 6)
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=79&amp;course=YOGA%20BASICS%20(Beginners)&amp;time=7:00%20pm&amp;day=Thursday&amp;associate=Barbara">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">YOGA BASICS (Beginners) with Barbara</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;YOGA BASICS (Beginners) with Barbara&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=8:00%20pm&amp;day=Thursday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">VINI YOGA <i>with Barbara</i></span>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=77&amp;course=VINI%20YOGA&amp;time=8:00%20pm&amp;day=Thursday&amp;associate=Barbara">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">VINI YOGA with Barbara</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;VINI YOGA with Barbara&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                20:00 - 21:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">Tai Chi <i>with Catherine</i></span>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£8 per class<br>
+                                (introductory offer), 1st class free
+                            </div>
+                            <div class="classroom classborder">
+                                classroom
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=86&amp;course=Tai%20Chi&amp;time=8:00%20pm&amp;day=Thursday&amp;associate=Catherine">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">Tai Chi with Catherine</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;Tai Chi with Catherine&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label friday-bg"><img src="http://bagnallcentre.com/images/tt/friday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                09:30 - 10:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=61&amp;course=PILATES%20(Mixed%20Ability)&amp;time=9:30%20am&amp;day=Friday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                09:30 - 10:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">PILATES</span><br>
+                                Mixed Ability <i>with Heidi</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£12<br>
+                                (£10 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                gym
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=62&amp;course=PILATES%20(Mixed%20Ability)&amp;time=9:30%20am&amp;day=Friday&amp;associate=Heidi">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">PILATES (Mixed Ability) with Heidi</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;PILATES (Mixed Ability) with Heidi&lt;/span&gt; - &lt;/p&gt;</noscript>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:30 - 11:30
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">DYNAMIC VINYASA FLOW YOGA</span><br>
+                                Beginners <i>with Hazel</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10<br>
+                                (£8 block booking)
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Term time only
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=80&amp;course=DYNAMIC%20VINYASA%20FLOW%20YOGA%20(Beginners)&amp;time=10:30%20am&amp;day=Friday&amp;associate=Hazel">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">DYNAMIC VINYASA FLOW YOGA (Beginners) with Hazel</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;DYNAMIC VINYASA FLOW YOGA (Beginners) with Hazel&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                    <div class="day-wrapper">
+                        <div class="day-label saturday-bg"><img src="http://bagnallcentre.com/images/tt/saturday.svg" width="20px"></div>
+                        <div class="one-col-class classhover">
+                            <div class="classtime classborder">
+                                10:00 - 11:00
+                            </div>
+                            <div class="classtitle classborder">
+                                <span class="class-title">Pilates</span><br>
+                                Mixed ability <i>with Pali</i>
+                            </div>
+                            <div class="classprice classborder">
+                                &nbsp;£10 block booking
+                            </div>
+                            <div class="classroom classborder">
+                                studio
+                            </div>
+                            <div class="classterm classborder">
+                                Ongoing
+                            </div>
+                            <div class="classbooking classborder">
+                                <div class="small-button">
+                                    <a href="http://bagnallcentre.com/booking/?id=82&amp;course=Pilates%20(Mixed%20ability)&amp;time=10:00%20am&amp;day=Saturday&amp;associate=Pali">Book</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="productdescription">
+                            <p><span class="text-monday">Pilates (Mixed ability) with Pali</span> -</p>
+                        </div><noscript class="productdescription-show">&lt;p&gt;&lt;span class="text-monday"&gt;Pilates (Mixed ability) with Pali&lt;/span&gt; - &lt;/p&gt;</noscript>
+                    </div>
+                </div>
+                <div class="productsmobile">
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            9:00 am-12:00 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            10:00 am-11:00 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            6:45 pm-7:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>TRX SUSPENSION TRAINING (Mixed ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Pali
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £15 (£14 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre book</a>
+                            </div>
+                        </div>
+                        <p>TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.</p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £12 (£10 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Helena
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking, 1st class free
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Prebook</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            7:45 pm-8:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>BARRE (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Pali
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £12 (10 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> Studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre Book</a>
+                            </div>
+                        </div>
+                        <p>Barre with Pali- fuses the precision of Pilates with the technique and grace of ballet and conditioning exercises. The combined elements form an energetic and calorie burning workout that will lengthen, tone and sculpt the whole body whilst improving balance, strength, stamina and coordination</p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Helena
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking, 1st class free
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Monday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 per class
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            6:15 pm-7:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>YOGA (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Shiv
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £7 per class
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            6:30 pm-7:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>HATHA YOGA (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Halina
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £11 (£50 for 5 &amp; £90 for 10) <b>1st class free</b>
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            6:45 pm-7:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>Pilates (Mixed ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Pali
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            7:45 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>YIN YOGA &amp; MEDITATION (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Halina
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £11 (£50 for 5 &amp; £90 for 10) <b>1st class free</b>
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            7:45 pm-8:45 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>TRX SUSPENSION TRAINING (Mixed ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Pali
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £15 (£14 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre book</a>
+                            </div>
+                        </div>
+                        <p>TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.</p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Tuesday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Advanced level)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £12 (£10 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            9:30 am-10:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Georgia
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £66 for 6 weeks (pre book only)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            10:30 am-11:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Georgia
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £66 for 6 weeks (pre book only)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            11:15 am-12:15 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>FOREVER YOUNG (Beginners)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hannah
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £5 per class
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            6:00 pm-7:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block bookings)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £12 (£10 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Advanced)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Wednesday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 per class
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            9:30 am-10:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>VINI YOGA</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Barbara
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            10:00 am-11:00 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Helena
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking, 1st class free
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            10:45 am-11:45 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>MOTHER &amp; BABY YOGA</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Barbara
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 per class, £48 for 6 weeks
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            6:00 pm-7:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Beginners/Intermediate)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Helena
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking, 1st class free
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            7:00 pm-8:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>YOGA BASICS (Beginners)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Barbara
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£48 for 6)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>VINI YOGA</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Barbara
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Thursday
+                        </div>
+                        <div class="classtime">
+                            8:00 pm-9:00 pm<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>Tai Chi</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Catherine
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £8 per class (introductory offer), 1st class free
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> classroom
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Friday
+                        </div>
+                        <div class="classtime">
+                            9:30 am-10:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Friday
+                        </div>
+                        <div class="classtime">
+                            9:30 am-10:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>PILATES (Mixed Ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Heidi
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £12 (£10 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> gym
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Friday
+                        </div>
+                        <div class="classtime">
+                            10:30 am-11:30 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>DYNAMIC VINYASA FLOW YOGA (Beginners)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Hazel
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 (£8 block booking)
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Term time only
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/">Pre-book</a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                    <div class="one-col-class">
+                        <div class="classdate">
+                            Saturday
+                        </div>
+                        <div class="classtime">
+                            10:00 am-11:00 am<i aria-hidden="true" class="fa fa-arrow-down"></i>
+                        </div>
+                        <div class="classtitle">
+                            <b>Pilates (Mixed ability)</b>
+                        </div>
+                    </div>
+                    <div class="productdescription">
+                        <div class="classteacher">
+                            <b>Teacher:</b> Pali
+                        </div>
+                        <div class="classprice">
+                            <b>Price:</b> £10 block booking
+                        </div>
+                        <div class="classroom">
+                            <b>Room:</b> studio
+                        </div>
+                        <div class="classterm">
+                            <b>Term:</b> Ongoing
+                        </div>
+                        <div class="classbooking">
+                            <div class="button">
+                                <a href="http://bagnallcentre.com/bookings/"></a>
+                            </div>
+                        </div>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{ end }}

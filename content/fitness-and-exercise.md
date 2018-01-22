@@ -1,6 +1,7 @@
 ---
 title: "Fitness & Exercise"
 draft: false
+layout: "fitness-exercise"
 ---
 
 # Studio & Gym classes diary

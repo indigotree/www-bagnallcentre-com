@@ -2,6 +2,7 @@
 title: "Working with us"
 slug: "working-with-us/apply"
 draft: false
+layout: "apply"
 ---
 
 # Apply to be a Practitioner at The Bagnall Center
