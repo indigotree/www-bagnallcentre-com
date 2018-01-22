@@ -1,5 +1,6 @@
 ---
 title: "Working with us"
+slug: "working-with-us/apply"
 ---
 
 # Apply to be a Practitioner at The Bagnall Center

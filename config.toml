@@ -30,5 +30,4 @@ isPlainText = true
 notAlternative = true
 
 [taxonomies]
-therapy-and-wellbeing = "Therapy and wellbeing"
-nutrition-and-lifestyle = "Nutrition And Lifestyle"
+type = "types"

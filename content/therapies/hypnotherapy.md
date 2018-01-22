@@ -1,7 +1,7 @@
 ---
 title: "Hypnotherapy"
 description: "Hypnotherapy utilises hypnosis, a state of altered consciousness in which the therapist can help you to access the deeper levels of awareness."
-therapy-and-wellbeing: ["wellbeing"]
+types: ["wellbeing"]
 ---
 
 Hypnotherapy utilises hypnosis, a state of altered consciousness in which the therapist can help you to access the deeper levels of awareness, to which you are usually oblivious in your normal day-to-day functioning.

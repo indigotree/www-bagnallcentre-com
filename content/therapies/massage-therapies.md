@@ -1,7 +1,7 @@
 ---
 title: "Massage Therapies"
 description: "Massage therapy is the manual manipulation of soft body tissues (muscle, connective tissue, tendons and ligaments) to enhance a person's health and wellbeing."
-therapy-and-wellbeing: ["therapy"]
+types: ["therapy"]
 ---
 
 Massage therapy is the manual manipulation of soft body tissues (muscle, connective tissue, tendons and ligaments) to enhance a person's health and wellbeing. There are dozens of types of massage therapy methods (also called modalities).

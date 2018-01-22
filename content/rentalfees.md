@@ -1,5 +1,6 @@
 ---
 title: "Working with us"
+slug: "working-with-us/rentalfees"
 ---
 
 # Room Booking Times
