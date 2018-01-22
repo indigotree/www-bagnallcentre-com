@@ -12,7 +12,7 @@
 
                 {{ range first 1 (where .Site.Pages "Section" "news") }}
                     <h1>{{ .Title }}</h1>
-                    <h2>by {{ .Params.author }} on {{ partialCached "custom-date.html" . }}</h2>
+                    <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
                     <div class="orangeline"></div>
                     <div class="article-content">
                         {{ .Content }}
@@ -25,7 +25,7 @@
                     
                     <h2>Articles</h2>
                     {{ range where .Site.Pages "Section" "news" }}
-                        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ partialCached "custom-date.html" . (.Date.Format "1") }}</p>
+                        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ partialCached "custom-date.html" . (.Date.Format "2") }}</p>
                     {{ end }}
 
                 </div>
