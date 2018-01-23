@@ -1,0 +1,20 @@
+<div class="whatson">
+    <h2>What's on</h2>
+
+    {{ range where (.Site.RegularPages.ByParam "starts_at") ".Section" "whatson" }}
+
+        <div class="whatsoncontainerside">
+            <a href="{{ .Permalink }}">
+                <div class="calendarcontainer">
+                    <i class="fa fa-calendar" aria-hidden="true"></i>
+                </div>
+                <div class="three-quarter-col"> 
+                    <span class="mediumtext"><b>{{ .Title }}</b></span>
+                    <p>{{ dateFormat "2 January at 3:04pm" .Params.starts_at }}</p>
+                </div>
+            </a>
+        </div>
+
+    {{ end }}
+
+</div>
