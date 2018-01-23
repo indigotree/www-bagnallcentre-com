@@ -1,4 +1,4 @@
-{{ range where .Site.Pages.ByDate "Section" "whatson" }}
+{{ range (where .Site.Pages.ByDate "Section" "whatson").Reverse }}
 
     {{ partial "event.html" . }}
 
