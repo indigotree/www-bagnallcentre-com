@@ -14,4 +14,4 @@ The Bagnall Centre for Integrated Healthcare has a range of lifestyle activities
 * Perceptive Development
 * Qi Gong
 
-If you would like to know more about what's currently running at the Centre please contact us on [01494 791 288](01494791288)
+If you would like to know more about what's currently running at the Centre please contact us on [01494 791 288](tel:01494791288)
