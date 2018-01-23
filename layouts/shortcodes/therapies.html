@@ -7,7 +7,11 @@
 {{ range (where .Site.Pages "Section" "therapies") }}
     {{ if in .Params.categories ($.Scratch.Get "category") }}
 
-        {{ partial "accordion-item.html" . }}
+        {{ if eq ($.Scratch.Get "category") "nutrition" }}
+            {{ partial "accordion-item-green.html" . }}
+        {{ else }}
+            {{ partial "accordion-item.html" . }}
+        {{end}}
         
     {{ end }}
 {{ end }}
