@@ -1,6 +1,9 @@
 <div class="whatsoncontainer greybackgroundtwo">
     <a href="{{ .Permalink }}">
-        <div class="onefifth-col"><i class="fa fa-calendar" aria-hidden="true"></i>{{ .Date.Format "2 January at 3:04pm" }}</div>
+        <div class="onefifth-col">
+            <i class="fa fa-calendar" aria-hidden="true"></i>
+            {{ dateFormat "2 January at 3:04pm" .Params.starts_at }}
+        </div>
         <div class="thirtypercent-col"><b>{{ .Title }}</b></div>
         <div class="two-col">{{ .Description }}</div>
     </a>

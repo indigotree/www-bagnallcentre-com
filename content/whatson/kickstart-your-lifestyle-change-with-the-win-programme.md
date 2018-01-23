@@ -1,6 +1,7 @@
 ---
 title: "Kickstart your Lifestyle Change with The WIN Programme!"
-date: 2018-03-01T10:00:00Z
+starts_at: 2018-03-01T10:00:00Z
+draft: false
 description: "We are now recruiting for our WIN (Wellbeing is Natural) Programme."
 ---
 

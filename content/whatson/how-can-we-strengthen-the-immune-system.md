@@ -1,6 +1,7 @@
 ---
 title: "How can we strengthen the Immune System"
-date: 2018-02-19T10:00:00Z
+starts_at: 2018-02-19T10:00:00Z
+draft: false
 description: "Come to our Bagnall Centre Family Health and Wellbeing talk at 10am-12pm on Monday 19th February"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Tai Chi"
-date: 2018-02-08T20:00:00Z
+starts_at: 2018-02-08T20:00:00Z
+draft: false
 description: "Have you tried Tai Chi?"
 ---
 
@@ -12,7 +13,7 @@ Originally developed as a martial art in 13th-century China, tai chi is today pr
 
 Our brand new class is an opportunity to learn and experience the benefits of this ancient Chinese Martial Art, for health, relaxation, self defence and wellbeing.
 
-A soft internal art that develops internal strength while remaining soft and yielding with relaxation yet powerful with flowing movement, it is often referred to as “meditation in movement”.
+A soft internal art that develops internal strength while remaining soft and yielding with relaxation yet powerful with flowing movement, it is often referred to as "meditation in movement".
 
 Lessons include:
 
@@ -34,7 +35,7 @@ Benefits include:
 
 *Spaces are limited to 10 people and will be offered on a first come first served basis.*
 
-*To book a block please pay at the Bagnall Reception with either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com)*
+*To book a block please pay at the Bagnall Reception with either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing*[*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
 
 The Instructor
 

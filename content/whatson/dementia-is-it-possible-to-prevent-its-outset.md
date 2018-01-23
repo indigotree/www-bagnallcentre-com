@@ -1,12 +1,13 @@
 ---
-title: "Family Health and Wellbeing Talk"
-date: 2018-04-16T10:00:00Z
-description: "This talk is an opportunity to find out more about dementia, its causes and more."
+title: "Dementia - is it possible to prevent its outset?"
+starts_at: 2018-04-16T10:00:00Z
+draft: false
+description: "The Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 16th April will explore what dementia is, its causes and more."
 ---
 
 <span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
 
-Dementia - is it possible to prevent its outset? 
+This talk will look at:
 
 - What is dementia?
 - The diagnosis and stages of dementia;
@@ -23,8 +24,8 @@ The talks are open to our customers and complementary health professionals who w
 
 10 am-12pm Monday 16th April
 
-Price: £ 10 including refreshments (please book in advance to avoid disappointment!).
+Price: £10 including refreshments (please book in advance to avoid disappointment!).
 
-For the benefit of complementary health, CPD certificates if required.
+For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required.
 
 Call us on 01494 791 288 or email [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com) to book your place.
