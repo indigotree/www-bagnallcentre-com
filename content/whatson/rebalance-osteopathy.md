@@ -17,7 +17,7 @@ Do you:
 
 Then Osteopathy may be of help to you …
 
-**And now available up to 50% off -** [**download your voucher**](/link/to/voucher) **today!**
+**And now available up to 50% off -** [**download your voucher**](/uploads/voucher.pdf) **today!**
 
 - **New patient consultation: usually £60, NOW only £40!**
 - **Follow up consultation: usually £48, NOW only £38!**

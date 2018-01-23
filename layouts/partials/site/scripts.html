@@ -1,5 +1,12 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+
+<!-- <script src="./src/mc-validate.js" type="text/javascript"></script> 404! -->
+<script type="text/javascript">
+//(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
+</script>
+
 <script>
-// ---- Mobile Burger Menu
 function showMobNav() {
     var el = document.getElementById("hide_mob_nav");
     if ( el.style.display != "block") {
@@ -22,30 +29,29 @@ window.onscroll = function fixHeaderOnScroll() {
 </script>
 
 <script>
-// Drop down for classes on desktop
-  $(document).ready(function() {
-    $(".products .one-col-class").click(function() {
-      if($(this).next("div").is(":visible")){
-        $(this).next("div").slideUp("slow");
-      } else {
-        $(".products .productdescription").slideUp("slow");
-        $(this).next("div").slideToggle("slow");
-      }
+  ;(function ($, window, document, undefined) {
+    $(document).ready(function() {
+      $(".products .one-col-class").click(function() {
+        if($(this).next("div").is(":visible")){
+          $(this).next("div").slideUp("slow");
+        } else {
+          $(".products .productdescription").slideUp("slow");
+          $(this).next("div").slideToggle("slow");
+        }
+      });
     });
-  });
-</script>
-<script>
-// Drop down for classes on desktop
-  $(document).ready(function() {
-    $(".productsmobile .one-col-class").click(function() {
-      if($(this).next("div").is(":visible")){
-        $(this).next("div").slideUp("slow");
-      } else {
-        $(".productsmobile .productdescription").slideUp("slow");
-        $(this).next("div").slideToggle("slow");
-      }
+
+    $(document).ready(function() {
+      $(".productsmobile .one-col-class").click(function() {
+        if($(this).next("div").is(":visible")){
+          $(this).next("div").slideUp("slow");
+        } else {
+          $(".productsmobile .productdescription").slideUp("slow");
+          $(this).next("div").slideToggle("slow");
+        }
+      });
     });
-  });
+  })(jQuery, window, document)
 </script>
 <script>
 function showHide() {
@@ -59,3 +65,5 @@ function showHide() {
     }
 }
 </script>
+
+<script src="{{ "js/app.js" | absURL }}"></script>
