@@ -3,6 +3,7 @@ title: "Tai Chi"
 starts_at: 2018-02-08T20:00:00Z
 draft: false
 description: "Have you tried Tai Chi?"
+featured_image: "/uploads/tai-chi.jpg"
 ---
 
 ![Tai Chi](/uploads/tai-chi.jpg)

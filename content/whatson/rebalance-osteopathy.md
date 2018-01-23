@@ -3,6 +3,7 @@ title: "Rebalance Osteopathy"
 starts_at: 2018-02-28T09:00:00Z
 draft: false
 description: "Happy New Year from Rebalance Osteopathy at The Bagnall Centre - Special New Year 2018 Offer!"
+featured_image: "/uploads/rebalance.png"
 ---
 
 ![Rebalance Osteopathy Logo](/uploads/rebalance.png)

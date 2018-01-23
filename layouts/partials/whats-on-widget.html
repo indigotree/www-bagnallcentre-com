@@ -1,7 +1,7 @@
 <div class="whatson">
     <h2>What's on</h2>
 
-    {{ range where (.Site.RegularPages.ByParam "starts_at") ".Section" "whatson" }}
+    {{ range first 2 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whatson") }}
 
         <div class="whatsoncontainerside">
             <a href="{{ .Permalink }}">

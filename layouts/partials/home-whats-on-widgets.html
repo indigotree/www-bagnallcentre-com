@@ -1,0 +1,24 @@
+<div class="one-col-flex-home">
+
+    {{ range first 3 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whatson") }}
+
+        <div class="one-third-col-flex">
+            <a href="{{ .Permalink }}">
+            <div class="eventwrapper">
+                <div class="imageboxes">
+                    <img height="220px" src="{{ .Params.featured_image | absURL }}">
+                </div>
+                <div class="titleboxes">
+                    <span class="mediumtext">{{ .Title }}</span>
+                </div>
+            </div>
+            <div class="eventtext">
+                <span class="orangetext"><i aria-hidden="true" class="fa fa-calendar"></i><b>{{ dateFormat "2 January at 3:04pm" .Params.starts_at }}</b></span>
+                <p>{{ .Params.description }}<br>
+                <span class="orangetext">See more</span></p>
+            </div></a>
+        </div>
+
+    {{ end }}
+
+</div>

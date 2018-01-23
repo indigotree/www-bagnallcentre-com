@@ -3,6 +3,7 @@ title: "The Immune System - how can we strengthen it"
 starts_at: 2018-02-19T10:00:00Z
 draft: false
 description: "Come to our Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 19th February"
+featured_image: "/uploads/herbs.jpg"
 ---
 
 ![Herbs](/uploads/herbs.jpg)
