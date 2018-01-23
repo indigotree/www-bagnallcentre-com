@@ -36,6 +36,33 @@
 
             <div class="three-quarter-col colpadding-right">
                 {{ .Content }}
+
+                <form class="apply" action="email-process.php" method="POST">
+                    <div class="two-col"> 
+                        <label for="firstname">First Name:</label>
+                        <br>
+                        <input id="firstname" name="firstname" value="" placeholder="First name" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'First name'" type="text" required="">
+                    </div>
+                    <div class="two-col"> 
+                        <label for="surname">Surname:</label>
+                        <br>
+                        <input id="surname" name="surname" value="" placeholder="Surname" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Surname\'" type="text" required="">
+                    </div>
+                    <label for="email">Email Address:</label>
+                    <input id="email" name="email" value="" placeholder="your@email-address.co.uk" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'your@emailaddress.co.uk\'" type="email" required="">
+                    <br>
+                    <label for="phone">Phone Number:</label>
+                    <input id="phone" name="phone" value="" placeholder="Your contact number" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Please enter your contact number\'" type="text" required="">
+                    <br>
+                    <label for="occupation">Area of Expertise:</label>
+                    <input id="occupation" name="occupation" value="" placeholder="Your area of expertise" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Your area of expertise\'" type="text">
+                    <br>
+                    <label for="specialrequirements">Message:</label>
+                    <textarea id="specialrequirements" placeholder="Questions, Queries, or any additional information" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Questions, Queries, or any additional information\'" name="message"></textarea>
+                    
+                    <br>  
+                    <input type="submit" class="button" name="submit" value="Send booking request">
+                </form>
             </div>
 
             <div class="one-quarter-col">
