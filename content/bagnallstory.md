@@ -1,6 +1,7 @@
 ---
 title: "The bagnall story"
 draft: false
+layout: "bagnal-story"
 ---
 
 # The Bagnall Centre for Integrated Healthcare

@@ -5,15 +5,27 @@
                 <img src="{{ "images/site-brand.svg" | absURL }}" alt="{{ .Site.Title }}">
             </a>
         </div>
+
+
         <nav>
-            <div class="navon"><i class="fa fa-home primary" style="font-size:1.3em;"></i></div>
-            <div class="navoff"><a href="/fitness-and-exercise">Fitness &amp; Exercise</a></div>
-            <div class="navoff"><a href="/therapy-and-wellbeing">Therapy &amp; Wellbeing</a></div>
-            <div class="navoff"><a href="/nutrition-and-lifestyle">Nutrition &amp; Lifestyle</a></div>
-            <div class="navoff"><a href="/working-with-us">Working with us</a></div>
-            <div class="navoff"><a href="/contact-us">Contact Us</a></div>
+            {{ $currentPage := . }}
+            <a href="{{ .Site.BaseURL }}" >
+                <i class="fa fa-home primary navon" style="font-size:1.3em;"></i>
+            </a>
+            {{ range .Site.Menus.main }}
+                <div class="{{ if $currentPage.IsMenuCurrent "main" . }}navon{{ else }}navoff{{ end }}">
+                    <a href="{{ .URL }}">
+                        {{ .Name }}
+                    </a>
+                </div>
+            {{ end }}
             <a href="/#toggle" onclick="showHide()"><div class="navoff circle"><i class="fa fa-search"></i></div></a>
         </nav>
+
+
+
+
+
         <div id="burger-menu" onclick="showMobNav()">
             <div id="burger-layer-one"></div>
             <div id="burger-layer-two"></div>

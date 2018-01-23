@@ -1,22 +1,25 @@
 ---
 title: "Contact Us"
 draft: false
+layout: "contact"
+menu: "main"
 ---
-
-## Send us a message
-
-FORM TO GO HERE
-
-### Address
+{{< onethird >}}
+## Address
 
 71-79 Waterside
-Chesham
-HP5 1PE
 
-### Call Us
+Chesham
+
+HP5 1PE
+{{</ onethird >}}
+{{< onethird >}}
+## Call Us
 
 01494 791 288
-
-### Email
+{{</ onethird >}}
+{{< onethird >}}
+## Email
 
 [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com)
+{{</ onethird >}}

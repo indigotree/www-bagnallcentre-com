@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
+        <div class="herotext-pages"><span class="largetext">{{ .Title }}</span></div>
+    </div>
+
+    <div class="greybackground pebblesbackground">
+        <div class="page-container">
+            <div class="three-quarter-col colpadding-right">
+                {{ .Content }}
+            </div>
+
+            <!-- TODO(David): Replace With Partial -->
+            <div class="one-quarter-col">
+                <div class="whatson">
+                    <h2>What's on</h2>
+
+                    <div class="whatsoncontainerside">
+                        <a href="/whatson/event.php?id=31">
+                            <div class="calendarcontainer">
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </div>
+                            <div class="three-quarter-col"> 
+                                <span class="mediumtext"><b>Tai Chi</b></span>
+                                <p>8th February, 2018 8:00pm</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="whatsoncontainerside">
+                        <a href="http://bagnallcentre.com/whatson/event.php?id=14">
+                            <div class="calendarcontainer">
+                                <i class="fa fa-calendar" aria-hidden="true"></i>
+                            </div>
+                            <div class="three-quarter-col"> 
+                                <span class="mediumtext"><b>Kickstart your Lifestyle Change with The WIN Programme!</b></span>
+                                <p>1st March, 2018 10:00am</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- TODO(David): Replace With Partial -->
+                <div class="whatsonsignup">
+                    <a href="http://bagnallcentre.com/whatson" class="button">What's on at The Bagnall Centre</a>
+
+                    <div class="marginspace"></div>
+                    <span class="mediumtext"> <i class="fa fa-envelope-o" aria-hidden="true"></i>Join our mailing list</span>
+
+                    <form class="signupform" action="" method="POST">
+                        <input id="email" name="email" value="" placeholder="your@emailaddress.co.uk" onfocus="this.placeholder = ''" onblur="this.placeholder = 'your@emailaddress.co.uk'" type="email" required="">
+                        <input type="submit" name="submit" value="">
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+{{ end }}

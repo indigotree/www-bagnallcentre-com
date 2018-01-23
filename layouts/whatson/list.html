@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-whatson.jpg" | absURL }}" alt="building of the bagnall centre">
+        <div class="herotext-pages"><span class="largetext">What's on</span></div>
+    </div>
+
+    <div class="greybackground">
+        <div class="page-container">
+
+            {{ .Content }}
+            
+        </div>
+    </div>
+
+{{ end }}

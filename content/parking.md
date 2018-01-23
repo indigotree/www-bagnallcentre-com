@@ -2,6 +2,7 @@
 title: "Contact us"
 slug: "contact-us/parking"
 draft: false
+layout: "parking"
 ---
 
 # Convenient parking can be located at the following places:

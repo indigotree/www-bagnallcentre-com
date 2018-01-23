@@ -2,6 +2,9 @@
 title: "Fitness & Exercise"
 draft: false
 layout: "fitness-exercise"
+menu: 
+    main:
+        weight: 10
 ---
 
 # Studio & Gym classes diary

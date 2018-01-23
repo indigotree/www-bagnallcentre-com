@@ -1,0 +1,10 @@
+{{ if .Get "title" }}
+    <h2>{{ .Get "title" }}</h2>
+{{ end }}
+
+<div class="room-row">
+    {{ if .Get "image" }}
+        <img src="{{ .Get "image" | absURL }}" alt="{{ .Get "alt" }}" class="roomupgrades-right">
+    {{ end }}
+    <p>{{ .Inner | markdownify }}</p>
+</div>

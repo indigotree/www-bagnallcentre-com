@@ -1,0 +1,5 @@
+{{ range where .Site.Pages.ByDate "Section" "whatson" }}
+
+    {{ partial "event.html" . }}
+
+{{ end }}
