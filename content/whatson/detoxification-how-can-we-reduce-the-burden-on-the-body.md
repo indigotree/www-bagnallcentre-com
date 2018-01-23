@@ -5,7 +5,7 @@ draft: false
 description: "Come to our Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 5th March"
 ---
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Detoxification](/uploads/detox.jpg)
 
 This talk will look at:
 

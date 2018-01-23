@@ -5,7 +5,7 @@ draft: false
 description: "We are now recruiting for our WIN (Wellbeing is Natural) Programme."
 ---
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Woman on a beach](/uploads/woman.jpg)
 
 This 6 week intensive programme is aimed at those wishing to initiate a serious lifestyle change in order to address a range of health issues including diabetes, weight gain, stress and healthy eating. The objective is to start you on an integrated approach to a healthier sustainable lifestyle. The programme does this by offering a ‘package’ of sessions and workshops from our qualified Practitioners along with monitoring and support to help achieve your targets.
 

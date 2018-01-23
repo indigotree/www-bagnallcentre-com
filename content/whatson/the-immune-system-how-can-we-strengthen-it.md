@@ -5,7 +5,7 @@ draft: false
 description: "Come to our Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 19th February"
 ---
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Herbs](/uploads/herbs.jpg)
 
 This talk will look at:
 

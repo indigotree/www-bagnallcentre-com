@@ -5,7 +5,7 @@ draft: false
 description: "Have you tried Tai Chi?"
 ---
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Tai Chi](/uploads/tai-chi.jpg)
 
 Tai chi, also called tai chi chuan, combines deep breathing and relaxation with flowing movements.
 

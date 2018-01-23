@@ -5,7 +5,7 @@ draft: false
 description: "Happy New Year from Rebalance Osteopathy at The Bagnall Centre - Special New Year 2018 Offer!"
 ---
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Rebalance Osteopathy Logo](/uploads/rebalance.png)
 
 Do you:
 
