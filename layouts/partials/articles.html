@@ -1,0 +1,8 @@
+<div class="articles">
+                    
+    <h2>Articles</h2>
+    {{ range where .Site.Pages "Section" "news" }}
+        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ partialCached "custom-date.html" . (.Date.Format "2") }}</p>
+    {{ end }}
+
+</div>

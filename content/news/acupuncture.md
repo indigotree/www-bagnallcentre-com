@@ -9,7 +9,7 @@ Acupuncture originated over 5,000 years ago and is derived from ancient Chinese 
 
 Acupuncture involves penetrating the skin with very fine, sterile needles at specific points of the body with the therapeutic or preventative aim of adjusting the body’s ‘life energy’ (referred to as qi or chi and pronounced ‘chee’).
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Woman reciving acupuncture](/uploads/acupuncture.jpg)
 
 Qi is considered by the Chinese to be the body’s vital energy or life force. In India it is known as Prana and Japan, Ki. Many Eastern cultures understand and embrace this concept and particularly its important role in keeping the body healthy. Qi is thought to flow through the body’s meridians (energy pathways) and the Chinese have developed many exercises to cultivate and strengthen Qi such as Kung Fu, Tai Chi and Qi Gong.
 

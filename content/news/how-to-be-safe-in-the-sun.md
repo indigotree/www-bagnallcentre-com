@@ -9,7 +9,7 @@ author: "The Bagnall Centre"
 
 Summer is finally here and as we see (hopefully!) more sunshine in the UK or you might be planning a trip abroad, please remember **sensible sun safety** for all the family!
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Person on the beach](/uploads/safe-in-the-sun.jpg)
 
 Conventional advice often cites that any sun exposure is dangerous and recommends the regular application of sunscreen - if you do choose to use sunscreen then remember:
 

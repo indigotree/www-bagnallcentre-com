@@ -9,28 +9,26 @@
 
     <div class="greybackground">
         <div class="page-container">
-            <div class="three-quarter-col colpadding-right">
 
-                {{ range first 1 (where .Site.Pages "Section" "news") }}
-                    <h1>{{ .Title }}</h1>
-                    <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
-                    <div class="orangeline"></div>
-                    <div class="article-content">
-                        {{ .Content }}
-                    </div>
-                {{ end }}
-                
+            <div class="three-quarter-col colpadding-right">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
             </div>
+            
             <div class="one-quarter-col">
-                
+
                 {{ partial "articles" . }}
 
                 {{ partial "whats-on-widget" . }}
-
+            
                 {{ partial "mailing-list" . }}
 
             </div>
-        </div>
-    </div>
 
-{{ end }}                
+
+        </div>
+
+    </div>
+</div>
+
+{{ end }}

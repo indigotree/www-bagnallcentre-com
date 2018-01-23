@@ -9,7 +9,7 @@ Without doubt, mobile phones have entirely revolutionised the way we communicate
 
 Increasing numbers of employees are now working outside their normal working hours, partly due to an increase in remote working but also because of a pressure to be available 24/7, which modern technology enables. Many people suffer from this pressure to be constantly connected to work and are expected to respond swiftly to email requests, albeit in the evening or at the weekend. This can have a detrimental effect on quality of home and family life and increase stress which in turn can have health repercussions.
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Person sitting at a desk](/uploads/time-for-a-detox.jpg)
 
 Using technology late at night can impact your sleep too. The blue wavelength light from LED-based devices (such as your phone, tablet or computer) has been found to increase the release of cortisol, a hormone that keeps you alert, meaning we are kept alert when we least need to be and also inhibiting the production of melatonin, which we need to fall asleep. Plus the bombardment of wifi pollution through sleeping near your phone, or in a home with wifi interferes with your ability to fall asleep and your sleep patterns. 
 

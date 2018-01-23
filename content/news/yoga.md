@@ -7,7 +7,7 @@ author: "The Bagnall Centre"
 
 Yoga is a physical and mental practice that originated in ancient India around 5,000 years ago and is widely practiced throughout the world today as an accessible, popular and effective method of boosting physical and mental wellbeing.
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
+![Woman doing Yoga](/uploads/yoga.jpg)
 
 There are typically three main elements or techniques in the most popular different forms of yoga; exercise (asana or postures), breathing (pranayama) and meditation.
 
