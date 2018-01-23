@@ -9,9 +9,11 @@
 
         <nav>
             {{ $currentPage := . }}
-            <a href="{{ .Site.BaseURL }}" >
-                <i class="fa fa-home primary navon" style="font-size:1.3em;"></i>
-            </a>
+            <div class="{{ if .IsHome }}navon{{ else }}navoff{{ end }}">
+                <a href="{{ .Site.BaseURL }}" >
+                    <i class="fa fa-home primary navon" style="font-size:1.3em;"></i>
+                </a>
+            </div>
             {{ range .Site.Menus.main }}
                 <div class="{{ if $currentPage.IsMenuCurrent "main" . }}navon{{ else }}navoff{{ end }}">
                     <a href="{{ .URL }}">
@@ -21,10 +23,6 @@
             {{ end }}
             <a href="/#toggle" onclick="showHide()"><div class="navoff circle"><i class="fa fa-search"></i></div></a>
         </nav>
-
-
-
-
 
         <div id="burger-menu" onclick="showMobNav()">
             <div id="burger-layer-one"></div>

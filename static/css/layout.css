@@ -176,20 +176,23 @@ nav a {
     }
 
 .navon {
-    color: #FE7600;
     display: inline-block;
     padding: 0 1%;
 }
 
-.navon:nth-child(2) {
+.navon > a {
+    color: #FE7600;
+}
+
+.navon:nth-child(2) > a {
     color: rgba(209, 5, 0, 0.90);
 }
 
-.navon:nth-child(3) {
+.navon:nth-child(3) > a {
     color:rgba(63, 20, 201, 0.90);
 }
 
-.navon:nth-child(4) {
+.navon:nth-child(4) > a {
     color:rgba(19, 189, 29, 0.90);
 }
 
