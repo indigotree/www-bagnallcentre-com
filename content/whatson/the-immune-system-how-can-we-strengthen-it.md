@@ -1,8 +1,8 @@
 ---
-title: "How can we strengthen the Immune System"
+title: "The Immune System - how can we strengthen it"
 starts_at: 2018-02-19T10:00:00Z
 draft: false
-description: "Come to our Bagnall Centre Family Health and Wellbeing talk at 10am-12pm on Monday 19th February"
+description: "Come to our Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 19th February"
 ---
 
 <span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
@@ -28,4 +28,4 @@ Price: £10 including refreshments (please book in advance to avoid disappointme
  
 For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required.
  
-Call us on 01494 791 288 or email bookings@bagnallcentre.com to book your place. 
+Call us on 01494 791 288 or email bookings@bagnallcentre.com to book your place.

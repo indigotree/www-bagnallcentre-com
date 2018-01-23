@@ -15,11 +15,11 @@ Our brand new class is an opportunity to learn and experience the benefits of th
 
 A soft internal art that develops internal strength while remaining soft and yielding with relaxation yet powerful with flowing movement, it is often referred to as "meditation in movement".
 
-Lessons include:
+**Lessons include:**
 
 Wudang style Hand Form, learn to understand the movements and how self defence techniques relate to the form, body alignment, postures, stance and technique, gentle Tui Shou partner exercises including silk reeling, single push hands, four directions, yielding exercises, developing harmony of movement with breath for health & well being.
 
-Benefits include:  
+**Benefits include:**
 
 - releases tension,
 - develops flexibility and core stability,
@@ -35,9 +35,9 @@ Benefits include:
 
 *Spaces are limited to 10 people and will be offered on a first come first served basis.*
 
-*To book a block please pay at the Bagnall Reception with either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing*[*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
+*To book a block please pay at the Bagnall Reception with either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing* [*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
 
-The Instructor
+**The Instructor**
 
 Catherine has trained in Tai Chi Chuan for seventeen years with experience in Yang Style and in more recent years Wudang Practical Tai Chi Chuan.
 
