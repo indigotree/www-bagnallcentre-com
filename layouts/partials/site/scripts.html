@@ -8,27 +8,7 @@
 </script>
 
 <script>
-function showMobNav() {
-    var el = document.getElementById("hide_mob_nav");
 
-    el.style.display = el.style.display != "block" ? "block" : "none";
-}
-
-window.onscroll = function fixHeaderOnScroll() {
-    var header = document.getElementById("headercontainer");
-
-    header.boxShadow = document.body.scrollTop > 100 ? "0 1px 3px rgba(0, 0, 0, 0.15)" : "none";
-}
-
-function showHide() {
-    var x = document.getElementById("show");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-        $("#show").fadeIn(5000);
-    } else {
-        x.style.display = "none";
-    }
-}
 </script>
 
 <script src="{{ "js/app.js" | absURL }}"></script>

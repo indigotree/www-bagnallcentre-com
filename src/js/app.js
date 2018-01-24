@@ -33,19 +33,61 @@
 
     }
 
+    /**
+     * Add Box shadow to header when scroll past 100
+     * 
+     * @param {Object} event
+     * @returns {void}
+     */
+    function addBoxShadow(event) {
+        $("#headercontainer").css({
+            boxShadow: window.scrollY > 100 ? "0 1px 3px rgba(0, 0, 0, 0.15)" : "none"
+        })
+    }
+
+    /**
+     * Toggle collapsable element
+     * 
+     * @param {Object} event 
+     */
+    function toggleCollapse(event) {
+        var id = $(this).data('toggle')
+        var $element = $(id)
+
+        if (!$element.length) {
+            console.error(id + ' Not found cannot toggle');
+            return false;
+        }
+
+        $element.toggle(0);
+
+        return false;
+    }
+
+    /**
+     * Toggle an accordion item
+     * 
+     * @param {Object} event 
+     */
+    function toggleAccordion(event) {
+        var $content = $(this).next("div")
+        if ($content.is(":visible")) {
+            $content.slideUp("slow");
+        } else {
+            $(this).parent().find('.productdescription').slideUp("slow");
+            $content.slideToggle("slow");
+        }
+        return false;
+    }
+
     $(function () {
 
         handleFormInjection();
+        addBoxShadow();
 
-        $(".products .one-col-class, .productsmobile .one-col-class").click(function() {
-            var $content = $(this).next("div")
-            if ($content.is(":visible")) {
-                $content.slideUp("slow");
-            } else {
-                $(this).parent().find('.productdescription').slideUp("slow");
-                $content.slideToggle("slow");
-            }
-        });
+        $('[data-toggle]').on('click', toggleCollapse);
+        $(".products .one-col-class, .productsmobile .one-col-class").on('click', toggleAccordion);
+        $(window).on('scroll', addBoxShadow);
 
     });
 
