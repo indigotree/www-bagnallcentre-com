@@ -12,6 +12,11 @@
             <link href="{{ .RSSLink }}" title="{{ .Site.Title }}" type="application/rss+xml" rel="alternate">
         {{ end }}
 
+        <meta name="theme-color" content="#fe7600">
+
+        <link rel="manifest" href="{{ "manifest.json" | absURL }}">
+        <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
+
         {{ block "site/styles" . }}{{ partial "site/styles.html" . }}{{ end }}
 
     </head>
