@@ -82,9 +82,13 @@
 
     $(function () {
 
+        // Init
+        //
         handleFormInjection();
         addBoxShadow();
 
+        // Events
+        //
         $('[data-toggle]').on('click', toggleCollapse);
         $(".products .one-col-class, .productsmobile .one-col-class").on('click', toggleAccordion);
         $(window).on('scroll', addBoxShadow);
