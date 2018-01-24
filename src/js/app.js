@@ -37,6 +37,16 @@
 
         handleFormInjection();
 
+        $(".products .one-col-class, .productsmobile .one-col-class").click(function() {
+            var $content = $(this).next("div")
+            if ($content.is(":visible")) {
+                $content.slideUp("slow");
+            } else {
+                $(this).parent().find('.productdescription').slideUp("slow");
+                $content.slideToggle("slow");
+            }
+        });
+
     });
 
 })(jQuery, window, document);
