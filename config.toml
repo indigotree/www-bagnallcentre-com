@@ -6,9 +6,17 @@ disableKinds = ["RSS"]
 enableRobotsTXT = true
 disableAliases = true
 
+[mediaTypes]
+    [mediaTypes."application/prs.factopolis-algolia"]
+    suffix = "algolia.json"
+
+[outputFormats.Algolia]
+    mediaType = "application/prs.factopolis-algolia"
+    isPlainText = true
+
 # add redirects/headers
 [outputs]
-home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
+home = ["HTML", "RSS", "REDIRECTS", "HEADERS", "Algolia"]
 
 # remove .{ext} from text/netlify
 [mediaTypes."text/netlify"]

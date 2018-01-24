@@ -1,0 +1,16 @@
+{
+    "requests": [
+        {{ range $idx, $page := .Site.RegularPages }}
+            {{ if $idx }},{{ end }}
+            {
+                "action": "updateObject",
+                "body": {
+                    "title": {{ $page.Title | jsonify }},
+                    "content": {{ $page.Summary | jsonify }},
+                    "url": {{ $page.Permalink | jsonify }},
+                    "objectID": {{ $page.UniqueID | jsonify }}
+                }
+            }
+        {{ end }}
+    ]
+}

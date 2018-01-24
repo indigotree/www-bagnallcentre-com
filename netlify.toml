@@ -1,5 +1,5 @@
 [build]
-    command = "npm run build"
+    command = "npm run build && algolia-push.sh"
     publish = "public"
 
 [build.environment]
@@ -11,3 +11,5 @@
 
 [context.deploy-preview]
     command = "npm run build:preview"
+
+    
