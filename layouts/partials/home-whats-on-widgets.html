@@ -6,7 +6,8 @@
             <a href="{{ .Permalink }}">
             <div class="eventwrapper">
                 <div class="imageboxes">
-                    <img height="220px" src="{{ .Params.featured_image | absURL }}" alt />
+                    {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                    {{ partial "image.html" ( dict "Src" .Params.featured_image "Crop" "510x250" "Alt" $alt "Scope" . ) }}
                 </div>
                 <div class="titleboxes">
                     <span class="mediumtext">{{ .Title }}</span>
