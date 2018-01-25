@@ -1,13 +1,26 @@
 {
     "requests": [
-        {{ range $idx, $page := .Site.RegularPages }}
+        {{ range $idx, $page := .Site.RegularPages }} 
             {{ if $idx }},{{ end }}
             {
                 "action": "updateObject",
                 "body": {
                     "title": {{ $page.Title | jsonify }},
                     "content": {{ $page.Summary | jsonify }},
+                    {{ if eq $page.Section "therapies" }}
+
+                    {{ if in $page.Params.categories "therapy" }}
+                    "url": {{ (delimit (slice "/therapy-and-wellbeing/#" $page.UniqueID) "") | jsonify }},
+                    {{ else if in $page.Params.categories "wellbeing" }}
+                    "url": {{ (delimit (slice "/therapy-and-wellbeing/wellbeing/#" $page.UniqueID) "") | jsonify }},
+                    {{ else }}
+                    "url": {{ (delimit (slice "/nutrition-and-lifestyle/#" $page.UniqueID) "") | jsonify }},
+                    {{ end }}
+
+
+                    {{ else }}
                     "url": {{ $page.Permalink | jsonify }},
+                    {{end}}
                     "objectID": {{ $page.UniqueID | jsonify }}
                 }
             }

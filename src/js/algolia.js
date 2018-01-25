@@ -53,7 +53,7 @@
                     empty: '<h2>No results</h2>',
                     item:
                         '<div class="result-row">' + 
-                            '<a href="/{{ url }}">' +
+                            '<a href="{{ url }}">' +
                                 '<h2>{{ title }}</h2>' +
                                 '<p>{{ content }}</p>' + 
                             '</a>' +
