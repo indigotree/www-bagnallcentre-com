@@ -1026,7 +1026,6 @@ a .secondarynavoff:hover, a .secondarynavofftwo:hover, a .secondarynavoffthree:h
 
 .products {
     display: table;
-    float: left;
     font-size:1em;
     width: 100%;
 }
