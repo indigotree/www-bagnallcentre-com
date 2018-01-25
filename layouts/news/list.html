@@ -11,7 +11,7 @@
         <div class="page-container">
             <div class="three-quarter-col colpadding-right">
 
-                {{ range first 1 (where .Site.Pages "Section" "news") }}
+                {{ range first 1 (where .Site.RegularPages "Section" "news") }}
                     <h1>{{ .Title }}</h1>
                     <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
                     <div class="orangeline"></div>
