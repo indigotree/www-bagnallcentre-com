@@ -92,6 +92,11 @@
         $('[data-toggle]').on('click', toggleCollapse);
         $(".products .one-col-class, .productsmobile .one-col-class").on('click', toggleAccordion);
         $(window).on('scroll', addBoxShadow);
+        if (window.location.pathname === '/search/') {
+            $('#search-button-toggle').on('click', function () {
+                $('#search-query').focus();
+            })
+        }
 
     });
 

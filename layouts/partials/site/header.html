@@ -21,7 +21,7 @@
                     </a>
                 </div>
             {{ end }}
-            <button href="/#toggle" class="button--reset" data-toggle="#show"><div class="navoff circle"><i class="fa fa-search"></i></div></button>
+            <button href="/#toggle" id="search-button-toggle" class="button--reset" data-toggle="#show"><div class="navoff circle"><i class="fa fa-search"></i></div></button>
         </nav>
 
         <div id="burger-menu" data-toggle="#hide_mob_nav">
@@ -30,14 +30,16 @@
             <div id="burger-layer-three"></div>
         </div>
     </header>
-    <div id="show" style="padding:30px;box-sizing:border-box;z-index:100;text-align:right;color:white;height:200px;width:100%;background-color:rgba(0,0,0,0.7);top:100%;position:absolute;display:none;">
+    {{ if not .Params.is_search }}
+        <div id="show" style="padding:30px;box-sizing:border-box;z-index:100;text-align:right;color:white;height:200px;width:100%;background-color:rgba(0,0,0,0.7);top:100%;position:absolute;display:none;">
 
-        <form>
-            <span class="largetext bold">SEARCH</span><br>
-            <input type="text" class="search-input" id="search-query" type="text" placeholder="Search" />
-            
-        </form>
+            <form action="/search/" method="GET">
+                <span class="largetext bold">SEARCH</span><br>
+                <input class="search-input" type="text" name="s" placeholder="Search">
+                <button class="search-button"><i class="fa fa-search"></i></button>
+            </form>
 
-    </div>
+        </div>
+    {{ end }}
 
 </div>
