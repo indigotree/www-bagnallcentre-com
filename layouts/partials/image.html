@@ -1,0 +1,14 @@
+{{ $image_src := .Src }}
+{{ $crop := .Crop }}
+{{ $alt := .Alt | default "" }}
+
+{{ range where .Scope.Site.Pages "Section" "uploads" }}
+
+    {{ $src := (strings.TrimPrefix "/uploads/" $image_src) }}
+    {{ $image := .Resources.GetMatch $src }}
+    {{ $size := delimit (slice $image.Width $image.Height) "x" }}
+
+    {{ $cropped := $image.Fill ($crop | default (printf "%s" $size)) }}
+    <img src="{{ $cropped.RelPermalink }}" width="{{ $cropped.Width }}" height="{{ $cropped.Height }}" alt="{{ $alt }}" />
+
+{{ end }}
