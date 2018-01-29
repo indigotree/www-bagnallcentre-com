@@ -21,7 +21,7 @@
     function handleFormInjection () {
         var textarea = $('textarea#message');
 
-        if (!textarea.length && !window.location.search.length) {
+        if (!textarea.length || !window.location.search.length) {
             return;
         }
 
