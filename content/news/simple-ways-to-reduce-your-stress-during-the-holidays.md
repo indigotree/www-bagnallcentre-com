@@ -11,7 +11,7 @@ But there are some easy and natural ways for you to relax the pace during this h
 
 Here are our 7 top tips which are natural, simple and can also benefit you in the long run, but for this season of stress, they are even more important.
 
-1. **Tap into the anxiety-relieving properties of herbs**
+**1) Tap into the anxiety-relieving properties of herbs**
 
 Aromatherapy is well known as a natural way to reduce anxiety, but many people don't realise that you can easily reap its benefits with just a small dab of an essential oil. Studies have shown that scents can affect our neural pathways via our olfactory sensors, which can improve feelings of wellbeing, reduce anxiety, and relax the nervous system.
 
@@ -21,7 +21,7 @@ Unlike pharmaceutical anti-anxiety treatments, essential oils have no negative s
 
 Have a look [here](https://www.aromaweb.com/essentialoils/emotional.asp) for a full list of which essential oils can help with different aspects emotional wellbeing.
 
-2. **Feet up, kettle on.**
+**2) Feet up, kettle on.**
 
 Another way to take advantage of the amazing relaxing properties of herbs is with a herbal tea. During the manic holiday season, you may want to switch out your blood-pressure raising cup of coffee for a calming and beneficial brew of natural herbs.
 
@@ -31,7 +31,7 @@ If you still feel like you need your caffeine hit, however, you could try switch
 
 For a list of anti-anxiety herbs which can be used for tea, and their properties, and a simple herbal tea recipe, take a look at Living Herbal Tea [here](http://www.livingherbaltea.com/herbal-tea-for-anxiety/).
 
-3. **Spend time outside**
+**3) Spend time outside**
 
 Getting outside and into the sunshine can benefit everyone all year round, but especially at this time of year, when exposure to sunlight and fresh air is reduced for most people.
 
@@ -41,11 +41,11 @@ Making time to be outside and connect with nature can bring lots of positive hea
 
 Breathing in fresh air and putting some space between yourself and the tangle of last year’s tinsel can calm your nerves and allow you to boost your energy levels naturally, and feel rejuvenated and re-energised.
 
-4. **Exercise**
+**4) Exercise**
 
 Just going for a walk will boost your circulation and get your blood flowing. Regular exercise can reduce your risk of major illness and developing chronic conditions as well as lowering your risk of early death by up to 30%. Physical exercise can also boost your mood and energy. The NHS calls exercise a miracle cure (read more about why [here](https://www.nhs.uk/Livewell/fitness/Pages/whybeactive.aspx)) so try to find time to fit exercise into your everyday and your body will thank you!
 
-5. **Plan, Delegate and Designate**
+**5) Plan, Delegate and Designate**
 
 It’s not up to you to single-handedly make everyone else’s Christmas merry. You deserve to enjoy your Christmas just as much as anyone else!
 
@@ -57,11 +57,11 @@ Visualising what needs to be done and mapping out days in advance can really hel
 
 Remember that being overloaded can reduce the amount of things which you manage to get done effectively anyway, as work overload can lead to reduction in concentration levels and cognitive function, irritability, and physical aches and pains. It is better to ask for help before you get to breaking point!
 
-6. **Schedule meditation time**
+**6) Schedule meditation time**
 
 With looming school holidays and time off work it is very easy and common for routines to slide. Try to set away a few minutes of each day for yourself. You may like to meditate or you may find that just allowing yourself a few minutes each day to just be mindful and aware of yourself and the present moment can help you feel more resilient and capable.
 
-7. **Combat stress with food**
+**7) Combat stress with food**
 
 A lot of research has shown that a diet rich in certain nutrients can go a long way to reduce levels of anxiety, as well as stabilising blood sugar and mood.
 
