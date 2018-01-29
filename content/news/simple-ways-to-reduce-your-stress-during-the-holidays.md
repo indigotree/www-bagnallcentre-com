@@ -43,7 +43,7 @@ Breathing in fresh air and putting some space between yourself and the tangle of
 
 4. **Exercise**
 
-Just going for a walk will boost your circulation and get your blood flowing. Regular exercise can reduce your risk of major illness and developing chronic conditions as well as lowering your risk of early death by up to 30%. Physical exercise can also boost your mood and energy. The NHS calls exercise a miracle cure (read more about why here) so try to find time to fit exercise into your everyday and your body will thank you!
+Just going for a walk will boost your circulation and get your blood flowing. Regular exercise can reduce your risk of major illness and developing chronic conditions as well as lowering your risk of early death by up to 30%. Physical exercise can also boost your mood and energy. The NHS calls exercise a miracle cure (read more about why [here](https://www.nhs.uk/Livewell/fitness/Pages/whybeactive.aspx)) so try to find time to fit exercise into your everyday and your body will thank you!
 
 5. **Plan, Delegate and Designate**
 

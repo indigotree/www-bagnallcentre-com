@@ -16,10 +16,10 @@ This talk will look at:
 - Is there a genetic link?
 - The role of insulin sensitivity;
 - Medical management and therapeutic considerations;
-- Concerns over aluminum;
+- Concerns over aluminium;
 - Supplements, herbs and physical & mental exercises that may delay onset.
 
-Respected wellbeing expert Brian Isbell, an experienced natural health practitioner and educator, is holding regular Bagnall Family Health Center and Wellbeing talks on Monday mornings.
+Respected wellbeing expert Brian Isbell, an experienced natural health practitioner and educator, is holding regular Bagnall Family Health Centre and Wellbeing talks on Monday mornings.
 
 The talks are open to our customers and complementary health professionals who wish to broaden and deepen their knowledge of self-care and integrated healthcare. These talks will help you and your family understand and implement simple and effective health and wellbeing practices.
 

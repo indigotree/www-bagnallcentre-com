@@ -25,8 +25,6 @@ Then Osteopathy may be of help to you …
 
 *These special fees only apply to appointment bookings for Tuesdays or Fridays at The Bagnall Centre throughout January and February 2018. Bookings for other days are charged at normal rate.*
 
-<span style="color: red; font-weight: bold">ADD IMAGE HERE</span>
-
 We look forward to working with you in 2018.
 
 **Michael O’Driscoll.** BOst(Hons), BSc(Hons).

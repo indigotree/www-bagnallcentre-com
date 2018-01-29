@@ -5,8 +5,6 @@ draft: false
 author: "The Bagnall Centre"
 ---
 
-What can YOU do about chronic disease?
-by The Bagnall Centre on October 2nd 2017
 There are more and more studies about the link between long-term systemic inflammation and chronic diseases, such as diabetes, heart disease and cancer - and if you live with one of these, then you’ve probably heard about the importance of reducing inflammation many times.
 
 If you are health conscious then you have no doubt come across many articles and news items about how we should eat less refined foods and more fresh produce, try to take a bit more exercise, and maybe even test out the odd early morning meditation…and perhaps you are fed up of reading this in every article currently trending - so we thought we’d mix it up a bit.
