@@ -1,0 +1,36 @@
+<div class="products">
+
+    <!-- HEADER -->
+    <div class="one-col-class-header">
+        <div class="classdate classborder">
+            Day
+        </div>
+        <div class="classtime classborder">
+            Time
+        </div>
+        <div class="classtitle classborder">
+            Class
+        </div>
+        <div class="classprice classborder">
+            Price
+        </div>
+        <div class="classroom classborder">
+            Room
+        </div>
+        <div class="classterm classborder">
+            Term
+        </div>
+        <div class="classbooking classborder">
+            Booking
+        </div>
+    </div>
+    <!-- END HEADER -->
+
+    {{ $scope := . }}
+    {{ range (slice "monday" "tuesday" "wednesday" "thursday" "friday" "saturday") }}
+
+        {{ partial "day" (dict "Scope" $scope "day" .) }}
+
+    {{ end }}
+
+</div>

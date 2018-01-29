@@ -1,0 +1,40 @@
+{{ $day := .day }}
+<div class="day-wrapper">
+    <div class="day-label {{ $day }}-bg"><img src="/images/{{ $day }}.svg" width="20px"></div>
+    
+    {{ range (where (.Scope.Site.RegularPages.ByParam "start_time") "Section" "fitness-and-exercise") }}
+        {{ if eq .Params.event_day $day }}
+
+            <div class="one-col-class classhover">
+                <div class="classtime classborder">
+                    {{ dateFormat "15:04" .Params.start_time }} - {{ dateFormat "15:04" .Params.end_time }}
+                </div>
+                <div class="classtitle classborder">
+                    <span class="class-title">{{ .Title }}</span><br>
+                    {{ .Params.level }} <i>with {{ .Params.associate }}</i>
+                </div>
+                <div class="classprice classborder">
+                    {{ .Params.price }}
+                </div>
+                <div class="classroom classborder">
+                    {{ .Params.room }}
+                </div>
+                <div class="classterm classborder">
+                    {{ .Params.term }}
+                </div>
+                <div class="classbooking classborder">
+                    <div class="small-button">
+                        <a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ .Params.event_day }}&associate={{ .Params.associate }}">Book</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="productdescription">
+                <p><span class="text-monday">{{ .Title }} ({{ .Params.level }}) with {{ .Params.associate }}</span></p>
+                {{ .Content }}
+            </div>
+
+        {{ end }}
+    {{ end }}
+
+</div>
