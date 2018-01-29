@@ -1,5 +1,5 @@
 ---
-title: "5 Posture Yoga Practice to Help You sleep"
+title: "5 posture Yoga practice to help you sleep"
 date: 2017-08-01T00:00:00Z
 draft: false
 author: "Barbara Dancer, Yoga Teacher, CNHC Registered Yoga Therapist"
@@ -29,5 +29,7 @@ Now get into bed and find your most comfortable position for sleeping. Be aware 
 This should take you into sleep. Some people naturally take a bit more time to drop off, so use breathing for a little while longer and reflect, with kindness to yourself, on the positive aspects of your day.
 
 Barbara runs regular yoga classes at The Bagnall Centre, be in touch to find out more.
+
+By Barbara Dancer, Yoga Teacher, CNHC Registered Yoga Therapist.
 
 [Barbara Dancer YOGA](http://www.barbaradanceryoga.co.uk/)

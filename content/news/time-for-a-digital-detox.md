@@ -25,9 +25,9 @@ We cannot block our exposure to the modern bombardment of electromagnetic radiat
 
 * Do not keep your phone or tablet close to your body.
 * Only use your phone when necessary, and keep calls short.
-* Hold your phone away from your body after dialling and until the call has connected. The same for texts, keep the phone away from you until the text has been * sent. This is because your phone communicates at full power when it is connecting to a number.
+* Hold your phone away from your body after dialling and until the call has connected. The same for texts, keep the phone away from you until the text has been sent. This is because your phone communicates at full power when it is connecting to a number.
 * Using a mobile phone in a car or train traps the fields inside the vehicle’s metal frame, so avoid using your mobile in the car unless it’s really an emergency.
-* Switch your phone off when you carry it around. Even on standby, your phone is contacting the nearest mast whenever you move into a different masts coverage, * and even when you’re not moving it still checks in regularly.
+* Switch your phone off when you carry it around. Even on standby, your phone is contacting the nearest mast whenever you move into a different masts coverage, and even when you’re not moving it still checks in regularly.
 * Switch off your wireless router too if you aren’t using it.
 * Use an old-fashioned (!) analogue alarm clock and don’t sleep with your phone (or tablet or computer) in the bedroom.
 

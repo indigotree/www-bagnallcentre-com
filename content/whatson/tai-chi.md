@@ -18,7 +18,7 @@ A soft internal art that develops internal strength while remaining soft and yie
 
 **Lessons include:**
 
-Wudang style Hand Form, learn to understand the movements and how self defence techniques relate to the form, body alignment, postures, stance and technique, gentle Tui Shou partner exercises including silk reeling, single push hands, four directions, yielding exercises, developing harmony of movement with breath for health & well being.
+Wudang style Hand Form, learn to understand the movements and how self defence techniques relate to the form, body alignment, postures, stance and technique, gentle Tui Shou partner exercises including silk reeling, single push hands, four directions, yielding exercises, developing harmony of movement with breath for health & wellbeing.
 
 **Benefits include:**
 
@@ -32,11 +32,11 @@ Wudang style Hand Form, learn to understand the movements and how self defence t
 - stimulates central nervous system,
 - strengthens muscles, tendons & joints.
 
-*A block of 8 sessions will start on the 8th February at the introductory price of £64 for an 8-week block. Thereafter the price for an 8-week block booking will be £80. *
+A block of 8 sessions will start on the 8th February at the introductory price of £64 for an 8-week block. Thereafter the price for an 8-week block booking will be £80.
 
 *Spaces are limited to 10 people and will be offered on a first come first served basis.*
 
-*To book a block please pay at the Bagnall Reception with either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing* [*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
+*To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing* [*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
 
 **The Instructor**
 

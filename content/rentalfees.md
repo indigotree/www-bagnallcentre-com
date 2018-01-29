@@ -25,7 +25,7 @@ This booking provides sufficient time for practitioners who choose to offer a 'c
 
 ## Rental Fees
 
-If you would like to start your healthcare practice at the Bagnall Centre please contact us on - 01494 791288 or [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com) We look forward to hearing from you!
+If you would like to start your healthcare practice at the Bagnall Centre please contact us on 01494 791288 or [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com) We look forward to hearing from you!
 
 |                                                               | Ad hoc max 2 hour blocks | Flexi booking 3 hours | Fixed Block booking min 4 hours | Half Day (4 hours) | Full Day (8 hours) |
 |---------------------------------------------------------------|--------------------------|-----------------------|---------------------------------|--------------------|--------------------|
