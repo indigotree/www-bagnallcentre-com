@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+    <div class="hero-pages">
+        <img src="{{ "uploads/header-fitness.jpg" | absURL }}" alt="Fitness and Exercise">
+        <div class="redherotext"><span class="largetext">{{ .Title }}</span></div>
+    </div>
+
+    <div class="greybackground">
+        <div class="page-container">
+            <div class="one-col">
+                {{ .Content }}
+
+                {{ partial "events" . }}
+            </div>
+        </div>
+    </div>
+
+{{ end }}
