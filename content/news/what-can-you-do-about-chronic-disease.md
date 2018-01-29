@@ -1,6 +1,6 @@
 ---
 title: "What can YOU do about chronic disease?"
-date: 2016-10-02T00:00:00Z
+date: 2017-10-02T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
 ---
