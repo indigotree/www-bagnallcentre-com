@@ -1,12 +1,1 @@
-{{ $day := (.Date.Format "2") }}
-{{ $.Scratch.Set "suffix" "th" }}
-
-{{ if or (eq $day "1") (eq $day "21") (eq $day "31") }}
-    {{ $.Scratch.Set "suffix" "st" }}
-{{ else if or (eq $day "2") (eq $day "22") }}
-    {{ $.Scratch.Set "suffix" "nd" }}
-{{ else if or (eq $day "3") (eq $day "23") }}
-    {{ $.Scratch.Set "suffix" "rd" }}
-{{ end }}
-
-{{ replace (.Date.Format "January 2{suffix} 2006") "{suffix}" ($.Scratch.Get "suffix") }}
+{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ dateFormat "January 2006" .Params.date }}

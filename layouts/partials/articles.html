@@ -2,7 +2,7 @@
                     
     <h2>Articles</h2>
     {{ range where .Site.RegularPages.ByDate.Reverse "Section" "news" }}
-        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ dateFormat "2 January 2006" .Params.date }}</p>
+        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ partial "custom-date" . }}</p>
     {{ end }}
 
 </div>
