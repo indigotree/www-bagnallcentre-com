@@ -36,7 +36,7 @@
                 container: '#search-query',
                 placeholder: "Search",
                 autofocus: true,
-                poweredBy: false
+                poweredBy: true
             }));
 
             search.addWidget(instantsearch.widgets.infiniteHits({
