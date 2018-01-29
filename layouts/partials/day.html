@@ -30,7 +30,8 @@
             </div>
 
             <div class="productdescription">
-                <p><span class="text-monday">{{ .Title }} ({{ .Params.level }}) with {{ .Params.associate }}</span> -</p>
+                <p><span class="text-monday">{{ .Title }} ({{ .Params.level }}) with {{ .Params.associate }}</span></p>
+                {{ .Content }}
             </div>
 
         {{ end }}
