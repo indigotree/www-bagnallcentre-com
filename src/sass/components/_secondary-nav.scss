@@ -1,0 +1,50 @@
+.secondary-nav {
+    display: flex;
+    flex-wrap: wrap;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 900;
+    
+    margin-bottom: 50px;
+    width: 100%;
+    font-size: 0.9em;
+
+    &, * {
+        box-sizing: border-box;
+    }
+
+    & > a {
+        background-color: #d6e0ed;
+        color: #5b6677;
+        &:hover, &:focus {
+            background-color: $orange;
+            color: #ffffff;
+        }
+    }
+
+    &--purple > a:hover, &--purple > a:focus {
+        background-color: rgba(63, 20, 201, 0.9);
+    }
+    &--green > a:hover, &--green > a:focus {
+        background-color: rgba(19, 189, 29, 0.9);
+    }
+
+    & > span {
+        color: #7a899e;
+    }
+
+    & > a, & > span {
+        display: block;
+        padding: 10px 10px;
+        flex: 1 1 50%;
+    }
+
+    @media screen and (min-width: 992px) {
+        font-size: 1.125em;
+
+        & > a, & > span {
+            flex: 1 1 25%;
+            padding: 30px 15px;
+        }
+    }
+}
