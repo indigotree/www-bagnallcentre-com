@@ -15,3 +15,9 @@ $orange: #fe7600;
 @import 'components/table';
 @import 'components/fitness-and-exercise';
 @import 'components/secondary-nav';
+
+.sr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}

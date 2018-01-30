@@ -12,6 +12,7 @@
             <div class="{{ if .IsHome }}navon{{ else }}navoff{{ end }}">
                 <a href="{{ .Site.BaseURL }}" >
                     <i class="fa fa-home primary navon" style="font-size:1.3em;"></i>
+                    <span class="sr">Home</span>
                 </a>
             </div>
             {{ range .Site.Menus.main }}
@@ -21,7 +22,12 @@
                     </a>
                 </div>
             {{ end }}
-            <button href="/#toggle" id="search-button-toggle" class="button--reset" data-toggle="#show"><div class="navoff circle"><i class="fa fa-search"></i></div></button>
+            <button href="#toggle" id="search-button-toggle" class="button--reset" data-toggle="#show">
+                <div class="navoff circle">
+                    <i class="fa fa-search"></i>
+                </div>
+                <span class="sr">Toggle Search</span>
+            </button>
         </nav>
 
         <div id="burger-menu" data-toggle="#hide_mob_nav">
@@ -34,9 +40,12 @@
         <div id="show" style="padding:30px;box-sizing:border-box;z-index:100;text-align:right;color:white;height:200px;width:100%;background-color:rgba(0,0,0,0.7);top:100%;position:absolute;display:none;">
 
             <form action="/search/" method="GET">
-                <span class="largetext bold">SEARCH</span><br>
-                <input class="search-input" type="text" name="s" placeholder="Search">
-                <button class="search-button"><i class="fa fa-search"></i></button>
+                <label class="largetext bold" for="search-input-2">SEARCH</label><br>
+                <input class="search-input" type="text" name="s" placeholder="Search" id="search-input-2">
+                <button class="search-button">
+                    <i class="fa fa-search"></i>
+                    <span class="sr">Search</span>
+                </button>
             </form>
 
         </div>
