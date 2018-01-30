@@ -1,5 +1,18 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,900">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="{{ "css/layout.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/app.css" | absURL }}">
+
+<script async>
+
+function deferCSS(src) {
+    var css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = src;
+    var cssFirst = document.getElementsByTagName('link')[0];
+    cssFirst.parentNode.insertBefore(css, cssFirst);
+}
+
+deferCSS('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+deferCSS('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+</script>
