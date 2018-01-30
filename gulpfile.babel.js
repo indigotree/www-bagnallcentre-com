@@ -35,16 +35,17 @@ gulp.task('init-watch', () => {
         open: false
     })
     $.watch('src/sass/**/*.scss', () => gulp.start('sass'))
+    $.watch('src/css/**/*.css', () => gulp.start('css'))
     $.watch('src/js/**/*.js', () => gulp.start('js-watch'))
     $.watch('src/images/**/*', () => gulp.start('images'))  
 })
 
 gulp.task('build', () => {
-    runSequence(['sass', 'js', 'fonts', 'images'], 'hugo')
+    runSequence(['css', 'sass', 'js', 'fonts', 'images'], 'hugo')
 })
 
 gulp.task('build-preview', () => {
-    runSequence(['sass', 'js', 'fonts', 'images'], 'hugo-preview')
+    runSequence(['css', 'sass', 'js', 'fonts', 'images'], 'hugo-preview')
 })
 
 gulp.task('hugo', (cb) => {
@@ -72,6 +73,19 @@ gulp.task('sass', () => {
     .pipe($.sassLint())
     .pipe($.sassLint.format())
     .pipe($.sass({ precision: 5, importer: tildeImporter }))
+    .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
+    .pipe($.if(isProduction, $.cssnano({ discardUnused: false, minifyFontValues: false })))
+    .pipe($.size({ gzip: true, showFiles: true }))
+    .pipe(gulp.dest('static/css'))
+    .pipe(browserSync.stream())
+})
+
+gulp.task('css', () => {
+    return gulp.src([
+        'src/css/**/*.css'
+    ])
+    .pipe($.plumber({ errorHandler: onError }))
+    .pipe($.print())
     .pipe($.autoprefixer(['ie >= 10', 'last 2 versions']))
     .pipe($.if(isProduction, $.cssnano({ discardUnused: false, minifyFontValues: false })))
     .pipe($.size({ gzip: true, showFiles: true }))
