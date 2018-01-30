@@ -10,4 +10,4 @@ room: "Studio"
 term: "Ongoing"
 ---
 
-TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. Every push, pull and twist will sculpt, tone and stretch at the same time building functional strength and a very strong core.
+TRX Suspension Training with Pali - is a system of Suspension Training that leverages gravity and your own bodyweight to develop strength, balance, flexibility and core stability simultaneously. TRX training uses movement that challenges the entire body on every plane. 

@@ -9,3 +9,5 @@ price: "£11 (£50 for 5 & £90 for 10) 1st class free"
 room: "Classroom"
 term: "Ongoing"
 ---
+
+Yin Yoga and Meditation with Halina - emphasises stillness, core softness & surrender. Long, deep passive holds, preparing one’s body and mind for meditation.

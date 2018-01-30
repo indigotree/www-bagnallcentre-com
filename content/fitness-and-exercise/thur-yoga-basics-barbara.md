@@ -9,3 +9,5 @@ price: "£10 (£48 for 6)"
 room: "Gym"
 term: "Ongoing"
 ---
+
+Yoga Basics with Barbara – learn Yoga postures, Yoga breathing and relaxation. No previous experience required. 

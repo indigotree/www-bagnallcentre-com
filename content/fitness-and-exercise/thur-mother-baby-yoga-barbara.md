@@ -9,3 +9,5 @@ price: "£10 per class, £48 for 6 weeks"
 room: "Studio"
 term: "Ongoing"
 ---
+
+Mother and Baby Yoga with Barbara -  you can be a complete beginner or an experienced yogi in this class suited to different energy levels in your new role as a Mum. Eight weeks to crawling.

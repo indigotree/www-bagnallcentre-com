@@ -1,8 +1,8 @@
 ---
 title: "Barre"
 event_day: "monday"
-start_time: 2017-08-01T19:50:00Z
-end_time: 2017-08-01T20:50:00Z
+start_time: 2017-08-01T10:30:00Z
+end_time: 2017-08-01T11:30:00Z
 level: "Mixed Ability"
 associate: "Pali"
 price: "£12 (£10 block booking)"
