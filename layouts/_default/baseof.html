@@ -8,6 +8,9 @@
             {{- with .Title }}{{ . }} | {{ end }}{{ .Site.Title -}}
         {{ end }}</title>
 
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+        <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+
         {{ if .RSSLink }}
             <link href="{{ .RSSLink }}" title="{{ .Site.Title }}" type="application/rss+xml" rel="alternate">
         {{ end }}
