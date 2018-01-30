@@ -9,3 +9,5 @@ price: "£10 (£8 block booking)"
 room: "Studio"
 term: "Ongoing"
 ---
+
+Vini Yoga with Barbara uses combined breath & movement in postures to stretch out the body & focus the mind. Active, with some posture adaptation for individual needs.

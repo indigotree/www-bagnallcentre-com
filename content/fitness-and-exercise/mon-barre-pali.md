@@ -10,4 +10,4 @@ room: "Classroom"
 term: "Ongoing"
 ---
 
-Barre with Pali- fuses the precision of Pilates with the technique and grace of ballet and conditioning exercises. The combined elements form an energetic and calorie burning workout that will lengthen, tone and sculpt the whole body whilst improving balance, strength, stamina and coordination.
+Barre with Pali fuses the precision of Pilates with the technique and grace of ballet and conditioning exercises. The combined elements form an energetic and calorie burning workout that will lengthen, tone and sculpt the whole body whilst improving balance, strength, stamina and coordination.

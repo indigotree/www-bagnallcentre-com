@@ -10,4 +10,4 @@ room: "Studio"
 term: "Ongoing"
 ---
 
-Pilates with Georgia (Body Control) - incorporates small equipment including foam rollers, toning balls, bands, and Triadballs to create a varied and effective Pilates workout to strengthen and rebalance the body. Led by a highly experienced teacher.
+Pilates with Georgia (Body Control) incorporates small equipment including foam rollers, toning balls, bands, and Triadballs to create a varied and effective Pilates workout to strengthen and rebalance the body. Led by a highly experienced teacher.

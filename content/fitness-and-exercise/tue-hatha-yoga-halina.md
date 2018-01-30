@@ -10,4 +10,4 @@ room: "Classroom"
 term: "Ongoing"
 ---
 
-Hatha Yoga with Halina - emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates and energizes.
+Hatha Yoga with Halina emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates and energizes.

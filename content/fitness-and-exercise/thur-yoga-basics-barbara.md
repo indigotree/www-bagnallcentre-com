@@ -10,4 +10,4 @@ room: "Gym"
 term: "Ongoing"
 ---
 
-Yoga Basics with Barbara – learn Yoga postures, Yoga breathing and relaxation. No previous experience required. 
+Yoga Basics with Barbara. Learn Yoga postures, Yoga breathing and relaxation. No previous experience required. 

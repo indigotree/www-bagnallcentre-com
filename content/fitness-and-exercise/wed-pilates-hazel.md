@@ -9,3 +9,5 @@ price: "£10 (£8 block bookings)"
 room: "Studio"
 term: "Term time only"
 ---
+
+ Pilates with Hazel (Stott) - focuses on working the deep stabilising muscles to strengthen your core, sculpting & toning, increasing strength & flexibility & relieving muscle tension.
