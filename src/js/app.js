@@ -19,18 +19,13 @@
      * @returns {void}
      */
     function handleFormInjection () {
-        var textarea = $('textarea#message');
+        var textarea = document.querySelector('textarea#message');
 
-        if (!textarea.length || !window.location.search.length) {
+        if (!textarea || !window.location.search.length) {
             return;
         }
 
-        textarea.val(
-            'I would like to book onto ' + getUrlParameter('course') + ' on ' +
-            getUrlParameter('day') + ' starting at ' + getUrlParameter('time') +
-            ' with ' + getUrlParameter('associate')
-        );
-
+        textarea.value = `I would like to book onto ${getUrlParameter('course')} on ${getUrlParameter('day')} starting at ${getUrlParameter('time')} with ${getUrlParameter('associate')}`;
     }
 
     /**

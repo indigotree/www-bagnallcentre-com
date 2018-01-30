@@ -1,4 +1,4 @@
-;(function ($, window, document, undefined) {
+;(function (window, document, undefined) {
 
     /**
      * Get a param from location.search
@@ -14,62 +14,58 @@
     }
 
     /* Algolia */
-    $(document).ready(function() {
+    document.addEventListener('DOMContentLoaded', function(event) {
 
+        var searchQuery = document.getElementById('search-query');
 
-        $('#search-results').each(function() {
+        if (!searchQuery) {
+            return;
+        }
 
-            var search = instantsearch({
-                appId: '58GE0JP7ZR',
-                apiKey: '4d6787f6d3cecf80aed0dedd34fd5fa9',
-                indexName: 'the_bagnall_centre',
-                searchParameters: {
-                    query: getUrlParameter('s')
-                },
-                searchFunction: function(helper) {
-                    $('#searched-for').text(helper.state.query);
-                    helper.search();
-                }
-            });
-
-            search.addWidget(instantsearch.widgets.searchBox({
-                container: '#search-query',
-                placeholder: "Search",
-                autofocus: true,
-                poweredBy: true
-            }));
-
-            search.addWidget(instantsearch.widgets.infiniteHits({
-                container: '#search-results',
-                autoHideContainer: true,
-                transformData: function(data) {
-                    if (data.quote) {
-                        data.quote = data.quote.replace(/<(\/)?a[^>]*>/g, '<$1span>');
-                    }
-
-                    return data;
-                },
-                templates: {
-                    empty: '<h2>No results</h2>',
-                    item:
-                        '<div class="result-row">' + 
-                            '<a href="{{ url }}">' +
-                                '<h2>{{ title }}</h2>' +
-                                '<p>{{ content }}</p>' + 
-                            '</a>' +
-                        '</div>'
-                }
-            }));
-
-            search.start();
-
+        var search = instantsearch({
+            appId: '58GE0JP7ZR',
+            apiKey: '4d6787f6d3cecf80aed0dedd34fd5fa9',
+            indexName: 'the_bagnall_centre',
+            searchParameters: {
+                query: getUrlParameter('s')
+            },
+            searchFunction: function(helper) {
+                document.getElementById('searched-for').innerText = helper.state.query;
+                helper.search();
+            }
         });
 
-        // getUrlParameter('s')
-        $('#search-query').on('keyup', function() {
-            
-        });
+        search.addWidget(instantsearch.widgets.searchBox({
+            container: '#search-query',
+            placeholder: "Search",
+            autofocus: true,
+            poweredBy: true
+        }));
+
+        search.addWidget(instantsearch.widgets.infiniteHits({
+            container: '#search-results',
+            autoHideContainer: true,
+            transformData: function(data) {
+                if (data.quote) {
+                    data.quote = data.quote.replace(/<(\/)?a[^>]*>/g, '<$1span>');
+                }
+
+                return data;
+            },
+            templates: {
+                empty: '<h2>No results</h2>',
+                item:
+                    '<div class="result-row">' + 
+                        '<a href="{{ url }}">' +
+                            '<h2>{{ title }}</h2>' +
+                            '<p>{{ content }}</p>' + 
+                        '</a>' +
+                    '</div>'
+            }
+        }));
+
+        search.start();
 
     });
 
-})(jQuery, window, document)
+})(window, document)
