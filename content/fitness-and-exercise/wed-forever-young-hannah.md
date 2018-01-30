@@ -9,3 +9,5 @@ price: "£5 per class"
 room: "Gym"
 term: "Ongoing"
 ---
+
+Forever Young with Hannah – is a fun and friendly supervised exercise class for both men and women who want to become more physically active or for those people worried about exercising with a controlled health condition.

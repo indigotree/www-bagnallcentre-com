@@ -9,3 +9,5 @@ price: "£11 (£50 for 5 & £90 for 10) 1st class free"
 room: "Classroom"
 term: "Ongoing"
 ---
+
+Hatha Yoga with Halina emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates and energizes.
