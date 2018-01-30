@@ -6,9 +6,13 @@
         <div class="navoffmob"><a href="/nutrition-and-lifestyle">Nutrition &amp; Lifestyle</a></div>
         <div class="navoffmob"><a href="/working-with-us">Working with us</a></div>
         <div class="navoffmob"><a href="/contact-us">Contact Us</a></div>
-        <form class="search" action="/search/" method="POST">
-            <input class="search-input" placeholder="Search" onfocus="this.placeholder = &#39;&#39;" onblur="this.placeholder = &#39;Search&#39;" type="text" name="search" value="">
-            <button class="search-button"><i class="fa fa-search"></i></button>
+        <form class="search" action="/search/" method="GET">
+            <label for="search-input" class="sr">Search query</label>
+            <input class="search-input" id="search-input" placeholder="Search" onfocus="this.placeholder = &#39;&#39;" onblur="this.placeholder = &#39;Search&#39;" type="text" name="search" value="">
+            <button class="search-button">
+                <i class="fa fa-search"></i>
+                <span class="sr">Search</span>
+            </button>
         </form>
     </div>
 </div>
