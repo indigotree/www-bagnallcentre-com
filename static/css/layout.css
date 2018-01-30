@@ -659,6 +659,13 @@ a .secondarynavoff:hover, a .secondarynavofftwo:hover, a .secondarynavoffthree:h
     width: 80%;
 }
 
+.joinusform input[type="email"]::placeholder {
+    color: rgba(255, 255, 255, .4);
+}
+.joinusform input[type="email"]:focus::placeholder {
+    color: transparent;
+}
+
 .joinusform input[type="submit"] {
     background-color: #fe7600;
     border-top-right-radius: 5px;
