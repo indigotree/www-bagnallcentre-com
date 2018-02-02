@@ -10,3 +10,4 @@ room: "Classroom"
 term: "Starts 20/02/18"
 ---
 
+With its foundations set firmly in ancient yogic tradition and its emphasis on soft, flowing movements, Dru Yoga can help increase energy levels, ease back pain, and wash away stress.
