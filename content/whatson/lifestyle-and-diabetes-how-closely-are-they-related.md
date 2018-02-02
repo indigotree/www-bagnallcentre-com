@@ -32,10 +32,10 @@ Dr Aryan Tavakkoli - Founder of Quantum Clinic, a progressive medical clinic off
 
 9.00am - 4.30pm Friday 8th June at Chartridge Lodge, Chesham, Bucks HP5 2TU.
 
-Tickets are available from Eventbrite here. [Please click here. ](http://https://www.eventbrite.co.uk/e/lifestyle-and-diabetes-how-closely-are-they-related-tickets-42565255826?aff=es2 )
+Tickets are available from Eventbrite here. <a href="https://www.eventbrite.co.uk/e/lifestyle-and-diabetes-how-closely-are-they-related-tickets-42565255826" target="_blank">Please click here.</a>
 
 Early Bird Discount Tickets £75. Standard Tickets £95.
 
 **More information coming soon.** 
 
-If you would like to find out more about the conference please call us on 01494 791 288 or email [bookings@bagnallcentre.com ](mailto: https://www.eventbrite.co.uk/e/lifestyle-and-diabetes-how-closely-are-they-related-tickets-42565255826?aff=es2 )
+If you would like to find out more about the conference please call us on 01494 791 288 or email [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com)
