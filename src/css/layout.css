@@ -930,6 +930,17 @@ nav a {
 .classhover:hover a {
     color: #fff;
 }
+
+.therapyhover,
+.nutritionhover {
+    color: #5b6677;
+}
+
+.therapyhover + .productdescription,
+.nutritionhover + .productdescription {
+    color: #5b6677;
+}
+
 .wellbeinghover:hover,
 .therapyhover:hover {
     background-color: rgba(63, 20, 201, 0.90);
