@@ -11,7 +11,7 @@ layout: "rooms"
 
 We take pride in the quality of the rooms and facilities available at the Centre. Each room is well maintained and equipped for easy access and set up. All rooms are heated and have Internet access through Ethernet or Wi Fi. Each room has an intercom system through to reception services.
 
-{{< roomleft title="Studio" image="uploads/studio.png">}}A light triple aspect room, the classroom is used for pilates, yoga and mindfulness workshops as well as educational courses and regular continuing long term workshops. Seated this room accommodates 30 and for exercise classes, a maximum capacity of 10. The Bagnall Centre provides gym balls, yoga/pilates mats and head blocks. Projector facilities are also available.{{< /roomleft >}}
+{{< roomleft title="Studio" image="uploads/studio.png">}}This is our largest multi-purpose room. Carefully renovated, this room benefits from triple aspect windows and a double height vaulted beamed ceiling with skylights. Ideal for yoga and pilates classes accommodating up to 14 people per class. This room is also used for workshops and can seat up to 50 people. The Bagnall Centre provides gym balls, yoga/pilates mats and head blocks.{{< /roomleft >}}
 
 {{< roomright title="Classroom" image="uploads/classroom.png">}}A light triple aspect room, the classroom is used for pilates, yoga and mindfulness workshops as well as educational courses and regular continuing long term workshops. Seated this room accommodates 30 and for exercise classes, a maximum capacity of 10. The Bagnall Centre provides gym balls, yoga/pilates mats and head blocks. Projector facilities are also available.{{< /roomright >}}
 
