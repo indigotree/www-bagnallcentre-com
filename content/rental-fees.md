@@ -1,6 +1,6 @@
 ---
 title: "Working with us"
-slug: "working-with-us/rentalfees"
+slug: "working-with-us/rental-fees"
 draft: false
 layout: "rentalfees"
 ---
