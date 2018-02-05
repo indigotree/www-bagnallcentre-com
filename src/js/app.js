@@ -65,6 +65,9 @@
      * @param {Object} event 
      */
     function toggleAccordion(event) {
+        if (event.target == $(this).find('.small-button')[0] || event.target == $(this).find('.small-button > a')[0]) {
+            return;
+        }
         $(this).next().slideToggle("slow");
         return false;
     }
