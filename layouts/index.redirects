@@ -4,3 +4,14 @@
 {{ . }} {{ $p.RelPermalink -}}
 {{- end }}
 {{- end -}}
+
+/therapy-and-wellbeing/wellbeing.php    /therapy-and-wellbeing/wellbeing/
+/nutrition-and-lifestyle/lifestyle.php  /nutrition-and-lifestyle/lifestyle/
+/working-with-us/rooms.php              /working-with-us/rooms/
+/working-with-us/rentalfees.php         /working-with-us/rental-fees/
+/working-with-us/apply.php              /working-with-us/apply/
+/contact-us/parking.php                 /contact-us/parking/
+/bagnallstory/                          /bagnall-story/
+/whatson/                               /whats-on/
+/whatson/event.php?id=:id$              /whats-on/
+/news/index.php/:slug/                  /news/:slug
