@@ -13,5 +13,5 @@
 /contact-us/parking.php                 /contact-us/parking/
 /bagnallstory/                          /bagnall-story/
 /whatson/                               /whats-on/
-/whatson/event.php?id=:id$              /whats-on/
+/whatson/event.php?id=:id               /whats-on/
 /news/index.php/:slug/                  /news/:slug
