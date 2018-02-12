@@ -1,6 +1,6 @@
 ---
 title: "Tai Chi"
-starts_at: 2018-02-08T20:00:00Z
+starts_at: 2018-02-26T20:00:00Z
 draft: false
 description: "Have you tried Tai Chi?"
 featured_image: "/uploads/tai-chi.jpg"
@@ -32,7 +32,7 @@ Wudang style Hand Form, learn to understand the movements and how self defence t
 - stimulates central nervous system,
 - strengthens muscles, tendons & joints.
 
-A block of 8 sessions will start on the 8th February at the introductory price of £64 for an 8-week block. Thereafter the price for an 8-week block booking will be £80.
+Come to our free taster session at 12pm on Monday 26th February. The block of 8 consecutive classes will start at 12pm on Monday 5th March. Cost £80.
 
 *Spaces are limited to 10 people and will be offered on a first come first served basis.*
 
