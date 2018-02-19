@@ -7,5 +7,7 @@ level: "Mixed Ability"
 associate: "Catherine"
 price: "£80 (block booking 8 weeks)"
 room: "Classroom"
-term: "Starts 08/02/18"
+term: "Ongoing"
 ---
+
+Tai Chi with Catherine is an opportunity to learn and experience the benefits of this ancient Chinese Martial Art, for health, relaxation, self defence and wellbeing. 

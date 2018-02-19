@@ -7,5 +7,5 @@ level: "Mixed Ability"
 associate: "Heidi"
 price: "£12 (£10 block booking)"
 room: "Gym"
-term: "Ongoing"
+term: "Term Time Only"
 ---
