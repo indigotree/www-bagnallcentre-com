@@ -2,7 +2,7 @@
 title: "Sivananda Yoga"
 event_day: "saturday"
 start_time: 2017-02-17T09:00:00Z
-end_time: 2017-17-02T10:00:00Z
+end_time: 2017-02-17T10:00:00Z
 level: "Mixed Ability"
 associate: "Teresa"
 price: "£10 (£8 block booking)"
