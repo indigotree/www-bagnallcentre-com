@@ -11,7 +11,10 @@
 /working-with-us/rentalfees.php         /working-with-us/rental-fees/
 /working-with-us/apply.php              /working-with-us/apply/
 /contact-us/parking.php                 /contact-us/parking/
+/parking/								/contact-us/parking
 /bagnallstory/                          /bagnall-story/
 /whatson/                               /whats-on/
 /whatson/event.php?id=:id               /whats-on/
 /news/index.php/:slug/                  /news/:slug
+/news/index.php/						/news/
+/news/index.php/events/event/the-bagnall-mindfulness-course/	/whats-on/
