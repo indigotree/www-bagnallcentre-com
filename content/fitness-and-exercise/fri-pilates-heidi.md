@@ -10,4 +10,4 @@ room: "Gym"
 term: "Term Time Only"
 ---
 
-The BASI (Body Arts and Science international) approach to Pilates provides a contemporary approach to the repertoire whilst also staying true to the original Pilates method. Our classes aim to provide a well rounded, challenging workout, strengthening abdominals, back extensors, glutes, shoulders. You will leave the class feeling engaged and mobilised.
+ The BASI (Body Arts and Science international) approach to Pilates provides a contemporary approach to the repertoire whilst also staying true to the original Pilates method. Our classes aim to provide a well rounded, challenging workout, strengthening abdominals, back extensors, glutes, shoulders. You will leave the class feeling engaged and mobilised.
