@@ -10,4 +10,4 @@ room: "Studio"
 term: "Term time only"
 ---
 
- Pilates with Hazel (Stott) - focuses on working the deep stabilising muscles to strengthen your core, sculpting & toning, increasing strength & flexibility & relieving muscle tension.
+The Pilates and Yoga Fusion class combines the core stabilisation and strengthening exercises of Pilates with the flow and flexibility benefits of Vinyasa style Yoga. Each class is 30 minutes of Pilates and 30 minutes of Yoga.
