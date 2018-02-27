@@ -1,6 +1,6 @@
 ---
 title: "Body Weight Circuit Training"
-event_day: "thursday"
+event_day: "friday"
 start_time: 2017-08-01T11:30:00Z
 end_time: 2017-08-01T12:30:00Z
 level: "Mixed Ability"
