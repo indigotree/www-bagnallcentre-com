@@ -371,6 +371,10 @@ nav a {
     width:100%;
 }
 
+.greybackgroundtwo a {
+    color: #fe7600;
+}
+
 .one-third-col img, .two-third-col img, .one-quarter-col-home img {
     display: block;
     width: 100%;
@@ -2097,3 +2101,25 @@ input[type=text].search-input {
     }
 }
 
+
+.telephonenumber a {
+    color: #fff;
+}
+
+.button-with-icons {
+    padding: 1em;
+    position: relative;
+}
+
+.button-with-icons .fa {
+        color: #fff;
+        position: absolute;
+        top: 14px;
+}
+
+.button-with-icons .fa-calendar {
+    left: 1em;
+}
+.button-with-icons .fa-arrow-right {
+    right: 1em;
+}

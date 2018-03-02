@@ -4,6 +4,7 @@ draft: false
 layout: "contact"
 menu: 
     main:
+        name: "Contact"
         weight: 50
 ---
 {{< onethird >}}

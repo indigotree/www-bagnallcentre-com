@@ -11,8 +11,7 @@
             {{ $currentPage := . }}
             <div class="{{ if .IsHome }}navon{{ else }}navoff{{ end }}">
                 <a href="{{ .Site.BaseURL }}" >
-                    <i class="fa fa-home primary navon" style="font-size:1.3em;"></i>
-                    <span class="sr">Home</span>
+                    Home
                 </a>
             </div>
             {{ range .Site.Menus.main }}

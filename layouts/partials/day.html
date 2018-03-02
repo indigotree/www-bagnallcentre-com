@@ -24,7 +24,7 @@
                 </div>
                 <div class="classbooking classborder">
                     <div class="small-button">
-                        <a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ .Params.event_day }}&associate={{ .Params.associate }}">Book</a>
+                        <a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ humanize .Params.event_day }}&associate={{ .Params.associate }}">Book</a>
                     </div>
                 </div>
             </div>
