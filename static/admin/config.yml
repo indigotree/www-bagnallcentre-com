@@ -5,6 +5,16 @@ media_folder: "content/uploads"
 public_folder: "/uploads"
 collections:
   
+  - name: "news"
+    label: "News"
+    folder: "content/news"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Published Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string" }
+
   - name: "timetable"
     label: "Timetable"
     folder: "content/fitness-and-exercise"
