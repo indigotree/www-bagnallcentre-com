@@ -1,0 +1,47 @@
+backend:
+  name: git-gateway
+  
+media_folder: "content/uploads"
+public_folder: "/uploads"
+collections:
+  
+  - name: "timetable"
+    label: "Timetable"
+    folder: "content/fitness-and-exercise"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Starts At", name: "start_time", widget: "datetime" }
+      - { label: "Ends At", name: "end_time", widget: "datetime" }
+      - label: "Day"
+        name: "event_day"
+        widget: "select"
+        options:
+        - { label: "Monday", value: "monday" }
+        - { label: "Tuesday", value: "tuesday" }
+        - { label: "Wednesday", value: "wednesday" }
+        - { label: "Thursday", value: "thursday" }
+        - { label: "Friday", value: "friday" }
+        - { label: "Saturday", value: "saturday" }
+        - { label: "Sunday", value: "sunday" }
+      - label: "Ability"
+        name: "level"
+        widget: "select"
+        options:
+        - "Mixed Ability"
+        - "Beginners"
+        - "Beginners/Intermediate"
+        - "Intermediate"
+        - "Intermediate/Advanced"
+        - "Advanced"
+      - { label: "Associate", name: "associate", widget: "string" }
+      - { label: "Term", name: "term", widget: "string" }
+      - label: "Room"
+        name: "room"
+        widget: "select"
+        options:
+        - "Studio"
+        - "Gym"
+        - "Classroom"
+      - { label: "Price", name: "price", widget: "string" }
