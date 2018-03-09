@@ -1,6 +1,6 @@
 ---
-title: PRACTITIONER SPOTLIGHT
-date: 2018-02-16T10:34:25+00:00
+title: PRACTITIONER SPOTLIGHT Betty Zee - BZeeFitness
+date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
 ---
 <div style="text-align: center;" markdown="1">
