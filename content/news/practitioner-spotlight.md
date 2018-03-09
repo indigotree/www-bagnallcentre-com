@@ -1,6 +1,6 @@
 ---
 title: PRACTITIONER SPOTLIGHT
-date: 2018-03-09T10:34:25.366Z
+date: 2018-02-16T10:34:25+00:00
 author: The Bagnall Centre
 ---
 <div style="text-align: center;" markdown="1">
