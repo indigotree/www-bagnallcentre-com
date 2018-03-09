@@ -6,21 +6,17 @@ author: The Bagnall Centre
 <div style="text-align: center;" markdown="1">
 <h2>Betty Zee - BZeeFitness</h2>
 
-We love working with our Practitioners!
+We love working with our Practitioners!<br/><br/>
 
-Betty Zee is a Personal Trainer and her inspirational motto is
+Betty Zee is a Personal Trainer and her inspirational motto is<br/><br/>
 
-**'Just Start!**
+<strong>'Just Start!'</strong><br/><br/>
 
+If you would like us to feature a spotlight on you and your work then please get in touch!<br/><br/>
 
+Here's what Betty has to say about what she does, <br/>
 
-If you would like us to feature a spotlight on you and your work then please get in touch!
-
-
-
-Here's what Betty has to say about what she does, 
-
-and why she does it. 
+and why she does it.<br/><br/>
 </div>
 
 
