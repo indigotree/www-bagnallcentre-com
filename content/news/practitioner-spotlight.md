@@ -4,7 +4,6 @@ date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
 ---
 <div style="text-align: center;" markdown="1">
-<h2>Betty Zee - BZeeFitness</h2>
 
 We love working with our Practitioners!<br/><br/>
 
