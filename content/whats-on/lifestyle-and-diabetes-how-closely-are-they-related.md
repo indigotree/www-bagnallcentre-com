@@ -26,7 +26,7 @@ Professor Robert Thomas - Consultant Oncologist, clinical tutor, author and edit
 
 Dr Reinhard Kowalski - Consultant Clinical Psychologist and Psychotherapist, author, mindfulness and meditation teacher, energy psychologist.
  
-Dr Aryan Tavakkoli - Founder of Quantum Clinic, a progressive medical clinic offering a Functional Medicine and Integrative Medicine approach to chronic disease. 
+Dr Aryan Tavakkoli - Consultant Physician and Founder of Quantum Clinic, a progressive medical clinic offering a Functional Medicine and Integrative Medicine approach to chronic disease. 
 
 **RCGP accreditation is in process. **
 
