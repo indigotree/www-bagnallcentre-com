@@ -1,7 +1,7 @@
 ---
 title: "Hypnotherapy"
 description: "Hypnotherapy utilises hypnosis, a state of altered consciousness in which the therapist can help you to access the deeper levels of awareness."
-categories: ["wellbeing"]
+categories: "wellbeing"
 draft: false
 ---
 

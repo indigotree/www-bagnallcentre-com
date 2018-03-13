@@ -1,7 +1,7 @@
 ---
 title: "Craniosacral Therapy"
 description: "Craniosacral Therapy is a gentle way of working with the body using light touch. People sometimes ask about the name Craniosacral Therapy and think it only refers to the head. In fact Craniosacral Therapy works with the whole person and changes may occur in body, mind and spirit during and after sessions."
-categories: ["wellbeing"]
+categories: "wellbeing"
 draft: false
 ---
 

@@ -5,6 +5,14 @@ media_folder: "content/uploads"
 public_folder: "/uploads"
 collections:
   
+  - name: "pages"
+    label: "Pages"
+    folder: "content"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+
   - name: "news"
     label: "News"
     folder: "content/news"
@@ -55,6 +63,27 @@ collections:
         - "Gym"
         - "Classroom"
       - { label: "Price", name: "price", widget: "string" }
+
+  - name: "therapies"
+    label: "Therapies"
+    folder: "content/therapies"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "select", options: ["therapy", "wellbeing", "nutrition"] }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "whats-on"
+    label: "Whats on"
+    folder: "content/whats-on"
+    create: true
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Starts At", name: "start_time", widget: "datetime" }
+      - { label: "Featured Image", name: "featured_image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "settings"
     label: "Settings"
