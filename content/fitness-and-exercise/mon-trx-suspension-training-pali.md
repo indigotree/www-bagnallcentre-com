@@ -1,8 +1,8 @@
 ---
 title: "TRX Suspension training"
 event_day: "monday"
-start_time: 2017-08-01T18:45:00Z
-end_time: 2017-08-01T19:45:00Z
+start_time: 2000-01-01T18:45:00Z
+end_time: 2000-01-01T19:45:00Z
 level: "Mixed Ability"
 associate: "Pali"
 price: "£15 (£14 block booking)"

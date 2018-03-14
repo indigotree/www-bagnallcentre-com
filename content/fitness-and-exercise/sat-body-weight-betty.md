@@ -1,7 +1,7 @@
 ---
 title: Body Weight Circuit Training
-start_time: 2017-08-01T11:00:00.000Z
-end_time: 2017-08-01T12:00:00.000Z
+start_time: 2000-01-01T11:00:00.000Z
+end_time: 2000-01-01T12:00:00.000Z
 event_day: saturday
 level: Mixed Ability
 associate: Betty
