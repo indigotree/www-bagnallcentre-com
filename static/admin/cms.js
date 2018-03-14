@@ -24,36 +24,28 @@ var TimeControl = createClass({
         e.preventDefault();
         this.setState({
             date: this.state.date.add(1, 'h')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
-        });
+        }, this.handleChange);
     },
 
     decrementHour: function (e) {
         e.preventDefault();
         this.setState({
             date: this.state.date.subtract(1, 'h')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
-        });
+        }, this.handleChange);
     },
 
     incrementMinute: function (e) {
         e.preventDefault();
         this.setState({
             date: this.state.date.add(1, 'm')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
-        });
+        }, this.handleChange);
     },
 
     decrementMinute: function (e) {
         e.preventDefault();
         this.setState({
             date: this.state.date.subtract(1, 'm')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
-        });
+        }, this.handleChange);
     },
 
     incrementTwelveHours: function (e) {
@@ -61,18 +53,22 @@ var TimeControl = createClass({
         
         this.setState({
             date: this.state.date.add('12', 'h')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
-        })
+        }, this.handleChange)
     },
 
     decrementTwelveHours: function (e) {
         e.preventDefault();
         this.setState({
             date: this.state.date.subtract('12', 'h')
-        }, function () {
-            this.props.onChange(this.state.date.format(moment.defaultFormat))
+        }, this.handleChange)
+    },
+
+    handleChange: function () {
+        var todayDate = moment({
+            hour: this.state.date.hour(),
+            minute: this.state.date.minutes()
         })
+        this.props.onChange(todayDate.format(moment.defaultFormat))
     },
 
     closeTimeControl: function (e) {
