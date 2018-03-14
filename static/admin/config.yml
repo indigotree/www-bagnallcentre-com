@@ -36,8 +36,8 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Starts At", name: "start_time", widget: "datetime" }
-      - { label: "Ends At", name: "end_time", widget: "datetime" }
+      - { label: "Starts At", name: "start_time", widget: "time" }
+      - { label: "Ends At", name: "end_time", widget: "time" }
       - label: "Day"
         name: "event_day"
         widget: "select"
