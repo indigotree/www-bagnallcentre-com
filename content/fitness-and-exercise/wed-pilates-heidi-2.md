@@ -1,13 +1,17 @@
 ---
-title: "Pilates"
-event_day: "wednesday"
-start_time: 2000-01-01T20:00:00Z
-end_time: 2000-01-01T21:00:00Z
-level: "Intermediate/Advanced"
-associate: "Heidi"
-price: "£10 per class"
-room: "Gym"
-term: "Ongoing"
+title: Pilates
+description: >-
+  The BASI (Body Arts and Science international) approach to Pilates provides a
+  contemporary approach to the repertoire whilst also staying true to the
+  original Pilates method.
+yoast_keyword: Pilates
+start_time: 2000-01-01T20:00:00.000Z
+end_time: 2000-01-01T21:00:00.000Z
+event_day: wednesday
+level: Intermediate/Advanced
+associate: Heidi
+term: Ongoing
+room: Gym
+price: £12 (£10 block booking)
 ---
-
- The BASI (Body Arts and Science international) approach to Pilates provides a contemporary approach to the repertoire whilst also staying true to the original Pilates method. Our classes aim to provide a well rounded, challenging workout, strengthening abdominals, back extensors, glutes, shoulders. You will leave the class feeling engaged and mobilised.
+The BASI (Body Arts and Science international) approach to Pilates provides a contemporary approach to the repertoire whilst also staying true to the original Pilates method. Our classes aim to provide a well rounded, challenging workout, strengthening abdominals, back extensors, glutes, shoulders. You will leave the class feeling engaged and mobilised.
