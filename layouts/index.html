@@ -1,64 +1,9 @@
 {{ define "main" }}
 
-    <div class="hero">
-        <div class="hero-content">
-            <div class="upper-content">
-                <h1 class="homeh1">Welcome to The Bagnall Centre for Integrated Healthcare</h1>
-                <div class="hero-text">
-                    <p>Welcome to the Bagnall Centre, where our beautiful environment and specialised practitioners create the complete wellbeing experience.</p>
-                </div><a href="/bagnall-story/"><button class="herobutton">The Bagnall Story</button></a>
-            </div><a href="/whats-on/">
-            <div class="event-calltoaction">
-                <div class="event-icon">
-                    <i aria-hidden="true" class="fa fa-calendar"></i>
-                </div>
-                <div class="event-call">
-                    SEE WHAT'S ON AT THE BAGNALL CENTRE
-                </div>
-                <div class="event-icon">
-                    <i aria-hidden="true" class="fa fa-arrow-right"></i>
-                </div>
-                <div class="clear"></div>
-            </div></a>
-        </div>
-    </div>
+    {{ partial "hero" . }}
 
-    <div class="one-quarter-col-home">
-        <a href="/fitness-and-exercise"><img alt="fitness and exercise" src="{{ "uploads/fitness-excercise.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="red">
-                Fitness and Exercise
-            </div>
-        </div></a>
-    </div>
+    {{ partial "features" . }}
 
-    <div class="one-quarter-col-home">
-        <a href="/therapy-and-wellbeing"><img alt="therapy-wellbeing" src="{{ "uploads/therapy-wellbeing.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="purple">
-                Therapy and Wellbeing
-            </div>
-        </div></a>
-    </div>
-
-    <div class="one-quarter-col-home">
-        <a href="/nutrition-and-lifestyle"><img alt="nutrition-lifestyle" src="{{ "uploads/nutrition-lifestyle.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="green">
-                Nutrition and Lifestyle
-            </div>
-        </div></a>
-    </div>
-
-    <div class="one-quarter-col-home">
-        <a href="/news"><img alt="latest-news" src="{{ "uploads/latest-news.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="orange">
-                Latest News and Info
-            </div>
-        </div></a>
-    </div>
-    
     <div class="one-col-flex">
 
         <div class="one-half-flex orangebackground">

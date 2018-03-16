@@ -1,0 +1,26 @@
+{{ $currentPage := . }}
+
+<nav class="navigation" id="navigation">
+
+    <ul class="navigation__menu">
+
+        <li class="navigation__item {{ if .IsHome }}navigation--active{{ end }}">
+            <a href="{{ .Site.BaseURL }}">Home</a>
+        </li>
+
+        {{ range .Site.Menus.main }}
+            <li class="navigation__item {{ if $currentPage.IsMenuCurrent "main" . }}navigation--active{{ end }}">
+                {{ if eq .Name "Search" }}
+                    <a href="{{ .URL }}" class="navigation--search" data-toggle="#show">
+                        <i class="fa fa-search"></i>
+                        <span class="navigation__item-text">{{ .Name }}</span>
+                    </a>
+                {{ else }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </li>
+        {{ end }}
+
+    </ul>
+
+</nav>

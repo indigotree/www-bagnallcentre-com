@@ -1,0 +1,26 @@
+.hero {
+    background-image: url(../uploads/banner-home.jpg);
+    background-repeat: no-repeat;
+    background-position: 33% 0;
+    background-size: cover;
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+
+    @media screen and (min-width: $screen-sm) {
+        display: block;
+        padding-right: 30px;
+        min-height: 320px;
+        background-position: 47% 0;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        min-height: 400px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        min-height: 500px;
+        padding-right: 50px;
+    }
+
+}

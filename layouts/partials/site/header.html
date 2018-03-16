@@ -1,53 +1,17 @@
-<div id="headercontainer" style="box-shadow: none;">
-    <header style="position:relative;" class="site-header" role="banner">
-        <div class="logo">
-            <a href="{{ .Site.BaseURL }}">
-                <img src="{{ "images/site-brand.svg" | absURL }}" alt="{{ .Site.Title }}">
-            </a>
-        </div>
+<header class="header" role="banner">
 
+    <div class="container">
 
-        <nav>
-            {{ $currentPage := . }}
-            <div class="{{ if .IsHome }}navon{{ else }}navoff{{ end }}">
-                <a href="{{ .Site.BaseURL }}" >
-                    Home
-                </a>
-            </div>
-            {{ range .Site.Menus.main }}
-                <div class="{{ if $currentPage.IsMenuCurrent "main" . }}navon{{ else }}navoff{{ end }}">
-                    <a href="{{ .URL }}">
-                        {{ .Name }}
-                    </a>
-                </div>
-            {{ end }}
-            <button href="#toggle" id="search-button-toggle" class="button--reset" data-toggle="#show">
-                <div class="navoff circle">
-                    <i class="fa fa-search"></i>
-                </div>
-                <span class="sr">Toggle Search</span>
-            </button>
-        </nav>
+        {{ partial "navigation.html" . }}
 
-        <div id="burger-menu" data-toggle="#hide_mob_nav">
-            <div id="burger-layer-one"></div>
-            <div id="burger-layer-two"></div>
-            <div id="burger-layer-three"></div>
-        </div>
-    </header>
-    {{ if not .Params.is_search }}
-        <div id="show" style="padding:30px;box-sizing:border-box;z-index:100;text-align:right;color:white;height:200px;width:100%;background-color:rgba(0,0,0,0.7);top:100%;position:absolute;display:none;">
+        {{ partial "logo.html" . }}
 
-            <form action="/search/" method="GET">
-                <label class="largetext bold" for="search-input-2">SEARCH</label><br>
-                <input class="search-input" type="text" name="s" placeholder="Search" id="search-input-2">
-                <button class="search-button">
-                    <i class="fa fa-search"></i>
-                    <span class="sr">Search</span>
-                </button>
-            </form>
+        <button type="button" class="navigation__toggle" data-toggle="#navigation">
+            <span></span><span></span><span></span>
+        </button>
 
-        </div>
-    {{ end }}
+    </div>
 
-</div>
+    {{ partial "search-form" . }}
+
+</header>

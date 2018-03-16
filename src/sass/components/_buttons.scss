@@ -1,0 +1,24 @@
+.btn {
+    border-radius: 3px;
+    padding: 8px 20px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    
+    &-primary {
+        background: $brand-primary;
+        color: #fff;
+
+        &:hover,
+        &:focus {
+            background: darken($brand-primary, 5%);
+        }
+    }
+
+    &-lg {
+        padding: 14px 40px;
+    }
+
+}

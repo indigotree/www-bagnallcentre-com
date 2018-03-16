@@ -1,0 +1,42 @@
+.logo {
+
+    &__text {
+        fill: #5b6677;
+    }
+
+    .footer & {
+        width: 160px;
+        margin-bottom: 20px;
+    }
+
+    .header & {
+        padding: 10px 0;
+        width: 200px;
+        float: left;
+
+        @media screen and (min-width: $navigation-break-point) and (max-width: $screen-md) {
+            width: auto;
+            position: absolute;
+            left: 15px;
+            right: 15px;
+            top: 0;
+            padding: 0;
+
+            > a {
+                display: block;
+                width: 200px;
+                margin: 0 auto;
+            }
+        }
+
+        @media screen and (min-width: $screen-md) {
+            width: 200px;
+        }
+
+        @media screen and (min-width: $screen-lg) {
+            width: 300px;
+        }
+
+    }
+
+}

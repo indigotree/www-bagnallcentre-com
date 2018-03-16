@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+
+    @media screen and (min-width: $navigation-break-point) {
+        position: fixed;
+        top: 0;
+        padding-top: 13px;
+        z-index: 999;
+        background: #fff;
+    }
+
+    @media screen and (min-width: $navigation-break-point) and (max-width: $screen-md) {
+        min-height: 98px;
+    }
+
+}

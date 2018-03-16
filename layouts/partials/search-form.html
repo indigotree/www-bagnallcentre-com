@@ -1,0 +1,12 @@
+{{ if not .Params.is_search }}
+    <div id="show" class="search-form">
+        <form action="/search/" method="GET" class="container">
+            <label for="search" class="search-form__label">Search</label>
+            <input type="text" class="search-form__input" placeholder="Search" id="search" name="s">
+            <button class="search-form__button">
+                <i class="fa fa-search"></i>
+                <span class="sr">Search</span>
+            </button>
+        </form>
+    </div>
+{{ end }}

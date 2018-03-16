@@ -1,3 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+$orange: #fe7600;
+$brand-primary: #fe7600;
+$brand-secondary: #3f14c9;
+$brand-danger: #d10500;
+$brand-success: #13bd1d;
+
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+
+$navigation-break-point: $screen-sm;
+
+body {
+    background: url(../images/footer-tree.svg) no-repeat bottom right;
+    background-size: 50%;
+    color: #5b6677;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+    @media screen and (min-width: $screen-sm) {
+        padding-top: 114px;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        padding-top: 99px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        padding-top: 130px;
+    }
+
+
+}
+
+@mixin clearfix() {
+    &::before,
+    &::after {
+        content: '';
+        display: table;
+    }
+
+    &::after {
+        clear: both;
+    }
+}
+
 .ais-search-box {
     position: absolute;
     right: 50px;
@@ -10,8 +63,19 @@
     cursor: pointer;
 }
 
-$orange: #fe7600;
 
+
+@import 'components/grid';
+@import 'components/logo';
+@import 'components/header';
+@import 'components/navigation';
+@import 'components/footer-navigation';
+@import 'components/footer';
+@import 'components/hero';
+@import 'components/buttons';
+@import 'components/feature';
+@import 'components/caption';
+@import 'components/search-form';
 @import 'components/table';
 @import 'components/fitness-and-exercise';
 @import 'components/secondary-nav';

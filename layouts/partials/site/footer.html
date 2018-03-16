@@ -1,15 +1,33 @@
-<footer class="site-footer" role="contentinfo"> 
-    <div class="footercontent">
-        <a href="{{ .Site.BaseURL }}" >
-            <img src="{{ "images/footer-brand.svg" | absURL }}" alt="bagnall logo">
-        </a>
-        <br>
-        <div class="marginspacetwo"></div>
-        <a href="/bagnall-story">The Bagnall Story</a> <a href="/news">News</a><br>
-        <div class="marginspacetwo"></div>
-        <span class="smalltext">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare
+
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+
+        <div class="logo">
+            <a href="{{ .Site.BaseURL }}" >
+                {{ partial "footer-logo.svg" . }}
+            </a>
+        </div>
+
+        <ul class="footer-navigation">
+            <li class="footer-navigation__item">
+                <a href="/bagnall-story" class="footer-navigation__link">The Bagnall Story</a>
+            </li>
+            <li class="footer-navigation__item">
+                <a href="/news" class="footer-navigation__link">News</a>
+            </li>
+        </ul>
+
+        <span class="smalltext">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare</span>
+
     </div>
+
 </footer>
+
+
+
+
+
 
 <div class="social-media-wrapper">
     <a href="{{ $.Site.Data.social.facebook }}" target="_blank" rel="noopener">
