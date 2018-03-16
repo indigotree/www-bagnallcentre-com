@@ -1,25 +1,4 @@
 
-h1, h2, h3 {
-    font-weight: 400;
-}
-
-h1 {
-    color: #464e5b;
-    font-size:2.5em; /* 32px at 16px body */
-    line-height:1;
-}
-
-h2 {
-    color: #fe7600;
-    font-size:1.750em;
-    line-height:1.1;
-}
-
-h3 {
-    color: #fe7600;
-    font-size:1.500em;
-    line-height:1.1;
-}
 .phone {
     color: #fe7600;
     font-size: 2em;

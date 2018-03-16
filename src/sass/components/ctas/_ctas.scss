@@ -1,0 +1,13 @@
+.cta {
+
+    &s {
+        @media screen and (min-width: $screen-sm) {
+            display: flex;
+        }
+    }
+
+    @import 'contact';
+
+    @import 'mailing';
+
+}
