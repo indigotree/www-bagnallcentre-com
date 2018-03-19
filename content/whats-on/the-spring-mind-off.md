@@ -2,7 +2,7 @@
 title: The Spring Mind Off
 description: Meditation and Conscious Living made Easy & Fun with Terry Breeze
 yoast_keyword: Meditation Spring
-start_time: 2018-04-15T10:00:33+01:00
+start_time: 2018-04-15T10:00:00Z
 featured_image: /uploads/narcissus.jpg
 ---
 Through a varied sequence of meditations, exercises and contemplations, we will help each other to find a more beautiful life. 
