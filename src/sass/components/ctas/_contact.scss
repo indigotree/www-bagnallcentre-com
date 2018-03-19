@@ -1,9 +1,9 @@
 &-contact {
-    background: #fe7600 url(../images/white-translucent-tree.svg) no-repeat;
+    background: #fe7600 url('../images/white-translucent-tree.svg') no-repeat;
     background-position: bottom right;
     background-size: 56%;
     padding: 30px 20px;
-    
+
     @media screen and (min-width: $screen-sm) {
         flex: 1 1 50%;
         max-width: 50%;
@@ -11,12 +11,8 @@
 
     &__title {
         color: #fff;
-        margin: 0 0 20px 0;
+        margin: 0 0 20px;
         display: block;
-
-        @media screen and (min-width: $screen-sm) {
-            padding-right: 250px;
-        }
     }
 
     &__telephone {

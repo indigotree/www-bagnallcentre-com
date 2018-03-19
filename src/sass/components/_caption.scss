@@ -1,16 +1,16 @@
 .caption {
-    background-color: rgba(#ffffff, 0.9);
-    padding: 10px 10px 80px 10px;
+    background-color: rgba(#fff, .9);
+    padding: 10px 10px 80px;
     max-width: 80%;
     margin: 0 auto;
     text-align: center;
     position: relative;
     border-radius: 4px;
     overflow: hidden;
-    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
 
     @media screen and (min-width: $screen-sm) {
-        padding: 15px 20px 70px 20px;
+        padding: 15px 20px 70px;
         text-align: left;
         border-top-right-radius: 0;
         border-top-left-radius: 0;
@@ -20,12 +20,12 @@
 
     @media screen and (min-width: $screen-md) {
         max-width: 445px;
-        padding: 20px 30px 70px 30px;
+        padding: 20px 30px 70px;
     }
 
     @media screen and (min-width: $screen-lg) {
         max-width: 500px;
-        padding: 30px 40px 90px 40px;
+        padding: 30px 40px 90px;
     }
 
     &__title {

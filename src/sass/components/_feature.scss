@@ -29,7 +29,7 @@
         display: inline-block;
         text-align: right;
         padding: 10px;
-        background: rgba($brand-primary, 0.7);
+        background: rgba($brand-primary, .7);
         text-transform: uppercase;
         color: #fff;
         font-size: 13px;
@@ -48,15 +48,17 @@
 
     }
 
-    &:hover::after {
-        content: '';
-        position: absolute;
-        z-index: 99;
-        left: 0;
-        top: 0;
-        background: rgba(#fff, 0.2);
-        right: 0;
-        bottom: 0;
+    &:hover {
+        &::after {
+            content: '';
+            position: absolute;
+            z-index: 99;
+            left: 0;
+            top: 0;
+            background: rgba(#fff, .2);
+            right: 0;
+            bottom: 0;
+        }
     }
 
     &.feature--danger &__title {
