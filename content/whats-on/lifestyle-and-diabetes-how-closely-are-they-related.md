@@ -24,7 +24,7 @@ With all of the complications that this life-changing condition can lead to; fro
 
 * **Professor Robert Thomas** - Consultant Oncologist, Bedford and Addenbrooke’s Cambridge University Hospitals, Visiting Professor University of Bedfordshire, Visiting Professor Applied Biological & Exercise, Coventry University, Senior Clinical Tutor Cambridge University.
 * **Dr Reinhard Kowalski** - Consultant Clinical Psychologist and Psychotherapist, author, mindfulness and meditation teacher, energy psychologist.
-* **Dr Aryan Tavakkoli**- Consultant Physician and Founder of Quantum Clinic, a progressive medical clinic offering a Functional Medicine and Integrative Medicine approach to chronic disease.
+* **Dr Aryan Tavakkoli** - Consultant Physician and Founder of Quantum Clinic, a progressive medical clinic offering a Functional Medicine and Integrative Medicine approach to chronic disease.
 * **Dr Kesar Sadhra** - GP at Manor Park Medical Centre, the lowest UK spender on diabetes medication and one of the overall top performers in diabetes control.
 
 **RCGP accreditation is in process. **
