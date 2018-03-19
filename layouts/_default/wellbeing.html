@@ -1,21 +1,19 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero inner-hero--secondary">
         <img src="{{ "uploads/header-therapies.jpg" | absURL }}" alt="therapist checking ladies arm">
-        <div class="purpleherotext"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
-            
-            <div class="secondary-nav secondary-nav--purple">
-                <a href="/therapy-and-wellbeing/">Therapies</a>
-                <span>Wellbeing</span>
-            </div>
+    <div class="bg--grey content-area content-area--no-top">
 
-            {{ .Content }}
-
+        <div class="secondary-nav secondary-nav--purple">
+            <a href="/therapy-and-wellbeing/">Therapies</a>
+            <span>Wellbeing</span>
         </div>
+
+        {{ .Content }}
+
     </div>
 
 {{ end }}

@@ -1,6 +1,6 @@
 &-mailing {
     background: #464e5b;
-    padding: 48px 20px;
+    padding: 30px 20px;
     color: #fff;
 
     @media screen and (min-width: $screen-sm) {
@@ -29,11 +29,71 @@
 
     &__body {
         clear: both;
+
+        @media screen and (min-width: $screen-sm) {
+            padding-right: 80px;
+            position: relative;
+        }
+
     }
 
     &__description {
         display: block;
         margin: 0 0 20px;
+
+        @media screen and (min-width: $screen-sm) {
+            font-size: 13px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 16px;
+        }
+    }
+
+    &__input {
+        background-color: #3f4751;
+        border: 1px solid #6f7d8c;
+        border-radius: 5px;
+        box-sizing: border-box;
+        color: #fff;
+        font-size: 14px;
+        height: 40px;
+        padding: 0 20px;
+        outline: none;
+        width: 100%;
+        margin-bottom: 20px;
+        -webkit-appearance: none;
+
+        @media screen and (min-width: $screen-sm) {
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            border-right: 0;
+        }
+    }
+
+    &__button {
+        background-color: #fe7600;
+        border: none;
+        cursor: pointer;
+        height: 40px;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 900;
+        text-transform: uppercase;
+        outline: none;
+        display: block;
+        width: 100%;
+        border-radius: 5px;
+
+        @media screen and (min-width: $screen-sm) {
+            position: absolute;
+            float: left;
+            right: 0;
+            width: 80px;
+            top: 0;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+        }
     }
 
 }

@@ -1,0 +1,53 @@
+.inner-hero {
+    position: relative;
+    margin-bottom: 42px;
+
+    @media screen and (min-width: $screen-sm) {
+        margin: 0;
+    }
+
+    > img {
+        display: block;
+    }
+
+    &__title {
+        position: absolute;
+        padding: 10px 20px;
+        display: block;
+        background: rgba($brand-primary, .9);
+        font-weight: 900;
+        font-size: 20px;
+        margin: 0;
+        color: #fff;
+        text-transform: uppercase;
+        top: 100%;
+        left: 0;
+        width: 100%;
+
+        @media screen and (min-width: $screen-sm) {
+            padding: 20px 30px;
+            font-size: 28px;
+            bottom: 0;
+            left: 30px;
+            top: auto;
+            width: auto;
+        }
+    }
+
+    &--danger &__title {
+        background: rgba($brand-danger, .9);
+    }
+
+    &--secondary &__title {
+        background: rgba($brand-secondary, .9);
+    }
+
+    &--success &__title {
+        background: rgba($brand-success, .9);
+    }
+
+    &--info &__title {
+        background: rgba($brand-info, .9);
+    }
+
+}

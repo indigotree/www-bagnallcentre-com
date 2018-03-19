@@ -1,16 +1,12 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-whatson.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">What's on</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
-
-            {{ .Content }}
-            
-        </div>
+    <div class="bg--grey content-area content-area--no-top">
+        {{ .Content }}
     </div>
 
 {{ end }}

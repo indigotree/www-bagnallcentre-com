@@ -1,23 +1,23 @@
-<div class="one-col-flex-home">
+<div class="whats-ons">
 
     {{ range first 3 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
 
-        <div class="one-third-col-flex">
-            <a href="{{ .Permalink }}">
-            <div class="eventwrapper">
-                <div class="imageboxes">
+        <div class="whats-on">
+            <a href="{{ .Permalink }}" class="whats-on__image-link">
+                <div class="whats-on__image">
                     {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
                     {{ partial "image.html" ( dict "Src" .Params.featured_image "Crop" "510x250" "Alt" $alt "Scope" . ) }}
                 </div>
-                <div class="titleboxes">
-                    <span class="mediumtext">{{ .Title }}</span>
-                </div>
-            </div>
-            <div class="eventtext">
-                <span class="orangetext"><i aria-hidden="true" class="fa fa-calendar"></i><b>{{ dateFormat "2 January at 3:04pm" .Params.starts_at }}</b></span>
-                <p>{{ .Params.description }}<br>
-                <span class="orangetext">See more</span></p>
-            </div></a>
+                <h2 class="whats-on__title">{{ .Title }}</h2>
+            </a>
+            <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.starts_at }}" class="whats-on__date" >
+                <i aria-hidden="true" class="fa fa-calendar"></i>
+                {{ dateFormat "2 January at 3:04pm" .Params.starts_at }}
+            </time>
+            <p class="whats-on__description">
+                {{ .Params.description }}
+            </p>
+            <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
         </div>
 
     {{ end }}

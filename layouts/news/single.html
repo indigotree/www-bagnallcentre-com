@@ -1,32 +1,29 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
-        <div class="herotext-pages">
-            <span class="largetext">News</span>
-        </div>
+        <h2 class="inner-hero__title">News</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area">
 
-            <div class="three-quarter-col colpadding-right">
+        <div class="row">
+
+            <div class="col-md-8">
                 <h1>{{ .Title }}</h1>
+
                 {{ .Content }}
             </div>
-            
-            <div class="one-quarter-col">
 
+            <div class="col-md-4">
                 {{ partial "articles" . }}
 
                 {{ partial "whats-on-widget" . }}
             
                 {{ partial "mailing-list" . }}
-
             </div>
 
-
         </div>
-    </div>
 
+    </div>
 {{ end }}

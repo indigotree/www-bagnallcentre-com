@@ -1,34 +1,31 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area content-area--no-top">
 
-            <div class="secondary-nav">
-                <a href="/working-with-us/">Practitioners</a>
-                <span>Our Rooms</span>
-                <a href="/working-with-us/rental-fees/">Rental Fees &amp; Times</a>
-                <a href="/working-with-us/apply/">Apply</a>
-            </div>
+        <div class="secondary-nav">
+            <a href="/working-with-us/">Practitioners</a>
+            <span>Our Rooms</span>
+            <a href="/working-with-us/rental-fees/">Rental Fees &amp; Times</a>
+            <a href="/working-with-us/apply/">Apply</a>
+        </div>
             
-            <div class="mobile-nav-spacer">
-                <br>
-            </div>
+        <div class="row">
 
-            <div class="three-quarter-col colpadding-right">
+            <div class="col-md-8">
                 {{ .Content }}
             </div>
 
-            <div class="one-quarter-col">
+            <div class="col-md-4">
                 {{ partialCached "working-with-us-column" . }}
             </div>
 
-
         </div>
+
     </div>
 
 {{ end }}

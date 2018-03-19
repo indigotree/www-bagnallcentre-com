@@ -1,21 +1,19 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero inner-hero--success">
         <img src="{{ "uploads/header-nutrition.jpg" | absURL }}" alt="a bowl of fruit and person in background meditating">
-        <div class="greenherotext"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area content-area--no-top">
 
-            <div class="secondary-nav secondary-nav--green">
-                <a href="/nutrition-and-lifestyle/">Nutrition</a>
-                <span>Lifestyle</span> 
-            </div>
-
-            {{ .Content }}
-
+        <div class="secondary-nav secondary-nav--green">
+            <a href="/nutrition-and-lifestyle/">Nutrition</a>
+            <span>Lifestyle</span> 
         </div>
+
+        {{ .Content }}
+
     </div>
 
 {{ end }}

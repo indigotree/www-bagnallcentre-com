@@ -1,18 +1,16 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero inner-hero--danger">
         <img src="{{ "uploads/header-fitness.jpg" | absURL }}" alt="Fitness and Exercise">
-        <div class="redherotext"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
-            <div class="one-col">
-                {{ .Content }}
+    <div class="bg--grey content-area content-area--danger">
 
-                {{ partial "events" . }}
-            </div>
-        </div>
+        {{ .Content }}
+
+        {{ partial "events" . }}
+
     </div>
 
 {{ end }}

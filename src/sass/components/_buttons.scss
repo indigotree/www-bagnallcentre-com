@@ -6,6 +6,7 @@
     text-transform: uppercase;
     font-weight: 700;
     font-size: 14px;
+    border: 0;
 
     &-primary {
         background: $brand-primary;
@@ -15,6 +16,11 @@
         &:focus {
             background: darken($brand-primary, 5%);
         }
+    }
+
+    &-block {
+        display: block;
+        width: 100%;
     }
 
     &-lg {
