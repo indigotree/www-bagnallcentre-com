@@ -89,7 +89,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-      - { label: "Starts At", name: "start_time", widget: "datetime" }
+      - { label: "Starts At", name: "starts_at", widget: "datetime" }
       - { label: "Featured Image", name: "featured_image", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
 

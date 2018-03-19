@@ -5,7 +5,7 @@ description: >-
   Friday 8th June aims to raise awareness of the importance of lifestyle in
   diabetes prevention, management and reversal .
 yoast_keyword: Diabetes
-start_time: 2018-06-08T09:00:00Z
+starts_at: 2018-06-08T09:00:00Z
 featured_image: /uploads/lifestyle-diabetes-event.png
 ---
 ![Half apple Half burger image](/uploads/lifestyle-diabetes-event.png)
