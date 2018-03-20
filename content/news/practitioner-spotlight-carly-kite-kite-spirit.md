@@ -23,7 +23,7 @@ This year I have learnt Ayurvedic massage with one of the Dru Yoga senior tutors
 
 I am now teaching four regular classes. Two in Rickmansworth at Loudwater Farm, one in St.Albans and now at this beautiful space in The Bagnall Centre. 
 
-I also run quarterly Dru Yoga & Meditation days with my husband at Loudwater Farm and Eastcote House Gardens. Our next retreat is at Eastcote House Gardens from 10am-4pm on Sunday 1st July. I teach the yoga parts of the day and my husband teaches meditation. They are wonderful days where we see positive changes in our students. 
+I also run quarterly Dru Yoga & Meditation days with my husband at Loudwater Farm and [Eastcote House Gardens](https://eastcotehousegardens.weebly.com/). Our next retreat is at Eastcote House Gardens from 10am-4pm on Sunday 1st July. I teach the yoga parts of the day and my husband teaches meditation. They are wonderful days where we see positive changes in our students. 
 
 My passion and love for Dru Yoga grows every day, as I see how it is not only changing my life but those around me as well. Seeing my students grow and feel better is such a wonderful gift and privilege.”  
 
