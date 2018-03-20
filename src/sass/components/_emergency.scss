@@ -6,11 +6,24 @@
     padding: 10px 0;
 
     @media screen and (min-width: $screen-sm) {
-        height: 62px;
+        min-height: 90px;
         overflow: hidden;
     }
 
-    p {
-        margin: 0;
+    h2 {
+        font-size: 16px;
+        color: #000;
     }
+
+    a {
+        color: #000;
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            color: #000;
+        }
+    }
+
+
 }

@@ -11,33 +11,6 @@ body {
     line-height: 1.5;
     margin: 0;
     padding: 0;
-
-    @media screen and (min-width: $screen-sm) {
-        padding-top: 116px;
-    }
-
-    @media screen and (min-width: $screen-md) {
-        padding-top: 86px;
-    }
-
-    @media screen and (min-width: $screen-lg) {
-        padding-top: 117px;
-    }
-
-    &.emergency--on {
-        @media screen and (min-width: $screen-sm) {
-            padding-top: 173px;
-        }
-    
-        @media screen and (min-width: $screen-md) {
-            padding-top: 157px;
-        }
-    
-        @media screen and (min-width: $screen-lg) {
-            padding-top: 188px;
-        }
-    }
-
 }
 
 img {

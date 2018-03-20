@@ -15,24 +15,6 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0; }
-  @media screen and (min-width: 768px) {
-    body {
-      padding-top: 116px; } }
-  @media screen and (min-width: 992px) {
-    body {
-      padding-top: 86px; } }
-  @media screen and (min-width: 1200px) {
-    body {
-      padding-top: 117px; } }
-  @media screen and (min-width: 768px) {
-    body.emergency--on {
-      padding-top: 173px; } }
-  @media screen and (min-width: 992px) {
-    body.emergency--on {
-      padding-top: 157px; } }
-  @media screen and (min-width: 1200px) {
-    body.emergency--on {
-      padding-top: 188px; } }
 
 img {
   max-width: 100%;
@@ -380,18 +362,21 @@ strong, b {
   padding: 10px 0; }
   @media screen and (min-width: 768px) {
     .emergency {
-      height: 62px;
+      min-height: 90px;
       overflow: hidden; } }
-  .emergency p {
-    margin: 0; }
+  .emergency h2 {
+    font-size: 16px;
+    color: #000; }
+  .emergency a {
+    color: #000;
+    text-decoration: underline; }
+    .emergency a:hover, .emergency a:focus {
+      color: #000; }
 
 .header {
   width: 100%; }
   @media screen and (min-width: 768px) {
     .header {
-      position: fixed;
-      top: 0;
-      z-index: 999;
       background: #fff; } }
   @media screen and (min-width: 768px) and (max-width: 992px) {
     .header {

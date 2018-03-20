@@ -95,20 +95,18 @@ collections:
 
   - name: "settings"
     label: "Settings"
-    editor:
-      preview: false
     files:
       
-      - name: "emergency"
-        label: "Emergency"
+      - label: "Emergency"
+        name: "emergency"
         file: "data/emergency.yml"
         description: "Emergency Message"
         fields: 
           - { label: "Enable or Disable", name: "enable", widget: "select", options: ["no", "yes"] }
-          - { label: "Message", name: "message", widget: "string" }
+          - { label: "Message", name: "body", widget: "markdown" }
 
-      - name: "social"
-        label: "Social"
+      - label: "Social"
+        name: "social"
         file: "data/social.yml"
         description: "Social"
         fields:
