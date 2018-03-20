@@ -7,27 +7,41 @@
 
     <div class="bg--grey content-area">
 
-        <div class="row">
+        <div class="whats-ons">
 
-            <div class="column--md-9">
-                {{ range first 1 (where .Site.RegularPages "Section" "news") }}
-                    <h1>{{ .Title }}</h1>
-                    <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
-                    <div class="orangeline"></div>
-                    <div class="article-content">
-                        {{ .Content }}
-                    </div>
-                {{ end }}
-            </div>
+            {{ range (.Paginator 9).Pages }}
+        
+                <div class="whats-on">
+                    <a href="{{ .Permalink }}" class="whats-on__image-link">
+                        <div class="whats-on__image">
+                            {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                            {{ $scope := . }}
+                            {{ with .Params.featured_image }}
+                                {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                            {{ else }}
+                                <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                            {{ end }}
+                        </div>
+                        <h2 class="whats-on__title">{{ .Title }}</h2>
+                    </a>
+                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.date }}" class="whats-on__date" >
+                        <i aria-hidden="true" class="fa fa-calendar"></i>
+                        {{ dateFormat "2 January at 3:04pm" .Params.date }}
+                    </time>
+                    <p class="whats-on__description">
+                        {{ with .Params.description }}
+                            {{ . }}
+                        {{ else }}
+                            {{ .Content | safeHTML | truncate 100 }}
+                        {{ end }}
+                    </p>
+                    <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
+                </div>
+        
+            {{ end }}
 
-            <div class="column--md-3">
-                {{ partial "articles" . }}
-
-                {{ partial "whats-on-widget" . }}
-
-                {{ partial "mailing-list" . }}
-            </div>
-
+            {{ template "_internal/pagination.html" . }}
+        
         </div>
 
     </div>
