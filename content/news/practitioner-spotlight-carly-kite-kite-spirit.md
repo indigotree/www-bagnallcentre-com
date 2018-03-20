@@ -27,7 +27,7 @@ I also run quarterly Dru Yoga & Meditation days with my husband at Loudwater Far
 
 My passion and love for Dru Yoga grows every day, as I see how it is not only changing my life but those around me as well. Seeing my students grow and feel better is such a wonderful gift and privilege.”  
 
-You can read more about Carly on her website here.
+You can read more about Carly on her website [here](http://www.kitespirit.co.uk/).
 
 _For an introduction to Dru Yoga, take a look at these videos Carly has shared with us._  
 
