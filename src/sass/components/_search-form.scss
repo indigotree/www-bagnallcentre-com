@@ -8,6 +8,10 @@
     text-align: right;
     display: none;
 
+    @media screen and (max-width: $screen-md) {
+        display: none !important;
+    }
+
     &__label {
         display: block;
         color: #fff;

@@ -4,17 +4,13 @@
 .ais-search-box {
     position: absolute;
     right: 15px;
-    top: 0px;
+    top: 0;
 }
 
 .button--reset {
     border: 0;
     background: none;
     cursor: pointer;
-}
-
-#email + p a {
-    word-break: break-all;
 }
 
 .sr {
