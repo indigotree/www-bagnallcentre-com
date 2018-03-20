@@ -1,5 +1,13 @@
 <header class="header" role="banner">
 
+    {{ if eq $.Site.Data.emergency.enable "yes" }}
+    <div class="emergency">
+        <div class="container">
+            <p>{{ $.Site.Data.emergency.message }}</p>
+        </div>
+    </div>
+    {{ end }}
+
     <div class="container">
 
         {{ partial "navigation.html" . }}

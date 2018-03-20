@@ -13,15 +13,29 @@ body {
     padding: 0;
 
     @media screen and (min-width: $screen-sm) {
-        padding-top: 114px;
+        padding-top: 116px;
     }
 
     @media screen and (min-width: $screen-md) {
-        padding-top: 99px;
+        padding-top: 86px;
     }
 
     @media screen and (min-width: $screen-lg) {
-        padding-top: 130px;
+        padding-top: 117px;
+    }
+
+    &.emergency--on {
+        @media screen and (min-width: $screen-sm) {
+            padding-top: 173px;
+        }
+    
+        @media screen and (min-width: $screen-md) {
+            padding-top: 157px;
+        }
+    
+        @media screen and (min-width: $screen-lg) {
+            padding-top: 188px;
+        }
     }
 
 }

@@ -99,6 +99,14 @@ collections:
       preview: false
     files:
       
+      - name: "emergency"
+        label: "Emergency"
+        file: "data/emergency.yml"
+        description: "Emergency Message"
+        fields: 
+          - { label: "Enable or Disable", name: "enable", widget: "select", options: ["no", "yes"] }
+          - { label: "Message", name: "message", widget: "string" }
+
       - name: "social"
         label: "Social"
         file: "data/social.yml"

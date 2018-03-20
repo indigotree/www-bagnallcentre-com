@@ -1,0 +1,16 @@
+.emergency {
+    margin-bottom: 10px;
+    background: #84A886;
+    color: #000;
+    font-size: 14px;
+    padding: 10px 0;
+
+    @media screen and (min-width: $screen-sm) {
+        height: 62px;
+        overflow: hidden;
+    }
+
+    p {
+        margin: 0;
+    }
+}
