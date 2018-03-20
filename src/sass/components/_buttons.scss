@@ -1,3 +1,13 @@
+@mixin button-context($background, $text) {
+    background-color: $background;
+    color: $text;
+
+    &:hover, &:focus {
+        color: $text;
+        background-color: darken($background, 10%);
+    }
+}
+
 .btn {
     border-radius: 3px;
     padding: 8px 20px;
@@ -44,6 +54,19 @@
 
     &-icons {
         line-height: 27px;
+    }
+
+    &--facebook {
+        @include button-context(#3B5998, #fff);
+    }
+    &--twitter {
+        @include button-context(#1DA1F2, #fff);
+    }
+    &--google {
+        @include button-context(#DB4437, #fff);
+    }
+    &--linkedin {
+        @include button-context(#007BB5, #fff);
     }
 
 }

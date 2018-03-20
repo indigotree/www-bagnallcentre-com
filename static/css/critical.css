@@ -667,6 +667,30 @@ strong, b {
         float: right; }
   .btn-icons {
     line-height: 27px; }
+  .btn--facebook {
+    background-color: #3B5998;
+    color: #fff; }
+    .btn--facebook:hover, .btn--facebook:focus {
+      color: #fff;
+      background-color: #2d4373; }
+  .btn--twitter {
+    background-color: #1DA1F2;
+    color: #fff; }
+    .btn--twitter:hover, .btn--twitter:focus {
+      color: #fff;
+      background-color: #0c85d0; }
+  .btn--google {
+    background-color: #DB4437;
+    color: #fff; }
+    .btn--google:hover, .btn--google:focus {
+      color: #fff;
+      background-color: #bd2e22; }
+  .btn--linkedin {
+    background-color: #007BB5;
+    color: #fff; }
+    .btn--linkedin:hover, .btn--linkedin:focus {
+      color: #fff;
+      background-color: #005882; }
 
 .feature {
   display: block;
@@ -760,6 +784,8 @@ strong, b {
         left: 30px;
         top: auto;
         width: auto; } }
+    .inner-hero__title::after {
+      display: none; }
   .inner-hero--danger .inner-hero__title {
     background: rgba(209, 5, 0, 0.9); }
   .inner-hero--secondary .inner-hero__title {

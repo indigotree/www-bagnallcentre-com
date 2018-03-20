@@ -32,6 +32,10 @@
             top: auto;
             width: auto;
         }
+
+        &::after {
+            display: none;
+        }
     }
 
     &--danger &__title {

@@ -13,6 +13,8 @@
                 <h1>{{ .Title }}</h1>
 
                 {{ .Content }}
+
+                {{ partial "share.html" (dict "Url" .Permalink "Title" .Title "Scope" .) }}
             </div>
 
             <div class="column--md-3">

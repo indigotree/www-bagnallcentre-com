@@ -1,0 +1,23 @@
+.share-buttons {
+    margin-bottom: 20px;
+
+    &__heading {
+        color: #666666;
+        text-transform: uppercase;
+        font-weight: normal;
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    &__list {
+        margin: 0;
+        padding-left: 0;
+        line-height: 1;
+    }
+    
+    &__item {
+        list-style: none;
+        display: inline-block;
+        margin-bottom: 5px;
+    }
+}
