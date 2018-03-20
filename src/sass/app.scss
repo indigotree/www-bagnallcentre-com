@@ -20,6 +20,10 @@
     cursor: pointer;
 }
 
+#email + p a {
+    word-break: break-all;
+}
+
 @import 'components/grid';
 @import 'components/logo';
 @import 'components/header';
