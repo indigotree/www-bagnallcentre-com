@@ -1,5 +1,7 @@
 .header {
     width: 100%;
+    position: relative;
+    z-index: 999;
 
     @media screen and (min-width: $navigation-break-point) {
         background: #fff;
