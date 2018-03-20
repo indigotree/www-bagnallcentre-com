@@ -1,21 +1,21 @@
+$container: (
+    sm: 750px,
+    md: 970px,
+    lg: 1170px
+);
+
+$breakpoints: (
+    xs: 0,
+    sm: $screen-sm,
+    md: $screen-md,
+    lg: $screen-lg
+);
+
 .container {
-    @include clearfix();
-    margin: 0 auto;
-    width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
     position: relative;
+    @include make-container();
+}
 
-    @media screen and (min-width: $screen-sm) {
-        width: 750px;
-    }
-
-    @media screen and (min-width: $screen-md) {
-        width: 970px;
-    }
-
-    @media screen and (min-width: $screen-lg) {
-        width: 1170px;
-    }
-
+.row {
+    @include make-row();
 }

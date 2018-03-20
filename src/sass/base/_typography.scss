@@ -30,10 +30,12 @@
 
 a {
     color: $brand-primary;
+    text-decoration: none;
 
     &:hover,
     &:focus {
         color: $brand-primary;
+        text-decoration: underline;
     }
 
 }

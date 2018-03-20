@@ -9,7 +9,7 @@
 
         <div class="row">
 
-            <div class="col-md-8">
+            <div class="column--md-9">
                 {{ range first 1 (where .Site.RegularPages "Section" "news") }}
                     <h1>{{ .Title }}</h1>
                     <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
@@ -20,7 +20,7 @@
                 {{ end }}
             </div>
 
-            <div class="col-md-4">
+            <div class="column--md-3">
                 {{ partial "articles" . }}
 
                 {{ partial "whats-on-widget" . }}

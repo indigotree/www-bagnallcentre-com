@@ -1,0 +1,19 @@
+$grid-size: 12 !default;
+
+$breakpoints: (
+    sm: 544px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px
+) !default;
+
+$container: (
+    sm: 576px,
+    md: 720px,
+    lg: 940px,
+    xl: 1140px
+) !default;
+
+$fluid-container-max: 100% !default;
+
+$gutter: 30px !default;

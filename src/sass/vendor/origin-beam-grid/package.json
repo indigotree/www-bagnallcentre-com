@@ -1,0 +1,15 @@
+{
+    "name": "origin-beam-grid",
+    "description": "The powerful, lightweight grid system",
+    "version": "1.0.5",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/origin-wp/origin-beam-grid"
+    },
+    "homepage": "http://www.ltconsulting.co.uk",
+    "author": "David Hewitt <david.hewitt@ltconsulting.co.uk> (http://www.ltconsulting.co.uk/)",
+    "licence": "MIT",
+    "dependencies": {
+        "origin-beam-utilities": "*"
+    }
+}

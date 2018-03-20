@@ -1,12 +1,5 @@
-//@import 'vendor/reset';
-
 @import 'helpers/variables';
 @import 'helpers/mixins';
-
-@import 'base/base';
-@import 'base/typography';
-
-
 
 .ais-search-box {
     position: absolute;
@@ -24,26 +17,21 @@
     word-break: break-all;
 }
 
-@import 'components/grid';
-@import 'components/logo';
-@import 'components/header';
-@import 'components/navigation';
+.sr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
 @import 'components/footer-navigation';
 @import 'components/footer';
-@import 'components/hero';
-@import 'components/buttons';
-@import 'components/feature';
-@import 'components/caption';
-@import 'components/search-form';
 @import 'components/ctas/ctas';
 @import 'components/table';
 @import 'components/fitness-and-exercise';
+@import 'components/form';
 @import 'components/secondary-nav';
-@import 'components/bg';
 @import 'components/featured-whats-on';
 @import 'components/whats-on';
-@import 'components/inner-hero';
-@import 'components/content-area';
 @import 'components/day';
 @import 'components/activity';
 @import 'components/activities';
@@ -51,9 +39,3 @@
 @import 'components/whatson-widget';
 @import 'components/mailing-list-widget';
 @import 'components/social-media';
-
-.sr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-}
