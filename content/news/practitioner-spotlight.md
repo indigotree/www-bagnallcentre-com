@@ -1,8 +1,5 @@
 ---
-title: |-
-  PRACTITIONER SPOTLIGHT
-
-  Betty Zee - BZeeFitness
+title: <span>PRACTITIONER SPOTLIGHT<br/>Betty Zee - BZeeFitness</span>
 description: Spotlight
 yoast_keyword: BZeeFitness
 date: 2018-02-16T10:34:25.000Z
