@@ -13,4 +13,4 @@ Come to Terry Breeze’s The Spring Mind Off on Sunday 15th April 10am-12pm.
 
 £9 - all proceeds to Buckinghamshire Mind.
 
-To book your place, email <mailto:bookings@bagnallcentre.com> (bookings@bagnallcentre.com) or call <a href="tel:+441494791288">01494 791288</a>
+To book your place, email <mailto:bookings@bagnallcentre.com> or call <a href="tel:+441494791288">01494 791288</a>
