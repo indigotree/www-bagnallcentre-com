@@ -1,30 +1,14 @@
-<div class="products">
+<div class="activities">
 
-    <!-- HEADER -->
-    <div class="one-col-class-header">
-        <div class="classdate classborder">
-            Day
-        </div>
-        <div class="classtime classborder">
-            Time
-        </div>
-        <div class="classtitle classborder">
-            Class
-        </div>
-        <div class="classprice classborder">
-            Price
-        </div>
-        <div class="classroom classborder">
-            Room
-        </div>
-        <div class="classterm classborder">
-            Term
-        </div>
-        <div class="classbooking classborder">
-            Booking
-        </div>
+    <div class="activities__header">
+        <div class="activities__column activities--day">Day</div>
+        <div class="activities__column activities--time">Time</div>
+        <div class="activities__column activities--class">Class</div>
+        <div class="activities__column activities--price">Price</div>
+        <div class="activities__column activities--room">Room</div>
+        <div class="activities__column activities--term">Term</div>
+        <div class="activities__column activities--booking">Booking</div>
     </div>
-    <!-- END HEADER -->
 
     {{ $scope := . }}
     {{ range (slice "monday" "tuesday" "wednesday" "thursday" "friday" "saturday") }}

@@ -26,6 +26,23 @@
 
     &-lg {
         padding: 14px 40px;
+
+        .fa {
+            font-size: 25px;
+
+            &-calendar {
+                float: left;
+            }
+
+            &-arrow-right {
+                float: right;
+            }
+        }
+
+    }
+
+    &-icons {
+        line-height: 27px;
     }
 
 }

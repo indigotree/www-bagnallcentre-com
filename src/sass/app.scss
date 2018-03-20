@@ -10,8 +10,8 @@
 
 .ais-search-box {
     position: absolute;
-    right: 50px;
-    top: 30px;
+    right: 15px;
+    top: 0px;
 }
 
 .button--reset {
@@ -40,6 +40,13 @@
 @import 'components/whats-on';
 @import 'components/inner-hero';
 @import 'components/content-area';
+@import 'components/day';
+@import 'components/activity';
+@import 'components/activities';
+@import 'components/room';
+@import 'components/whatson-widget';
+@import 'components/mailing-list-widget';
+@import 'components/social-media';
 
 .sr {
     position: absolute;

@@ -1,36 +1,40 @@
 {{ $day := .day }}
-<div class="day-wrapper">
-    <div class="day-label {{ $day }}-bg"><img src="/images/{{ $day }}.svg" width="20px"></div>
+<div class="day">
+    <div class="day__name day--{{ $day }}"><img src="/images/{{ $day }}.svg" width="20px"></div>
     
     {{ range (where (.Scope.Site.RegularPages.ByParam "start_time") "Section" "fitness-and-exercise") }}
         {{ if eq .Params.event_day $day }}
 
-            <div class="one-col-class classhover">
-                <div class="classtime classborder">
-                    {{ dateFormat "15:04" .Params.start_time }} - {{ dateFormat "15:04" .Params.end_time }}
+            <div class="activity">
+                <div class="activities--time">
+                    <span class="activity__label">Time:</span>
+                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.start_time }}">{{ dateFormat "15:04" .Params.start_time }}</time> - <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.end_time }}">{{ dateFormat "15:04" .Params.end_time }}</time>
                 </div>
-                <div class="classtitle classborder">
-                    <span class="class-title">{{ .Title }}</span><br>
+                <div class="activities--class">
+                    <span class="activity__label">Class:</span>
+                    <span class="activity__title">{{ .Title }}</span><br>
                     {{ .Params.level }} <i>with {{ .Params.associate }}</i>
                 </div>
-                <div class="classprice classborder">
+                <div class="activities--price">
+                    <span class="activity__label">Price:</span>
                     {{ .Params.price }}
                 </div>
-                <div class="classroom classborder">
+                <div class="activities--room">
+                    <span class="activity__label">Room:</span>
                     {{ .Params.room }}
                 </div>
-                <div class="classterm classborder">
+                <div class="activities--term">
+                    <span class="activity__label">Term:</span>
                     {{ .Params.term }}
                 </div>
-                <div class="classbooking classborder">
-                    <div class="small-button">
-                        <a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ humanize .Params.event_day }}&associate={{ .Params.associate }}">Book</a>
-                    </div>
+                <div class="activities--booking">
+                    <span class="activity__label">Booking:</span>
+                    <a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ humanize .Params.event_day }}&associate={{ .Params.associate }}" class="btn btn-primary">Book</a>
                 </div>
             </div>
 
-            <div class="productdescription">
-                <p><span class="text-monday">{{ .Title }} ({{ .Params.level }}) with {{ .Params.associate }}</span></p>
+            <div class="activity__description">
+                <p class="activity__name">{{ .Title }} ({{ .Params.level }}) with {{ .Params.associate }}</p>
                 {{ .Content }}
             </div>
 

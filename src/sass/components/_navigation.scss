@@ -96,6 +96,7 @@
         padding: 10px 18px;
         text-decoration: none;
         text-transform: uppercase;
+        transition: color .3s ease;
 
         @media screen and (min-width: $navigation-break-point) {
             color: #5b6677;
@@ -118,6 +119,15 @@
             padding: 10px 12px;
         }
 
+        &:hover,
+        &:focus {
+            color: $brand-primary;
+
+            .fa {
+                color: #fff;
+            }
+        }
+
         .fa {
             display: none;
 
@@ -125,6 +135,22 @@
                 display: block;
             }
         }
+    }
+
+    &--active a {
+        color: $brand-primary;
+    }
+
+    &__item.navigation--active:nth-child(2) a {
+        color: $brand-danger;
+    }
+
+    &__item.navigation--active:nth-child(3) a {
+        color: $brand-secondary;
+    }
+
+    &__item.navigation--active:nth-child(4) a {
+        color: $brand-success;
     }
 
 }

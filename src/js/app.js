@@ -65,9 +65,10 @@
      * @param {Object} event 
      */
     function toggleAccordion(event) {
-        if (event.target == $(this).find('.small-button')[0] || event.target == $(this).find('.small-button > a')[0]) {
+        if (event.target == $(this).find('.btn')[0] || event.target == $(this).find('.btn')[0]) {
             return;
         }
+        $(this).toggleClass('active');
         $(this).next().slideToggle("slow");
         return false;
     }
@@ -82,7 +83,7 @@
         // Events
         //
         $('[data-toggle]').on('click', toggleCollapse);
-        $(".products .one-col-class, .productsmobile .one-col-class").on('click', toggleAccordion);
+        $(".activities .activity").on('click', toggleAccordion);
         $(window).on('scroll', addBoxShadow);
         if (window.location.pathname === '/search/') {
             $('#search-button-toggle').on('click', function () {

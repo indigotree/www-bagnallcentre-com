@@ -1,17 +1,13 @@
-<div class="whatsonsignup">
+<a class="btn btn-primary btn-icons btn-lg btn-block" href="/whats-on">
+    <i class="fa fa-calendar"></i>
+    What's on
+    <i class="fa fa-arrow-right"></i>
+</a>
 
-    <a class="button button-with-icons" href="/whats-on">
-        <i aria-hidden="true" class="fa fa-calendar"></i>
-        What's on
-        <i aria-hidden="true" class="fa fa-arrow-right"></i>
-    </a>
-
-    <div class="marginspace"></div>
-
-    <span class="mediumtext"><i aria-hidden="true" class="fa fa-envelope-o"></i>Join our mailing list</span>
-
-    <form action="/news/" class="signupform" method="post">
-        <input id="email" name="email" onblur="this.placeholder = &#39;your@emailaddress.co.uk&#39;" onfocus="this.placeholder = &#39;&#39;" placeholder="your@emailaddress.co.uk" required="" type="email" value=""> <input name="submit" type="submit" value="">
-    </form>
-
-</div>
+<form action="/news/" method="post" class="mailing-list-widget">
+    <h2 class="mailing-list-widget__title"><i class="fa fa-envelope-o"></i>Join our mailing list</h2>
+    <div class="mailing-list-widget__group">
+        <input id="email" name="email" class="mailing-list-widget__input" placeholder="your@emailaddress.co.uk" required="required" type="email">
+        <button name="submit" type="submit" class="btn btn-primary mailing-list-widget__button"><i class="fa fa-edit"></i></button>
+    </div>
+</form>
