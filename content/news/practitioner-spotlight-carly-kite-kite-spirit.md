@@ -32,3 +32,9 @@ You can read more about Carly on her website here.
 _For an introduction to Dru Yoga, take a look at these videos Carly has shared with us._  
 
 <https://druyoga.com/yoga-online/video/energy-block-release-1-short-version>
+
+<https://druyoga.com/yoga-online/video/what-is-an-ebr-in-dru-yoga>
+
+<https://druyoga.com/yoga-online/video/meditation-for-relieving-anxiety>
+
+_With its foundations set firmly in ancient yogic tradition and its emphasis on soft, flowing movements, Dru Yoga can help increase energy levels, ease back pain, and wash away stress._
