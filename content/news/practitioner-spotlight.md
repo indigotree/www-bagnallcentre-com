@@ -1,5 +1,7 @@
 ---
-title: PRACTITIONER SPOTLIGHT Betty Zee - BZeeFitness
+title: PRACTITIONER SPOTLIGHT<br/>Betty Zee - BZeeFitness
+description: Spotlight
+yoast_keyword: BZeeFitness
 date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
 ---
