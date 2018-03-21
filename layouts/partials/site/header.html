@@ -12,7 +12,7 @@
 
         {{ partial "navigation.html" . }}
 
-        {{ partial "logo.html" . }}
+        {{ partialCached "logo.html" . }}
 
         <button type="button" class="navigation__toggle" data-toggle="#navigation">
             <span></span><span></span><span></span>
@@ -20,6 +20,6 @@
 
     </div>
 
-    {{ partial "search-form" . }}
+    {{ partialCached "search-form" . }}
 
 </header>

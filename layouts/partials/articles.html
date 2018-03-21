@@ -1,8 +1,0 @@
-<div class="articles">
-                    
-    <h2>Articles</h2>
-    {{ range where .Site.RegularPages.ByDate.Reverse "Section" "news" }}
-        <p><b><a href="{{ .Permalink }}">{{ .Title }}</a></b><br>{{ partial "custom-date" . }}</p>
-    {{ end }}
-
-</div>

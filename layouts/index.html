@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-    {{ partial "hero" . }}
+    {{ partialCached "hero" . }}
 
-    {{ partial "features" . }}
+    {{ partialCached "features" . }}
 
     <div class="ctas">
 
-        {{ partial "ctas/contact" . }}
+        {{ partialCached "ctas/contact" . }}
 
-        {{ partial "ctas/mailing" . }}
+        {{ partialCached "ctas/mailing" . }}
 
     </div>
 
