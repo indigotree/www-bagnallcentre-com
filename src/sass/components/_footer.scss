@@ -4,6 +4,12 @@
     background: #454D5A;
     color: #fff;
 
+    @media screen and (min-width: $screen-sm) and (max-width: $screen-md) {
+        .column--sm-6 {
+            min-height: 200px;
+        }
+    }
+
     .copyright {
         font-size: 12px;
     }
