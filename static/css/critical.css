@@ -1,4 +1,4 @@
-> [class*="column--"] {
+[class*="column--"] {
   position: relative;
   min-height: 1px; }
 
@@ -60,6 +60,9 @@ p {
 
 strong, b {
   font-weight: bold; }
+
+.text-primary {
+  color: #fe7600; }
 
 .container {
   position: relative;

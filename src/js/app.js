@@ -94,7 +94,7 @@
         // Events
         //
         $('[data-toggle]').on('click', toggleCollapse);
-        $(".activities .activity").on('click', toggleAccordion);
+        $(".activities .activity, .accordion .accordion__header").on('click', toggleAccordion);
         $(window).on('scroll', addBoxShadow);
         if (window.location.pathname === '/search/') {
             $('#search-button-toggle').on('click', function () {

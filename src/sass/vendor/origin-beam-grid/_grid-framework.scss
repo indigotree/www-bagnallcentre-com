@@ -68,7 +68,7 @@
     @include make-columns($offsets, $size, $scoped-gutter, $scoped-breakpoints);
 }
 
-> [class*="column--"] {
+[class*="column--"] {
     position: relative;
     min-height: 1px;
 }

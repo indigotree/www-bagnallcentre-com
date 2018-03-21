@@ -81,6 +81,7 @@ collections:
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - { label: "Categories", name: "categories", widget: "select", options: ["therapy", "wellbeing", "nutrition"] }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Featured Image", name: "featured_image", widget: "image" }
 
   - name: "whats-on"
     label: "Whats on"
