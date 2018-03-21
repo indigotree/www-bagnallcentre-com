@@ -962,3 +962,6 @@ strong, b {
   background: rgba(91, 102, 119, 0.1);
   border: 1px solid #5b6677;
   margin-bottom: 20px; }
+  .search-results {
+    clear: both;
+    padding-top: 40px; }

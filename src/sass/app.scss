@@ -2,9 +2,7 @@
 @import 'helpers/mixins';
 
 .ais-search-box {
-    position: absolute;
-    right: 15px;
-    top: 0;
+    float: right;
 }
 
 .button--reset {
@@ -17,6 +15,10 @@
     position: absolute;
     top: -9999px;
     left: -9999px;
+}
+
+.clearfix {
+    @include clearfix;
 }
 
 @import 'components/footer-navigation';
