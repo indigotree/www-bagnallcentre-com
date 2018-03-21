@@ -956,3 +956,9 @@ strong, b {
   padding: 30px; }
   .content-area--no-top {
     padding-top: 0; }
+
+.search-result {
+  padding: 20px;
+  background: rgba(91, 102, 119, 0.1);
+  border: 1px solid #5b6677;
+  margin-bottom: 20px; }
