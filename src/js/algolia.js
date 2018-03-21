@@ -23,8 +23,8 @@
         }
 
         var search = instantsearch({
-            appId: '58GE0JP7ZR',
-            apiKey: '4d6787f6d3cecf80aed0dedd34fd5fa9',
+            appId: '2KW6TV0X05',
+            apiKey: 'd6345af46064ac8259f317d8fadc78f4',
             indexName: 'the_bagnall_centre',
             searchParameters: {
                 query: getUrlParameter('s')
