@@ -5,8 +5,23 @@
     }
 
     .footer & {
-        width: 160px;
         margin-bottom: 20px;
+        max-width: 250px;
+        margin: 0 auto 20px auto;
+
+        @media screen and (min-width: $screen-sm) {
+            padding: 20px;
+            margin: 0 0 20px 0;
+            max-width: 280px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0;
+        }
+
+        &__text {
+            fill: #fff;
+        }
     }
 
     .header & {

@@ -1,8 +1,21 @@
-.social-media-wrapper{
-    top: 44%;
-    right: 0;
-    position: fixed;
-    z-index: 9999;
+.social-media {
+
+    &--fixed {
+        top: 44%;
+        right: 0;
+        position: fixed;
+        z-index: 9999;
+    }
+
+    &--inline {
+        display: flex;
+        margin-left: -10px;
+        margin-right: -10px;
+
+        > a {
+            padding: 0 10px;
+        }
+    }
 }
 .social-media-button{
     box-sizing: border-box;

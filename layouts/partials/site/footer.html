@@ -3,22 +3,42 @@
 
     <div class="container">
 
-        <div class="logo">
-            <a href="{{ .Site.BaseURL }}" >
-                {{ partial "footer-logo.svg" . }}
-            </a>
+        <div class="row">
+
+            <div class="column--sm-6 column--md-3">
+                {{ partial "logo.html" . }}
+
+                <div class="social-media social-media--inline">
+                    <a href="{{ $.Site.Data.social.facebook }}" target="_blank" rel="noopener">
+                        <div class="social-media-button facebook">
+                            <i aria-hidden="true" class="fa fa-facebook"></i>
+                        </div>
+                        <span class="sr">Follow us on Facebook</span>
+                    </a>
+                    <a href="{{ $.Site.Data.social.twitter }}" target="_blank" rel="noopener">
+                        <div class="social-media-button twitter">
+                            <i aria-hidden="true" class="fa fa-twitter"></i>
+                        </div>
+                        <span class="sr">Follow us on Twitter</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+                {{ partial "ctas/contact" . }}
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+                    {{ partial "ctas/mailing" . }}
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+
+            </div>
+
         </div>
 
-        <ul class="footer-navigation">
-            <li class="footer-navigation__item">
-                <a href="/bagnall-story" class="footer-navigation__link">The Bagnall Story</a>
-            </li>
-            <li class="footer-navigation__item">
-                <a href="/news" class="footer-navigation__link">News</a>
-            </li>
-        </ul>
-
-        <span class="smalltext">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare</span>
+        <span class="copyright">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare</span>
 
     </div>
 
@@ -29,7 +49,7 @@
 
 
 
-<div class="social-media-wrapper">
+<div class="social-media social-media--fixed">
     <a href="{{ $.Site.Data.social.facebook }}" target="_blank" rel="noopener">
         <div class="social-media-button facebook">
             <i aria-hidden="true" class="fa fa-facebook"></i>

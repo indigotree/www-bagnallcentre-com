@@ -3,9 +3,42 @@
     padding: 30px 20px;
     color: #fff;
 
-    @media screen and (min-width: $screen-sm) {
-        flex: 1 1 50%;
-        max-width: 50%;
+    .main & {
+        @media screen and (min-width: $screen-sm) {
+            flex: 1 1 50%;
+            max-width: 50%;
+        }
+    }
+
+    .footer & {
+
+        &__content {
+            padding-left: 0;
+        }
+
+        &__icon {
+            display: none;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0;
+            
+            &__body {
+                padding-right: 0;
+            }
+
+            &__input {
+                border-radius: 5px;
+                border: 1px solid #6f7d8c;
+            }
+            &__button {
+                float: none;
+                position: static;
+                border-radius: 5px;
+                width: 100%;
+            }
+        }
+
     }
 
     &__title {
