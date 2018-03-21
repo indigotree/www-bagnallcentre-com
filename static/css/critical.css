@@ -352,7 +352,7 @@ strong, b {
       width: 200px; } }
   @media screen and (min-width: 1200px) {
     .header .logo {
-      width: 300px; } }
+      width: 260px; } }
 
 .emergency {
   margin-bottom: 10px;
@@ -462,7 +462,7 @@ strong, b {
       .navigation a {
         color: #5b6677;
         font-size: 11px;
-        padding: 10px 6px; } }
+        padding: 10px 4px; } }
     @media screen and (min-width: 992px) {
       .navigation a {
         font-size: 11px; }
@@ -491,6 +491,52 @@ strong, b {
     color: #3f14c9; }
   .navigation__item.navigation--active:nth-child(4) a {
     color: #13bd1d; }
+
+.secondary-nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 900;
+  margin-bottom: 50px;
+  width: 100%;
+  font-size: .9em; }
+  .secondary-nav,
+  .secondary-nav * {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+  .secondary-nav > a {
+    background-color: #d6e0ed;
+    color: #5b6677; }
+    .secondary-nav > a:hover, .secondary-nav > a:focus {
+      background-color: #fe7600;
+      color: #fff; }
+  .secondary-nav--purple > a:hover, .secondary-nav--purple > a:focus {
+    background-color: rgba(63, 20, 201, 0.9); }
+  .secondary-nav--green > a:hover, .secondary-nav--green > a:focus {
+    background-color: rgba(19, 189, 29, 0.9); }
+  .secondary-nav > span {
+    color: #7a899e; }
+  .secondary-nav > a,
+  .secondary-nav > span {
+    display: block;
+    padding: 10px;
+    -webkit-box-flex: 1;
+        -ms-flex: 1 1 50%;
+            flex: 1 1 50%;
+    text-decoration: none; }
+  @media screen and (min-width: 992px) {
+    .secondary-nav {
+      font-size: 1.125em; }
+      .secondary-nav > a,
+      .secondary-nav > span {
+        -webkit-box-flex: 1;
+            -ms-flex: 1 1 25%;
+                flex: 1 1 25%;
+        padding: 30px 15px; } }
 
 .hero {
   background-image: url("../uploads/banner-home.jpg");
@@ -762,7 +808,7 @@ strong, b {
 
 .inner-hero {
   position: relative;
-  margin-bottom: 42px; }
+  margin-bottom: 50px; }
   @media screen and (min-width: 768px) {
     .inner-hero {
       margin: 0; } }

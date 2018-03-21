@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+    <div class="inner-hero {{ if or (eq .Params.categories "therapy") (eq .Params.categories "wellbeing") }}inner-hero--secondary{{ else }}inner-hero--success{{ end }}">
+        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
+        <span class="inner-hero__title">{{ .Params.categories }}</span>
+    </div>
+
+    <div class="bg--grey content-area">
+
+        <div class="row">
+
+            <div class="column--md-9">
+                <h1>{{ .Title }}</h1>
+
+                {{ .Content }}
+            </div>
+
+            <div class="column--md-3">
+                {{ partialCached "working-with-us-column" . }}
+            </div>
+
+        </div>
+
+    </div>
+{{ end }}

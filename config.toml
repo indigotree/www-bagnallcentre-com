@@ -39,3 +39,13 @@ notAlternative = true
 
 [taxonomies]
 category = "categories"
+
+[[menu.main]]
+    name = "Therapy & Wellbeing"
+    weight = 20
+    url = "/categories/therapy/"
+
+[[menu.main]]
+    name = "News"
+    weight = 50
+    url = "/news/"

@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+    <div class="inner-hero inner-hero--secondary">
+        <img src="{{ "uploads/header-therapies.jpg" | absURL }}" alt="therapist checking ladies arm">
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
+    </div>
+
+    <div class="bg--grey content-area content-area--no-top">
+
+        <div class="secondary-nav secondary-nav--purple">
+            {{ if eq .Title "Therapy" }}
+                <span>Therapies</span>
+                <a href="/categories/wellbeing/">Wellbeing</a>
+            {{ else }}
+                <a href="/categories/therapy/">Therapies</a>
+                <span>Wellbeing</span>
+            {{ end }}
+        </div>
+
+        <div class="whats-ons">
+
+            {{ range (.Paginator 9).Pages }}
+        
+                <div class="whats-on whats-on--secondary">
+                    <a href="{{ .Permalink }}" class="whats-on__image-link">
+                        <div class="whats-on__image">
+                            {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                            {{ $scope := . }}
+                            {{ with .Params.featured_image }}
+                                {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                            {{ else }}
+                                <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                            {{ end }}
+                        </div>
+                        <h2 class="whats-on__title">{{ .Title }}</h2>
+                    </a>
+                </div>
+        
+            {{ end }}
+
+            {{ template "_internal/pagination.html" . }}
+        
+        </div>
+
+    </div>
+
+{{ end }}

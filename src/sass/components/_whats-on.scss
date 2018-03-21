@@ -102,4 +102,8 @@
         }
     }
 
+    &--secondary > .whats-on__image-link:hover &__title {
+        background: $brand-secondary;
+    }
+
 }

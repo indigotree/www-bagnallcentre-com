@@ -5,7 +5,7 @@ layout: "contact"
 menu: 
     main:
         name: "Contact"
-        weight: 50
+        weight: 60
 ---
 {{< onethird >}}
 ## Address
