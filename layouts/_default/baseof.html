@@ -23,8 +23,10 @@
 
         {{ block "header" . }}{{ partial "site/header.html" . }}{{ end }}
 
-        <main class="main container" role="main">
-            {{ block "main" . }}{{ end }}
+        <main class="main" role="main">
+            <div class="container">
+                {{ block "main" . }}{{ end }}
+            </div>
         </main>
 
         {{ block "footer" . }}{{ partial "site/footer.html" . }}{{ end }}
