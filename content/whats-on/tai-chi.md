@@ -55,3 +55,7 @@ She also has experience of Competition Judging and regularly writes articles for
 Catherine enjoys sharing her passion and knowledge of Tai Chi with all ages, all abilities and is looking forward to this new opportunity to join the team and bring her Tai Chi experience to The Bagnall Centre.
 
 Find out more about the health benefits [here](https://www.nhs.uk/Livewell/fitness/Pages/taichi.aspx).
+
+{{< cta button="Read more" link="https://google.com/">}}
+This is a promobox with a shadow, no border, highlight position on top, and no description. But has a long title that keeps going. Good for capturing viewers eyes!
+{{< /cta >}}

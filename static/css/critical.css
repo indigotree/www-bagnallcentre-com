@@ -800,7 +800,8 @@ strong, b {
   font-weight: 700;
   font-size: 14px;
   border: 0;
-  white-space: normal; }
+  white-space: normal;
+  text-align: center; }
   .btn-primary {
     background: #fe7600;
     color: #fff; }

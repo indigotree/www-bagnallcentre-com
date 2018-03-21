@@ -1,0 +1,11 @@
+<div class="cta {{ if and (.Get "button") (.Get "link") }}cta--has-button{{ end }}">
+    
+    {{ .Inner | markdownify }}
+
+    {{ if and (.Get "button") (.Get "link") }}
+        <a href="{{ .Get "link" }}" class="cta__link btn btn-primary btn-lg">
+            {{ .Get "button" }}
+        </a>
+    {{ end }}
+
+</div>
