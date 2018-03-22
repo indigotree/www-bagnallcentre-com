@@ -5,6 +5,8 @@ yoast_keyword: Meditation
 starts_at: 2018-04-19T19:45:32+01:00
 featured_image: /uploads/wave meditation.jpg
 ---
+![Effortless Meditation](/uploads/wave meditation.jpg)
+
 Do you want to drop your stress levels, relax, feel more confident, like yourself more, enjoy life to the max, make relating more fulfilling?
 
 Do you think that meditation is difficult or boring or just for spiritual types?
