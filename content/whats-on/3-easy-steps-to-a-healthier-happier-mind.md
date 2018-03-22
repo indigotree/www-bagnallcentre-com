@@ -2,7 +2,7 @@
 title: '3 Easy Steps to a Healthier, Happier Mind'
 description: Are you coming to our self development seminar with Odette Meredith?
 yoast_keyword: Mind
-starts_at: 2018-04-03T14:00:18+01:00
+starts_at: 2018-04-03T13:00:18.000Z
 featured_image: /uploads/3-steps-workshop.jpg
 ---
 ![3 Easy Steps to a Healthier, Happier Mind](/uploads/3-steps-workshop.jpg)
@@ -22,6 +22,6 @@ Come to our self development seminar with Odette Meredith to help:
 
 **To register call Odette on <a href="tel:+447969678704">07969 678 704</a> or email <mailto:odette@ukpranichealing.co.uk>**
 
-**2-4pm, Tuesday 13th April. £20.**
+**2-4pm, Tuesday 3rd April. £20.**
 
 Institute of Pranic Healing UK & Ireland
