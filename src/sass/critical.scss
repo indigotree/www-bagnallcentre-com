@@ -5,6 +5,12 @@
 @import 'base/base';
 @import 'base/typography';
 
+.sr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
 @import 'components/grid';
 @import 'components/logo';
 @import 'components/emergency';
