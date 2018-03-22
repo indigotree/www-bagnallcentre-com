@@ -7,8 +7,9 @@
     </div>
 
     <div class="cta-mailing__body">
-        <label for="mc-signup-form" class="sr cta-mailing__label">E-Mail Address</label>
-        <input id="mc-signup-form" class="cta-mailing__input" name="EMAIL" placeholder="your@emailaddress.co.uk" type="email" required="required">
+        {{ $id := index (seq 100 | shuffle) 0 }}
+        <label for="mc-signup-form-{{ $id }}" class="sr cta-mailing__label">E-Mail Address</label>
+        <input id="mc-signup-form-{{ $id }}" class="cta-mailing__input" name="EMAIL" placeholder="your@emailaddress.co.uk" type="email" required="required">
         <input name="subscribe" type="submit" class="cta-mailing__button" value="Sign Up">
         <input type="hidden" name="b_36be75aeef021f72f182118c6_0d1fee7c5d" tabindex="-1" value="">
     </div>
