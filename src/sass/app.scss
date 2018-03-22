@@ -11,12 +11,6 @@
     cursor: pointer;
 }
 
-.sr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-}
-
 .clearfix {
     @include clearfix;
 }
