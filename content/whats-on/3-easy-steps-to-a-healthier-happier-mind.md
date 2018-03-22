@@ -2,7 +2,7 @@
 title: '3 Easy Steps to a Healthier, Happier Mind'
 description: Are you coming to our self development seminar with Odette Meredith?
 yoast_keyword: Mind
-starts_at: 2018-04-13T14:00:18+01:00
+starts_at: 2018-04-03T14:00:18+01:00
 featured_image: /uploads/3-steps-workshop.jpg
 ---
 ![3 Easy Steps to a Healthier, Happier Mind](/uploads/3-steps-workshop.jpg)
