@@ -2,7 +2,7 @@
 
     <div class="inner-hero {{ if or (eq .Params.categories "therapy") (eq .Params.categories "wellbeing") }}inner-hero--secondary{{ else }}inner-hero--success{{ end }}">
         <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
-        <span class="inner-hero__title">{{ .Params.categories }}</span>
+        <span class="inner-hero__title">{{ .Params.treatments }}</span>
     </div>
 
     <div class="bg--grey content-area">
