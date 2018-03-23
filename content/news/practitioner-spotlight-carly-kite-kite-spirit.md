@@ -5,6 +5,8 @@ yoast_keyword: Kite Spirit
 date: 2018-03-20T11:40:36.540Z
 author: Bagnal Centre
 ---
+![](/uploads/carly.jpg)
+
 <div style="text-align: center;" markdown="1">We love working with our Practitioners!<br/><br/>
 
 Carly Kite is a Dru Yoga Teacher and Reflexologist. <br/><br/>
