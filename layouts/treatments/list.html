@@ -1,17 +1,37 @@
 {{ define "main" }}
 
-    <div class="inner-hero">
-        <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
+    <div class="inner-hero inner-hero--{{ .Params.colour }}">
+        <img src="{{ "uploads/header-therapies.jpg" | absURL }}" alt="therapist checking ladies arm">
         <h1 class="inner-hero__title">{{ .Title }}</h1>
     </div>
 
-    <div class="bg--grey content-area">
+    <div class="bg--grey content-area content-area--no-top">
 
-        <div class="whats-ons">
+        {{ $currentPage := . }}
+
+        {{ if and .Params.menu_name .Params.colour }}
+
+            <div class="secondary-nav secondary-nav--{{ .Params.colour }}">
+
+                {{ range (index .Site.Menus .Params.menu_name) }}
+
+                    {{ if $currentPage.IsMenuCurrent $currentPage.Params.menu_name . }}
+                        <span>{{ .Name }}</span>
+                    {{ else }}
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+
+                {{ end }}
+
+            </div>
+
+        {{ end }}
+
+        <div class="whats-ons whats-ons--secondary">
 
             {{ range (.Paginator 9).Pages }}
         
-                <div class="whats-on">
+                <div class="whats-on whats-on--{{ $currentPage.Params.colour }}">
                     <a href="{{ .Permalink }}" class="whats-on__image-link">
                         <div class="whats-on__image">
                             {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
@@ -24,18 +44,6 @@
                         </div>
                         <h2 class="whats-on__title">{{ .Title }}</h2>
                     </a>
-                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Date }}" class="whats-on__date" >
-                        <i aria-hidden="true" class="fa fa-calendar"></i>
-                        {{ dateFormat "2 January at 3:04pm" .Date }}
-                    </time>
-                    <p class="whats-on__description">
-                        {{ with .Params.description }}
-                            {{ . }}
-                        {{ else }}
-                            {{ .Content | safeHTML | truncate 100 }}
-                        {{ end }}
-                    </p>
-                    <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
                 </div>
         
             {{ end }}
@@ -45,4 +53,5 @@
         </div>
 
     </div>
+
 {{ end }}

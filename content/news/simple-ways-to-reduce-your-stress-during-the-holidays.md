@@ -3,6 +3,7 @@ title: "Simple Ways To Reduce Your Stress During The Holidays"
 date: 2017-11-15T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 The allure of the holiday season may begin to lose its sparkle as to do lists grow longer and longer, and you start to feel that the magic of Christmas is up to YOU to procure!

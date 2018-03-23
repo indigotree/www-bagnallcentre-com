@@ -1,0 +1,17 @@
+<div class="widget widget--recent">
+    {{ if .Title }}
+        <h2 class="widget__title">{{ .Title }}</h2>
+    {{ end }}
+    <div class="widget__body">
+        {{ if .Items }}
+            <ul class="widget__listings">
+            {{ range .Items }}
+                <li class="widget__item">
+                    <a href="{{ .Permalink }}" class="widget__link">{{ .Title }}</a>
+                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Date }}" class="widget__meta">{{ partial "custom-date.html" . }}</time>
+                </li>
+            {{ end }}
+            </ul>
+        {{ end }}
+    </div>
+</div>

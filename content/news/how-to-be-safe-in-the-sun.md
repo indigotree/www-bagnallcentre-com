@@ -3,6 +3,7 @@ title: "How To Be Safe in The Sun"
 date: 2016-06-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 **How to be safe in the sun**

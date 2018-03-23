@@ -38,14 +38,42 @@ isPlainText = true
 notAlternative = true
 
 [taxonomies]
+treatment = "treatments"
 category = "categories"
 
 [[menu.main]]
     name = "Therapy & Wellbeing"
     weight = 20
-    url = "/categories/therapy/"
+    url = "/treatments/therapy/"
+
+[[menu.main]]
+    name = "Nutrition & Lifestyle"
+    weight = 30
+    url = "/treatments/nutrition/"
 
 [[menu.main]]
     name = "News"
     weight = 50
     url = "/news/"
+
+
+[[menu.nutrition]]
+    name = "Nutrition"
+    url = "/treatments/nutrition/"
+    weight = 10
+
+[[menu.nutrition]]
+    name = "Lifestyle"
+    url = "/treatments/lifestyle/"
+    weight = 20
+
+
+[[menu.therapy]]
+    name = "Therapies"
+    url = "/treatments/therapy/"
+    weight = 10
+
+[[menu.therapy]]
+    name = "Wellbeing"
+    url = "/treatments/wellbeing/"
+    weight = 20

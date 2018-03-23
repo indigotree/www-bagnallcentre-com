@@ -1,7 +1,7 @@
 ---
 title: "Speech And Language Therapy"
 description: "Speech And Language Therapy is concerned with the management of disorders of speech, language, communication and swallowing in children and adults."
-categories: "therapy"
+treatments: "therapy"
 draft: false
 ---
 

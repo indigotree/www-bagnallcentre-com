@@ -1,7 +1,7 @@
 ---
 title: "Nutritional Therapy"
 description: "Nutritional Therapy is relevant for individuals with chronic conditions as well as those looking for support to enhance their health and wellbeing."
-categories: "nutrition"
+treatments: "nutrition"
 draft: false
 ---
 

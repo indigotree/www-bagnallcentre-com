@@ -1,0 +1,30 @@
+.widget {
+    margin-bottom: 20px;
+
+    &__title {
+
+    }
+
+    &__body {
+
+    }
+
+    &__listings {
+        padding: 0;
+        list-style-type: none;
+    }
+
+    &__item {
+        margin-bottom: 10px;
+    }
+
+    &__link {
+        display: block;
+        font-weight: bold;
+    }
+    
+    &__meta {
+        display: block;
+    }
+
+}

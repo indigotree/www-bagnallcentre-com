@@ -3,6 +3,7 @@ title: "Joanna Hill on Integrative Medicine Integrated Healthcare and her Life's
 date: 2017-11-01T00:00:00Z
 draft: false
 author: "Joanna Hill"
+categories: ["News"]
 ---
 
 [**Integrative Medicine & The Bagnall Centre (Chesham, UK)**](https://www.fortheageless.com/blogs/ageless-buzz/integrative-medicine-bagnall-centre-chesham-uk) by Joanna Hill.

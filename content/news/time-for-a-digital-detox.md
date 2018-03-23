@@ -3,6 +3,7 @@ title: "Time for a digital detox?"
 date: 2016-09-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 Without doubt, mobile phones have entirely revolutionised the way we communicate. But whilst this totally connected world promises great things, there are also negatives. A variety of mental, physical and emotional issues stem from technology overuse and there is an increasing need to put some boundaries in place and disconnect to reconnect!

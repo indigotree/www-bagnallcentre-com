@@ -3,6 +3,7 @@ title: "Making Lasting Positive Changes"
 date: 2017-12-21T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 It’s nearly the end of 2017 and a new year is about to begin – how did that happen already?! After all the festive excess our minds often begin to turn to detox plans and resolutions to get fit, drink less or lose weight.

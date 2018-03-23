@@ -3,6 +3,7 @@ title: "The Importance of Gut Health"
 date: 2017-03-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 The human microbiome can be described as the body’s ‘mini-ecosystem’ - a collection of microbes and microorganisms that play a vital role in health and prevention of chronic disease.

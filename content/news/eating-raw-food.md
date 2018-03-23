@@ -3,6 +3,7 @@ title: "Eating Raw Food"
 date: 2016-10-03T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
 ---
 
 ### Nutrition

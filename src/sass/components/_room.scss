@@ -1,45 +1,39 @@
 .room {
     background: #fff;
-    position: relative;
-    padding: 0px;
     margin-bottom: 20px;
 
     @media screen and (min-width: $screen-sm) {
-        padding: 20px;
-        padding-left: 32%;
-        min-height: 187px;
+        display: flex;
     }
 
-    .room__thumbnail {
-        display: block;
-        margin-bottom: 20px;
+    &__thumbnail {
 
         @media screen and (min-width: $screen-sm) {
-            position: absolute;
-            left: 0;
-            top: 0;
-            width: 30%;
-            margin-bottom: 0;
+            flex: 1 1 30%;
+            max-width: 30%;
+        }
+
+        > img {
+            display: block;
         }
     }
 
     &--right {
         @media screen and (min-width: $screen-sm) {
-            padding-left: 20px;
-            padding-right: 32%;
+            flex-direction: row-reverse;
         }
     }
 
-    &--right &__thumbnail {
-        left: auto;
-        right: 0;
-    }
-
     &__description {
-        padding: 0 15px 15px 15px;
+        padding: 10px;
 
         @media screen and (min-width: $screen-sm) {
-            padding: 0;
+            flex: 1 1 80%;
+            max-width: 80%;
+        }
+
+        p {
+            margin: 0;
         }
     }
 

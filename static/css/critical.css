@@ -536,9 +536,9 @@ strong, b {
     .secondary-nav > a:hover, .secondary-nav > a:focus {
       background-color: #fe7600;
       color: #fff; }
-  .secondary-nav--purple > a:hover, .secondary-nav--purple > a:focus {
+  .secondary-nav--secondary > a:hover, .secondary-nav--secondary > a:focus {
     background-color: rgba(63, 20, 201, 0.9); }
-  .secondary-nav--green > a:hover, .secondary-nav--green > a:focus {
+  .secondary-nav--success > a:hover, .secondary-nav--success > a:focus {
     background-color: rgba(19, 189, 29, 0.9); }
   .secondary-nav > span {
     color: #7a899e; }
@@ -642,8 +642,14 @@ strong, b {
     display: inline-block; }
     .whats-on__link:hover {
       text-decoration: underline; }
-  .whats-on--secondary > .whats-on__image-link:hover .whats-on__title {
+  .whats-on--secondary > .whats-on__image-link .whats-on__title {
     background: #3f14c9; }
+  .whats-on--secondary > .whats-on__image-link:hover .whats-on__title {
+    background: #464e5b; }
+  .whats-on--success > .whats-on__image-link .whats-on__title {
+    background: #13bd1d; }
+  .whats-on--success > .whats-on__image-link:hover .whats-on__title {
+    background: #464e5b; }
 
 .hero {
   background-image: url("../uploads/banner-home.jpg");

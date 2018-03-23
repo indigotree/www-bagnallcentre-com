@@ -25,17 +25,17 @@
 
     }
 
-    &--purple > a {
+    &--secondary > a {
         &:hover,
         &:focus {
-            background-color: rgba(63, 20, 201, .9);
+            background-color: rgba($brand-secondary, .9);
         }
     }
 
-    &--green > a {
+    &--success > a {
         &:hover,
         &:focus {
-            background-color: rgba(19, 189, 29, .9);
+            background-color: rgba($brand-success, .9);
         }
     }
 

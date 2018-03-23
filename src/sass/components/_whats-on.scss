@@ -102,8 +102,20 @@
         }
     }
 
-    &--secondary > .whats-on__image-link:hover &__title {
+    &--secondary > .whats-on__image-link &__title {
         background: $brand-secondary;
+    }
+
+    &--secondary > .whats-on__image-link:hover &__title {
+        background: #464e5b;
+    }
+
+    &--success > .whats-on__image-link &__title {
+        background: $brand-success;
+    }
+
+    &--success > .whats-on__image-link:hover &__title {
+        background: #464e5b;
     }
 
 }
