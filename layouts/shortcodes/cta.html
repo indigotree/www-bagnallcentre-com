@@ -3,7 +3,7 @@
     {{ .Inner | markdownify }}
 
     {{ if and (.Get "button") (.Get "link") }}
-        <a href="{{ .Get "link" }}" class="cta__link btn btn-primary btn-lg">
+        <a href="{{ .Get "link" }}" rel="noopener" target="_blank" class="cta__link btn btn-primary btn-lg">
             {{ .Get "button" }}
         </a>
     {{ end }}

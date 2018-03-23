@@ -40,6 +40,7 @@ notAlternative = true
 [taxonomies]
 treatment = "treatments"
 category = "categories"
+event_category = "event_categories"
 
 [[menu.main]]
     name = "Therapy & Wellbeing"

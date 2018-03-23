@@ -2,6 +2,7 @@
 title: "Physiotherapy"
 description: "Physiotherapists help people affected by injury, illness or disability through movement and exercise, manual therapy, education and advice."
 treatments: "therapy"
+colour: "secondary"
 draft: false
 ---
 

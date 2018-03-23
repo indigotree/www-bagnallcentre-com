@@ -1,6 +1,6 @@
 <div class="whats-ons">
 
-    {{ range first 3 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
+        {{ range first 3 (sort (where .Site.Taxonomies.event_categories.featured "Section" "whats-on") "Params.starts_at" "asc") }}
 
         <div class="whats-on">
             <a href="{{ .Permalink }}" class="whats-on__image-link">

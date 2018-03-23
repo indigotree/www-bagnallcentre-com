@@ -2,6 +2,7 @@
 title: "Homeopathy"
 description: "Homeopaths often see patients with long-term, chronic problems, many of which have failed to respond to conventional medicine."
 treatments: "therapy"
+colour: "secondary"
 draft: false
 ---
 

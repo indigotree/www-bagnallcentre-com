@@ -2,6 +2,7 @@
 title: "Mindfulness"
 description: "Mindfulness is the psychological process of bringing one's attention to the internal and external experiences occurring in the present moment, which can be developed through the practice of meditation and other training."
 treatments: "wellbeing"
+colour: "secondary"
 draft: false
 ---
 

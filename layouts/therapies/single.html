@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    <div class="inner-hero {{ if or (eq .Params.categories "therapy") (eq .Params.categories "wellbeing") }}inner-hero--secondary{{ else }}inner-hero--success{{ end }}">
+    <div class="inner-hero inner-hero--{{ .Params.colour }}">
         <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
         <span class="inner-hero__title">{{ .Params.treatments }}</span>
     </div>
@@ -16,7 +16,13 @@
             </div>
 
             <div class="column--md-3">
-                {{ partialCached "working-with-us-column" . }}
+
+                {{ partial "widget-treatments.html" (dict "Title" "Menu" "Items" (first 10 (index .Site.Taxonomies.treatments .Params.treatments))) }}
+
+                {{ partial "whats-on-widget" . }}
+
+                {{ partial "mailing-list" . }}
+                
             </div>
 
         </div>

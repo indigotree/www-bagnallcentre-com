@@ -4,6 +4,7 @@ starts_at: 2018-03-31T12:00:00
 draft: false
 description: "Have you tried Tai Chi?"
 featured_image: "/uploads/tai-chi.jpg"
+event_categories: ["featured"]
 ---
 
 ![Tai Chi](/uploads/tai-chi.jpg)

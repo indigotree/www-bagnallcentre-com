@@ -3,6 +3,7 @@ title: "Dementia - is it possible to prevent its outset?"
 starts_at: 2018-04-16T10:00:00Z
 draft: false
 description: "The Bagnall Centre Family Health & Wellbeing Talk at 10am-12pm on Monday 16th April will explore what dementia is, its causes and more."
+event_categories: ["featured"]
 featured_image: "/uploads/dementia.jpg"
 ---
 

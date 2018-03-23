@@ -27,6 +27,7 @@ collections:
       - { label: "Published Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Featured Image", name: "featured_image", widget: "image" }
+      - { label: "Categories", name: "categories", widget: "categories" }
 
   - name: "timetable"
     label: "Timetable"
@@ -79,9 +80,10 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-      - { label: "Categories", name: "categories", widget: "select", options: ["therapy", "wellbeing", "nutrition"] }
+      - { label: "Treatments", name: "treatments", widget: "select", options: ["therapy", "wellbeing", "nutrition", "lifestyle"] }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "featured_image", widget: "image" }
+      - { label: "Colour", name: "colour", widget: "select", options: ["secondary", "success"] }
 
   - name: "whats-on"
     label: "Whats on"

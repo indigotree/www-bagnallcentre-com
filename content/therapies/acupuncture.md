@@ -2,6 +2,7 @@
 title: "Acupuncture"
 description: "Traditional acupuncture is a healthcare system based on ancient principles which go back nearly two thousand years."
 treatments: "therapy"
+colour: "secondary"
 draft: false
 ---
 
