@@ -18,5 +18,16 @@
         max-width: 650px;
         margin: 0 auto;
         text-align: center;
+
+        .btn {
+            font-size: 17px;
+            
+            .fa-calendar {
+                margin-right: 10px;
+            }
+            .fa-arrow-right {
+                margin-left: 10px;
+            }
+        }
     }
 }
