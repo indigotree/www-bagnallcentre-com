@@ -1,5 +1,5 @@
 ---
-title: PRACTITIONER SPOTLIGHT Carly Kite - Kite Spirit
+title: 'PRACTITIONER SPOTLIGHT: Carly Kite - Kite Spirit'
 description: PRACTITIONER SPOTLIGHT
 yoast_keyword: Kite Spirit
 date: 2018-03-20T11:40:36.540Z
