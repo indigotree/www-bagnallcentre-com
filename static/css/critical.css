@@ -818,7 +818,8 @@ strong, b {
     color: #fff; }
     .btn-primary:hover, .btn-primary:focus {
       color: #fff;
-      background: #e56a00; }
+      background: #ff9100;
+      text-decoration: none; }
   .btn-block {
     display: block;
     width: 100%; }

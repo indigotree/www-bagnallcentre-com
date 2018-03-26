@@ -27,7 +27,8 @@
         &:hover,
         &:focus {
             color: #fff;
-            background: darken($brand-primary, 5%);
+            background: #ff9100;
+            text-decoration: none;
         }
     }
 
