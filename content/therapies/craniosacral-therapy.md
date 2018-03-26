@@ -11,3 +11,7 @@ Craniosacral Therapy is a gentle way of working with the body using light touch.
 People may come for Craniosacral Therapy because they have acute physical problems like headaches or bad backs, or long-standing problems both physical and emotional. Others come for ongoing support in their busy lives and for help to meet life's challenges. Because it is so gentle and non-invasive its suitable for everyone from newborns to the elderly.
 
 Craniosacral Therapy supports your body's innate ability to balance, restore and heal itself, as well as helping to reduce stress and build your underlying energy.
+
+{{< cta button="Ring Now" link="tel:01494791288">}}
+For enquiries call 01494 791288
+{{< /cta >}}
