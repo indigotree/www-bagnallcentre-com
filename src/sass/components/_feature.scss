@@ -2,7 +2,6 @@
     display: block;
     flex: 1 1 50%;
     max-width: 50%;
-    height: 200px;
     background-size: cover;
     position: relative;
     cursor: pointer;
@@ -13,13 +12,14 @@
         max-width: 25%;
     }
 
-    @media screen and (min-width: $screen-lg) {
-        height: 260px;
-    }
-
     &s {
         display: flex;
         flex-wrap: wrap;
+    }
+
+    a,
+    img {
+        display: block;
     }
 
     &__title {
@@ -29,7 +29,7 @@
         display: inline-block;
         text-align: right;
         padding: 10px;
-        background: rgba($brand-primary, .7);
+        background: rgba($brand-primary, .9);
         text-transform: uppercase;
         color: #fff;
         font-size: 13px;

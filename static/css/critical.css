@@ -880,7 +880,6 @@ strong, b {
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
   max-width: 50%;
-  height: 200px;
   background-size: cover;
   position: relative;
   cursor: pointer;
@@ -891,15 +890,15 @@ strong, b {
           -ms-flex: 1 1 25%;
               flex: 1 1 25%;
       max-width: 25%; } }
-  @media screen and (min-width: 1200px) {
-    .feature {
-      height: 260px; } }
   .features {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
+  .feature a,
+  .feature img {
+    display: block; }
   .feature__title {
     position: absolute;
     bottom: 20px;
@@ -907,7 +906,7 @@ strong, b {
     display: inline-block;
     text-align: right;
     padding: 10px;
-    background: rgba(254, 118, 0, 0.7);
+    background: rgba(254, 118, 0, 0.9);
     text-transform: uppercase;
     color: #fff;
     font-size: 13px;
