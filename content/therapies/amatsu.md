@@ -1,7 +1,7 @@
 ---
 title: "Amatsu"
 description: "Amatsu uses a range of techniques including soft tissue work, structural adjustment, balance to the organ system and cranial work in order to release the inherent wellness that becomes subdued with disease."
-treatments: "therapy"
+treatments: "therapies"
 colour: "secondary"
 draft: false
 ---

@@ -45,7 +45,7 @@ event_category = "event_categories"
 [[menu.main]]
     name = "Therapy & Wellbeing"
     weight = 20
-    url = "/treatments/therapy/"
+    url = "/treatments/therapies/"
 
 [[menu.main]]
     name = "Nutrition & Lifestyle"
@@ -69,12 +69,12 @@ event_category = "event_categories"
     weight = 20
 
 
-[[menu.therapy]]
+[[menu.therapies]]
     name = "Therapies"
-    url = "/treatments/therapy/"
+    url = "/treatments/therapies/"
     weight = 10
 
-[[menu.therapy]]
+[[menu.therapies]]
     name = "Wellbeing"
     url = "/treatments/wellbeing/"
     weight = 20

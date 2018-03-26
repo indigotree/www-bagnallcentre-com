@@ -1,5 +1,5 @@
 ---
 title: "Therapy & Wellbeing"
 colour: "secondary"
-menu_name: "therapy"
+menu_name: "therapies"
 ---

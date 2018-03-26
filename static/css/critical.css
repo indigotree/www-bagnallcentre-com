@@ -678,16 +678,15 @@ strong, b {
   @media screen and (min-width: 768px) {
     .hero {
       display: block;
-      padding-right: 30px;
       min-height: 320px;
-      background-position: 47% 0; } }
+      background-position: 47% 0;
+      padding-right: 3%; } }
   @media screen and (min-width: 992px) {
     .hero {
       min-height: 400px; } }
   @media screen and (min-width: 1200px) {
     .hero {
-      min-height: 500px;
-      padding-right: 50px; } }
+      min-height: 500px; } }
 
 .search-form {
   top: 100%;
@@ -747,14 +746,12 @@ strong, b {
       border-top-right-radius: 0;
       border-top-left-radius: 0;
       float: right;
-      max-width: 350px; } }
+      max-width: 47%; } }
   @media screen and (min-width: 992px) {
     .caption {
-      max-width: 445px;
       padding: 20px 30px 70px; } }
   @media screen and (min-width: 1200px) {
     .caption {
-      max-width: 500px;
       padding: 30px 40px 90px; } }
   .caption__title {
     margin: 0;

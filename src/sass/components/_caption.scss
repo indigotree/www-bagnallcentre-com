@@ -15,16 +15,14 @@
         border-top-right-radius: 0;
         border-top-left-radius: 0;
         float: right;
-        max-width: 350px;
+        max-width: 47%;
     }
 
     @media screen and (min-width: $screen-md) {
-        max-width: 445px;
         padding: 20px 30px 70px;
     }
 
     @media screen and (min-width: $screen-lg) {
-        max-width: 500px;
         padding: 30px 40px 90px;
     }
 

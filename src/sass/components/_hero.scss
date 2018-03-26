@@ -9,9 +9,9 @@
 
     @media screen and (min-width: $screen-sm) {
         display: block;
-        padding-right: 30px;
         min-height: 320px;
         background-position: 47% 0;
+        padding-right: 3%;
     }
 
     @media screen and (min-width: $screen-md) {
@@ -20,7 +20,6 @@
 
     @media screen and (min-width: $screen-lg) {
         min-height: 500px;
-        padding-right: 50px;
     }
 
 }

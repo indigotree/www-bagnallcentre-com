@@ -1,7 +1,7 @@
 ---
 title: "Osteopathy"
 description: "Osteopathy is a system of diagnosis and treatment for a wide range of medical conditions."
-treatments: "therapy"
+treatments: "therapies"
 colour: "secondary"
 draft: false
 ---

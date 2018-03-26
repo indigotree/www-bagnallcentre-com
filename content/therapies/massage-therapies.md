@@ -1,7 +1,7 @@
 ---
 title: "Massage Therapies"
 description: "Massage therapy is the manual manipulation of soft body tissues (muscle, connective tissue, tendons and ligaments) to enhance a person's health and wellbeing."
-treatments: "therapy"
+treatments: "therapies"
 colour: "secondary"
 draft: false
 ---
