@@ -3,7 +3,7 @@ title: "New Year New Us"
 date: 2017-01-02T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
-categories: ["News"]
+categories: ["News", "moonlight"]
 ---
 
 It’s that time of year when we often make resolutions to improve our fitness, take up more exercise and after the excess of Christmas, focus on better nutrition. We’ve been busily planning our New Year and are looking forward to sharing our diverse new programme of activities to help you on your journey to better health.
