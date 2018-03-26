@@ -62,15 +62,15 @@
     }
 
     &.feature--danger &__title {
-        background: rgba($brand-danger, .7);
+        background: rgba($brand-danger, .9);
     }
 
     &.feature--secondary &__title {
-        background: rgba($brand-secondary, .7);
+        background: rgba($brand-secondary, .9);
     }
 
     &.feature--success &__title {
-        background: rgba($brand-success, .7);
+        background: rgba($brand-success, .9);
     }
 
 }

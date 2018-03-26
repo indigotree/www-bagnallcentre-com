@@ -927,11 +927,11 @@ strong, b {
     right: 0;
     bottom: 0; }
   .feature.feature--danger .feature__title {
-    background: rgba(209, 5, 0, 0.7); }
+    background: rgba(209, 5, 0, 0.9); }
   .feature.feature--secondary .feature__title {
-    background: rgba(63, 20, 201, 0.7); }
+    background: rgba(63, 20, 201, 0.9); }
   .feature.feature--success .feature__title {
-    background: rgba(19, 189, 29, 0.7); }
+    background: rgba(19, 189, 29, 0.9); }
 
 .inner-hero {
   position: relative;
