@@ -11,15 +11,23 @@
     background: #fff;
     border-radius: 3px;
 
-    &--has-button {
-        padding-right: 200px;
+    @media screen and (min-width: $screen-sm) {
+        &--has-button {
+            padding-right: 200px;
+        }
     }
 
+    
     &__link {
-        position: absolute;
-        right: 20px;
-        top: 50%;
-        transform: translateY(-50%);
+        margin-top: 20px;
+
+        @media screen and (min-width: $screen-sm) {
+            margin: 0;
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
     }
 
     @import 'contact';
