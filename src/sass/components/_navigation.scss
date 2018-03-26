@@ -25,7 +25,7 @@
     }
 
     @media screen and (min-width: $screen-lg) {
-        padding-top: 26px;
+        padding-top: 30px;
     }
 
     &__menu {
@@ -117,6 +117,10 @@
         @media screen and (min-width: $screen-lg) {
             font-size: 12px;
             padding: 10px 12px;
+        }
+
+        @media screen and (min-width: 1260px) {
+            font-size: 13.5px;
         }
 
         &:hover,

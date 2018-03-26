@@ -377,7 +377,10 @@ strong, b {
       width: 200px; } }
   @media screen and (min-width: 1200px) {
     .header .logo {
-      width: 260px; } }
+      width: 282px; } }
+  @media screen and (min-width: 1300px) {
+    .header .logo {
+      width: 320px; } }
   .header .logo a {
     display: block; }
   .header .logo svg {
@@ -436,7 +439,7 @@ strong, b {
       float: right; } }
   @media screen and (min-width: 1200px) {
     .navigation {
-      padding-top: 26px; } }
+      padding-top: 30px; } }
   .navigation__menu {
     padding: 0;
     margin: 0;
@@ -502,6 +505,9 @@ strong, b {
       .navigation a {
         font-size: 12px;
         padding: 10px 12px; } }
+    @media screen and (min-width: 1260px) {
+      .navigation a {
+        font-size: 13.5px; } }
     .navigation a:hover, .navigation a:focus {
       color: #fff; }
       @media screen and (min-width: 768px) {

@@ -48,7 +48,11 @@
         }
 
         @media screen and (min-width: $screen-lg) {
-            width: 260px;
+            width: 282px;
+        }
+
+        @media screen and (min-width: 1300px) {
+            width: 320px;
         }
 
         a {
