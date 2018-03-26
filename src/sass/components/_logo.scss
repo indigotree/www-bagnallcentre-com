@@ -25,7 +25,7 @@
     }
 
     .header & {
-        padding: 10px 0;
+        padding: 10px 0 0 0;
         width: 200px;
         float: left;
 
@@ -49,6 +49,14 @@
 
         @media screen and (min-width: $screen-lg) {
             width: 260px;
+        }
+
+        a {
+            display: block;
+        }
+
+        svg {
+            display: block;
         }
 
     }

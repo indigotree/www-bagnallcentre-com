@@ -358,7 +358,7 @@ strong, b {
     fill: #fff; }
 
 .header .logo {
-  padding: 10px 0;
+  padding: 10px 0 0 0;
   width: 200px;
   float: left; }
   @media screen and (min-width: 768px) and (max-width: 992px) {
@@ -378,9 +378,12 @@ strong, b {
   @media screen and (min-width: 1200px) {
     .header .logo {
       width: 260px; } }
+  .header .logo a {
+    display: block; }
+  .header .logo svg {
+    display: block; }
 
 .emergency {
-  margin-bottom: 10px;
   background: #84A886;
   color: #000;
   font-size: 14px;
@@ -500,7 +503,10 @@ strong, b {
         font-size: 12px;
         padding: 10px 12px; } }
     .navigation a:hover, .navigation a:focus {
-      color: #fe7600; }
+      color: #fff; }
+      @media screen and (min-width: 768px) {
+        .navigation a:hover, .navigation a:focus {
+          color: #fe7600; } }
       .navigation a:hover .fa, .navigation a:focus .fa {
         color: #fff; }
     .navigation a .fa {
@@ -509,7 +515,10 @@ strong, b {
         .navigation a .fa {
           display: block; } }
   .navigation--active a {
-    color: #fe7600; }
+    color: #fff; }
+    @media screen and (min-width: 768px) {
+      .navigation--active a {
+        color: #fe7600; } }
   .navigation__item.navigation--active:nth-child(2) a {
     color: #d10500; }
   .navigation__item.navigation--active:nth-child(3) a {

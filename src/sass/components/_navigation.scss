@@ -121,7 +121,11 @@
 
         &:hover,
         &:focus {
-            color: $brand-primary;
+            color: #fff;
+
+            @media screen and (min-width: $navigation-break-point) {
+                color: $brand-primary;
+            }
 
             .fa {
                 color: #fff;
@@ -138,7 +142,11 @@
     }
 
     &--active a {
-        color: $brand-primary;
+        color: #fff;
+
+        @media screen and (min-width: $navigation-break-point) {
+            color: $brand-primary;
+        }
     }
 
     &__item.navigation--active:nth-child(2) a {
