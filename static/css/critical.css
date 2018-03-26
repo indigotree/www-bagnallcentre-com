@@ -90,7 +90,7 @@ strong, b {
       max-width: 970px; } }
   @media screen and (min-width: 1200px) {
     .container {
-      max-width: 90%; } }
+      max-width: 1600px; } }
 
 .row {
   margin-left: -15px;
@@ -679,8 +679,7 @@ strong, b {
     .hero {
       display: block;
       min-height: 320px;
-      background-position: 47% 0;
-      padding-right: 3%; } }
+      background-position: 47% 0; } }
   @media screen and (min-width: 992px) {
     .hero {
       min-height: 400px; } }
@@ -746,7 +745,8 @@ strong, b {
       border-top-right-radius: 0;
       border-top-left-radius: 0;
       float: right;
-      max-width: 47%; } }
+      max-width: 47%;
+      margin-right: 3%; } }
   @media screen and (min-width: 992px) {
     .caption {
       padding: 20px 30px 70px; } }

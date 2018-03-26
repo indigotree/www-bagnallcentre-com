@@ -18,7 +18,7 @@
             </div>
 
             <div class="column--md-3">
-                {{ partial "widget-recent.html" (dict "Title" "Recent" "Items" (first 5 (where .Site.RegularPages "Section" "news"))) }}
+                {{ partial "widget-recent.html" (dict "Title" "Recent News" "Items" (first 3 (where .Site.RegularPages "Section" "news"))) }}
                 
                 {{ partial "widget-categories.html" (dict "Title" "Categories" "Scope" . ) }}
 
