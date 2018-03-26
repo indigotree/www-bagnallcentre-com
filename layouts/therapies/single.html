@@ -17,7 +17,7 @@
 
             <div class="column--md-3">
 
-                {{ partial "widget-treatments.html" (dict "Title" "Menu" "Items" (first 10 (index .Site.Taxonomies.treatments .Params.treatments))) }}
+                {{ partial "widget-treatments.html" (dict "Title" .Params.treatments "Items" (first 10 (index .Site.Taxonomies.treatments .Params.treatments))) }}
 
                 {{ partial "whats-on-widget" . }}
 
