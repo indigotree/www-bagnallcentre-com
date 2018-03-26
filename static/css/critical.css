@@ -23,6 +23,9 @@ img {
   max-width: 100%;
   height: auto; }
 
+.text-center {
+  text-align: center; }
+
 .h1, h1 {
   font-size: 40px;
   margin-bottom: 30px;
@@ -87,7 +90,7 @@ strong, b {
       max-width: 970px; } }
   @media screen and (min-width: 1200px) {
     .container {
-      max-width: 1170px; } }
+      max-width: 90%; } }
 
 .row {
   margin-left: -15px;
@@ -833,6 +836,10 @@ strong, b {
         float: right; }
   .btn-icons {
     line-height: 27px; }
+    .btn-icons .fa-calendar {
+      margin-right: 20px; }
+    .btn-icons .fa-arrow-right {
+      margin-left: 20px; }
   .btn--facebook {
     background-color: #3B5998;
     color: #fff; }

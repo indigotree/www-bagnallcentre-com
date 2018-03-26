@@ -56,6 +56,13 @@
 
     &-icons {
         line-height: 27px;
+
+        .fa-calendar {
+            margin-right: 20px;
+        }
+        .fa-arrow-right {
+            margin-left: 20px;
+        }
     }
 
     &--facebook {
