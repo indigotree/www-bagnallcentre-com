@@ -3,10 +3,10 @@ title: "Cooking to Combat Diabetes"
 starts_at: 2018-07-14T12:00:00
 draft: false
 description: "If you would love to gain control of your diabetes by making some simple but powerful diet and lifestyle changes, this class is for you."
-featured_image: "/image-hilda-solomons.jpg"
+featured_image: "/uploads/image-hilda-solomons.jpg"
 ---
 
-![Photo of Hilda Solomons](/image-hilda-solomons.jpg)
+![Photo of Hilda Solomons](/uploads/image-hilda-solomons.jpg)
 
 This class is aimed at diabetics of all types and their families. The class will equip you to make simple but powerful changes to your diet and lifestyle which can halt the progression of, and in some cases reverse, your diabetes. 
 
@@ -28,4 +28,4 @@ Places in the Bagnall Centre teaching kitchen are limited so please book as soon
 
 To book call us on 01494 791288 or email [*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com).
 
-![image of kitchen with table cloths](/kitchen-with-table-cloths.jpg)
+![image of kitchen with table cloths](/uploads/kitchen-with-table-cloths.jpg)
