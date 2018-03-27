@@ -33,7 +33,7 @@
         text-transform: uppercase;
         color: #fff;
         font-size: 13px;
-        font-weight: 700;
+        font-weight: 900;
         max-width: 155px;
 
         @media screen and (min-width: $screen-md) {
@@ -43,7 +43,8 @@
         }
 
         @media screen and (min-width: $screen-lg) {
-            font-size: 18px;
+            max-width: 270px;
+            font-size: 22px;
         }
 
     }

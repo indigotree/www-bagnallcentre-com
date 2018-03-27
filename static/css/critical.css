@@ -913,7 +913,7 @@ strong, b {
     text-transform: uppercase;
     color: #fff;
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 900;
     max-width: 155px; }
     @media screen and (min-width: 992px) {
       .feature__title {
@@ -922,7 +922,8 @@ strong, b {
         padding: 15px 20px; } }
     @media screen and (min-width: 1200px) {
       .feature__title {
-        font-size: 18px; } }
+        max-width: 270px;
+        font-size: 22px; } }
   .feature:hover::after {
     content: '';
     position: absolute;
