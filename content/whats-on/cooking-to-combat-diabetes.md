@@ -30,6 +30,6 @@ Cost: £50, Early Bird Discount: £45 (for bookings made by 2nd June)
 
 Places in the Bagnall Centre teaching kitchen are limited so please book as soon as possible.
 
-To book your place please go to <a href="https://www.eventbrite.co.uk/o/the-bagnall-centre-for-integrated-healthcare-15107851824" target="_blank">Eventbrite</a>.
+To book your place please go to [Eventbrite](https://www.eventbrite.co.uk/o/the-bagnall-centre-for-integrated-healthcare-15107851824).
 
 ![image of kitchen with table cloths](/uploads/kitchen-with-table-cloths.jpg)
