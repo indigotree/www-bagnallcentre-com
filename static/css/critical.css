@@ -398,6 +398,9 @@ strong, b {
   .header .logo svg {
     display: block; }
 
+.toast-warning {
+  background-color: #7d864b; }
+
 .emergency {
   background: #84A886;
   color: #000;
