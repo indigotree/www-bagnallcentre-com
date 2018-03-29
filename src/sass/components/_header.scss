@@ -5,6 +5,10 @@
 
     @media screen and (min-width: $navigation-break-point) {
         background: #fff;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
     }
 
     @media screen and (min-width: $navigation-break-point) and (max-width: $screen-md) {

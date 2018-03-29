@@ -84,12 +84,34 @@
         addStylesNode.parentElement.removeChild(addStylesNode);
     }
 
+    /**
+     * Display an emergency alert
+     * 
+     * @param {jQuery} alert 
+     */
+    function emergencyAlert(alert) {
+        if (!alert.length || sessionStorage.getItem('emergency') === 'true') {
+            return;
+        }
+
+        toastr.options.closeButton = true;
+        toastr.options.timeOut = 0; // How long the toast will display without user interaction
+        toastr.options.extendedTimeOut = 0; // How long the toast will display after a user hovers over it
+
+        toastr.options.onCloseClick = function () {
+            sessionStorage.setItem('emergency', 'true');
+        }
+
+        toastr.warning(alert.html());
+    }
+
     $(function () {
 
         // Init
         //
         handleFormInjection();
         addBoxShadow();
+        emergencyAlert($('#emergency'));
 
         // Events
         //

@@ -45,6 +45,13 @@
 </footer>
 
 
+{{ if eq $.Site.Data.emergency.enable "yes" }}
+    <div id="emergency" class="hide">
+        {{ $.Site.Data.emergency.message | markdownify }}
+    </div>
+{{ end }}
+
+
 
 
 

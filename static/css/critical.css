@@ -13,9 +13,18 @@ body {
   line-height: 1.5;
   margin: 0;
   padding: 0; }
+  @media screen and (min-width: 768px) {
+    body {
+      padding-top: 116px; } }
+  @media screen and (min-width: 992px) {
+    body {
+      padding-top: 70px; } }
+  @media screen and (min-width: 1200px) {
+    body {
+      padding-top: 106px; } }
 
 .main {
-  background: url("../images/footer-tree.svg") no-repeat bottom right;
+  background: url("/images/footer-tree.svg") no-repeat bottom right;
   background-size: 50%;
   padding-bottom: 30px; }
 
@@ -25,6 +34,9 @@ img {
 
 .text-center {
   text-align: center; }
+
+.hide {
+  display: none; }
 
 .h1, h1 {
   font-size: 40px;
@@ -410,7 +422,11 @@ strong, b {
   z-index: 999; }
   @media screen and (min-width: 768px) {
     .header {
-      background: #fff; } }
+      background: #fff;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0; } }
   @media screen and (min-width: 768px) and (max-width: 992px) {
     .header {
       min-height: 98px; } }

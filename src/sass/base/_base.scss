@@ -9,10 +9,24 @@ body {
     line-height: 1.5;
     margin: 0;
     padding: 0;
+
+    @media screen and (min-width: $navigation-break-point) {
+        padding-top: 116px;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        padding-top: 70px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        padding-top: 106px;
+    }
+
+    
 }
 
 .main {
-    background: url('../images/footer-tree.svg') no-repeat bottom right;
+    background: url('/images/footer-tree.svg') no-repeat bottom right;
     background-size: 50%;
     padding-bottom: 30px;
 }
@@ -24,4 +38,8 @@ img {
 
 .text-center {
     text-align: center;
+}
+
+.hide {
+    display: none;
 }
