@@ -1,21 +1,47 @@
-{{ define "main" }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+    <head>
 
-    <div class="inner-hero">
-        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
-        <h2 class="inner-hero__title">{{ .Title }}</h2>
-    </div>
+        {{ block "site/meta" . }}{{ partial "site/meta.html" . }}{{ end }}
 
-    <div class="bg--grey content-area">
+        <title>Page not found | {{ .Site.Title -}}</title>
 
-        <div class="col-md-8">
-            <h1>Error 404 - Not found</h1>
-            <p>Your browser can't find the document corresponding to the URL you typed in.</p>
-        </div>
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+        <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
 
-        <div class="col-md-4">
-            <p>If you would like to start your healthcare practice at the Bagnall Centre please contact us on - <a href="tel:01494791288">01494 791288</a> or <b><a href="mailto:booking@bagnallcentre.com">bookings@bagnallcentre.com</a></b><br>
-            We look forward to hearing from you!</p>
-        </div>
+        <meta name="theme-color" content="#fe7600">
 
-    </div>
-{{ end }}
+        <link rel="manifest" href="{{ "manifest.json" | absURL }}">
+        <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}">
+
+        {{ block "site/styles" . }}{{ partial "site/styles.html" . }}{{ end }}
+
+    </head>
+    <body>
+
+        {{ block "header" . }}{{ partial "site/header.html" . }}{{ end }}
+
+        <main class="main" role="main">
+            <div class="container">
+                <div class="inner-hero">
+                        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
+                        <h2 class="inner-hero__title">The Bagnall Centre</h2>
+                    </div>
+                
+                    <div class="bg--grey content-area">
+                        <h1>Page not found</h1>
+                        <p>Sorry, it appears the page you were looking for doesn't exist anymore or it may have been moved.</p>
+                        <p>To help find your way back, please use your browsers back button, or follow one of the links above.</p>
+                
+                        <p>If you would like to start your healthcare practice at the Bagnall Centre please contact us on - <a href="tel:01494791288"><strong>01494 791288</strong></a> or <a href="mailto:booking@bagnallcentre.com"><strong>bookings@bagnallcentre.com</strong></a><br>
+                        We look forward to hearing from you!</p>
+                
+                    </div>
+            </div>
+        </main>
+
+        {{ block "footer" . }}{{ partial "site/footer.html" . }}{{ end }}
+
+        {{ block "site/scripts" . }}{{ partial "site/scripts.html" . }}{{ end }}
+    </body>
+</html>
