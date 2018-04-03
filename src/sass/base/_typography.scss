@@ -52,3 +52,20 @@ strong, b {
 .text-primary {
     color: $brand-primary;
 }
+
+.text-capitalise {
+    text-transform: capitalize;
+}
+
+.label-inline {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+
+    label {
+        width: 80px;
+        margin-right: 10px;
+        text-align: right;
+
+    }
+}

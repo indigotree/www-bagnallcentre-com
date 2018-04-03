@@ -79,6 +79,18 @@ strong, b {
 .text-primary {
   color: #fe7600; }
 
+.text-capitalise {
+  text-transform: capitalize; }
+
+.label-inline {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ccc; }
+  .label-inline label {
+    width: 80px;
+    margin-right: 10px;
+    text-align: right; }
+
 .sr {
   position: absolute;
   top: -9999px;
