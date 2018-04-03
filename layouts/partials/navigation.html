@@ -8,18 +8,36 @@
             <a href="{{ .Site.BaseURL }}">Home</a>
         </li>
 
-        {{ range .Site.Menus.main }}
-            <li class="navigation__item {{ if $currentPage.IsMenuCurrent "main" . }}navigation--active{{ end }}">
-                {{ if eq .Name "Search" }}
-                    <a href="{{ .URL }}" class="navigation--search" data-toggle="#show">
-                        <i class="fa fa-search"></i>
-                        <span class="navigation__item-text">{{ .Name }}</span>
-                    </a>
-                {{ else }}
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-                {{ end }}
-            </li>
-        {{ end }}
+        <li class="navigation__item {{ if findRE "/fitness-and-exercise/" $currentPage.URL }}navigation--active{{ end }}">
+            <a href="/fitness-and-exercise/">Fitness &amp; Exercise</a>
+        </li>
+
+        <li class="navigation__item {{ if or (findRE "/treatments/therapies|wellbeing/" $currentPage.URL) (or (eq $currentPage.Params.treatments "therapies") (eq $currentPage.Params.treatments "wellbeing") ) }}navigation--active{{ end }}">
+            <a href="/treatments/therapies/">Therapy &amp; Wellbeing</a>
+        </li>
+
+        <li class="navigation__item {{ if or (findRE "/treatments/nutrition|lifestyle/" $currentPage.URL) (or (eq $currentPage.Params.treatments "nutrition") (eq $currentPage.Params.treatments "lifestyle") ) }}navigation--active{{ end }}">
+            <a href="/treatments/nutrition/">Nutrition &amp; Lifestyle</a>
+        </li>
+
+        <li class="navigation__item {{ if findRE "/working-with-us/" $currentPage.URL }}navigation--active{{ end }}">
+            <a href="/working-with-us/">Working with us</a>
+        </li>
+
+        <li class="navigation__item {{ if findRE "/news|categories/" $currentPage.URL }}navigation--active{{ end }}">
+            <a href="/news/">News</a>
+        </li>
+
+        <li class="navigation__item {{ if findRE "/contact-us/" $currentPage.URL }}navigation--active{{ end }}">
+            <a href="/contact-us/">Contact</a>
+        </li>
+
+        <li class="navigation__item">
+            <a href="/search/" class="navigation--search" data-toggle="#show">
+                <i class="fa fa-search"></i>
+                <span class="navigation__item-text">Search</span>
+            </a>
+        </li>
 
     </ul>
 
