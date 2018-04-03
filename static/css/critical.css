@@ -38,6 +38,24 @@ img {
 .hide {
   display: none; }
 
+.text--monday span {
+  color: #d10500; }
+
+.text--tuesday span {
+  color: #3f14c9; }
+
+.text--wednesday span {
+  color: #13bd1d; }
+
+.text--thursday span {
+  color: #fe7600; }
+
+.text--friday span {
+  color: #d10500; }
+
+.text--saturday span {
+  color: #3f14c9; }
+
 .h1, h1 {
   font-size: 40px;
   margin-bottom: 30px;
@@ -90,6 +108,9 @@ strong, b {
     width: 80px;
     margin-right: 10px;
     text-align: right; }
+
+.text-danger {
+  color: #d10500; }
 
 .sr {
   position: absolute;

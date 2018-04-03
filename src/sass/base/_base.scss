@@ -43,3 +43,29 @@ img {
 .hide {
     display: none;
 }
+
+.text {
+    &--monday span {
+        color: $brand-danger;
+    }
+
+    &--tuesday span {
+        color: $brand-secondary;
+    }
+
+    &--wednesday span {
+        color: $brand-success;
+    }
+
+    &--thursday span {
+        color: $brand-primary;
+    }
+
+    &--friday span {
+        color: $brand-danger;
+    }
+
+    &--saturday span {
+        color: $brand-secondary;
+    }
+}

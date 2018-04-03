@@ -6,7 +6,7 @@
 
     {{ if and (.Get "button") (.Get "link") }}
         <div class="cta__footer">
-            <a href="{{ .Get "link" | safeURL }}" rel="noopener" target="_blank" class="cta__link btn btn-primary btn-lg">
+            <a href="{{ .Get "link" | safeURL }}" rel="noopener" {{ if not (findRE "tel:|mailto:" (.Get "link")) }}target="_blank"{{ end }} class="cta__link btn btn-primary btn-lg">
                 {{ .Get "button" }}
             </a>
         </div>

@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-    <div class="inner-hero">
+    <div class="inner-hero inner-hero--danger">
         <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
         <h2 class="inner-hero__title">Fitness &amp; Exercise</h2>
     </div>
 
-    <div class="bg--grey content-area">
+    <div class="bg--grey content-area content-area--danger">
 
         <div class="row">
 
@@ -16,32 +16,32 @@
 
                 <div class="label-inline">
                     <label>Day:</label>
-                    <span class="text-capitalise text-primary">{{ .Params.event_day }}</span>
+                    <span class="text-capitalise text-danger">{{ .Params.event_day }}</span>
                 </div>
 
                 <div class="label-inline">
                     <label>Time:</label>
-                    <span class="text-primary"><time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.start_time }}">{{ dateFormat "15:04" .Params.start_time }}</time> - <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.end_time }}">{{ dateFormat "15:04" .Params.end_time }}</time></span>
+                    <span class="text-danger"><time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.start_time }}">{{ dateFormat "15:04" .Params.start_time }}</time> - <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.end_time }}">{{ dateFormat "15:04" .Params.end_time }}</time></span>
                 </div>
 
                 <div class="label-inline">
                     <label>Class:</label>
-                    <span class="text-primary">{{ .Title }}</span>
+                    <span class="text-danger">{{ .Title }}</span>
                 </div>
                 
                 <div class="label-inline">
                     <label>Price:</label>
-                    <span class="text-primary">{{ .Params.price }}</span>
+                    <span class="text-danger">{{ .Params.price }}</span>
                 </div>
                 
                 <div class="label-inline">
                     <label>Room:</label>
-                    <span class="text-primary">{{ .Params.room }}</span>
+                    <span class="text-danger">{{ .Params.room }}</span>
                 </div>
 
                 <div class="label-inline">
                     <label>Term:</label>
-                    <span class="text-primary">{{ .Params.term }}</span>
+                    <span class="text-danger">{{ .Params.term }}</span>
                 </div>
 
             </div>
