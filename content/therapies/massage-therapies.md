@@ -19,5 +19,5 @@ While there are several types of massage, two fundamental categories are:
 **Rehabilitative massage** - also known as deep tissue, medical, therapeutic or clinical massage; practiced in many settings like clinics, hospitals and complimentary health centres.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

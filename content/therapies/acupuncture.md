@@ -11,5 +11,5 @@ Traditional acupuncture is a healthcare system based on ancient principles which
 Based on traditional belief, acupuncturists are trained to use subtle diagnostic techniques that have been developed and refined for centuries. The focus is on the individual, not their illness, and all the symptoms are seen in relation to each other. Each patient is unique; two people with the same western diagnosis may well receive different acupuncture treatments.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

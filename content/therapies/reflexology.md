@@ -11,5 +11,5 @@ Reflexology is based on the principle that there are reflex areas in the feet an
 As with all treatments, a full consultation should be completed with your therapist to ensure that reflexology is right for you.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

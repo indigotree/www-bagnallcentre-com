@@ -11,5 +11,5 @@ Amatsu uses a range of techniques including soft tissue work, structural adjustm
 Therefore it is not just a physical injury that can cause problems to the body. All too often life's stresses mean that our bodies have to adapt and cope with tensions and strains, leading to poor posture, sluggish digestive systems, aching shoulders and necks. Amatsu can help to relieve these strains.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

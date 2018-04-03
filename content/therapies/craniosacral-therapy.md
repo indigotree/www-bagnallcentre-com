@@ -13,5 +13,5 @@ People may come for Craniosacral Therapy because they have acute physical proble
 Craniosacral Therapy supports your body's innate ability to balance, restore and heal itself, as well as helping to reduce stress and build your underlying energy.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

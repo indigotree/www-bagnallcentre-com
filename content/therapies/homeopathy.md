@@ -11,5 +11,5 @@ Homeopaths often see patients with long-term, chronic problems, many of which ha
 Many people visit a homeopath with a diagnosis from their doctor, and patients are encouraged to keep their medical practitioners informed as treatment progresses. Some people see a homeopath because they have side effects from conventional drugs, and others because conventional tests have failed to find the cause of their problem.
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
-For enquiries call 01494 791288
+For enquiries call [01494 791288](tel:01494791288)
 {{< /cta >}}

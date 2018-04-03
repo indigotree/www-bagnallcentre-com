@@ -1,6 +1,8 @@
 <div class="cta {{ if and (.Get "button") (.Get "link") }}cta--has-button{{ end }}">
     
-    {{ .Inner | markdownify }}
+    <div class="cta__body">
+        {{ .Inner | markdownify }}
+    </div>
 
     {{ if and (.Get "button") (.Get "link") }}
         <div class="cta__footer">

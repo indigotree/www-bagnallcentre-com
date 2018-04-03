@@ -20,7 +20,7 @@
             <div class="column--md-3">
                 {{ partial "widget-recent.html" (dict "Title" "Recent News" "Items" (first 3 (where .Site.RegularPages "Section" "news"))) }}
                 
-                {{ partial "widget-categories.html" (dict "Title" "New Categories" "Scope" . ) }}
+                {{ partial "widget-categories.html" (dict "Title" "News Categories" "Scope" . ) }}
 
                 {{ partial "whats-on-widget" . }}
             
