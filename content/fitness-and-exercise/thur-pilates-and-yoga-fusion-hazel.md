@@ -9,3 +9,5 @@ price: "£10 (£8 block booking)"
 room: "Studio"
 term: "Term time only"
 ---
+
+The Pilates and Yoga Fusion class combines the core stabilisation and strengthening exercises of Pilates with the flow and flexibility benefits of Vinyasa style Yoga. Each class is 30 minutes of Pilates and 30 minutes of Yoga.
