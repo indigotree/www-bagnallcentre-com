@@ -30,7 +30,7 @@ With all of the complications that this life-changing condition can lead to; fro
 * **Dr Jo Lee** - General Practitioner, Life Coach and Psychotherapist.
 * **Dr Mark Chambers** - Retired General Practitioner, GP trainer, health coach and specialist in non-pharmacological anxiety/trauma management.
 
-**RCGP accreditation is in process. **
+**RCGP accreditation is in process.**
 
 9.00am - 4.30pm Friday 8th June at Chartridge Lodge, Chesham, Bucks HP5 2TU.
 
