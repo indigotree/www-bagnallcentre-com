@@ -3,7 +3,7 @@ title: "Play with your Food"
 starts_at: 2018-06-09T12:00:00
 draft: false
 description: "Creative and educational cookery classes for kids aged 7-12, designed to give them the confidence to begin to cook for themselves."
-featured_image: "/uploads/image-zoe-hill.jpg"
+featured_image: "/uploads/kitchen-with-table-cloths.jpg"
 ---
 
 ![image of kitchen with table cloths](/uploads/kitchen-with-table-cloths.jpg)
