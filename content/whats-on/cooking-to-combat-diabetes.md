@@ -3,7 +3,7 @@ title: "Cooking to Combat Diabetes"
 starts_at: 2018-07-14T12:00:00
 draft: false
 description: "If you would love to gain control of your diabetes by making some simple but powerful diet and lifestyle changes, this class is for you."
-featured_image: "/uploads/image-hilda-solomons.jpg"
+featured_image: "/uploads/kitchen-with-table-cloths.jpg"
 ---
 
 ![Photo of Hilda Solomons](/uploads/image-hilda-solomons.jpg)
