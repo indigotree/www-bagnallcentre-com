@@ -1,6 +1,6 @@
 ---
 title: "Cooking to Combat Diabetes"
-starts_at: 2018-07-14T12:00:00
+starts_at: 2018-07-14T10:00:00
 draft: false
 description: "If you would love to gain control of your diabetes by making some simple but powerful diet and lifestyle changes, this class is for you."
 featured_image: "/uploads/kitchen-with-table-cloths.jpg"
