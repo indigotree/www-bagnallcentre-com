@@ -7,7 +7,7 @@ level: "Mixed Ability"
 associate: "Carly"
 price: "£10 (1st class free)"
 room: "Classroom"
-term: "Starts 20/02/18"
+term: "Ongoing"
 ---
 
 With its foundations set firmly in ancient yogic tradition and its emphasis on soft, flowing movements, Dru Yoga can help increase energy levels, ease back pain, and wash away stress.
