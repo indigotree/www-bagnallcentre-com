@@ -9,8 +9,8 @@
     &__thumbnail {
 
         @media screen and (min-width: $screen-sm) {
-            flex: 1 1 30%;
-            max-width: 30%;
+            flex: 1 1 40%;
+            max-width: 40%;
         }
 
         > img {
@@ -25,11 +25,15 @@
     }
 
     &__description {
-        padding: 10px;
+        padding: 20px;
 
         @media screen and (min-width: $screen-sm) {
-            flex: 1 1 80%;
-            max-width: 80%;
+            flex: 1 1 60%;
+            max-width: 60%;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 30px 35px;
         }
 
         p {

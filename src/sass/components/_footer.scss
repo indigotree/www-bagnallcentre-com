@@ -12,4 +12,15 @@
     .copyright {
         font-size: 12px;
     }
+
+    &__address {
+        font-size: 16px;
+        display: block;
+        padding-left: 20px;
+        padding-right: 20px;
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0;
+        }
+    }
 }

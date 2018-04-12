@@ -6,6 +6,7 @@
     min-height: 300px;
     display: flex;
     align-items: center;
+    overflow: hidden;
 
     @media screen and (min-width: $screen-sm) {
         display: block;

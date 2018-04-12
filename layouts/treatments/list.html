@@ -27,6 +27,10 @@
 
         {{ end }}
 
+        <div>
+            {{ .Content }}
+        </div>
+
         <div class="whats-ons whats-ons--secondary">
 
             {{ range (.Paginator 9).Pages }}
