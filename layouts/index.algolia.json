@@ -6,7 +6,7 @@
                 "action": "updateObject",
                 "body": {
                     "title": {{ $page.Title | jsonify }},
-                    "content": {{ $page.Summary | jsonify }},
+                    "content": {{ htmlUnescape $page.Summary | jsonify }},
                     {{ if eq $page.Section "therapies" }}
 
                     {{ if in $page.Params.categories "therapy" }}
