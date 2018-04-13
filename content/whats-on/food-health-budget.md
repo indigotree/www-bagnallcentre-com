@@ -6,7 +6,7 @@ description: "Basic and functional but highly empowering classes, where you will
 featured_image: "/uploads/kitchen-with-table-cloths.jpg"
 ---
 
-![Photo of Zoe Hill](/uploads/image-zoe-hill.jpg)
+![Photo of a class](/uploads/image-food-for-health.jpg)
 
 This class will equip you with a foundation of skills and knowledge that will enable you to make lasting and delicious changes to your diet, both easily and affordably. 
 
