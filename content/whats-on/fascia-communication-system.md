@@ -6,8 +6,6 @@ description: "This Bagnall Centre Family Health & Wellbeing Talk will enable you
 featured_image: "/uploads/image-fascia-grays-anatomy-wiki.png"
 ---
 
-![Image of Fascia](/uploads/image-fascia-grays-anatomy-wiki.png)
-
 This talk will look at: 
 
 * The history and recent discoveries about fascia;
@@ -26,5 +24,7 @@ The talks are open to our customers and complementary health professionals who w
 Price: £10 including refreshments (please book in advance to avoid disappointment!). 
 
 For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required. 
+
+![Image of Fascia](/uploads/image-fascia-grays-anatomy-wiki.png)
 
 *This image is from Gray’s Anatomy ([Wikipedia](https://en.wikipedia.org/wiki/Fascia)) and illustrates the rectal sheath, an example of a fascia. ‘A fascia is a band or sheet of connective tissue, primarily collagen, beneath the skin that attaches, stabilises, encloses, and separates muscles and other internal organs.’ (Marieb, Elaine Nicpon; Hoehn, Katja (2007). [Human anatomy & physiology](https://books.google.com/books?id=x1uEB68iitwC&pg=PA133). Pearson Education. p. 133. [ISBN 978-0-321-37294-9](https://en.wikipedia.org/wiki/Special:BookSources/978-0-321-37294-9).)*
