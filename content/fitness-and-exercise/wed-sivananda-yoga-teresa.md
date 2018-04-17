@@ -10,4 +10,4 @@ room: "Studio"
 term: "Ongoing"
 ---
 
-Sivanada Yoga is a traditional, holistic Yoga system that combines pranayama( breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice.
+Sivanada Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice.
