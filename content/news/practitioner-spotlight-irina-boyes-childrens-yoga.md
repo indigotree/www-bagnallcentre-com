@@ -2,7 +2,7 @@
 title: 'PRACTITIONER SPOTLIGHT: Irina Boyes - Children’s Yoga'
 description: PRACTITIONER SPOTLIGHT
 yoast_keyword: Kite Spirit
-date: 2018-01-26T10:19:37.000Z
+date: 2018-04-17T09:19:37.000Z
 author: The Bagnall Centre
 ---
 
