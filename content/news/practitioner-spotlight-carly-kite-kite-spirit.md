@@ -2,7 +2,7 @@
 title: 'PRACTITIONER SPOTLIGHT: Carly Kite - Kite Spirit'
 description: PRACTITIONER SPOTLIGHT
 yoast_keyword: Kite Spirit
-date: 2018-04-17T09:40:36.540Z
+date: 2018-03-20T09:40:36.540Z
 author: Bagnall Centre
 ---
 ![](/uploads/carly.jpg)
