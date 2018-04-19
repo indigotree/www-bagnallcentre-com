@@ -6,7 +6,7 @@ end_time: 2000-01-01T21:00:00Z
 level: "Mixed Ability"
 associate: "Teresa"
 price: "£10 (£8 block booking)"
-room: "Studio"
+room: "Classroom"
 term: "Ongoing"
 ---
 
