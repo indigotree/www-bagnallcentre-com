@@ -19,7 +19,11 @@
             <div class="column--md-9">
                 {{ .Content }}
 
-                <form class="apply" name="apply" data-netlify="true">
+                <form class="apply" name="apply" netlify-honeypot="bot-field" data-netlify="true">
+
+                    <div class="hide">
+                        <input name="bot-field" />
+                    </div>
 
                     <div class="row">
                         <div class="column--md-6">

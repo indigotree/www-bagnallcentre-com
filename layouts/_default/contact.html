@@ -18,7 +18,12 @@
 
                 <h1>Send us a message</h1>
 
-                <form name="contact_form" data-netlify="true">
+                <form name="contact_form" netlify-honeypot="bot-field" data-netlify="true">
+
+                    <div class="hide">
+                        <input name="bot-field" />
+                    </div>
+
                     <div class="form-group">
                         <label for="name">Name:</label>
                         <input id="name" name="name" class="form-control input-lg" placeholder="Please enter your name" type="text" required="required">
