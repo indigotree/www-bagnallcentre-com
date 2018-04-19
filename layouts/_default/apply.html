@@ -22,7 +22,12 @@
             <div class="three-quarter-col colpadding-right">
                 {{ .Content }}
 
-                <form class="apply" name="apply" data-netlify="true">
+                <form class="apply" name="apply" netlify-honeypot="bot-field" data-netlify="true">
+
+                    <div class="hide">
+                        <input name="bot-field">
+                    </div>
+
                     <div class="two-col"> 
                         <label for="firstname">First Name:</label>
                         <br>
