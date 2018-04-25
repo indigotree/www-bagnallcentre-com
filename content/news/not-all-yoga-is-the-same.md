@@ -3,6 +3,8 @@ title: Not all Yoga is the same!
 date: 2018-03-02T10:54:20+00:00
 author: The Bagnall Centre
 ---
+![Woman doing yoga](/uploads/image-yoga-blogs.jpg)
+
 We are delighted that we are currently expanding the range of yoga classes we offer at The Bagnall Centre. 
 
 Yoga can improve your health and wellbeing in so many ways. The benefits are far-ranging and it is accessible to everyone - you can enjoy yoga at any age and any level. It is not competitive, and a good teacher will help and enable everyone in their class to work to a level they are comfortable with individually.  
