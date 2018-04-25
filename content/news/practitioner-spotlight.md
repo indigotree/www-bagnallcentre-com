@@ -7,8 +7,6 @@ author: The Bagnall Centre
 ---
 <div style="text-align: center;" markdown="1">
 
-![Image of Betty Zee](/uploads/image-betty-zee.jpg)
-
 We love working with our Practitioners!<br/><br/>
 
 Betty Zee is a Personal Trainer and her inspirational motto is<br/><br/>
@@ -20,6 +18,9 @@ If you would like us to feature a spotlight on you and your work then please get
 Here's what Betty has to say about what she does, <br/>
 
 and why she does it.<br/><br/>
+
+![Image of Betty Zee](/uploads/image-betty-zee.jpg)
+
 </div>
 
 "When I started training 30 years ago everyone was into Jane Fonda aerobics. I happened to bump into a lady doing what I would later know as bicep curls: she showed me how to do them and from then I was hooked! It turned out that she was Russian and her husband was a powerlifter. During that time and for many years I would often be the only woman in the free weights area - this has all changed, which is a great thing. I’m a believer in not only using weights but also using our own body weight in training: this, if done properly, is effective in so many ways. 
