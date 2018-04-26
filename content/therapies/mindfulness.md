@@ -4,6 +4,7 @@ description: "Mindfulness is the psychological process of bringing one's attenti
 treatments: "wellbeing"
 colour: "secondary"
 draft: false
+featured_image: /uploads/image-mindfulness-1920.jpg
 ---
 
 Mindfulness Mindfulness is the psychological process of bringing one's attention to the internal and external experiences occurring in the present moment, which can be developed through the practice of meditation and other training.
