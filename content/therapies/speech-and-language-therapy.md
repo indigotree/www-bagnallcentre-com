@@ -4,6 +4,7 @@ description: "Speech And Language Therapy is concerned with the management of di
 treatments: "therapies"
 colour: "secondary"
 draft: false
+featured_image: /uploads/image-speech-language-therapy-1920.jpg
 ---
 
 Speech and language therapy is concerned with the management of disorders of speech, language, communication and swallowing in children and adults. Therapists are allied health professionals and work closely with occupational therapists, doctors, parents, carers and other professionals, such as teachers and nurses.
