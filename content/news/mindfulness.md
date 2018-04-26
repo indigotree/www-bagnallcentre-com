@@ -4,6 +4,7 @@ date: 2016-08-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
 categories: ["News"]
+featured_image: "/uploads/image-mindfulness-1920.jpg"
 ---
 
 
