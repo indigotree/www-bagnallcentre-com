@@ -3,6 +3,7 @@ title: PRACTITIONER SPOTLIGHT Betty Zee - BZeeFitness
 date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
 categories: ["News"]
+featured_image: "/uploads/image-betty-zee-640.jpg"
 ---
 <div style="text-align: center;" markdown="1">
 
