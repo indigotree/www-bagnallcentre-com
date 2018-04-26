@@ -4,6 +4,7 @@ date: 2016-07-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
 categories: ["News"]
+featured_image: "/uploads/image-diabetes-chronic-disease-1920.jpg"
 ---
 
 With over 4 million people diagnosed in the UK, most people have heard of or know someone with diabetes. Diabetes UK’s theme for their June awareness week was ‘Setting the Record Straight’, which aimed to bust some of the myths and misconceptions around the condition. The charity cites lack of education as one of the biggest issues, with only a very small percentage of diabetics being provided with adequate information.
