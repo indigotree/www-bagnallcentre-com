@@ -4,6 +4,7 @@ description: "Homeopaths often see patients with long-term, chronic problems, ma
 treatments: "therapies"
 colour: "secondary"
 draft: false
+featured_image: /uploads/image-homeopathy-1920.jpg
 ---
 
 Homeopaths often see patients with long-term, chronic problems, many of which have failed to respond to conventional medicine. As a system of medicine, homeopathy is aimed at treating the person, rather than the disease diagnosis, and as such can be considered in almost any ill health, where tissue has not been irrevocably damaged.
