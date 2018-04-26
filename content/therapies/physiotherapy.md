@@ -4,6 +4,7 @@ description: "Physiotherapists help people affected by injury, illness or disabi
 treatments: "therapies"
 colour: "secondary"
 draft: false
+featured_image: /uploads/image-physiotherapy-1920.jpg
 ---
 
 Physiotherapists help people affected by injury, illness or disability through movement and exercise, manual therapy, education and advice.
