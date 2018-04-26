@@ -3,6 +3,7 @@ title: Lifestyle and Diabetes
 date: 2018-01-26T10:19:37.000Z
 author: The Bagnall Centre
 categories: ["News", "moonlight"]
+featured_image: "/uploads/image-diabetes-chronic-disease-1920.jpg"
 ---
 The Bagnall Centre’s next conference ‘Lifestyle and Diabetes - how closely are they related?’ will take place on 8th June 2018 at Chartridge Lodge, Chesham, . 
 
