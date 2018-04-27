@@ -1,0 +1,33 @@
+.featured-whats-on {
+    padding: 30px 40px;
+
+    &__title {
+        font-size: 20px;
+        color: #464e5b;
+        font-weight: 900;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+
+        .fa {
+            margin-right: 14px;
+            font-size: 24px;
+        }
+    }
+
+    &__footer {
+        max-width: 650px;
+        margin: 0 auto;
+        text-align: center;
+
+        .btn {
+            font-size: 17px;
+            
+            .fa-calendar {
+                margin-right: 10px;
+            }
+            .fa-arrow-right {
+                margin-left: 10px;
+            }
+        }
+    }
+}

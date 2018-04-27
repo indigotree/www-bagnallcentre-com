@@ -1,0 +1,75 @@
+.h1, h1 {
+    font-size: 40px;
+    margin-bottom: 30px;
+    position: relative;
+    margin-top: 0;
+    font-weight: normal;
+
+    &::after {
+        content: '';
+        display: block;
+        height: 3px;
+        background: $brand-primary;
+        width: 10%;
+        position: absolute;
+        left: 0;
+        bottom: -18px;
+    }
+
+    .content-area--danger &::after {
+        background: $brand-danger;
+    }
+}
+
+.h2, h2 {
+    color: $brand-primary;
+    margin-top: 0;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+a {
+    color: $brand-primary;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+        color: $brand-primary;
+        text-decoration: underline;
+    }
+
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+.text-primary {
+    color: $brand-primary;
+}
+
+.text-capitalise {
+    text-transform: capitalize;
+}
+
+.label-inline {
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+
+    label {
+        width: 80px;
+        margin-right: 10px;
+        text-align: right;
+
+    }
+}
+
+.text-danger {
+    color: $brand-danger;
+}

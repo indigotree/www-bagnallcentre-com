@@ -55,11 +55,13 @@
             templates: {
                 empty: '<h2>No results</h2>',
                 item:
-                    '<div class="result-row">' + 
-                        '<a href="{{ url }}">' +
-                            '<h2>{{ title }}</h2>' +
-                            '<p>{{ content }}</p>' + 
-                        '</a>' +
+                    '<div class="search-result">' + 
+                        '<h2>' + 
+                            '<a href="{{ url }}" class="search-result__link">' +
+                                '{{ title }}' + 
+                            '</a>' +
+                        '</h2>' +
+                        '<p class="search-result__description">{{ content }}</p>' + 
                     '</div>'
             }
         }));

@@ -1,20 +1,20 @@
-<div class="whatson">
+<div class="whatson-widget">
     <h2>What's on</h2>
 
-    {{ range first 2 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
+    <ul class="whatson-widget__list">
+        {{ range first 2 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
 
-        <div class="whatsoncontainerside">
-            <a href="{{ .Permalink }}">
-                <div class="calendarcontainer">
+            <a href="{{ .Permalink }}" class="whatson-widget__item">
+                <div class="whatson-widget__icon">
                     <i class="fa fa-calendar" aria-hidden="true"></i>
                 </div>
-                <div class="three-quarter-col"> 
-                    <span class="mediumtext"><b>{{ .Title }}</b></span>
-                    <p>{{ dateFormat "2 January at 3:04pm" .Params.starts_at }}</p>
+                <div class="whatson-widget__body">
+                    <h2 class="whatson-widget__title">{{ .Title }}</h2>
+                    <time class="whatson-widget__time" datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.starts_at }}">{{ dateFormat "2 January at 3:04pm" .Params.starts_at }}</time>
                 </div>
             </a>
-        </div>
 
-    {{ end }}
+        {{ end }}
+    </ul>
 
 </div>

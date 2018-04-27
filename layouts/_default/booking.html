@@ -1,51 +1,64 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-contact.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area content-area--no-top">
 
-            <div class="secondary-nav">
-                <span>Contact us</span>
-                <a href="/contact-us/parking/">Parking</a> 
-            </div>
-            
-            <div class="one-col-half colpadding-right">
+        <div class="secondary-nav">
+            <span>Contact us</span>
+            <a href="/contact-us/parking/">Parking</a> 
+        </div>
+
+        <div class="row">
+
+            <div class="column--md-6">
+
                 <h1>Please complete our form and we will be in touch within 24 hours.</h1>
-                
-                <form class="contactform" name="booking" netlify-honeypot="bot-field" data-netlify="true">
+
+                <form name="booking" netlify-honeypot="bot-field" data-netlify="true">
 
                     <div class="hide">
-                        <input name="bot-field">
+                        <input name="bot-field" />
                     </div>
 
-                    <label for="name">Name:</label>
-                    <input id="name" name="name" value="" placeholder="Please enter your name" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Your name\'" type="text" required="">
-                    <br>
-                    <label for="email">Email Address:</label>
-                    <input id="email" name="email" value="" placeholder="your@emailaddress.co.uk" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'your@emailaddress.co.uk\'" type="email" required="">
-                    <br>
-                    <label for="phone">Phone Number:</label>
-                    <input id="phone" name="phone" value="" placeholder="Please enter your contact number" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Please enter your contact number\'" type="text" required="">
-                    <br>
-                    <label for="message">Message:</label>
-                    <textarea id="message" name="message">I would like to book onto PILATES (Mixed Ability) on Monday starting at 9:00 am with Hazel.</textarea>
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input id="name" name="name" class="form-control input-lg" placeholder="Please enter your name" type="text" required="required">
+                    </div>
 
-                    <input type="submit" class="button" name="submit" value="Submit">
+                    <div class="form-group">
+                        <label for="email">Email Address:</label>
+                        <input id="email" name="email" class="form-control input-lg" placeholder="your@emailaddress.co.uk" type="email" required="required">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="phone">Phone Number:</label>
+                        <input id="phone" name="phone" class="form-control input-lg" placeholder="Please enter your contact number" type="text" required="required">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message:</label>
+                        <textarea class="form-control input-lg" rows="6" id="message" name="message">I would like to book onto PILATES (Mixed Ability) on Monday starting at 9:00 am with Hazel.</textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block btn-lg" name="submit">Submit</button>
                 </form>
+                
             </div>
 
-            <div class="one-col-half">
-                {{ .Content }}
+            <div class="column--md-6">
+                <div class="row">
+                    {{ .Content }}
+                </div>
 
-                <div class="marginspace"></div>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2472.737371164136!2d-0.6124350484575292!3d51.70125097956763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48765d73138c0dff%3A0x4fea929acdfe942!2sThe+Bagnall+Centre+for+Integrated+Healthcare!5e0!3m2!1sen!2suk!4v1492521423246" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
             </div>
-                
+
         </div>
+
     </div>
 
 {{ end }}

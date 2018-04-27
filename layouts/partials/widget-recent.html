@@ -1,0 +1,24 @@
+<div class="widget widget--recent">
+    {{ if .Title }}
+        <h2 class="widget__title">{{ .Title }}</h2>
+    {{ end }}
+    <div class="widget__body">
+        {{ if .Items }}
+            <ul class="widget__listings">
+            {{ range .Items }}
+                <li class="widget__item">
+                    <a href="{{ .Permalink }}" class="whatson-widget__item">
+                        <div class="whatson-widget__icon">
+                            <i class="fa fa-file-text-o" aria-hidden="true"></i>
+                        </div>
+                        <div class="whatson-widget__body">
+                            <h2 class="whatson-widget__title">{{ .Title }}</h2>
+                            <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Date }}" class="whatson-widget__time">{{ partial "custom-date.html" . }}</time>
+                        </div>
+                    </a>
+                </li>
+            {{ end }}
+            </ul>
+        {{ end }}
+    </div>
+</div>

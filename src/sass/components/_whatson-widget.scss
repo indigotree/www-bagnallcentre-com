@@ -1,0 +1,48 @@
+.whatson-widget {
+
+    &__list {
+        padding: 0;
+        list-style-type: none;
+    }
+
+    &__icon {
+        font-size: 32px;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    &__title {
+        font-size: 20px;
+        color: #5b6677;
+        font-weight: bold;
+        margin-bottom: 2px;
+    }
+
+    &__item {
+        position: relative;
+        padding-top: 12px;
+        padding-left: 40px;
+        display: block;
+        color: #5b6677;
+        text-decoration: none;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #d6e0ed;
+        margin-bottom: 10px;
+
+        &:hover,
+        &:focus {
+            color: $brand-primary;
+            text-decoration: none;
+
+            .whatson-widget__title {
+                color: $brand-primary;
+            }
+        }
+    }
+
+    &__time {
+        font-size: 14px;
+    }
+
+}

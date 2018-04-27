@@ -1,0 +1,28 @@
+.emergency {
+    background: #84A886;
+    color: #000;
+    font-size: 14px;
+    padding: 10px 0;
+
+    @media screen and (min-width: $screen-sm) {
+        min-height: 90px;
+        overflow: hidden;
+    }
+
+    h2 {
+        font-size: 16px;
+        color: #000;
+    }
+
+    a {
+        color: #000;
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            color: #000;
+        }
+    }
+
+
+}

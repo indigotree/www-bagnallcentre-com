@@ -4,6 +4,7 @@ starts_at: 2018-05-26T10:00:00
 draft: false
 description: "Basic and functional but highly empowering classes, where you will be taught to create everyday meals that can make an immense difference to the health of both you and your family."
 featured_image: "/uploads/kitchen-with-table-cloths.jpg"
+event_categories: ["featured"]
 ---
 
 ![Photo of a class](/uploads/image-food-for-health.jpg)

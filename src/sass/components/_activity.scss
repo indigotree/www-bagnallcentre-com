@@ -1,0 +1,68 @@
+.activity {
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    border-top: 1px solid #a5b5c4;
+    cursor: pointer;
+
+    @media screen and (min-width: $screen-sm) {
+        display: flex;
+        padding-right: 0;
+        padding-left: 0;
+        font-size: 14px;
+    }
+
+    &:hover,
+    &:focus {
+        background-color: #d6e0ed;
+    }
+
+    
+    > div {
+        @media screen and (min-width: $screen-sm) {
+            padding-left: 5px;
+            padding-right: 5px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 16px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+    
+
+    &__name {
+        color: $brand-danger;
+        font-weight: 600;
+    }
+
+    &__label {
+        display: block;
+        color: $brand-primary;
+        font-size: 16px;
+        font-weight: bold;
+
+        @media screen and (min-width: $screen-sm) {
+            display: none;
+        }
+    }
+
+    &__title {
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+
+    &__description {
+        padding: 20px;
+        background-color: #d6e0ed;
+        display: none;
+    }
+
+    &.active {
+        background-color: #d6e0ed;
+        border-bottom: 1px solid #d2d2d2;
+    }
+
+}

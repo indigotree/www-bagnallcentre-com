@@ -3,6 +3,9 @@ title: "Eating Raw Food"
 date: 2016-10-03T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+Description: In our time-poor, highly pressured modern world, it can be easy to reach for a quick fix solution to putting food on the able.
+categories: ["News"]
+featured_image: "/uploads/image-raw-food-1920.jpg"
 ---
 
 ### Nutrition

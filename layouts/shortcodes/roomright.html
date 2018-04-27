@@ -2,9 +2,13 @@
     <h2>{{ .Get "title" }}</h2>
 {{ end }}
 
-<div class="room-row">
+<div class="room room--right">
     {{ if .Get "image" }}
-        <img src="{{ .Get "image" | absURL }}" alt="{{ .Get "alt" }}" class="roomupgrades-right">
+        <div class="room__thumbnail">
+            <img src="{{ .Get "image" | absURL }}" alt="{{ .Get "alt" }}">
+        </div>
     {{ end }}
-    <p>{{ .Inner | markdownify }}</p>
+    <div class="room__description">
+        <p>{{ .Inner | markdownify }}</p>
+    </div>
 </div>

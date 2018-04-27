@@ -1,36 +1,48 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
-        <div class="herotext-pages">
-            <span class="largetext">News</span>
-        </div>
+        <h1 class="inner-hero__title">News</h1>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
-            <div class="three-quarter-col colpadding-right">
+    <div class="bg--grey content-area">
 
-                {{ range first 1 (where .Site.RegularPages "Section" "news") }}
-                    <h1>{{ .Title }}</h1>
-                    <h2>by {{ .Params.author }} on {{ partial "custom-date.html" . (.Date.Format "2") }}</h2>
-                    <div class="orangeline"></div>
-                    <div class="article-content">
-                        {{ .Content }}
-                    </div>
-                {{ end }}
-                
-            </div>
-            <div class="one-quarter-col">
-                
-                {{ partial "articles" . }}
+        <div class="whats-ons">
 
-                {{ partial "whats-on-widget" . }}
+            {{ range (.Paginator 9).Pages }}
+        
+                <div class="whats-on">
+                    <a href="{{ .Permalink }}" class="whats-on__image-link">
+                        <div class="whats-on__image">
+                            {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                            {{ $scope := . }}
+                            {{ with .Params.featured_image }}
+                                {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                            {{ else }}
+                                <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                            {{ end }}
+                        </div>
+                        <h2 class="whats-on__title">{{ .Title }}</h2>
+                    </a>
+                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.date }}" class="whats-on__date" >
+                        <i aria-hidden="true" class="fa fa-calendar"></i>
+                        {{ dateFormat "2 January 2006" .Params.date }}
+                    </time>
+                    <p class="whats-on__description">
+                        {{ with .Params.description }}
+                            {{ . }}
+                        {{ else }}
+                            {{ .Content | safeHTML | truncate 100 }}
+                        {{ end }}
+                    </p>
+                    <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
+                </div>
+        
+            {{ end }}
 
-                {{ partial "mailing-list" . }}
-
-            </div>
+            {{ template "_internal/pagination.html" . }}
+        
         </div>
-    </div>
 
-{{ end }}                
+    </div>
+{{ end }}

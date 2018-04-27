@@ -1,7 +1,7 @@
 
 {
   "name": "The Bagnall Centre",
-  "short_name": "Bagnall Centre",
+  "short_name": "Bagnall",
   "display": "minimal-ui",
   "orientation": "portrait",
   "start_url": "/",

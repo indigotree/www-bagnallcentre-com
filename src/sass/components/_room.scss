@@ -1,0 +1,46 @@
+.room {
+    background: #fff;
+    margin-bottom: 20px;
+
+    @media screen and (min-width: $screen-sm) {
+        display: flex;
+    }
+
+    &__thumbnail {
+
+        @media screen and (min-width: $screen-sm) {
+            flex: 1 1 40%;
+            max-width: 40%;
+        }
+
+        > img {
+            display: block;
+        }
+    }
+
+    &--right {
+        @media screen and (min-width: $screen-sm) {
+            flex-direction: row-reverse;
+        }
+    }
+
+    &__description {
+        padding: 20px;
+
+        @media screen and (min-width: $screen-sm) {
+            display: flex;
+            flex: 1 1 60%;
+            max-width: 60%;
+            align-items: center;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 30px 35px;
+        }
+
+        p {
+            margin: 0;
+        }
+    }
+
+}

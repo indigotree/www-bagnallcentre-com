@@ -1,0 +1,138 @@
+&-mailing {
+    background: #464e5b;
+    padding: 30px 20px;
+    color: #fff;
+
+    .main & {
+        @media screen and (min-width: $screen-sm) {
+            flex: 1 1 50%;
+            max-width: 50%;
+        }
+    }
+
+    .footer & {
+
+        &__content {
+            padding-left: 0;
+        }
+
+        &__icon {
+            display: none;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0;
+            
+            &__body {
+                padding-right: 0;
+            }
+
+            &__input {
+                border-radius: 5px;
+                border: 1px solid #6f7d8c;
+            }
+            &__button {
+                float: none;
+                position: static;
+                border-radius: 5px;
+                width: 100%;
+            }
+        }
+
+    }
+
+    &__title {
+        text-transform: uppercase;
+        font-size: 16px;
+        margin: 0;
+        display: block;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    &__content {
+        position: relative;
+        padding-left: 50px;
+    }
+
+    &__icon {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 32px;
+    }
+
+    &__body {
+        clear: both;
+
+        @media screen and (min-width: $screen-sm) {
+            padding-right: 80px;
+            position: relative;
+        }
+
+    }
+
+    &__description {
+        display: block;
+        margin: 0 0 20px;
+
+        @media screen and (min-width: $screen-sm) {
+            font-size: 13px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 16px;
+        }
+    }
+
+    &__input {
+        background-color: #3f4751;
+        border: 1px solid #6f7d8c;
+        border-radius: 5px;
+        box-sizing: border-box;
+        color: #fff;
+        font-size: 14px;
+        height: 40px;
+        padding: 0 20px;
+        outline: none;
+        width: 100%;
+        margin-bottom: 20px;
+        -webkit-appearance: none;
+
+        @media screen and (min-width: $screen-sm) {
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            border-right: 0;
+        }
+    }
+
+    &__button {
+        background-color: $brand-primary;
+        border: none;
+        cursor: pointer;
+        height: 40px;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 900;
+        text-transform: uppercase;
+        outline: none;
+        display: block;
+        width: 100%;
+        border-radius: 5px;
+
+        @media screen and (min-width: $screen-sm) {
+            position: absolute;
+            float: left;
+            right: 0;
+            width: 80px;
+            top: 0;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+        }
+
+        &:hover {
+            background: #ff9100;
+        }
+    }
+
+}

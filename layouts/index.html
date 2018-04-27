@@ -1,121 +1,31 @@
 {{ define "main" }}
 
-    <div class="hero">
-        <div class="hero-content">
-            <div class="upper-content">
-                <h1 class="homeh1">Welcome to The Bagnall Centre for Integrated Healthcare</h1>
-                <div class="hero-text">
-                    <p>Welcome to the Bagnall Centre, where our beautiful environment and specialised practitioners create the complete wellbeing experience.</p>
-                </div><a href="/bagnall-story/"><button class="herobutton">The Bagnall Story</button></a>
-            </div><a href="/whats-on/">
-            <div class="event-calltoaction">
-                <div class="event-icon">
-                    <i aria-hidden="true" class="fa fa-calendar"></i>
-                </div>
-                <div class="event-call">
-                    SEE WHAT'S ON AT THE BAGNALL CENTRE
-                </div>
-                <div class="event-icon">
-                    <i aria-hidden="true" class="fa fa-arrow-right"></i>
-                </div>
-                <div class="clear"></div>
-            </div></a>
-        </div>
-    </div>
+    {{ partialCached "hero" . }}
 
-    <div class="one-quarter-col-home">
-        <a href="/fitness-and-exercise"><img alt="fitness and exercise" src="{{ "uploads/fitness-excercise.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="red">
-                Fitness and Exercise
-            </div>
-        </div></a>
-    </div>
+    {{ partialCached "features" . }}
 
-    <div class="one-quarter-col-home">
-        <a href="/therapy-and-wellbeing"><img alt="therapy-wellbeing" src="{{ "uploads/therapy-wellbeing.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="purple">
-                Therapy and Wellbeing
-            </div>
-        </div></a>
-    </div>
+    <div class="ctas">
 
-    <div class="one-quarter-col-home">
-        <a href="/nutrition-and-lifestyle"><img alt="nutrition-lifestyle" src="{{ "uploads/nutrition-lifestyle.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="green">
-                Nutrition and Lifestyle
-            </div>
-        </div></a>
-    </div>
+        {{ partialCached "ctas/contact" . }}
 
-    <div class="one-quarter-col-home">
-        <a href="/news"><img alt="latest-news" src="{{ "uploads/latest-news.jpg" | absURL }}">
-        <div class="quarter-col-text">
-            <div class="orange">
-                Latest News and Info
-            </div>
-        </div></a>
-    </div>
-    
-    <div class="one-col-flex">
-
-        <div class="one-half-flex orangebackground">
-            <div class="contact">
-                <span class="largetext">Contact us today to see how we can help</span><br>
-                <div class="telephonenumber">
-                    <span class="largetext"><i aria-hidden="true" class="fa fa-phone"></i> <a href="tel:01494791288" id="upcoming-events" name="upcoming-events"><b>01494 791 288</b></a></span>
-                </div>
-            </div>
-        </div>
-
-        <div class="one-half-flex darkgreybackground">
-            <div class="joinus">
-                <div class="calendarcontainer">
-                    <i aria-hidden="true" class="fa fa-envelope-o"></i>
-                </div>
-                <div class="three-quarter-col">
-                    <div class="joinusheader">
-                        JOIN OUR MAILING LIST
-                    </div>
-                    <div class="joinustext">
-                        Enjoy our news on holistic health and wellbeing - make health your lifestyle choice
-                    </div>
-                </div>
-                <form action="https://bagnallcentre.us13.list-manage.com/subscribe/post?u=36be75aeef021f72f182118c6&amp;id=0d1fee7c5d" class="joinusform" method="post" name="mc-embedded-subscribe-form" target="_blank">
-
-                    <label for="mc-signup-form" class="sr">E-Mail Address</label>
-                    <input id="mc-signup-form" class="required email" name="EMAIL" placeholder="your@emailaddress.co.uk" type="email" required="required"> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                        <input name="b_36be75aeef021f72f182118c6_0d1fee7c5d" tabindex="-1" type="text" value="">
-                    </div>
-                    <input name="subscribe" type="submit" value="Sign Up">
-                    <div class="clear"></div>
-                    <div class="clear" id="mce-responses">
-                        <div class="response" id="mce-error-response" style="display:none"></div>
-                        <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>
-                </form>
-            </div>
-        </div>
+        {{ partial "ctas/mailing" . }}
 
     </div>
 
-    <div class="greybackground">
-        <div class="page-container-events">
-            <div class="upcomingevents">
-                <i aria-hidden="true" class="fa fa-calendar"></i>What’s on at The Bagnall Centre
-            </div>
+    <section id="whats-on-section" class="bg--grey featured-whats-on">
 
-            {{ partial "home-whats-on-widgets" . }}
+        <h2 class="featured-whats-on__title"><i aria-hidden="true" class="fa fa-calendar"></i>What’s on at The Bagnall Centre</h2>
+        
+        {{ partial "home-whats-on-widgets" . }}
 
-            <div class="one-col">
-                <div class="whatelseison">
-                    <a class="button" href="/whats-on">See what else is on at the Bagnall Centre...</a>
-                </div>
-            </div>
-        </div>
-    </div>
+        <footer class="featured-whats-on__footer">
+            <a href="/whats-on/" class="btn btn-lg btn-primary">
+                <i class="fa fa-calendar"></i>
+                See what else is on at the Bagnall Centre
+                <i class="fa fa-arrow-right"></i>
+            </a>
+        </footer>
+        
+    </section>
 
 {{ end }}

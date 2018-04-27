@@ -1,17 +1,67 @@
-<footer class="site-footer" role="contentinfo"> 
-    <div class="footercontent">
-        <a href="{{ .Site.BaseURL }}" >
-            <img src="{{ "images/footer-brand.svg" | absURL }}" alt="bagnall logo">
-        </a>
-        <br>
-        <div class="marginspacetwo"></div>
-        <a href="/bagnall-story">The Bagnall Story</a> <a href="/news">News</a><br>
-        <div class="marginspacetwo"></div>
-        <span class="smalltext">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare
+
+<footer class="footer" role="contentinfo">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="column--sm-6 column--md-3">
+                {{ partialCached "logo.html" . }}
+
+                <div class="social-media social-media--inline">
+                    <a href="{{ $.Site.Data.social.facebook }}" target="_blank" rel="noopener">
+                        <div class="social-media-button facebook">
+                            <i aria-hidden="true" class="fa fa-facebook"></i>
+                        </div>
+                        <span class="sr">Follow us on Facebook</span>
+                    </a>
+                    <a href="{{ $.Site.Data.social.twitter }}" target="_blank" rel="noopener">
+                        <div class="social-media-button twitter">
+                            <i aria-hidden="true" class="fa fa-twitter"></i>
+                        </div>
+                        <span class="sr">Follow us on Twitter</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+                {{ partial "ctas/contact" . }}
+                <p class="footer__address">
+                    71-79 Waterside<br />
+                    Chesham<br />
+                    HP5 1PE
+                </p>
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+                {{ partial "ctas/mailing" . }}
+            </div>
+
+            <div class="column--sm-6 column--md-3">
+                <a class="twitter-timeline" data-height="260" data-link-color="#E95F28" href="https://twitter.com/BagnallCentre?ref_src=twsrc%5Etfw">Tweets by BagnallCentre</a>
+            </div>
+
+        </div>
+
+        <span class="copyright">© {{ now.Format "2006" }}. Bagnall Centre for Integrated Healthcare</span>
+
     </div>
+
 </footer>
 
-<div class="social-media-wrapper">
+
+{{ if eq $.Site.Data.emergency.enable "yes" }}
+    <div id="emergency" class="hide">
+        {{ $.Site.Data.emergency.message | markdownify }}
+    </div>
+{{ end }}
+
+
+
+
+
+
+<div class="social-media social-media--fixed">
     <a href="{{ $.Site.Data.social.facebook }}" target="_blank" rel="noopener">
         <div class="social-media-button facebook">
             <i aria-hidden="true" class="fa fa-facebook"></i>

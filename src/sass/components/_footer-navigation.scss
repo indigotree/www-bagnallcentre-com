@@ -1,0 +1,35 @@
+.footer-navigation {
+    font-size: 0;
+    padding: 0;
+    margin: 0 0 0 -15px;
+    list-style-type: none;
+
+    @media screen and (min-width: $screen-sm) {
+        margin: 0 0 0 -30px;
+    }
+
+    &__item {
+        display: inline-block;
+    }
+
+    &__link {
+        font-weight: 900;
+        color: #464e5b;
+        font-size: 16px;
+        display: block;
+        padding: 20px 15px;
+        text-transform: uppercase;
+        text-decoration: none;
+
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+        }
+
+        @media screen and (min-width: $screen-sm) {
+            padding: 20px 30px;
+        }
+
+    }
+
+}

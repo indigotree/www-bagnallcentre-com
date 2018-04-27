@@ -7,6 +7,7 @@ description: >-
 yoast_keyword: Diabetes
 starts_at: 2018-06-08T09:00:00Z
 featured_image: /uploads/lifestyle-diabetes-event.png
+event_categories: []
 ---
 ![Half apple Half burger image](/uploads/lifestyle-diabetes-event.png)
 

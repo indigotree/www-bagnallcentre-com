@@ -1,16 +1,53 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-whatson.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">What's on</span></div>
+        <h1 class="inner-hero__title">{{ .Title }}</h1>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area">
+        
+        <div class="whats-ons">
 
-            {{ .Content }}
+            {{ range (.Paginator 9).Pages }}
+
+                {{ $t := (time .Params.starts_at) }}
+                
+                {{ if $t.After now }}
+                    <div class="whats-on">
+                        <a href="{{ .Permalink }}" class="whats-on__image-link">
+                            <div class="whats-on__image">
+                                {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                                {{ $scope := . }}
+                                {{ with .Params.featured_image }}
+                                    {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                                {{ else }}
+                                    <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                                {{ end }}
+                            </div>
+                            <h2 class="whats-on__title">{{ .Title }}</h2>
+                        </a>
+                        <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.starts_at }}" class="whats-on__date" >
+                            <i aria-hidden="true" class="fa fa-calendar"></i>
+                            {{ dateFormat "2 January at 3:04pm" .Params.starts_at }}
+                        </time>
+                        <p class="whats-on__description">
+                            {{ with .Params.description }}
+                                {{ . }}
+                            {{ else }}
+                                {{ .Content | safeHTML | truncate 100 }}
+                            {{ end }}
+                        </p>
+                        <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
+                    </div>
+                {{ end }}
             
+            {{ end }}
+
+            {{ template "_internal/pagination.html" . }}
+        
         </div>
+
     </div>
 
 {{ end }}

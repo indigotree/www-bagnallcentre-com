@@ -4,6 +4,7 @@ starts_at: 2018-05-31T12:00:00
 draft: false
 description: "Have you tried Tai Chi?"
 featured_image: "/uploads/tai-chi.jpg"
+event_categories: []
 ---
 
 ![Tai Chi](/uploads/tai-chi.jpg)
@@ -54,4 +55,6 @@ She also has experience of Competition Judging and regularly writes articles for
 
 Catherine enjoys sharing her passion and knowledge of Tai Chi with all ages, all abilities and is looking forward to this new opportunity to join the team and bring her Tai Chi experience to The Bagnall Centre.
 
-Find out more about the health benefits [here](https://www.nhs.uk/Livewell/fitness/Pages/taichi.aspx).
+{{< cta button="Read more" link="https://www.nhs.uk/Livewell/fitness/Pages/taichi.aspx">}}
+Find out more about the health benefits
+{{< /cta >}}

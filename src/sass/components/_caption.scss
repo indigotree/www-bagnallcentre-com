@@ -1,0 +1,111 @@
+.caption {
+    background-color: rgba(#fff, .9);
+    padding: 10px 10px 80px;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
+
+    @media screen and (min-width: $screen-sm) {
+        padding: 15px 20px 70px;
+        text-align: left;
+        border-top-right-radius: 0;
+        border-top-left-radius: 0;
+        float: right;
+        max-width: 47%;
+        margin-right: 3%;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        padding: 20px 30px 70px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        padding: 30px 40px 90px;
+    }
+
+    &__title {
+        margin: 0;
+        font-size: 18px;
+        line-height: 1.1em;
+        color: $brand-primary;
+        margin-bottom: 20px;
+
+        @media screen and (min-width: $screen-sm) {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 30px;
+            margin-bottom: 15px;
+        }
+
+        @media screen and (min-width: $screen-lg) {
+            margin-bottom: 20px;
+        }
+
+        &:after {
+            display: none;
+        }
+
+    }
+
+    &__description {
+        display: none;
+
+        @media screen and (min-width: $screen-sm) {
+            display: block;
+            font-size: 14px;
+            line-height: 1em;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 16px;
+            line-height: 1.4em;
+        }
+
+    }
+
+    &__footer {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+
+        .btn {
+            border-radius: 0;
+            display: block;
+            width: 100%;
+
+            .fa-calendar {
+                margin-right: 10px;
+            }
+
+            .fa-arrow-right {
+                margin-left: 10px;
+            }
+
+            @media screen and (min-width: $screen-sm) {
+                padding-top: 16px;
+                padding-bottom: 16px;
+                font-size: 12px;
+            }
+
+            @media screen and (min-width: $screen-md) {
+                font-size: 14px;
+            }
+
+            @media screen and (min-width: $screen-lg) {
+                font-size: 16px;
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+        }
+    }
+
+}

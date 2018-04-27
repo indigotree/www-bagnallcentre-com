@@ -3,6 +3,8 @@ title: "Back to Fitness - Our Bagnall 5 Top Tips!"
 date: 2017-09-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
+featured_image: "/uploads/image-back-to-fitness-1920.jpg"
 ---
 
 September is traditionally time for ‘Back to School ‘and ‘Back to Work’ but we think it’s also time for Back to Fitness! Now it’s well and truly post-summer you’re probably back into your normal routine but it’s important to make sure you find time for exercise too.

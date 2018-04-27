@@ -1,0 +1,45 @@
+<div class="share-buttons">
+    <h3 class="share-buttons__heading">Share to</h3>
+    <ul class="share-buttons__list">
+        <li class="share-buttons__item">
+            <a
+                class="btn btn--facebook"
+                href="https://www.facebook.com/share.php?u={{ .Url }}&title={{ .Title }}"
+                target="_blank"
+                rel="noopener"
+            >
+                <span class="sr">Share to </span>Facebook
+            </a>
+        </li>
+        <li class="share-buttons__item">
+            <a
+                class="btn btn--twitter"
+                href="https://twitter.com/intent/tweet?status={{ .Title }}+{{ .Url }}"
+                target="_blank"
+                rel="noopener"
+            >
+                <span class="sr">Share to </span>Twitter
+            </a>
+        </li>
+        <li class="share-buttons__item">
+            <a
+                class="btn btn--google"
+                href="https://plus.google.com/share?url={{ .Url }}"
+                target="_blank"
+                rel="noopener"
+            >
+                <span class="sr">Share to </span>Google +
+            </a>
+        </li>
+        <li class="share-buttons__item">
+            <a
+                class="btn btn--linkedin"
+                href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Url }}&title={{ .Title }}"
+                target="_blank"
+                rel="noopener"
+            >
+                <span class="sr">Share to </span>LinkedIn
+            </a>
+        </li>
+    </ul>
+</div>

@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+    <div class="inner-hero inner-hero--{{ .Params.colour }}">
+        <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
+        <span class="inner-hero__title">{{ .Params.treatments }}</span>
+    </div>
+
+    <div class="bg--grey content-area">
+
+        <div class="row">
+
+            <div class="column--md-9">
+                <h1>{{ .Title }}</h1>
+
+                {{ .Content }}
+            </div>
+
+            <div class="column--md-3">
+
+                {{ partial "widget-treatments.html" (dict "Title" .Params.treatments "Items" (first 10 (index .Site.Taxonomies.treatments .Params.treatments))) }}
+
+                {{ partial "whats-on-widget" . }}
+
+                {{ partial "mailing-list" . }}
+                
+            </div>
+
+        </div>
+
+    </div>
+{{ end }}

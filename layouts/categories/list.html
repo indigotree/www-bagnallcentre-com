@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+    <div class="inner-hero">
+        <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
+        <h1 class="inner-hero__title">{{ .Title }}</h1>
+    </div>
+
+    <div class="bg--grey content-area">
+
+        <div class="whats-ons">
+
+            {{ range (.Paginator 9).Pages }}
+        
+                <div class="whats-on">
+                    <a href="{{ .Permalink }}" class="whats-on__image-link">
+                        <div class="whats-on__image">
+                            {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                            {{ $scope := . }}
+                            {{ with .Params.featured_image }}
+                                {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                            {{ else }}
+                                <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                            {{ end }}
+                        </div>
+                        <h2 class="whats-on__title">{{ .Title }}</h2>
+                    </a>
+                    <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Date }}" class="whats-on__date" >
+                        <i aria-hidden="true" class="fa fa-calendar"></i>
+                        {{ dateFormat "2 January at 3:04pm" .Date }}
+                    </time>
+                    <p class="whats-on__description">
+                        {{ with .Params.description }}
+                            {{ . }}
+                        {{ else }}
+                            {{ .Content | safeHTML | truncate 100 }}
+                        {{ end }}
+                    </p>
+                    <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
+                </div>
+        
+            {{ end }}
+
+            {{ template "_internal/pagination.html" . }}
+        
+        </div>
+
+    </div>
+{{ end }}

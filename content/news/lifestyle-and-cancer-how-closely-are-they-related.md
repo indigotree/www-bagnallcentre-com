@@ -6,6 +6,7 @@ description: >-
 yoast_keyword: Integrated Healthcare Conference
 date: 2018-03-23T14:26:12.478Z
 author: Bagnall Centre
+categories: ["News"]
 featured_image: "/uploads/image-cancer-conference-840.jpg"
 ---
 Our first Bagnall Centre for Integrated Healthcare Conference took place on Friday 10th November 2017 at Chartridge Lodge, Chesham, Bucks HP5 2TU, in collaboration with the <a href="https://collegeofmedicine.org.uk/" target="_blank">College of Medicine and Integrated Health</a>. 

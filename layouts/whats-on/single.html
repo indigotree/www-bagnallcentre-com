@@ -1,27 +1,29 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-whatson.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">What's on</span></div>
+        <h2 class="inner-hero__title">What's on</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area">
 
-            <div class="three-quarter-col colpadding-right">
+        <div class="row">
+
+            <div class="column--md-8">
                 <h1>{{ .Title }}</h1>
 
                 {{ .Content }}
+
+                {{ partial "share.html" (dict "Url" .Permalink "Title" .Title "Scope" .) }}
             </div>
 
-            <div class="one-quarter-col">
-
-				{{ partial "whats-on-widget" . }}
+            <div class="column--md-4">
+                {{ partial "whats-on-widget" . }}
 
                 {{ partial "mailing-list" . }}
-
             </div>
-        </div>
-    </div>
 
+        </div>
+
+    </div>
 {{ end }}

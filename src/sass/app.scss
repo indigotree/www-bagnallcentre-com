@@ -1,7 +1,8 @@
+@import 'helpers/variables';
+@import 'helpers/mixins';
+
 .ais-search-box {
-    position: absolute;
-    right: 50px;
-    top: 30px;
+    float: right;
 }
 
 .button--reset {
@@ -15,18 +16,26 @@
 }
 
 $orange: #fe7600;
+.clearfix {
+    @include clearfix;
+}
 
+@import 'components/footer-navigation';
+@import 'components/footer';
+@import 'components/widget';
+@import 'components/ctas/ctas';
+@import 'components/toastr';
 @import 'components/table';
 @import 'components/fitness-and-exercise';
-@import 'components/secondary-nav';
-
-.sr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-}
-
-img { 
-    max-width: 100%;
-    height: auto;
-}
+@import 'components/form';
+@import 'components/featured-whats-on';
+@import 'components/day';
+@import 'components/activity';
+@import 'components/activities';
+@import 'components/room';
+@import 'components/whatson-widget';
+@import 'components/mailing-list-widget';
+@import 'components/social-media';
+@import 'components/pagination';
+@import 'components/share-buttons';
+@import 'components/accordion';

@@ -1,0 +1,77 @@
+.feature {
+    display: block;
+    flex: 1 1 50%;
+    max-width: 50%;
+    background-size: cover;
+    position: relative;
+    cursor: pointer;
+    background-position: center center;
+
+    @media screen and (min-width: $screen-sm) {
+        flex: 1 1 25%;
+        max-width: 25%;
+    }
+
+    &s {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    a,
+    img {
+        display: block;
+    }
+
+    &__title {
+        position: absolute;
+        bottom: 20px;
+        right: 0;
+        display: inline-block;
+        text-align: right;
+        padding: 10px;
+        background: rgba($brand-primary, .9);
+        text-transform: uppercase;
+        color: #fff;
+        font-size: 13px;
+        font-weight: 900;
+        max-width: 155px;
+
+        @media screen and (min-width: $screen-md) {
+            max-width: 190px;
+            font-size: 16px;
+            padding: 15px 20px;
+        }
+
+        @media screen and (min-width: $screen-lg) {
+            max-width: 230px;
+            font-size: 22px;
+        }
+
+    }
+
+    &:hover {
+        &::after {
+            content: '';
+            position: absolute;
+            z-index: 99;
+            left: 0;
+            top: 0;
+            background: rgba(#fff, .2);
+            right: 0;
+            bottom: 0;
+        }
+    }
+
+    &.feature--danger &__title {
+        background: rgba($brand-danger, .9);
+    }
+
+    &.feature--secondary &__title {
+        background: rgba($brand-secondary, .9);
+    }
+
+    &.feature--success &__title {
+        background: rgba($brand-success, .9);
+    }
+
+}

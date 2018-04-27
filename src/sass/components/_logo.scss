@@ -1,0 +1,68 @@
+.logo {
+
+    &__text {
+        fill: #5b6677;
+    }
+
+    .footer & {
+        margin-bottom: 20px;
+        max-width: 250px;
+        margin: 0 auto 20px auto;
+
+        @media screen and (min-width: $screen-sm) {
+            padding: 20px;
+            margin: 0 0 20px 0;
+            max-width: 280px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0;
+        }
+
+        &__text {
+            fill: #fff;
+        }
+    }
+
+    .header & {
+        padding: 10px 0 0 0;
+        width: 200px;
+        float: left;
+
+        @media screen and (min-width: $navigation-break-point) and (max-width: $screen-md) {
+            width: auto;
+            position: absolute;
+            left: 15px;
+            right: 15px;
+            top: 0;
+
+            > a {
+                display: block;
+                width: 200px;
+                margin: 0 auto;
+            }
+        }
+
+        @media screen and (min-width: $screen-md) {
+            width: 200px;
+        }
+
+        @media screen and (min-width: $screen-lg) {
+            width: 282px;
+        }
+
+        @media screen and (min-width: 1300px) {
+            width: 320px;
+        }
+
+        a {
+            display: block;
+        }
+
+        svg {
+            display: block;
+        }
+
+    }
+
+}

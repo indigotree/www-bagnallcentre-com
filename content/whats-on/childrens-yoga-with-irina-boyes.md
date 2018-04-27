@@ -4,6 +4,7 @@ starts_at: 2018-05-05T12:00:00
 draft: false
 description: Children’s Yoga is coming to the Bagnall Centre! Our new course for children from Reception to Year 7 is running from Saturday 5th May-Saturday 21st July.
 featured_image: /uploads/image-children-doing-yoga.jpg
+event_categories: ["featured"]
 ---
 ![Image of children doing yoga](/uploads/image-children-doing-yoga.jpg)
 

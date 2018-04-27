@@ -11,38 +11,33 @@
 
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
-        <div class="herotext-pages">
-            <span class="largetext">{{ .Title }}</span>
-        </div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area">
 
-            <div class="three-quarter-col colpadding-right" style="position: relative;">
-                
+        <div class="row">
+
+            <div class="column--md-8">
+
                 <h1>Search Results for <span id="searched-for"></span></h1>
-
-                <div class="redline"></div>
 
                 <input type="text" autocomplete="off" id="search-query" placeholder="Search" />
 
-                <div id="search-results"></div>
+                <div id="search-results" class="search-results"></div>
 
             </div>
-            
-            <div class="one-quarter-col">
 
+            <div class="column--md-4">
                 {{ partial "whats-on-widget" . }}
-            
+        
                 {{ partial "mailing-list" . }}
-
             </div>
-
 
         </div>
+
     </div>
 
 {{ end }}

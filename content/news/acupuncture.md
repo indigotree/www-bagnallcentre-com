@@ -3,6 +3,8 @@ title: "Acupuncture"
 date: 2016-05-02T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
+categories: ["News"]
+featured_image: "/uploads/image-acupuncture-1920.jpg"
 ---
 
 Acupuncture originated over 5,000 years ago and is derived from ancient Chinese medicine which typically involves a more holistic approach than conventional Western medicine. It is one of the most widely used alternative medicines in the world today.

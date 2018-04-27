@@ -1,0 +1,65 @@
+&-contact {
+    background: $brand-primary url('../images/white-translucent-tree.svg') no-repeat;
+    background-position: bottom right;
+    background-size: 56%;
+    padding: 30px 20px;
+
+    .main & {
+        @media screen and (min-width: $screen-sm) {
+            flex: 1 1 50%;
+            max-width: 50%;
+        }
+    }
+
+    .footer & {
+        background: transparent;
+        padding: 20px;
+
+        @media screen and (min-width: $screen-md) {
+            padding: 0 0 20px 0;
+        }
+
+        &__title {
+            font-size: 20px;
+
+            @media screen and (min-width: $screen-md) {
+                font-size: 18px;
+            }
+        }
+
+        &__telephone {
+            display: block;
+        }
+    }
+
+    &__title {
+        color: #fff;
+        margin: 0 0 20px;
+        display: block;
+        font-size: 22px;
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 28px;
+            padding-right: 36%;
+        }
+
+    }
+
+    &__telephone {
+        color: #fff;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+
+        @media screen and (min-width: $screen-sm) {
+            font-size: 26px;
+        }
+
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+            color: #fff;
+        }
+    }
+
+}

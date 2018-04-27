@@ -1,65 +1,75 @@
 {{ define "main" }}
 
-    <div class="hero-pages">
+    <div class="inner-hero">
         <img src="{{ "uploads/header-bagnallstory.jpg" | absURL }}" alt="building of the bagnall centre">
-        <div class="herotext-pages"><span class="largetext">{{ .Title }}</span></div>
+        <h2 class="inner-hero__title">{{ .Title }}</h2>
     </div>
 
-    <div class="greybackground">
-        <div class="page-container">
+    <div class="bg--grey content-area content-area--no-top">
 
-            <div class="secondary-nav">
-                <a href="/working-with-us/">Practitioners</a>
-                <a href="/working-with-us/rooms/">Our Rooms</a>
-                <a href="/working-with-us/rental-fees/">Rental Fees &amp; Times</a>
-                <span>Apply</span>
-            </div>
-            
-            <div class="mobile-nav-spacer">
-                <br>
-            </div>
+        <div class="secondary-nav">
+            <a href="/working-with-us/">Practitioners</a>
+            <a href="/working-with-us/rooms/">Our Rooms</a>
+            <a href="/working-with-us/rental-fees/">Rental Fees &amp; Times</a>
+            <span>Apply</span>
+        </div>
 
-            <div class="three-quarter-col colpadding-right">
+        <div class="row">
+
+            <div class="column--md-9">
                 {{ .Content }}
 
                 <form class="apply" name="apply" netlify-honeypot="bot-field" data-netlify="true">
 
                     <div class="hide">
-                        <input name="bot-field">
+                        <input name="bot-field" />
                     </div>
 
-                    <div class="two-col"> 
-                        <label for="firstname">First Name:</label>
-                        <br>
-                        <input id="firstname" name="firstname" value="" placeholder="First name" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'First name'" type="text" required="">
+                    <div class="row">
+                        <div class="column--md-6">
+                            <div class="form-group">
+                                <label for="firstname">First Name:</label>
+                                <input id="firstname" name="firstname" class="form-control input-lg" placeholder="First name" type="text" required="required">
+                            </div>
+                        </div>
+                        <div class="column--md-6">
+                            <div class="form-group">
+                                <label for="surname">Surname:</label>
+                                <input id="surname" name="surname" class="form-control input-lg" placeholder="Surname" type="text" required="required">
+                            </div>
+                        </div>
                     </div>
-                    <div class="two-col"> 
-                        <label for="surname">Surname:</label>
-                        <br>
-                        <input id="surname" name="surname" value="" placeholder="Surname" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Surname\'" type="text" required="">
+
+                    <div class="form-group">
+                        <label for="email">Email Address:</label>
+                        <input id="email" name="email" class="form-control input-lg" placeholder="your@email-address.co.uk" type="email" required="required">
                     </div>
-                    <label for="email">Email Address:</label>
-                    <input id="email" name="email" value="" placeholder="your@email-address.co.uk" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'your@emailaddress.co.uk\'" type="email" required="">
-                    <br>
-                    <label for="phone">Phone Number:</label>
-                    <input id="phone" name="phone" value="" placeholder="Your contact number" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Please enter your contact number\'" type="text" required="">
-                    <br>
-                    <label for="occupation">Area of Expertise:</label>
-                    <input id="occupation" name="occupation" value="" placeholder="Your area of expertise" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Your area of expertise\'" type="text">
-                    <br>
-                    <label for="specialrequirements">Message:</label>
-                    <textarea id="specialrequirements" placeholder="Questions, Queries, or any additional information" onfocus="this.placeholder = \'\'" onblur="this.placeholder = \'Questions, Queries, or any additional information\'" name="message"></textarea>
                     
-                    <br>  
-                    <input type="submit" class="button" name="submit" value="Send booking request">
+                    <div class="form-group">
+                        <label for="email">Phone Number:</label>
+                        <input id="phone" name="phone" value="" placeholder="Your contact number" class="form-control input-lg" type="text" required="required">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="occupation">Area of Expertise:</label>
+                        <input id="occupation" name="occupation" placeholder="Your area of expertise" class="form-control input-lg" type="text">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="specialrequirements">Message:</label>
+                        <textarea id="specialrequirements" rows="6" placeholder="Questions, Queries, or any additional information" class="form-control input-lg" name="message"></textarea>
+                    </div>
+                    
+                    <button type="submit" type="submit" class="btn btn-primary btn-block btn-lg" name="submit" >Send booking request</button>
                 </form>
             </div>
 
-            <div class="one-quarter-col">
+            <div class="column--sm-3">
                 {{ partialCached "working-with-us-column" . }}
             </div>
 
         </div>
+
     </div>
 
 {{ end }}

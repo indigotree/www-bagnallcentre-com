@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     <head>
 
@@ -21,25 +21,16 @@
     </head>
     <body>
 
-        {{ partial "mobile/nav.html" . }}
-
         {{ block "header" . }}{{ partial "site/header.html" . }}{{ end }}
 
-        <div class="content-wrapper">
-            <div class="content padding">
-
-                <main class="site-main" role="main">
-
-                    {{ block "main" . }}{{ end }}
-
-                </main>
-
-                {{ block "footer" . }}{{ partial "site/footer.html" . }}{{ end }}
-
+        <main class="main" role="main">
+            <div class="container">
+                {{ block "main" . }}{{ end }}
             </div>
-        </div>
+        </main>
+
+        {{ block "footer" . }}{{ partial "site/footer.html" . }}{{ end }}
 
         {{ block "site/scripts" . }}{{ partial "site/scripts.html" . }}{{ end }}
-
     </body>
 </html>

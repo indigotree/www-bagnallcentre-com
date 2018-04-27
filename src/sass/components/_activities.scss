@@ -1,0 +1,83 @@
+.activities {
+
+    &__header {
+        width: 100%;
+        padding-left: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: relative;
+        display: none;
+
+        @media screen and (min-width: $screen-sm) {
+            display: flex;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            padding-left: 50px;
+        }
+    }
+
+    &__column {
+        text-transform: uppercase;
+        color: $brand-danger;
+        padding: 0 5px;
+
+        @media screen and (min-width: $screen-md) {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+
+    &--day {
+        @media screen and (min-width: $screen-sm) {
+            position: absolute;
+            left: 0;
+            top: 10px;
+        }
+    }
+
+    &--time {
+        @media screen and (min-width: $screen-sm) {
+            width: 90px;
+
+            .activity & {
+                font-weight: bold;
+            }
+        }
+    }
+
+    &--class {
+        @media screen and (min-width: $screen-sm) {
+            flex: 2;
+        }
+    }
+
+    &--price {
+        @media screen and (min-width: $screen-sm) {
+            flex: 1;
+        }
+    }
+
+    &--room {
+        @media screen and (min-width: $screen-sm) {
+            width: 100px;
+        }
+    }
+
+    &--term {
+        @media screen and (min-width: $screen-sm) {
+            width: 100px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            width: 130px;
+        }
+    }
+
+    &--booking {
+        @media screen and (min-width: $screen-sm) {
+            width: 100px;
+        }
+    }
+
+}

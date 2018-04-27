@@ -4,6 +4,7 @@ starts_at: 2018-05-14T10:00:00
 draft: false
 description: "This Bagnall Centre Family Health & Wellbeing Talk will enable you to understand more about the important role of fascia."
 featured_image: "/uploads/image-fascia-grays-anatomy-wiki.png"
+event_categories: ["featured"]
 ---
 
 This talk will look at: 

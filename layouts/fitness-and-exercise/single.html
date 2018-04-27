@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+    <div class="inner-hero inner-hero--danger">
+        <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
+        <h2 class="inner-hero__title">Fitness &amp; Exercise</h2>
+    </div>
+
+    <div class="bg--grey content-area content-area--danger">
+
+        <div class="row">
+
+            <div class="column--md-9">
+                <h1>{{ .Title }}</h1>
+
+                {{ .Content }}
+
+                <div class="label-inline">
+                    <label>Day:</label>
+                    <span class="text-capitalise text-danger">{{ .Params.event_day }}</span>
+                </div>
+
+                <div class="label-inline">
+                    <label>Time:</label>
+                    <span class="text-danger"><time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.start_time }}">{{ dateFormat "15:04" .Params.start_time }}</time> - <time datetime="{{ dateFormat "2006-01-21T15:04:05" .Params.end_time }}">{{ dateFormat "15:04" .Params.end_time }}</time></span>
+                </div>
+
+                <div class="label-inline">
+                    <label>Class:</label>
+                    <span class="text-danger">{{ .Title }}</span>
+                </div>
+                
+                <div class="label-inline">
+                    <label>Price:</label>
+                    <span class="text-danger">{{ .Params.price }}</span>
+                </div>
+                
+                <div class="label-inline">
+                    <label>Room:</label>
+                    <span class="text-danger">{{ .Params.room }}</span>
+                </div>
+
+                <div class="label-inline">
+                    <label>Term:</label>
+                    <span class="text-danger">{{ .Params.term }}</span>
+                </div>
+
+                <p>&nbsp;</p>
+                <p><a href="/booking/?course={{ .Title }}%20({{ .Params.level }})&time={{ dateFormat "15:04" .Params.start_time }}&day={{ humanize .Params.event_day }}&associate={{ .Params.associate }}" class="btn btn-primary">Book</a></p>
+
+            </div>
+
+            <div class="column--md-3">
+                {{ partial "whats-on-widget" . }}
+            
+                {{ partial "mailing-list" . }}
+            </div>
+
+        </div>
+
+    </div>
+{{ end }}

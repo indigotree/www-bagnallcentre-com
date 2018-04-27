@@ -1,0 +1,59 @@
+.day {
+    position: relative;
+    padding-left: 40px;
+    border-right: 1px solid #a5b5c4;
+
+    @media screen and (min-width: $screen-md) {
+        padding-left: 50px;
+    }
+
+    &:last-child {
+        border-bottom: 1px solid #a5b5c4;
+    }
+
+    &__name {
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 40px;
+        padding: 10px;
+        text-align: center;
+
+        @media screen and (min-width: $screen-sm) {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            width: 50px;
+        }
+
+    }
+
+    &--monday {
+        background: $brand-danger;
+    }
+
+    &--tuesday {
+        background: $brand-secondary;
+    }
+
+    &--wednesday {
+        background: $brand-success;
+    }
+
+    &--thursday {
+        background: $brand-primary;
+    }
+
+    &--friday {
+        background: $brand-danger;
+    }
+
+    &--saturday {
+        background: $brand-secondary;
+    }
+
+}

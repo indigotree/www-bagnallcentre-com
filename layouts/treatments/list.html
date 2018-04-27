@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+    <div class="inner-hero inner-hero--{{ .Params.colour }}">
+        <img src="{{ "uploads/header-therapies.jpg" | absURL }}" alt="therapist checking ladies arm">
+        <h1 class="inner-hero__title">{{ .Title }}</h1>
+    </div>
+
+    <div class="bg--grey content-area content-area--no-top">
+
+        {{ $currentPage := . }}
+
+        {{ if and .Params.menu_name .Params.colour }}
+
+            <div class="secondary-nav secondary-nav--{{ .Params.colour }}">
+
+                {{ range (index .Site.Menus .Params.menu_name) }}
+
+                    {{ if $currentPage.IsMenuCurrent $currentPage.Params.menu_name . }}
+                        <span>{{ .Name }}</span>
+                    {{ else }}
+                        <a href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+
+                {{ end }}
+
+            </div>
+
+        {{ end }}
+
+        <div>
+            {{ .Content }}
+        </div>
+
+        <div class="whats-ons whats-ons--secondary">
+
+            {{ range (.Paginator 9).Pages }}
+        
+                <div class="whats-on whats-on--{{ $currentPage.Params.colour }}">
+                    <a href="{{ .Permalink }}" class="whats-on__image-link">
+                        <div class="whats-on__image">
+                            {{ $alt := (delimit (slice "Featured image for:" .Title) " ") }}
+                            {{ $scope := . }}
+                            {{ with .Params.featured_image }}
+                                {{ partial "image.html" ( dict "Src" . "Crop" "510x250" "Alt" $alt "Scope" $scope ) }}
+                            {{ else }}
+                                <img src="https://placehold.it/768x768" alt="Placeholder Image" />
+                            {{ end }}
+                        </div>
+                        <h2 class="whats-on__title">{{ .Title }}</h2>
+                    </a>
+                </div>
+        
+            {{ end }}
+
+            {{ template "_internal/pagination.html" . }}
+        
+        </div>
+
+    </div>
+
+{{ end }}

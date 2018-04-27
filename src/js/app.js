@@ -65,11 +65,44 @@
      * @param {Object} event 
      */
     function toggleAccordion(event) {
-        if (event.target == $(this).find('.small-button')[0] || event.target == $(this).find('.small-button > a')[0]) {
+        if (event.target == $(this).find('.btn')[0] || event.target == $(this).find('.btn')[0]) {
             return;
         }
+        $(this).toggleClass('active');
         $(this).next().slideToggle("slow");
         return false;
+    }
+
+    /**
+     * Defer Styles
+     */
+    function loadDeferredStyles() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+    }
+
+    /**
+     * Display an emergency alert
+     * 
+     * @param {jQuery} alert 
+     */
+    function emergencyAlert(alert) {
+        if (!alert.length || sessionStorage.getItem('emergency') === 'true') {
+            return;
+        }
+
+        toastr.options.closeButton = true;
+        toastr.options.timeOut = 0; // How long the toast will display without user interaction
+        toastr.options.extendedTimeOut = 0; // How long the toast will display after a user hovers over it
+
+        toastr.options.onCloseClick = function () {
+            sessionStorage.setItem('emergency', 'true');
+        }
+
+        toastr.warning(alert.html());
     }
 
     $(function () {
@@ -78,11 +111,12 @@
         //
         handleFormInjection();
         addBoxShadow();
+        emergencyAlert($('#emergency'));
 
         // Events
         //
         $('[data-toggle]').on('click', toggleCollapse);
-        $(".products .one-col-class, .productsmobile .one-col-class").on('click', toggleAccordion);
+        $(".activities .activity, .accordion .accordion__header").on('click', toggleAccordion);
         $(window).on('scroll', addBoxShadow);
         if (window.location.pathname === '/search/') {
             $('#search-button-toggle').on('click', function () {
@@ -91,5 +125,15 @@
         }
 
     });
+
+    var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+    if (raf) {
+        raf(function() { 
+            window.setTimeout(loadDeferredStyles, 0);
+        });
+    } else {
+        window.addEventListener('load', loadDeferredStyles);
+    }
 
 })(jQuery, window, document);

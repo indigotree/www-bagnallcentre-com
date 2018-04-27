@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: #5b6677;
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+    @media screen and (min-width: $navigation-break-point) {
+        padding-top: 116px;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        padding-top: 70px;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        padding-top: 106px;
+    }
+
+    
+}
+
+.main {
+    background: url('/images/footer-tree.svg') no-repeat bottom right;
+    background-size: 50%;
+    padding-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.text {
+    &--monday span {
+        color: $brand-danger;
+    }
+
+    &--tuesday span {
+        color: $brand-secondary;
+    }
+
+    &--wednesday span {
+        color: $brand-success;
+    }
+
+    &--thursday span {
+        color: $brand-primary;
+    }
+
+    &--friday span {
+        color: $brand-danger;
+    }
+
+    &--saturday span {
+        color: $brand-secondary;
+    }
+}

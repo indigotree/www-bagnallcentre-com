@@ -1,0 +1,168 @@
+.navigation {
+    margin-left: -20px;
+    margin-right: -20px;
+    background-color: #fe7600;
+    font-weight: 900;
+    font-size: 16px;
+    display: none;
+
+    @media screen and (min-width: $navigation-break-point) {
+        background: transparent;
+        color: #5b6677;
+        margin: 0;
+        display: block !important;
+    }
+
+    @media screen and (min-width: $navigation-break-point) and (max-width: $screen-md) {
+        padding-top: 80px;
+        width: 100%;
+        text-align: center;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        padding-top: 17px;
+        float: right;
+    }
+
+    @media screen and (min-width: $screen-lg) {
+        padding-top: 30px;
+    }
+
+    &__menu {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+    }
+
+    &__item {
+        border-bottom: 1px solid #e86300;
+
+        &:last-child {
+            border: 0;
+        }
+
+        @media screen and (min-width: $navigation-break-point) {
+            border: 0;
+            display: inline-block;
+        }
+
+        &-text {
+            @media screen and (min-width: $screen-md) {
+                display: none;
+            }
+        }
+
+    }
+
+    &__toggle {
+        border: 0;
+        border-radius: 0;
+        padding: 18px 15px;
+        float: right;
+        margin-top: 10px;
+
+        @media screen and (min-width: $navigation-break-point) {
+            display: none;
+        }
+
+        > span {
+            display: block;
+            height: 3px;
+            width: 20px;
+            background: #5b6677;
+
+            & + span {
+                margin-top: 3px;
+            }
+        }
+    }
+
+    @media screen and (min-width: $screen-md) {
+        &--search {
+            background-color: $brand-primary;
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            padding: 6px 0;
+            font-size: 12px;
+            line-height: 1.428571429;
+            border-radius: 15px;
+        }
+    }
+
+    a {
+        display: block;
+        color: #fff;
+        padding: 10px 18px;
+        text-decoration: none;
+        text-transform: uppercase;
+        transition: color .3s ease;
+
+        @media screen and (min-width: $navigation-break-point) {
+            color: #5b6677;
+            font-size: 11px;
+            padding: 10px 4px;
+        }
+
+        @media screen and (min-width: $screen-md) {
+            font-size: 11px;
+
+            &.navigation--search {
+                padding: 10px 6px;
+                font-size: 11px;
+                color: #fff;
+            }
+        }
+
+        @media screen and (min-width: $screen-lg) {
+            font-size: 12px;
+            padding: 10px 12px;
+        }
+
+        @media screen and (min-width: 1260px) {
+            font-size: 13.5px;
+        }
+
+        &:hover,
+        &:focus {
+            color: #fff;
+
+            @media screen and (min-width: $navigation-break-point) {
+                color: $brand-primary;
+            }
+
+            .fa {
+                color: #fff;
+            }
+        }
+
+        .fa {
+            display: none;
+
+            @media screen and (min-width: $screen-md) {
+                display: block;
+            }
+        }
+    }
+
+    &--active a {
+        color: #fff;
+
+        @media screen and (min-width: $navigation-break-point) {
+            color: $brand-primary;
+        }
+    }
+
+    &__item.navigation--active:nth-child(2) a {
+        color: $brand-danger;
+    }
+
+    &__item.navigation--active:nth-child(3) a {
+        color: $brand-secondary;
+    }
+
+    &__item.navigation--active:nth-child(4) a {
+        color: $brand-success;
+    }
+
+}

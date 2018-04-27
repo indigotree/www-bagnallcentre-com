@@ -1,0 +1,21 @@
+$container: (
+    sm: 750px,
+    md: 970px,
+    lg: 1600px
+);
+
+$breakpoints: (
+    xs: 0,
+    sm: $screen-sm,
+    md: $screen-md,
+    lg: $screen-lg
+);
+
+.container {
+    position: relative;
+    @include make-container();
+}
+
+.row {
+    @include make-row();
+}

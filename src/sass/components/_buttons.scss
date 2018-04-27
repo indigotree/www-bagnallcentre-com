@@ -1,0 +1,81 @@
+@mixin button-context($background, $text) {
+    background-color: $background;
+    color: $text;
+
+    &:hover, &:focus {
+        color: $text;
+        background-color: darken($background, 10%);
+    }
+}
+
+.btn {
+    border-radius: 3px;
+    padding: 8px 20px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    border: 0;
+    white-space: normal;
+    text-align: center;
+
+    &-primary {
+        background: $brand-primary;
+        color: #fff;
+
+        &:hover,
+        &:focus {
+            color: #fff;
+            background: #ff9100;
+            text-decoration: none;
+        }
+    }
+
+    &-block {
+        display: block;
+        width: 100%;
+    }
+
+    &-lg {
+        padding: 14px 40px;
+
+        .fa {
+            font-size: 25px;
+
+            &-calendar {
+                float: left;
+            }
+
+            &-arrow-right {
+                float: right;
+            }
+        }
+
+    }
+
+    &-icons {
+        line-height: 27px;
+
+        .fa-calendar {
+            margin-right: 20px;
+        }
+        .fa-arrow-right {
+            margin-left: 20px;
+        }
+    }
+
+    &--facebook {
+        @include button-context(#3B5998, #fff);
+    }
+    &--twitter {
+        @include button-context(#1DA1F2, #fff);
+    }
+    &--google {
+        @include button-context(#DB4437, #fff);
+    }
+    &--linkedin {
+        @include button-context(#007BB5, #fff);
+    }
+
+}

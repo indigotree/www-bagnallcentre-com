@@ -1,7 +1,10 @@
 ---
 title: Lifestyle and Diabetes
 date: 2018-01-26T10:19:37.000Z
+Description: We are excited to announce our next conference, in collaboration with the College of Medicine and Integrated Health.
 author: The Bagnall Centre
+categories: ["News"]
+featured_image: "/uploads/image-diabetes-chronic-disease-1920.jpg"
 ---
 ![Diabetes image](/uploads/image-diabetes-chronic-disease-small.jpg)
 
