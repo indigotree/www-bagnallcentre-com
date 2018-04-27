@@ -1,7 +1,9 @@
 ---
-title: "The bagnall story"
+title: The bagnall story
+description: The Bagnall Centre is located in an incredible historic Victorian building
+yoast_keyword: bagnal
+layout: bagnal-story
 draft: false
-layout: "bagnal-story"
 ---
 
 # The Bagnall Centre for Integrated Healthcare
