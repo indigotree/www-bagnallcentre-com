@@ -15,18 +15,8 @@ collections:
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - { label: "Layout", name: "layout", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string", required: false }
-      - label: "Is Search page"
-        name: "is_search"
-        widget: "select"
-        options:
-        - { label: "No", value: false }
-        - { label: "Yes", value: true }
-      - label: "Draft"
-        name: "draft"
-        widget: "select"
-        options:
-        - { label: "No", value: false }
-        - { label: "Yes", value: true }
+      - { label: "Is a search page?", name: "is_search", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "news"
@@ -37,12 +27,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-      - label: "Draft"
-        name: "draft"
-        widget: "select"
-        options:
-        - { label: "No", value: false }
-        - { label: "Yes", value: true }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Published Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -57,12 +42,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-      - label: "Draft"
-        name: "draft"
-        widget: "select"
-        options:
-        - { label: "No", value: false }
-        - { label: "Yes", value: true }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Starts At", name: "start_time", widget: "time" }
       - { label: "Ends At", name: "end_time", widget: "time" }
@@ -107,12 +87,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - { label: "Treatments", name: "treatments", widget: "select", options: ["therapy", "wellbeing", "nutrition", "lifestyle"] }
-      - label: "Draft"
-        name: "draft"
-        widget: "select"
-        options:
-        - { label: "No", value: false }
-        - { label: "Yes", value: true }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "featured_image", widget: "image" }
       - { label: "Colour", name: "colour", widget: "select", options: ["secondary", "success"] }
@@ -125,6 +100,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Starts At", name: "starts_at", widget: "datetime" }
       - { label: "Featured Image", name: "featured_image", widget: "image" }
       - { label: "Featured", name: "event_categories", widget: "select", options: ["", "featured"] }

@@ -5,8 +5,8 @@ description: >-
   healthcare.
 yoast_keyword: Bagnall Centre
 layout: working-with-us
-is_search: 'false'
-draft: 'false'
+is_search: false
+draft: false
 ---
 # Becoming a Practitioner
 
