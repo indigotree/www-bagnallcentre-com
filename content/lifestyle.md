@@ -1,8 +1,12 @@
 ---
-title: "Nutrition & Lifestyle"
+title: Nutrition & Lifestyle
+description: >-
+  The Bagnall Centre for Integrated Healthcare has a range of lifestyle
+  activities and practices
+yoast_keyword: Lifestyle
+layout: lifestyle
+slug: nutrition-and-lifestyle/lifestyle
 draft: false
-slug: "nutrition-and-lifestyle/lifestyle"
-layout: "lifestyle"
 ---
 
 # Lifestyle
