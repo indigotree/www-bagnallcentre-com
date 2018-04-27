@@ -1,8 +1,10 @@
 ---
-title: "Working with us"
-slug: "working-with-us/apply"
+title: Apply to be a Practitioner
+description: 'For any queries or questions, on becoming a practitioner at The Bagnall Centre'
+yoast_keyword: apply
+layout: apply
+slug: working-with-us/apply
 draft: false
-layout: "apply"
 ---
 
 # Apply to be a Practitioner at The Bagnall Center
