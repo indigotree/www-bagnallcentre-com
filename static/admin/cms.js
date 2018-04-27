@@ -141,7 +141,7 @@ var CategoriesControl = createClass({
   
     render: function() {
       var value = this.props.value;
-      return h('input', { type: 'text', value: value ? value.join(', ') : '', onChange: this.handleChange });
+      return h('input', { type: 'text', value: value ? value.join(', ') : '', class: 'nc-controlPane-widget', onChange: this.handleChange });
     }
   });
   
