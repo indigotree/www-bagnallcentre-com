@@ -1,10 +1,15 @@
 ---
-title: "Yoga"
-date: 2016-11-01T00:00:00Z
+title: Yoga
+description: >-
+  Yoga is a physical and mental practice that originated in ancient India around
+  5,000 years ago
+yoast_keyword: Yoga
 draft: false
-author: "The Bagnall Centre"
-categories: ["News"]
-featured_image: "/uploads/image-yoga-1920.jpg"
+date: 2016-11-01T00:00:00.000Z
+author: The Bagnall Centre
+categories:
+  - News
+featured_image: /uploads/image-yoga-1920.jpg
 ---
 
 Yoga is a physical and mental practice that originated in ancient India around 5,000 years ago and is widely practiced throughout the world today as an accessible, popular and effective method of boosting physical and mental wellbeing.
