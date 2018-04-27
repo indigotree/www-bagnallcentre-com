@@ -2,10 +2,6 @@
 title: "Contact Us"
 draft: false
 layout: "contact"
-menu: 
-    main:
-        name: "Contact"
-        weight: 60
 ---
 {{< onethird >}}
 ## Address
