@@ -1,7 +1,9 @@
 ---
-title: "Contact Us"
+title: Contact Us
+description: Contact Bagnall Centre
+yoast_keyword: Contact
+layout: contact
 draft: false
-layout: "contact"
 ---
 {{< onethird >}}
 ## Address
