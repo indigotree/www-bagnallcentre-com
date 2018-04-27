@@ -4,6 +4,7 @@ date: 2016-06-01T00:00:00Z
 draft: false
 author: "The Bagnall Centre"
 categories: ["News"]
+featured_image: "/uploads/image-safe-sun-1920.jpg"
 ---
 
 **How to be safe in the sun**
