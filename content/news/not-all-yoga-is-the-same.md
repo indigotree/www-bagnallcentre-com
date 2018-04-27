@@ -4,7 +4,7 @@ date: 2018-03-02T10:54:20+00:00
 Description: We are delighted that we are currently expanding the range of yoga classes we offer at The Bagnall Centre. 
 author: The Bagnall Centre
 categories: ["News"]
-featured_image: "/uploads/tai-chi.jpg"
+featured_image: "/uploads/image-yoga-1920.jpg"
 ---
 ![Woman doing yoga](/uploads/image-yoga-blogs.jpg)
 
