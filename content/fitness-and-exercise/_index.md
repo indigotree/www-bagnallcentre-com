@@ -7,6 +7,8 @@ draft: false
 
 **To book your place in any of our classes please call us on 01494 791288**
 
+**Please note that classes are subject to Practitioners’ availability and holidays.**
+
 ### Opening Hours
 
 |                    |               |
