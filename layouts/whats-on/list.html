@@ -9,7 +9,7 @@
         
         <div class="whats-ons">
 
-            {{ range (.Paginator 9).Pages }}
+            {{ range (.Paginator 9).Pages.ByParam "starts_at" }}
 
                 {{ $t := (time .Params.starts_at) }}
                 
