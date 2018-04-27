@@ -4,8 +4,9 @@ description: PRACTITIONER SPOTLIGHT
 yoast_keyword: Kite Spirit
 date: 2018-03-20T09:40:36.540Z
 author: Bagnall Centre
+featured_image: "/uploads/image-carly-kite-spirit-1600.jpg"
 ---
-![](/uploads/carly.jpg)
+![Photo of Carly](/uploads/carly.jpg)
 
 <div style="text-align: center;" markdown="1">We love working with our Practitioners!<br/><br/>
 
