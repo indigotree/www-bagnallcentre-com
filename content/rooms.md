@@ -1,11 +1,12 @@
 ---
-title: Working with us
+title: Rooms
 description: >-
   We take pride in the quality of the rooms and facilities available at the
   Centre.
-layout: rooms
-slug: "working-with-us/rooms"
 yoast_keyword: rooms
+layout: rooms
+slug: working-with-us/rooms
+draft: false
 ---
 # Rooms Available at The Bagnall Centre
 
