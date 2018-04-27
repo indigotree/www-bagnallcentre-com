@@ -1,7 +1,9 @@
 ---
-title: "Course bookings"
+title: Course bookings
+description: Course bookings
+yoast_keyword: bookings
+layout: booking
 draft: false
-layout: "booking"
 ---
 {{< onethird >}}
 ## Address
