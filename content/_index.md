@@ -1,5 +1,7 @@
 ---
-title: "Welcome to The Bagnall Centre for Integrated Healthcare"
+title: Welcome to The Bagnall Centre for Integrated Healthcare
+description: 'The 6,000 ft Bagnall Centre specialises in facilitating lifestyle change'
+yoast_keyword: Bagnall
 draft: false
 ---
 The 6,000 ft Bagnall Centre specialises in facilitating lifestyle change. We practice and teach natural healthcare to both the public and health professionals, aiming to support conventional healthcare by improving public health and wellbeing.
