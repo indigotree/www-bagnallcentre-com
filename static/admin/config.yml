@@ -16,7 +16,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "string", required: false }
       - { label: "Slug", name: "slug", widget: "string", required: false }
       - { label: "Is a search page?", name: "is_search", widget: "boolean", default: false, required: false }
-      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
 
   - name: "news"
