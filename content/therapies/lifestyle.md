@@ -7,7 +7,7 @@ draft: false
 featured_image: "/uploads/image-meditation-1920.jpg"
 ---
 
-It’s important to identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation. 
+It’s important to identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation.
 
 Small, simple changes are more sustainable and can help you to feel positive about yourself. 
 
