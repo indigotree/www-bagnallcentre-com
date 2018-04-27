@@ -3,6 +3,8 @@ title: Working with us
 description: >-
   We take pride in the quality of the rooms and facilities available at the
   Centre.
+layout: rooms
+slug: "working-with-us/rooms"
 yoast_keyword: rooms
 ---
 # Rooms Available at The Bagnall Centre
