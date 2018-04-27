@@ -1,12 +1,14 @@
 ---
-title: "Working with us"
-draft: false
-layout: "working-with-us"
+title: Working with us
+description: >-
+  The Bagnall Centre is home to a wide range of Practitioners in complementary
+  healthcare.
+yoast_keyword: Bagnall Centre
+layout: working-with-us
+is_search: 'false'
+draft: 'false'
 ---
-
 # Becoming a Practitioner
-
-<div class="orangeline"></div>
 
 The Bagnall Centre is home to a wide range of Practitioners in complementary healthcare, that use our well equipped rooms and high quality facilities to deliver their services. The building is fully accessible with a lift, washrooms and parking for disability and wheelchair users.
 
