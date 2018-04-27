@@ -4,6 +4,7 @@ description: PRACTITIONER SPOTLIGHT
 yoast_keyword: Kite Spirit
 date: 2018-04-17T09:19:37.000Z
 author: The Bagnall Centre
+featured_image: "/uploads/image-childrens-yoga-1429.jpg"
 ---
 
 ![Image of children doing yoga](/uploads/image-children-doing-yoga.jpg)
