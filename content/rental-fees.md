@@ -1,13 +1,12 @@
 ---
-title: "Working with us"
-slug: "working-with-us/rental-fees"
+title: Rental Fees
+description: Room Rental fees
+yoast_keyword: Rental fees
+layout: rentalfees
+slug: working-with-us/rental-fees
 draft: false
-layout: "rentalfees"
 ---
-
 # Room Booking Times
-
-<div class="orangeline"></div>
 
 It's important all room users choose the appropriate booking period to avoid conflicts and to be respectful of other practitioners. The centre also expects rooms to be available for use even if the booking system shows them as unoccupied.
 
@@ -25,10 +24,10 @@ This booking provides sufficient time for practitioners who choose to offer a 'c
 
 ## Rental Fees
 
-If you would like to start your healthcare practice at the Bagnall Centre please contact us on 01494 791288 or [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com) We look forward to hearing from you!
+If you would like to start your healthcare practice at the Bagnall Centre please contact us on 01494 791288 or <mailto:bookings@bagnallcentre.com> We look forward to hearing from you!
 
 |                                                               | Ad hoc max 2 hour blocks | Flexi booking 3 hours | Fixed Block booking min 4 hours | Half Day (4 hours) | Full Day (8 hours) |
-|---------------------------------------------------------------|--------------------------|-----------------------|---------------------------------|--------------------|--------------------|
+| ------------------------------------------------------------- | ------------------------ | --------------------- | ------------------------------- | ------------------ | ------------------ |
 | Classroom / Kitchen / Studio                                  | £20.00                   | n/a                   | n/a                             | n/a                | £120.00            |
 | Clinic Rooms                                                  | £12.50                   | £12.50                | £10.00                          | £50.00             | £100.00            |
 | Gym - Classes                                                 | £17.50                   | n/a                   | n/a                             | £52.50             | £105.00            |
