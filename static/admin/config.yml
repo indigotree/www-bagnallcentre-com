@@ -14,7 +14,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
       - { label: "Layout", name: "layout", widget: "string" }
-      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", required: false }
       - label: "Is Search page"
         name: "is_search"
         widget: "select"
