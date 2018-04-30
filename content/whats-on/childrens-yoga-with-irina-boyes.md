@@ -5,7 +5,7 @@ description: >-
   from Reception to Year 7 is running from Saturday 5th May-Saturday 21st July.
 yoast_keyword: yoga
 draft: false
-starts_at: 2018-05-05T10:00:00
+starts_at: 2018-05-05T12:00:00+01:00
 featured_image: /uploads/image-children-doing-yoga.jpg
 event_categories:
   - featured
