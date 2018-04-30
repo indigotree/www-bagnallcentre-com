@@ -12,7 +12,7 @@ var TimeControl = createClass({
     getInitialState: function() {
         return {
             open: false,
-            date: moment(this.props.value)
+            date: this.props.value ? moment(this.props.value) : moment()
         };
     },
 
