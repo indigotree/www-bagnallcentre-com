@@ -9,6 +9,7 @@ date: 2016-11-01T00:00:00.000Z
 author: The Bagnall Centre
 categories:
   - News
+  - Yoga
 featured_image: /uploads/image-yoga-1920.jpg
 ---
 
