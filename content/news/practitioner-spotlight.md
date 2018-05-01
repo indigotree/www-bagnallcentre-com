@@ -8,9 +8,9 @@ categories:
   - News
 featured_image: /uploads/image-betty-zee-640.jpg
 ---
-<div style="text-align: center;" markdown="1">
-
 ![Image of Betty Zee](/uploads/image-betty-zee.jpg)
+
+<div style="text-align: center;" markdown="1">
 
 We love working with our Practitioners!<br/><br/>
 
