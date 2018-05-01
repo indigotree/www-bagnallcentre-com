@@ -15,6 +15,8 @@ const onError = (err) => {
     console.log(err)
 }
 
+let suppressHugoErrors = false;
+
 // --
 
 gulp.task('server', ['build'], () => {
@@ -28,6 +30,7 @@ gulp.task('server:with-drafts', ['build-preview'], () => {
 });
 
 gulp.task('init-watch', () => {
+    suppressHugoErrors = true;
     browserSync.init({
         server: {
             baseDir: 'public'
