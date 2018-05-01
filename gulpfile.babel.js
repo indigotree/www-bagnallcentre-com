@@ -53,8 +53,13 @@ gulp.task('hugo', (cb) => {
     let args = baseUrl ? ['-b', baseUrl] : [];
 
     return spawn('hugo', args, { stdio: 'inherit' }).on('close', (code) => {
-        browserSync.reload()
-        cb()
+        if (suppressHugoErrors || code === 0) {
+            browserSync.reload()
+            cb()
+        } else {
+            console.log('hugo command failed.');
+            cb('hugo command failed.');
+        }
     })
 })
 
@@ -65,8 +70,13 @@ gulp.task('hugo-preview', (cb) => {
         args.push(process.env.DEPLOY_PRIME_URL)
     }
     return spawn('hugo', args, { stdio: 'inherit' }).on('close', (code) => {
-        browserSync.reload()
-        cb()
+        if (suppressHugoErrors || code === 0) {
+            browserSync.reload()
+            cb()
+        } else {
+            console.log('hugo command failed.');
+            cb('hugo command failed.');
+        }
     })
 })
 
