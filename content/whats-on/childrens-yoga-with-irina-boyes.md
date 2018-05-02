@@ -1,8 +1,8 @@
 ---
 title: Children’s Yoga with Irina Boyes
 description: >-
-  Children’s Yoga is coming to the Bagnall Centre! Our new course for children
-  from Reception to Year 7 is running from Saturday 5th May-Saturday 21st July.
+  Children’s Yoga is coming to the Bagnall Centre! Our new courses for children
+  from Reception to Year 7 are running from Saturday 5th May-Saturday 21st July.
 yoast_keyword: yoga
 draft: false
 starts_at: 05/05/2018 10:00 AM
