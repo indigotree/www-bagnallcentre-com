@@ -3,10 +3,15 @@
     margin-bottom: 15px;
 
     @media screen and (min-width: $screen-sm) {
-        flex: 1 1 33.333%;
-        max-width: 33.333%;
+        flex: 1 1 50%;
+        max-width: 50%;
         padding-left: 15px;
         padding-right: 15px;
+    }
+
+    @media screen and (min-width: $screen-md) {
+        flex: 1 1 33.333%;
+        max-width: 33.333%;
     }
 
     &s {
@@ -34,8 +39,6 @@
         
         img {
             display: block;
-            object-fit: cover;
-            height: 250px;
             width: 100%;
         }
     }

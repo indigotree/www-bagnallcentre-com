@@ -21,7 +21,8 @@ body {
       padding-top: 70px; } }
   @media screen and (min-width: 1200px) {
     body {
-      padding-top: 106px; } }
+      padding-top: 106px;
+      font-size: 18px; } }
 
 .main {
   background: url("/images/footer-tree.svg") no-repeat bottom right;
@@ -633,11 +634,17 @@ strong, b {
   @media screen and (min-width: 768px) {
     .whats-on {
       -webkit-box-flex: 1;
-          -ms-flex: 1 1 33.333%;
-              flex: 1 1 33.333%;
-      max-width: 33.333%;
+          -ms-flex: 1 1 50%;
+              flex: 1 1 50%;
+      max-width: 50%;
       padding-left: 15px;
       padding-right: 15px; } }
+  @media screen and (min-width: 992px) {
+    .whats-on {
+      -webkit-box-flex: 1;
+          -ms-flex: 1 1 33.333%;
+              flex: 1 1 33.333%;
+      max-width: 33.333%; } }
   .whats-ons {
     margin: 0 auto; }
     @media screen and (min-width: 768px) {
@@ -658,9 +665,6 @@ strong, b {
     position: relative; }
     .whats-on__image img {
       display: block;
-      -o-object-fit: cover;
-         object-fit: cover;
-      height: 250px;
       width: 100%; }
   .whats-on__image-link {
     margin-bottom: 15px;
