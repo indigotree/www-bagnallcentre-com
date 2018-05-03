@@ -1,9 +1,10 @@
 ---
-title: "Kickstart your Lifestyle Change with The WIN Programme!"
-starts_at: 2018-05-31T10:00:00Z
+title: Kickstart your Lifestyle Change with The WIN Programme!
+description: We are now recruiting for our WIN (Wellbeing is Natural) Programme.
+yoast_keyword: Change
 draft: false
-description: "We are now recruiting for our WIN (Wellbeing is Natural) Programme."
-featured_image: "/uploads/woman.jpg"
+starts_at: 2018-05-31T10:00:00.000Z
+featured_image: /uploads/woman.jpg
 event_categories: []
 ---
 
