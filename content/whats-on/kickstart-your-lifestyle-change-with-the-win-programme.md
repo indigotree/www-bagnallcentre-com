@@ -26,6 +26,4 @@ This intensive programme requires a considerable commitment throughout a 6 week 
 
 Participants will receive feedback during the programme and will take away a feedback form regarding their health status which they can make available to their GP.
 
-The Practitioners involved are: Personal Trainer Jamie Nelson, Mindfulness Practitioner Julia Seymour, Life Coach Sheena King, Nutritional Therapist Hilda Solomons (Cookery workshop), Yoga/Pilates teachers Diane Prangnell, Helena Nilsson Ghosh, Luiza Smaglinska and Barbara Dancer.
-
 To find out more please email [events@bagnallcentre.com](mailto:events@bagnallcentre.com)
