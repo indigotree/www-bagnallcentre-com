@@ -12,7 +12,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image", required: false }
-      - { label: "Banner Alt", name: "banner_alt", widget: "text", required: false }
+      - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Layout", name: "layout", widget: "string", required: false }
@@ -28,7 +28,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image", required: false }
-      - { label: "Banner Alt", name: "banner_alt", widget: "text", required: false }
+      - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
@@ -92,7 +92,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image", required: false }
-      - { label: "Banner Alt", name: "banner_alt", widget: "text", required: false }
+      - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Treatments", name: "treatments", widget: "select", options: ["therapy", "wellbeing", "nutrition", "lifestyle"], required: true }
@@ -108,7 +108,7 @@ collections:
     fields: 
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image", required: false }
-      - { label: "Banner Alt", name: "banner_alt", widget: "text", required: false }
+      - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
