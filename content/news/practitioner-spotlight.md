@@ -8,9 +8,11 @@ categories:
   - News
 featured_image: /uploads/image-betty-zee-640.jpg
 ---
+{{< align alignment="center" >}}
+
 ![Image of Betty Zee](/uploads/image-betty-zee.jpg)
 
-{{< align alignment="center" >}}We love working with our Practitioners!
+We love working with our Practitioners!
 
 Betty Zee is a Personal Trainer and her inspirational motto is
 
@@ -30,6 +32,4 @@ There have always been two sides to me, the creative side and the exercise side
 
 I train my clients in all aspects of fitness. One of my crew, who is 21, has lost 5 stone, another ran his first 5k aged 69. Two ladies are training for a half marathon, another a triathalon and another learned to run again after fracturing her femur from her hip to knee. 
 
-<div style="text-align: center;" markdown="1">
-<strong>‘Just Start!’</strong> and the rest will follow."
-</div>
+{{< align alignment="center" >}}**‘Just Start!’** and the rest will follow.{{< /align >}}
