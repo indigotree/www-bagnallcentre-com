@@ -1,0 +1,5 @@
+{{ if .Get "alignment" }}
+    <div class="text-{{ .Get "alignment" }}">
+        {{ .Inner | markdownify }}
+    </div>
+{{ end }}

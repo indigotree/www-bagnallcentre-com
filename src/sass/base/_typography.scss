@@ -4,21 +4,6 @@
     position: relative;
     margin-top: 0;
     font-weight: normal;
-
-    &::after {
-        content: '';
-        display: block;
-        height: 3px;
-        background: $brand-primary;
-        width: 10%;
-        position: absolute;
-        left: 0;
-        bottom: -18px;
-    }
-
-    .content-area--danger &::after {
-        background: $brand-danger;
-    }
 }
 
 .h2, h2 {
@@ -47,6 +32,18 @@ p {
 
 strong, b {
     font-weight: bold;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
 }
 
 .text-primary {

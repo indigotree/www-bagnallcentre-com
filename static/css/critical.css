@@ -63,17 +63,6 @@ img {
   position: relative;
   margin-top: 0;
   font-weight: normal; }
-  .h1::after, h1::after {
-    content: '';
-    display: block;
-    height: 3px;
-    background: #fe7600;
-    width: 10%;
-    position: absolute;
-    left: 0;
-    bottom: -18px; }
-  .content-area--danger .h1::after, .content-area--danger h1::after {
-    background: #d10500; }
 
 .h2, h2 {
   color: #fe7600;
@@ -94,6 +83,15 @@ p {
 
 strong, b {
   font-weight: bold; }
+
+.text-left {
+  text-align: left; }
+
+.text-right {
+  text-align: right; }
+
+.text-center {
+  text-align: center; }
 
 .text-primary {
   color: #fe7600; }

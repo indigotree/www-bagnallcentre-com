@@ -244,3 +244,83 @@ CMS.registerPreviewTemplate('whats-on', createClass({
         );
     }
 }));
+
+
+
+
+
+
+CMS.registerEditorComponent({
+    // Internal id of the component
+    id: "align",
+    // Visible label
+    label: "Alignment",
+    // Fields the user need to fill out when adding an instance of the component
+    fields: [
+        {name: 'alignment', label: 'Alignment', widget: 'select', options: ['left', 'center', 'right'], default: 'left'},
+        {name: 'content', label: 'Content', widget: 'markdown'}
+    ],
+    // Pattern to identify a block as being an instance of this component
+    pattern: /^{{% align alignment="(.*)" %}}((.|\n)*){{% \/align %}}$/,
+    // Function to extract data elements from the regexp match
+    fromBlock: function(match) {
+      return {
+        alignment: match[1],
+        content: match[2]
+      };
+    },
+    // Function to create a text block from an instance of this component
+    toBlock: function(obj) {
+        return '{{% align alignment="'+ obj.alignment +'" %}}' + obj.content + '{{% /align %}}';
+    },
+    // Preview output for this component. Can either be a string or a React component
+    // (component gives better render performance)
+    toPreview: function(obj) {
+      return (
+          '<div style="text-align: ' + obj.alignment + ';">' + obj.content + '</div>'
+      );
+    }
+  });
+
+CMS.registerEditorComponent({
+    // Internal id of the component
+    id: "room",
+    // Visible label
+    label: "Room",
+    // Fields the user need to fill out when adding an instance of the component
+    fields: [
+        {name: 'alignment', label: 'Alignment', widget: 'select', options: ['left', 'right'], default: 'left'},
+        {name: 'image', label: 'Image', widget: 'image' },
+        {name: 'content', label: 'Content', widget: 'markdown'}
+    ],
+    // Pattern to identify a block as being an instance of this component
+    pattern: /^{{< room(left|right) title="(.*)" image="(.*)">}}((.|\n)*){{< \/room(left|right) >}}$/,
+    // Function to extract data elements from the regexp match
+    fromBlock: function(match) {
+      return {
+        alignment: match[1],
+        title: match[2],
+        image: match[3],
+        content: match[4]
+      };
+    },
+    // Function to create a text block from an instance of this component
+    toBlock: function(obj) {
+        return '{{< room' + obj.alignment + ' title="' + obj.title + '" image="' + obj.image + '" >}}' + obj.content + '{{< /room' + obj.alignment + ' >}}';
+    },
+    // Preview output for this component. Can either be a string or a React component
+    // (component gives better render performance)
+    toPreview: function(obj) {
+      return (
+        '<h2>' + obj.title + '</h2>' +
+        '<div class="room room--' + obj.alignment + '">' + 
+            '<div class="room__thumbnail">' +
+                '<img src="/' + obj.image + '" alt="' + obj.title + '">' + 
+            '</div>' +
+            '<div class="room__description">' +
+                obj.content + 
+            '</div>' +
+        '</div>'
+      );
+    }
+  });
