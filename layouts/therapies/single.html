@@ -1,9 +1,6 @@
 {{ define "main" }}
 
-    <div class="inner-hero inner-hero--{{ .Params.colour }}">
-        <img src="{{ "uploads/header-therapies.jpg" | absURL }}" alt="therapist checking ladies arm">
-        <span class="inner-hero__title">{{ .Params.treatments }}</span>
-    </div>
+    {{ partial "inner-hero" ( dict "image" "/uploads/header-therapies.jpg" "title" .Params.treatments "Scope" . ) }}
 
     <div class="bg--grey content-area">
 

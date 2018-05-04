@@ -11,6 +11,8 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner Alt", name: "banner_alt", widget: "text" }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Layout", name: "layout", widget: "string", required: false }
@@ -25,6 +27,8 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner Alt", name: "banner_alt", widget: "text" }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
@@ -87,6 +91,8 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner Alt", name: "banner_alt", widget: "text" }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Treatments", name: "treatments", widget: "select", options: ["therapy", "wellbeing", "nutrition", "lifestyle"], required: true }
@@ -101,6 +107,8 @@ collections:
     create: true
     fields: 
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner Alt", name: "banner_alt", widget: "text" }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }

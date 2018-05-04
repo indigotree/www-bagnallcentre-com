@@ -1,0 +1,12 @@
+{{ $alt := .Scope.Params.banner_alt | default .title }}
+
+<div class="inner-hero {{ if .Scope.Params.colour }}inner-hero--{{ .Params.colour }}{{ end }}">
+
+    {{ if .Scope.Params.banner }}
+        <img src="{{ .Scope.Params.banner | absURL }}" alt="{{ $alt }}">
+    {{ else }}
+        <img src="{{ .image | absURL }}" alt="{{ $alt }}">
+    {{ end }}
+
+    <h2 class="inner-hero__title">{{ .title }}</h2>
+</div>

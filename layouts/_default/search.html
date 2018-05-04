@@ -11,10 +11,7 @@
 
 {{ define "main" }}
 
-    <div class="inner-hero">
-        <img alt="Bagnall Centre News" src="{{ "uploads/header-news.jpg" | absURL }}">
-        <h2 class="inner-hero__title">{{ .Title }}</h2>
-    </div>
+    {{ partial "inner-hero" ( dict "image" "/uploads/header-news.jpg" "title" .Title "Scope" . ) }}
 
     <div class="bg--grey content-area">
 

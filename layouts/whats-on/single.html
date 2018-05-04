@@ -1,9 +1,6 @@
 {{ define "main" }}
 
-    <div class="inner-hero">
-        <img src="{{ "uploads/header-whatson.jpg" | absURL }}" alt="building of the bagnall centre">
-        <h2 class="inner-hero__title">What's on</h2>
-    </div>
+    {{ partial "inner-hero" ( dict "image" "/uploads/header-whatson.jpg" "title" "What's on" "Scope" . ) }}
 
     <div class="bg--grey content-area">
 
