@@ -247,9 +247,6 @@ CMS.registerPreviewTemplate('whats-on', createClass({
 
 
 
-
-
-
 CMS.registerEditorComponent({
     // Internal id of the component
     id: "align",
@@ -261,7 +258,7 @@ CMS.registerEditorComponent({
         {name: 'content', label: 'Content', widget: 'markdown'}
     ],
     // Pattern to identify a block as being an instance of this component
-    pattern: /^{{% align alignment="(.*)" %}}((.|\n)*){{% \/align %}}$/,
+    pattern: /^{{< align alignment="(.*)" >}}((.|\n)*){{< \/align >}}$/,
     // Function to extract data elements from the regexp match
     fromBlock: function(match) {
       return {
@@ -271,7 +268,7 @@ CMS.registerEditorComponent({
     },
     // Function to create a text block from an instance of this component
     toBlock: function(obj) {
-        return '{{% align alignment="'+ obj.alignment +'" %}}' + obj.content + '{{% /align %}}';
+        return '{{< align alignment="'+ obj.alignment +'" >}}' + obj.content + '{{< /align >}}';
     },
     // Preview output for this component. Can either be a string or a React component
     // (component gives better render performance)
