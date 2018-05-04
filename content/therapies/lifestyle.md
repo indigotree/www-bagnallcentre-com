@@ -2,6 +2,7 @@
 title: "Lifestyle"
 description: ""
 treatments: "lifestyle"
+banner: "/uploads/header-nutrition.jpg"
 colour: "success"
 draft: false
 featured_image: "/uploads/image-meditation-1920.jpg"
