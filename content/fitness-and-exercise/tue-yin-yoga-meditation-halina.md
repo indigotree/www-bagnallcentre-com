@@ -1,13 +1,14 @@
 ---
-title: "HATHA & YIN YOGA"
-event_day: "tuesday"
-start_time: 2000-01-01T19:00:00Z
-end_time: 2000-01-01T20:15:00Z
-level: "Mixed Ability with Halina"
-associate: "Halina"
-price: "£11 (£50 for 5 & £90 for 10) 1st class free"
-room: "Classroom"
-term: "Ongoing"
+title: HATHA YOGA
+description: yoga
+yoast_keyword: yoga
+start_time: 2000-01-01T19:00:00.000Z
+end_time: 2000-01-01T20:15:00.000Z
+event_day: tuesday
+level: Mixed Ability
+associate: Halina
+term: Ongoing
+room: Classroom
+price: £11 (£10 block booking)
 ---
-
-Yin Yoga and Meditation with Halina - emphasises stillness, core softness & surrender. Long, deep passive holds, preparing one’s body and mind for meditation.
+Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises.
