@@ -5,7 +5,7 @@ description: >-
   Friday 8th June aims to raise awareness of the importance of lifestyle in
   diabetes prevention, management and reversal .
 yoast_keyword: Diabetes
-starts_at: 2018-06-08T09:00:00Z
+starts_at: 2018-06-08T09:00:00.000Z
 featured_image: /uploads/lifestyle-diabetes-event.png
 event_categories: []
 ---
@@ -24,7 +24,7 @@ With all of the complications that this life-changing condition can lead to; fro
 **Confirmed speakers include:**
 
 * **Professor Robert Thomas** - Consultant Oncologist, Bedford and Addenbrooke’s Cambridge University Hospitals, Visiting Professor University of Bedfordshire, Visiting Professor Applied Biological & Exercise, Coventry University, Senior Clinical Tutor Cambridge University.
-* **Dr Reinhard Kowalski** - Consultant Clinical Psychologist and Psychotherapist, author, mindfulness and meditation teacher, energy psychologist.
+* **Reinhard Kowalski** - Consultant Clinical Psychologist and Psychotherapist, author, mindfulness and meditation teacher, energy psychologist.
 * **Dr Aryan Tavakkoli** - Consultant Physician and Founder of Quantum Clinic, a progressive medical clinic offering a Functional Medicine and Integrative Medicine approach to chronic disease.
 * **Dr Kesar Sadhra** - General Practitioner at Manor Park Medical Centre, the lowest UK spender on diabetes medication and one of the overall top performers in diabetes control.
 * **Dr Jo Lee** - General Practitioner, Life Coach and psychosexual therapist.
