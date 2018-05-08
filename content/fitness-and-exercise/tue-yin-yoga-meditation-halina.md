@@ -2,8 +2,8 @@
 title: HATHA YOGA
 description: yoga
 yoast_keyword: yoga
-start_time: 2000-01-01T19:00:00.000Z
-end_time: 2000-01-01T20:15:00.000Z
+start_time: '2000-02-01T18:30:00+00:00'
+end_time: '2000-02-01T19:45:00+00:00'
 event_day: tuesday
 level: Mixed Ability
 associate: Halina
