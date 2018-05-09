@@ -1,5 +1,5 @@
 ---
-title: Children's Yoga
+title: Children's Yoga (Y4-Y7)
 description: children's yoga
 yoast_keyword: children's yoga
 draft: false
