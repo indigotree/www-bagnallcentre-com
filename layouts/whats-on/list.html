@@ -6,7 +6,8 @@
         
         <div class="whats-ons">
 
-            {{ range (.Paginator 9).Pages.ByParam "starts_at" }}
+            
+            {{ range (sort (where .Pages "Section" "whats-on") "Params.starts_at" "asc") }}
 
                 {{ $t := (time .Params.starts_at) }}
                 
