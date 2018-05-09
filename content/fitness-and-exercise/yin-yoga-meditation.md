@@ -2,9 +2,9 @@
 title: YIN YOGA & MEDITATION
 description: yoga
 yoast_keyword: yoga
-draft: false
+draft: true
 start_time: '2000-01-01T19:45:00+00:00'
-end_time: '2000-02-01T21:00:00+00:00'
+end_time: '2000-01-01T21:00:00+00:00'
 event_day: tuesday
 level: Mixed Ability
 associate: Halina
