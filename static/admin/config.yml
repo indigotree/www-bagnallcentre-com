@@ -116,7 +116,11 @@ collections:
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Starts At", name: "starts_at", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ", required: true }
       - { label: "Featured Image", name: "featured_image", widget: "image", required: true }
-      - { label: "Featured", name: "event_categories", widget: "select", options: ["", "featured"] }
+      - label: "Featured"
+        name: "event_categories"
+        widget: "select"
+        options: 
+          - { label: "Featured", value: "featured" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
 
   - name: "settings"
