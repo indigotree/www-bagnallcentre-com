@@ -1,8 +1,8 @@
 ---
 title: "Dru Yoga"
 event_day: "tuesday"
-start_time: 2000-01-01T10:00:00Z
-end_time: 2000-01-01T11:00:00Z
+start_time: "2000-01-01T10:00:00+00:00"
+end_time: "2000-01-01T11:00:00+00:00"
 level: "Mixed Ability"
 associate: "Carly"
 price: "£10 (1st class free)"

@@ -2,8 +2,8 @@
 title: TRX Suspension training
 description: TRX training uses movement that challenges the entire body on every plane.
 yoast_keyword: TRX
-start_time: 2000-01-01T18:45:00.000Z
-end_time: 2000-01-01T19:45:00.000Z
+start_time: "2000-01-01T18:45:00.000+00:00"
+end_time: "2000-01-01T19:45:00.000+00:00"
 event_day: monday
 level: Mixed Ability
 associate: Pali

@@ -5,8 +5,8 @@ description: >-
   contemporary approach to the repertoire whilst also staying true to the
   original Pilates method.
 yoast_keyword: Pilates
-start_time: 2000-01-01T20:00:00.000Z
-end_time: 2000-01-01T21:00:00.000Z
+start_time: "2000-01-01T20:00:00.000+00:00"
+end_time: "2000-01-01T21:00:00.000+00:00"
 event_day: wednesday
 level: Intermediate/Advanced
 associate: Heidi

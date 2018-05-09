@@ -1,8 +1,8 @@
 ---
 title: "Pilates"
 event_day: "monday"
-start_time: 2000-01-01T20:00:00Z
-end_time: 2000-01-01T21:00:00Z
+start_time: "2000-01-01T20:00:00+00:00"
+end_time: "2000-01-01T21:00:00+00:00"
 level: "Beginners/Intermediate"
 associate: "Helena"
 price: "£10 block booking, 1st class free"

@@ -1,8 +1,8 @@
 ---
 title: "Barre"
 event_day: "monday"
-start_time: 2000-01-01T19:50:00Z
-end_time: 2000-01-01T20:50:00Z
+start_time: "2000-01-01T19:50:00+00:00"
+end_time: "2000-01-01T20:50:00+00:00"
 level: "Mixed Ability"
 associate: "Pali"
 price: "£12 (£10 block booking)"

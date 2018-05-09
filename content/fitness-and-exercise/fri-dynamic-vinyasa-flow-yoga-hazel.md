@@ -1,8 +1,8 @@
 ---
 title: "Dynamic Vinyasa flow yoga"
 event_day: "friday"
-start_time: 2000-01-01T10:30:00Z
-end_time: 2000-01-01T11:30:00Z
+start_time: "2000-01-01T10:30:00+00:00"
+end_time: "2000-01-01T11:30:00+00:00"
 level: "Beginners"
 associate: "Hazel"
 price: "£10 (£8 block booking)"
