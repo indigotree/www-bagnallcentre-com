@@ -119,6 +119,7 @@ collections:
       - label: "Featured"
         name: "event_categories"
         widget: "select"
+        required: false
         options: 
           - { label: "Featured", value: "featured" }
       - { label: "Body", name: "body", widget: "markdown", required: false }
