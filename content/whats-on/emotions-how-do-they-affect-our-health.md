@@ -33,4 +33,4 @@ Price: £10 including refreshments (please book in advance to avoid disappointme
 
 For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required.
 
-![](/uploads/emotions.jpg)
+![null](/uploads/emotions.jpg)
