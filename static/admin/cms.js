@@ -2,21 +2,18 @@
 var TimeControl = createClass({
 
     componentDidMount: function () {
+        console.log(this.props.onChange('2000-01-01T19:45:00+00:00'));
         document.body.addEventListener('mousedown', this.closeTimeControl);
     },
 
-    componentWillUnmount() {
+    componentWillUnmount: function () {
         document.removeEventListener('mousedown', this.closeTimeControl);
     },
 
-    getInitialState: function() {
-        // console.log('original: ', moment(this.props.value).toString());
-        // console.log('edit: ', moment(this.props.value).subtract(1, 'months').toString());
-
-        console.log(this.props.value);
+    getInitialState: function () {
         return {
             open: false,
-            date: this.props.value ? moment(this.props.value).subtract(1, 'months') : moment()
+            date: this.props.value ? moment(this.props.value).month(0) : moment()
         };
     },
 
@@ -68,18 +65,15 @@ var TimeControl = createClass({
     },
 
     handleChange: function () {
-        console.log('FIRE');
         var todayDate = moment({
             year: 2000,
-            month: 00,
+            month: 0,
             day: 01,
             hour: this.state.date.hour(),
             minute: this.state.date.minutes(),
             second: 00,
             millisecond: 00
         })
-        console.log(todayDate.format(moment.defaultFormat));
-        console.log(typeof this.props.onChange);
         this.props.onChange(todayDate.format(moment.defaultFormat))
     },
 
