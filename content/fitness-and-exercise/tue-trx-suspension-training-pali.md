@@ -1,5 +1,6 @@
 ---
 title: "Trx Suspension training"
+front_title: "Trx Suspension training"
 event_day: "tuesday"
 start_time: "2000-01-01T19:50:00+00:00"
 end_time: "2000-01-01T20:50:00+00:00"

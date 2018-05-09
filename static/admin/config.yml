@@ -44,6 +44,7 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title on Front page", name: "front_title", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image", required: false }
       - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }

@@ -1,5 +1,6 @@
 ---
 title: "Pilates"
+front_title: "Pilates"
 event_day: "wednesday"
 start_time: "2000-01-01T18:00:00+00:00"
 end_time: "2000-01-01T19:00:00+00:00"

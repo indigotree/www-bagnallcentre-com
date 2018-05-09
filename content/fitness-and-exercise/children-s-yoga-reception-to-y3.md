@@ -1,5 +1,6 @@
 ---
 title: Children's Yoga (Reception to Y3)
+front_title: Children's Yoga (Reception to Y3)
 description: children's yoga
 yoast_keyword: children's yoga
 draft: false

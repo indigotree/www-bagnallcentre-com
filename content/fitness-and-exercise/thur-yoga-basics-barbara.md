@@ -1,5 +1,6 @@
 ---
 title: "Yoga basics"
+front_title: "Yoga basics"
 event_day: "thursday"
 start_time: "2000-01-01T19:00:00+00:00"
 end_time: "2000-01-01T20:00:00+00:00"

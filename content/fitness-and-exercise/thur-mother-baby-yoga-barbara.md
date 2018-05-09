@@ -1,5 +1,6 @@
 ---
 title: "Mother & Baby Yoga"
+front_title: "Mother & Baby Yoga"
 event_day: "thursday"
 start_time: "2000-01-01T10:45:00+00:00"
 end_time: "2000-01-01T11:45:00+00:00"

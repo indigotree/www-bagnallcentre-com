@@ -1,5 +1,6 @@
 ---
 title: "Barre"
+front_title: "Barre"
 event_day: "monday"
 start_time: "2000-01-01T10:30:00+00:00"
 end_time: "2000-01-01T11:30:00+00:00"

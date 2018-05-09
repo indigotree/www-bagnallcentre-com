@@ -1,5 +1,6 @@
 ---
 title: TRX Suspension training
+front_title: TRX Suspension training
 description: TRX training uses movement that challenges the entire body on every plane.
 yoast_keyword: TRX
 start_time: "2000-01-01T18:45:00.000+00:00"

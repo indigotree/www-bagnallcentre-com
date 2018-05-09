@@ -1,5 +1,6 @@
 ---
 title: "Tai Chi"
+front_title: "Tai Chi"
 event_day: "thursday"
 start_time: "2000-01-01T20:00:00+00:00"
 end_time: "2000-01-01T21:00:00+00:00"

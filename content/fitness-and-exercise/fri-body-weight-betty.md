@@ -1,5 +1,6 @@
 ---
 title: "Body Weight Circuit Training"
+front_title: "Body Weight Circuit Training"
 event_day: "friday"
 start_time: "2000-01-01T11:30:00+00:00"
 end_time: "2000-01-01T12:30:00+00:00"

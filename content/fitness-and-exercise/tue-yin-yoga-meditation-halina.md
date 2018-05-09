@@ -1,5 +1,6 @@
 ---
 title: HATHA YOGA
+front_title: HATHA YOGA
 description: yoga
 yoast_keyword: yoga
 start_time: "2000-01-01T18:30:00+00:00"

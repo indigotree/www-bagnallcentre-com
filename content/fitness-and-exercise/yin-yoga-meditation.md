@@ -1,5 +1,6 @@
 ---
 title: YIN YOGA & MEDITATION
+front_title: YIN YOGA & MEDITATION
 description: yoga
 yoast_keyword: yoga
 draft: false
