@@ -66,12 +66,12 @@ var TimeControl = createClass({
     handleChange: function () {
         var todayDate = moment({
             year: 2000,
-            month: 1,
-            day: 1,
+            month: 01,
+            day: 01,
             hour: this.state.date.hour(),
             minute: this.state.date.minutes(),
-            second: 000,
-            millisecond: 000
+            second: 00,
+            millisecond: 00
         })
         this.props.onChange(todayDate.format(moment.defaultFormat))
     },
