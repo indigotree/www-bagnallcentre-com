@@ -5,14 +5,13 @@ yoast_keyword: Tai Chi
 draft: false
 starts_at: 2018-05-31T12:00:00.000Z
 featured_image: /uploads/tai-chi.jpg
-event_categories: featured
+event_categories: ''
 ---
-
 ![Tai Chi](/uploads/tai-chi.jpg)
 
 Tai chi, also called tai chi chuan, combines deep breathing and relaxation with flowing movements.
 
-Originally developed as a martial art in 13th-century China, tai chi is today practised around the world as a health-promoting exercise.
+Originally developed as a martial art in 13th-century China, tai chi is today practised around the world as a health-promoting exercise. 
 
 Our brand new class is an opportunity to learn and experience the benefits of this ancient Chinese Martial Art, for health, relaxation, self defence and wellbeing.
 
@@ -24,21 +23,21 @@ Wudang style Hand Form, learn to understand the movements and how self defence t
 
 **Benefits include:**
 
-- releases tension,
-- develops flexibility and core stability,
-- promotes relaxation & calm,
-- fosters an alert mind,
-- increases blood circulation,
-- improves balance & co-ordination,
-- develops deeper breathing for healthier lungs,
-- stimulates central nervous system,
-- strengthens muscles, tendons & joints.
+* releases tension,
+* develops flexibility and core stability,
+* promotes relaxation & calm,
+* fosters an alert mind,
+* increases blood circulation,
+* improves balance & co-ordination,
+* develops deeper breathing for healthier lungs,
+* stimulates central nervous system,
+* strengthens muscles, tendons & joints.
 
 Blocks of 8 consecutive classes cost £80. Please contact Bagnall Reception for more details of times and start dates.
 
-*Spaces are limited to 10 people and will be offered on a first come first served basis.*
+_Spaces are limited to 10 people and will be offered on a first come first served basis._
 
-*To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing* [*bookings@bagnallcentre.com*](mailto:bookings@bagnallcentre.com)
+_To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing 01494 791288 or emailing_ [_bookings@bagnallcentre.com_](mailto:bookings@bagnallcentre.com)
 
 **The Instructor**
 
