@@ -19,7 +19,7 @@ Respected wellbeing expert Brian Isbell, an experienced natural health practitio
 
 The talks are open to our customers and complementary health professionals who wish to broaden and deepen their knowledge of self-care and integrated healthcare. These talks will help you and your family understand and implement simple and effective health and wellbeing practices.
 
-10am-12pm, Monday 11th June
+10am-12pm, Monday 11th June 
 
 Price: £10 including refreshments (please book in advance to avoid disappointment!).
 
