@@ -1,10 +1,11 @@
 ---
-title: "Tai Chi"
-starts_at: 2018-05-31T12:00:00
+title: Tai Chi
+description: Have you tried Tai Chi?
+yoast_keyword: Tai Chi
 draft: false
-description: "Have you tried Tai Chi?"
-featured_image: "/uploads/tai-chi.jpg"
-event_categories: []
+starts_at: 2018-05-31T12:00:00.000Z
+featured_image: /uploads/tai-chi.jpg
+event_categories: featured
 ---
 
 ![Tai Chi](/uploads/tai-chi.jpg)
