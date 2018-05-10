@@ -8,7 +8,7 @@ draft: false
 starts_at: '2018-05-10T12:01:37+01:00'
 featured_image: /uploads/image-10 social media graphic.jpg
 ---
-This is a free taster for school staff. 
+This session is a free taster for school staff. 
 
 During this interactive session you will experience a mindfulness exercise and also learn the following: 
 
