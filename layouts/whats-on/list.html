@@ -3,14 +3,14 @@
     {{ partial "inner-hero" ( dict "image" "/uploads/header-whatson.jpg" "title" .Title "Scope" . ) }}
 
     <div class="bg--grey content-area">
-        
+
         <div class="whats-ons">
 
-            
+
             {{ range (sort (where .Pages "Section" "whats-on") "Params.starts_at" "asc") }}
 
                 {{ $t := (time .Params.starts_at) }}
-                
+
                 {{ if $t.After now }}
                     <div class="whats-on">
                         <a href="{{ .Permalink }}" class="whats-on__image-link">
@@ -39,11 +39,11 @@
                         <a href="{{ .Permalink }}" class="whats-on__link">See more</a>
                     </div>
                 {{ end }}
-            
+
             {{ end }}
 
-            {{ template "_internal/pagination.html" . }}
-        
+            <!-- {{ template "_internal/pagination.html" . }} -->
+
         </div>
 
     </div>
