@@ -5,7 +5,7 @@ description: >-
   mindfulness may offer to schools
 yoast_keyword: mindfulness
 draft: false
-starts_at: '2018-05-10T12:00:37+01:00'
+starts_at: '2018-05-10T12:00:37.000Z'
 featured_image: /uploads/image-10 social media graphic.jpg
 ---
 This session is a free taster for school staff. 
