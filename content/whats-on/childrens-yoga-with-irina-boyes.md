@@ -7,8 +7,7 @@ yoast_keyword: yoga
 draft: false
 starts_at: '2018-05-05T10:00:00+01:00'
 featured_image: /uploads/image-children-doing-yoga.jpg
-event_categories:
-  - featured
+event_categories: ''
 ---
 ![Image of children doing yoga](/uploads/image-children-doing-yoga.jpg)
 
