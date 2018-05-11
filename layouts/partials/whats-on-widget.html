@@ -3,7 +3,7 @@
 
     <ul class="whatson-widget__list">
         {{ $allevents := (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
-        {{ $currentevents := (where $allevents "Params.starts_at" "ge" (now.RFC3339)) }}
+        {{ $currentevents := (where $allevents "Params.starts_at" "ge" now.RFC3339) }}
 
         {{ range first 2 $currentevents }}
 
