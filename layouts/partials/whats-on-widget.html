@@ -2,7 +2,10 @@
     <h2>What's on</h2>
 
     <ul class="whatson-widget__list">
-        {{ range first 2 (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
+        {{ $allevents := (where (.Site.RegularPages.ByParam "starts_at") ".Section" "whats-on") }}
+        {{ $currentevents := (where $allevents "Params.starts_at" "ge" (now.RFC3339)) }}
+
+        {{ range first 2 $currentevents }}
 
             <a href="{{ .Permalink }}" class="whatson-widget__item">
                 <div class="whatson-widget__icon">
