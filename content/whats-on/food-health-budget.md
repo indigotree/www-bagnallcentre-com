@@ -1,13 +1,17 @@
 ---
-title: "Food for Health on a Budget"
-starts_at: 2018-05-26T10:00:00
+title: Food for Health on a Budget
+description: >-
+  Basic and functional but highly empowering classes, where you will be taught
+  to create everyday meals that can make an immense difference to the health of
+  both you and your family.
+yoast_keyword: cookery class
 draft: false
-description: "Basic and functional but highly empowering classes, where you will be taught to create everyday meals that can make an immense difference to the health of both you and your family."
-featured_image: "/uploads/kitchen-with-table-cloths.jpg"
-event_categories: ["featured"]
+starts_at: 2018-05-26T10:00:00.000Z
+featured_image: /uploads/kitchen-with-table-cloths.jpg
+event_categories:
+  - featured
 ---
-
-![Photo of a class](/uploads/image-food-for-health.jpg)
+**_We are delighted that this class has now sold out and are pleased to be running the next one on Saturday 21st July! Book your place for 21st July _**[**_here_**](https://www.eventbrite.co.uk/e/food-for-health-on-a-budget-tickets-46070362695)**_. _**
 
 This class will equip you with a foundation of skills and knowledge that will enable you to make lasting and delicious changes to your diet, both easily and affordably. 
 
@@ -18,11 +22,8 @@ Places in the Bagnall Centre teaching kitchen are limited so please do book as s
 You will gain:
 
 1. A basic education in how to properly fuel your body.
-
 2. The ability to improve your own everyday health complaints, from weight and skin problems to blood sugar imbalance and digestive issues.
-
 3. The knowledge of how to create simple, balanced and nourishing meals that are easy to prepare on a budget, and can be customised to your personal tastes.
-
 4. Insight into effective meal planning, which will actively save you money and reduce your food preparation times.
 
 Saturday 26th May 10am-1pm
