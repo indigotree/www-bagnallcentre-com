@@ -20,11 +20,8 @@ Places in the Bagnall Centre teaching kitchen are limited so please do book as s
 You will gain:
 
 1. A basic education in how to properly fuel your body.
-
 2. The ability to improve your own everyday health complaints, from weight and skin problems to blood sugar imbalance and digestive issues.
-
 3. The knowledge of how to create simple, balanced and nourishing meals that are easy to prepare on a budget, and can be customised to your personal tastes.
-
 4. Insight into effective meal planning, which will actively save you money and reduce your food preparation times.
 
 Saturday 21st July 10am-1pm
@@ -36,3 +33,5 @@ The class will be run by Cook for Life (Zoe Hill and Katie Firth), and is sponso
 Zoe is currently studying to be a Natural Chef at the College of Naturopathic Medicine, and Katie is a passionate home cook who has been providing delicious meals to her family and friends for many years.
 
 Cook for Life will be running plant-based cookery teaching classes at the Bagnall Centre throughout the year.
+
+To book your place please go to [Eventbrite](https://www.eventbrite.co.uk/e/food-for-health-on-a-budget-tickets-46070362695).
