@@ -6,7 +6,7 @@ description: >-
 yoast_keyword: mindfulness
 draft: false
 starts_at: '2018-06-26T16:30:00+01:00'
-featured_image: /uploads/image-10 social media graphic.jpg
+featured_image: /uploads/307 x 238 px rsz_image-10_social_media_graphic (1) copy.jpg
 ---
 This session is a free taster for school staff. 
 
