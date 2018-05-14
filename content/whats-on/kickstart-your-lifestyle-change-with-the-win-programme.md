@@ -5,7 +5,7 @@ yoast_keyword: Change
 draft: false
 starts_at: 2018-05-31T10:00:00.000Z
 featured_image: /uploads/woman.jpg
-event_categories: []
+event_categories: featured
 ---
 ![Woman on a beach](/uploads/woman.jpg)
 
