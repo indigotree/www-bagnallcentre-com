@@ -28,4 +28,4 @@ I am so proud of each and every person in my classes for putting the work in and
 
 If this sounds like something that is of interest to you, then I am inviting you to a F-R-E-E Beginners Pilates taster session in my new Monday morning 10-11am at the Bagnall Centre (classes start Monday 4th of June).'
 
-Get in touch with us at [booking@bagnallcentre.com](mailto:bookings@bagnallcentre.com) or call [01494 791288](tel:01494791288) to book your place.
+Get in touch with us at <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to book your place.
