@@ -17,4 +17,4 @@ term: 'Term Time only, starts 04/06/18'
 room: Studio
 price: '£10 block booking - FIRST CLASS FREE! '
 ---
-
+Pilates with Helena focuses on whole body wellness through intelligent movement. Tone, strengthen and lengthen muscles, improve flexibility and increase mobility of spine and joints, correct posture, relieve muscle tension and back pain. Restore, achieve and excel in physical movement.
