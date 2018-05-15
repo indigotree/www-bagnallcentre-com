@@ -7,7 +7,7 @@ description: >-
 yoast_keyword: cookery class
 draft: false
 starts_at: '2018-07-21T10:00:40+01:00'
-featured_image: /uploads/rsz 720 x 405 px _food_for_health_on_a_budget_pilot_ copy.jpg
+featured_image: /uploads/image-food-for-health-small.jpg
 ---
 Basic and functional but highly empowering classes, where you will be taught to create everyday meals that can make an immense difference to the health of both you and your family.
 
