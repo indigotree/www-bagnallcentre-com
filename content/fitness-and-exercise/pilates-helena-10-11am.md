@@ -8,8 +8,8 @@ description: >-
   and back pain. Restore, achieve and excel in physical movement.
 yoast_keyword: Pilates
 draft: false
-start_time: '2000-01-01T19:45:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T10:00:00+00:00'
+end_time: '2000-01-01T11:00:00+00:00'
 event_day: monday
 level: Mixed Ability
 associate: Helena
