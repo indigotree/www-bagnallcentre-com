@@ -1,10 +1,13 @@
 ---
-title: "Fascia - is this the body’s hidden communication system?"
-starts_at: 2018-05-14T10:00:00
+title: Fascia - is this the body’s hidden communication system?
+description: >-
+  This Bagnall Centre Family Health & Wellbeing Talk will enable you to
+  understand more about the important role of fascia.
+yoast_keyword: fascia
 draft: false
-description: "This Bagnall Centre Family Health & Wellbeing Talk will enable you to understand more about the important role of fascia."
-featured_image: "/uploads/image-fascia-grays-anatomy-wiki.png"
-event_categories: ["featured"]
+starts_at: 2018-05-14T10:00:00.000Z
+featured_image: /uploads/image-fascia-grays-anatomy-wiki.png
+event_categories: ''
 ---
 
 This talk will look at: 
