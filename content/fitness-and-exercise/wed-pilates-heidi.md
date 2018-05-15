@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Wednesday, 7PM - 8PM, Heidi'
+title: 'Pilates, Wednesday, 7pm-8pm, Heidi'
 front_title: Pilates
 description: >-
   Our classes aim to provide a well rounded, challenging workout, strengthening
