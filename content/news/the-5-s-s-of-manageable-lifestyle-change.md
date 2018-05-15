@@ -10,6 +10,8 @@ date: 2018-05-15T10:20:03.972Z
 author: Imogen Emms
 featured_image: /uploads/meditation.jpg
 ---
+![Meditation](/uploads/meditation.jpg)
+
 In our modern age we are surrounded by constant marketing - it’s easy to feel bombarded with images of perfect healthy lifestyles that feel unrealistic and unattainable.
 
 It’s important to take a step back and identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation. 
