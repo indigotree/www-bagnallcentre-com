@@ -40,4 +40,4 @@ Early Bird Discount Tickets £75. Standard Tickets £95.
 
 **More information coming soon.** 
 
-If you would like to find out more about the conference please call us on 01494 791 288 or email <mailto:bookings@bagnallcentre.com>
+If you would like to find out more about the conference please call us on [01494 791 288](tel:01494791288) or email <mailto:bookings@bagnallcentre.com>
