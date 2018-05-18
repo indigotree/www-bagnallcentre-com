@@ -1,11 +1,17 @@
 ---
-title: "What can YOU do about chronic disease?"
-date: 2017-10-02T00:00:00Z
+title: What can YOU do about chronic disease?
+description: health
+yoast_keyword: health
 draft: false
-author: "The Bagnall Centre"
-Description: There are more and more studies about the link between long-term systemic inflammation and chronic diseases, such as diabetes...
-categories: ["News"]
-featured_image: "/uploads/image-diabetes-chronic-disease-1920.jpg"
+date: 2017-10-02T00:00:00.000Z
+author: The Bagnall Centre
+categories:
+  - News
+  - Health
+  - Disease
+  - Weight
+  - Obesity
+featured_image: /uploads/image-diabetes-chronic-disease-1920.jpg
 ---
 ![Diabetes image](/uploads/image-diabetes-chronic-disease-small.jpg)
 
