@@ -1,6 +1,9 @@
 ---
 title: How To Be Safe in The Sun
-description: How to be safe in the sun
+description: >-
+  Summer is finally here and as we see (hopefully!) more sunshine in the UK or
+  you might be planning a trip abroad, please remember sensible sun safety for
+  all the family!
 yoast_keyword: sunshine
 draft: false
 date: 2016-06-01T00:00:00.000Z
