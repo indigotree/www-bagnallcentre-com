@@ -9,7 +9,7 @@ categories:
   - News
   - Health
   - Sun
-  - VitaminD
+  - Vitamin D
 featured_image: /uploads/image-safe-sun-1920.jpg
 ---
 
