@@ -1,6 +1,9 @@
 ---
 title: Acupuncture
-description: Acupuncture
+description: >-
+  Acupuncture originated over 5,000 years ago and is derived from ancient
+  Chinese medicine which typically involves a more holistic approach than
+  conventional Western medicine.
 yoast_keyword: Acupuncture
 draft: false
 date: 2016-05-02T00:00:00.000Z
