@@ -8,6 +8,11 @@ yoast_keyword: Lifestyle Change
 draft: false
 date: 2018-05-15T10:20:03.972Z
 author: Imogen Emms
+categories:
+  - News
+  - Health
+  - Lifestyle
+  - Change
 featured_image: /uploads/meditation.jpg
 ---
 ![Meditation](/uploads/meditation.jpg)
