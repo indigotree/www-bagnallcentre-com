@@ -1,10 +1,16 @@
 ---
-title: "5 posture Yoga practice to help you sleep"
-date: 2017-08-01T00:00:00Z
+title: 5 posture Yoga practice to help you sleep
+description: 'Sleep, yoga'
+yoast_keyword: yoga
 draft: false
-author: "Barbara Dancer, Yoga Teacher, CNHC Registered Yoga Therapist"
-categories: ["News"]
-featured_image: "/uploads/image-yoga-1920.jpg"
+date: 2017-08-01T00:00:00.000Z
+author: 'Barbara Dancer, Yoga Teacher, CNHC Registered Yoga Therapist'
+categories:
+  - News
+  - Health
+  - Sleep
+  - Yoga
+featured_image: /uploads/image-yoga-1920.jpg
 ---
 
 There can be lots of reasons for not sleeping but one common reason is worry, stress or a generally over-active mind at bedtime. Nothing wrong with an active mind at other times in the day! Focus on slow and steady breathing as you go through these postures which will influence your state of mind and take you to a mentally calmer place.
