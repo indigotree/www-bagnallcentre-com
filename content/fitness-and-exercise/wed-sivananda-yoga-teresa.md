@@ -1,7 +1,7 @@
 ---
 title: 'Sivananda Yoga, Wednesday, 8-9pm, Teresa'
 front_title: Sivananda Yoga
-description: yoga
+description: yoga class
 yoast_keyword: yoga
 start_time: '2000-01-01T20:00:00+00:00'
 end_time: '2000-01-01T21:00:00+00:00'
