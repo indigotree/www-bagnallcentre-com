@@ -10,6 +10,8 @@ author: The Bagnall Centre
 categories:
   - News
   - Yoga
+  - Health
+  - Wellbeing
 featured_image: /uploads/image-yoga-1920.jpg
 ---
 
