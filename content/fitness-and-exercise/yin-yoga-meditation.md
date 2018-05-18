@@ -1,7 +1,7 @@
 ---
 title: 'Yin Yoga & Meditation, Tuesday, 7.45-9pm, Halina'
 front_title: 'Yin Yoga & Meditation '
-description: yoga
+description: yoga class
 yoast_keyword: yoga
 draft: false
 start_time: '2000-01-01T19:45:00+00:00'
