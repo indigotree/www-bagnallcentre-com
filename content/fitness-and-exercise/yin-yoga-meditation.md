@@ -1,6 +1,6 @@
 ---
-title: YIN YOGA & MEDITATION
-front_title: YIN YOGA & MEDITATION
+title: Yin Yoga & Meditation
+front_title: 'Yin Yoga & Meditation, Tuesday, 7.45-9pm, Halina'
 description: yoga
 yoast_keyword: yoga
 draft: false
