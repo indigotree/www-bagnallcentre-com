@@ -1,5 +1,5 @@
 ---
-title: 'Trx Suspension training, Tuesday, 7.50-8.50pm, Pali'
+title: 'Trx Suspension Training, Tuesday, 7.50-8.50pm, Pali'
 front_title: Trx Suspension Training
 description: Trx Suspension Training class
 yoast_keyword: Trx Suspension Training
