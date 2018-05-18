@@ -1,6 +1,8 @@
 ---
 title: 5 posture Yoga practice to help you sleep
-description: 'Sleep, yoga'
+description: >-
+  There can be lots of reasons for not sleeping but one common reason is worry,
+  stress or a generally over-active mind at bedtime. 
 yoast_keyword: yoga
 draft: false
 date: 2017-08-01T00:00:00.000Z
