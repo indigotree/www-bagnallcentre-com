@@ -1,6 +1,8 @@
 ---
 title: Making Lasting Positive Changes
-description: positive change
+description: >-
+  It's nearly the end of 2017 and a new year is about to begin - how did that
+  happen already?!
 yoast_keyword: new year
 draft: false
 date: 2017-12-21T00:00:00.000Z
