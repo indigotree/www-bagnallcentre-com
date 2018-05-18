@@ -11,6 +11,6 @@ level: Mixed Ability
 associate: Halina
 term: Ongoing
 room: Classroom
-price: '£11 (£50 for 5 & £90 for 10) FIRST CLASS FREE! '
+price: '£11 (£50 for 5 & £90 for 10), FIRST CLASS FREE! '
 ---
 Yin Yoga emphasises stillness, core softness and surrender. Long, deep, passive holds and breath work practice, preparing one's body and mind for meditation.
