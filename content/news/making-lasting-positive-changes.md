@@ -1,10 +1,17 @@
 ---
-title: "Making Lasting Positive Changes"
-date: 2017-12-21T00:00:00Z
+title: Making Lasting Positive Changes
+description: positive change
+yoast_keyword: new year
 draft: false
-author: "The Bagnall Centre"
-categories: ["News"]
-featured_image: "/uploads/image-lasting-changes-1920.jpg"
+date: 2017-12-21T00:00:00.000Z
+author: The Bagnall Centre
+categories:
+  - News
+  - Health
+  - Positive Change
+  - Lifestyle
+  - Wellbeing
+featured_image: /uploads/image-lasting-changes-1920.jpg
 ---
 
 It’s nearly the end of 2017 and a new year is about to begin – how did that happen already?! After all the festive excess our minds often begin to turn to detox plans and resolutions to get fit, drink less or lose weight.
