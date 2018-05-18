@@ -14,7 +14,7 @@ categories:
   - Healthcare
 featured_image: /uploads/image-joanna-interview-642.jpg
 ---
-for the ageless interview on **Integrative Medicine & The Bagnall Centre (Chesham, UK)** by Joanna Hill.
+[for the Ageless interview ](https://www.fortheageless.com/blogs/ageless-buzz/integrative-medicine-bagnall-centre-chesham-uk)on **Integrative Medicine & The Bagnall Centre (Chesham, UK)** by Joanna Hill.
 
 **1. In your opinion, what is integrated healthcare and how important is it today?**
 
