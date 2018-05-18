@@ -11,6 +11,7 @@ categories:
   - Health
   - Yoga
   - Children
+  - Practitioner Spotlight
 featured_image: /uploads/image-childrens-yoga-1429.jpg
 ---
 ![Image of children doing yoga](/uploads/image-children-doing-yoga.jpg)
