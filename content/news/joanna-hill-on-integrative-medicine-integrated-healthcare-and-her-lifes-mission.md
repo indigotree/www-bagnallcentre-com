@@ -1,11 +1,18 @@
 ---
-title: "Joanna Hill on Integrative Medicine Integrated Healthcare and her Life's Mission"
-date: 2017-11-01T00:00:00Z
+title: >-
+  Joanna Hill on Integrative Medicine Integrated Healthcare and her Life's
+  Mission
+description: Integrated Healthcare
+yoast_keyword: Integrated Healthcare
 draft: false
-Description: Our national healthcare system is facing ever-increasing demand and ever more expensive diagnosis and treatment possibilities.
-author: "Joanna Hill"
-categories: ["News"]
-featured_image: "/uploads/image-joanna-interview-642.jpg"
+date: 2017-11-01T00:00:00.000Z
+author: Joanna Hill
+categories:
+  - News
+  - Health
+  - Integrated Health
+  - Healthcare
+featured_image: /uploads/image-joanna-interview-642.jpg
 ---
 
 [**Integrative Medicine & The Bagnall Centre (Chesham, UK)**](https://www.fortheageless.com/blogs/ageless-buzz/integrative-medicine-bagnall-centre-chesham-uk) by Joanna Hill.
