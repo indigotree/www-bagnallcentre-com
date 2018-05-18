@@ -1,6 +1,8 @@
 ---
 title: Diabetes
-description: Diabetes
+description: >-
+  With over 4 million people diagnosed in the UK, most people have heard of or
+  know someone with diabetes. 
 yoast_keyword: Diabetes
 draft: false
 date: 2016-07-01T00:00:00.000Z
