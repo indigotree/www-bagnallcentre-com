@@ -6,6 +6,10 @@ date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
 categories:
   - News
+  - Health
+  - Fitness
+  - Exercise
+  - Practitioner Spotlight
 featured_image: /uploads/image-betty-zee-640.jpg
 ---
 {{< align alignment="center" >}}
