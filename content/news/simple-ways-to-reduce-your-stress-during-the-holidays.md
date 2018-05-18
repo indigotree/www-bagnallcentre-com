@@ -1,10 +1,16 @@
 ---
-title: "Simple Ways To Reduce Your Stress During The Holidays"
-date: 2017-11-15T00:00:00Z
+title: Simple Ways To Reduce Your Stress During The Holidays
+description: health
+yoast_keyword: stress
 draft: false
-author: "The Bagnall Centre"
-categories: ["News"]
-featured_image: "/uploads/image-stress-1920.jpg"
+date: 2017-11-15T00:00:00.000Z
+author: The Bagnall Centre
+categories:
+  - News
+  - Health
+  - Stress
+  - Holidays
+featured_image: /uploads/image-stress-1920.jpg
 ---
 
 The allure of the holiday season may begin to lose its sparkle as to do lists grow longer and longer, and you start to feel that the magic of Christmas is up to YOU to procure!
