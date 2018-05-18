@@ -1,14 +1,16 @@
 ---
-title: "Pilates"
-front_title: "Pilates"
-event_day: "friday"
-start_time: "2000-01-01T09:30:00+00:00"
-end_time: "2000-01-01T10:30:00+00:00"
-level: "Mixed Ability"
-associate: "Heidi"
-price: "£12 (£10 block booking)"
-room: "Gym"
-term: "Term Time Only"
+title: 'Pilates, Friday, 9.30-10.30am, Heidi'
+front_title: Pilates
+description: Pilates class
+yoast_keyword: Pilates
+start_time: '2000-01-01T09:30:00+00:00'
+end_time: '2000-01-01T10:30:00+00:00'
+event_day: friday
+level: Mixed Ability
+associate: Heidi
+term: Term Time Only
+room: Gym
+price: £12 (£10 block booking)
 ---
 
  The BASI (Body Arts and Science international) approach to Pilates provides a contemporary approach to the repertoire whilst also staying true to the original Pilates method. Our classes aim to provide a well rounded, challenging workout, strengthening abdominals, back extensors, glutes, shoulders. You will leave the class feeling engaged and mobilised.
