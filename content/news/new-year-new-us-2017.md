@@ -1,6 +1,9 @@
 ---
 title: New Year New Us
-description: health
+description: >-
+  It’s that time of year when we often make resolutions to improve our fitness,
+  take up more exercise and after the excess of Christmas, focus on better
+  nutrition. 
 yoast_keyword: health
 draft: false
 date: 2017-01-02T00:00:00.000Z
