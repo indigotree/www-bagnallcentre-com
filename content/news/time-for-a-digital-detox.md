@@ -1,6 +1,8 @@
 ---
 title: Time for a digital detox?
-description: health
+description: >-
+  Without doubt, mobile phones have entirely revolutionised the way we
+  communicate.
 yoast_keyword: health
 draft: false
 date: 2016-09-01T00:00:00.000Z
