@@ -1,6 +1,8 @@
 ---
 title: Not all Yoga is the same!
-description: yoga
+description: >-
+  We are delighted that we are currently expanding the range of yoga classes we
+  offer at The Bagnall Centre. 
 yoast_keyword: yoga
 date: 2018-03-02T10:54:20.000Z
 author: The Bagnall Centre
