@@ -1,6 +1,6 @@
 ---
 title: 'PRACTITIONER SPOTLIGHT: Carly Kite - Kite Spirit'
-description: Carly Kite is a Dru Yoga Teacher and Reflexologist.
+description: 'Carly Kite is a Dru Yoga Teacher and Reflexologist. Find out more here. '
 yoast_keyword: yoga
 date: 2018-03-20T09:40:36.540Z
 author: Bagnall Centre
