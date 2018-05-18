@@ -11,6 +11,7 @@ categories:
   - News
   - Health
   - Mindfulness
+  - Wellbeing
 featured_image: /uploads/image-mindfulness-1920.jpg
 ---
 Mindfulness is a mental state achieved by focussing your attention on the present moment and simultaneously acknowledging and accepting thoughts and physical feelings. This awareness of being present inthe moment can enable you to create mental space to respond in new and different ways to situations.
