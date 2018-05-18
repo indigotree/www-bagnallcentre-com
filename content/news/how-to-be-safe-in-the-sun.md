@@ -1,11 +1,16 @@
 ---
-title: "How To Be Safe in The Sun"
-date: 2016-06-01T00:00:00Z
+title: How To Be Safe in The Sun
+description: How to be safe in the sun
+yoast_keyword: sunshine
 draft: false
-author: "The Bagnall Centre"
-categories: ["News"]
-featured_image: "/uploads/image-safe-sun-1920.jpg"
-Description: Summer is finally here and as we see (hopefully!) more sunshine in the UK or you might be planning a trip abroad ...
+date: 2016-06-01T00:00:00.000Z
+author: The Bagnall Centre
+categories:
+  - News
+  - Health
+  - Sun
+  - VitaminD
+featured_image: /uploads/image-safe-sun-1920.jpg
 ---
 
 **How to be safe in the sun**
