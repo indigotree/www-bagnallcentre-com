@@ -1,6 +1,8 @@
 ---
 title: Eating Raw Food
-description: Nutrition
+description: >-
+  In our time-poor, highly pressured modern world, it can be easy to reach for a
+  quick fix solution to putting food on the able.
 yoast_keyword: nutrition
 draft: false
 date: 2016-10-03T00:00:00.000Z
