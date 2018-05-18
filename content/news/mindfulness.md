@@ -2,7 +2,8 @@
 title: Mindfulness
 description: >-
   Mindfulness is a mental state achieved by focussing your attention on the
-  present moment and …
+  present moment and simultaneously acknowledging and accepting thoughts and
+  physical feelings. 
 yoast_keyword: Mindfulness
 draft: false
 date: 2016-08-01T00:00:00.000Z
