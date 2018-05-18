@@ -1,6 +1,8 @@
 ---
 title: 'PRACTITIONER SPOTLIGHT: Betty Zee - BZeeFitness'
-description: Betty Zee is a Personal Trainer and her inspirational motto is...
+description: >-
+  Betty Zee is a Personal Trainer and her inspirational motto is 'Just Start!'
+  Find out more here. 
 yoast_keyword: BZeeFitness
 date: 2018-02-16T10:34:25.000Z
 author: The Bagnall Centre
