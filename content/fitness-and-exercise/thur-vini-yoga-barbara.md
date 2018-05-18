@@ -1,6 +1,6 @@
 ---
-title: 'VINI YOGA, Thursday, 9.30-10.30am, Barbara'
-front_title: VINI YOGA
+title: 'Vini Yoga, Thursday, 9.30-10.30am, Barbara'
+front_title: Vini Yoga
 description: Vini Yoga class
 yoast_keyword: 'Vini Yoga '
 start_time: '2000-01-01T09:30:00+00:00'
