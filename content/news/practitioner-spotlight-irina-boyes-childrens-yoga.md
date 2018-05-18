@@ -3,11 +3,14 @@ title: 'PRACTITIONER SPOTLIGHT: Irina Boyes - Children’s Yoga'
 description: >-
   Irina Boyes is teaching new Children's Yoga courses on Saturday mornings from
   5th May-21st July.
-yoast_keyword: Kite Spirit
+yoast_keyword: children's yoga
 date: 2018-04-17T09:19:37.000Z
 author: The Bagnall Centre
 categories:
   - News
+  - Health
+  - Yoga
+  - Children
 featured_image: /uploads/image-childrens-yoga-1429.jpg
 ---
 ![Image of children doing yoga](/uploads/image-children-doing-yoga.jpg)
