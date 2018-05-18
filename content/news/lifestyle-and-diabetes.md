@@ -1,6 +1,8 @@
 ---
 title: Lifestyle and Diabetes
-description: Lifestyle and Diabetes
+description: >-
+  We are excited to announce our next conference, in collaboration with the
+  College of Medicine and Integrated Health. 
 yoast_keyword: Diabetes
 date: 2018-01-26T10:19:37.000Z
 author: The Bagnall Centre
