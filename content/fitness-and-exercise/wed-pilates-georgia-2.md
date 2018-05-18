@@ -1,14 +1,15 @@
 ---
-title: "Pilates"
-front_title: "Pilates"
-event_day: "wednesday"
-start_time: "2000-01-01T10:30:00+00:00"
-end_time: "2000-01-01T11:30:00+00:00"
-level: "Mixed Ability"
-associate: "Georgia"
-price: "£66 for 6 weeks (pre book only)"
-room: "Studio"
-term: "Ongoing"
+title: 'Pilates, Wednesday, 10.30-11.30am, Georgia'
+front_title: Pilates
+description: Body Control Pilates class
+yoast_keyword: Pilates
+start_time: '2000-01-01T10:30:00+00:00'
+end_time: '2000-01-01T11:30:00+00:00'
+event_day: wednesday
+level: Mixed Ability
+associate: Georgia
+term: Ongoing
+room: Studio
+price: £66 for 6 weeks (pre book only)
 ---
-
-Pilates with Georgia (Body Control) incorporates small equipment including foam rollers, toning balls, bands, and Triadballs to create a varied and effective Pilates workout to strengthen and rebalance the body. 
+Body Control Pilates with Georgia is designed to improve spinal strength, flexibility and core strength and promote good movement patterns throughout the body. Classes often incorporate small equipment to provide a varied and interesting workout tailored to your level by a highly experienced teacher.
