@@ -6,10 +6,11 @@ draft: false
 date: 2018-05-18T09:36:43.403Z
 author: Imogen Emms
 categories:
-  - nutrition
-  - therapy
-  - health
-  - practitioner
+  - News
+  - Health
+  - Nutrition
+  - Therapy
+  - Practitioner Spotlight
 featured_image: /uploads/holly miles.png
 ---
 We love working with our Practitioners!
