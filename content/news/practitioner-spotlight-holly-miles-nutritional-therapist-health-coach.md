@@ -1,6 +1,8 @@
 ---
 title: 'PRACTITIONER SPOTLIGHT: Holly Miles - Nutritional Therapist & Health Coach'
-description: practitioner spotlight
+description: >-
+  Holly Miles is a a Registered Nutritional Therapist and Health Coach. Find out
+  more here. 
 yoast_keyword: 'nutrition '
 draft: false
 date: 2018-05-18T09:36:43.403Z
