@@ -14,8 +14,7 @@ categories:
   - Healthcare
 featured_image: /uploads/image-joanna-interview-642.jpg
 ---
-
-[**Integrative Medicine & The Bagnall Centre (Chesham, UK)**](https://www.fortheageless.com/blogs/ageless-buzz/integrative-medicine-bagnall-centre-chesham-uk) by Joanna Hill.
+for the ageless interview on **Integrative Medicine & The Bagnall Centre (Chesham, UK)** by Joanna Hill.
 
 **1. In your opinion, what is integrated healthcare and how important is it today?**
 
@@ -63,7 +62,7 @@ The British College of Integrative Medicine is headquartered in Bath.  Led by Dr
 
 The BBC’s Doctor in the House, GP Dr Rangan Chatterjee, is a partner with fellow NHS GP Dr Ayan Panja in the new LOBE training organisation (Lifestyle Optimisation By Education).  In association with the Clinical Education Group, LOBE is planning to deliver its first one day Prescribing Lifestyle Medicine course in London in January 2018.  This will provide science based lifestyle medicine training for doctors, teaching practical skills which can be applied in the surgery to reduce follow-ups, referrals and drug prescribing, going beyond basic diet and exercise advice, to understanding biologic systems and how they relate to symptoms, and how a doctor can get to the root cause of many common presentations quickly.
 
-*The following organisations are not educational establishments but are authoritative sources of information:*
+_The following organisations are not educational establishments but are authoritative sources of information:_
 
 The British Holistic Medical Association, led by Dr William House, is a virtual educational resource (website, journal and collaborations) which exists to educate doctors, other healthcare professionals and the general public in the principles and practice of holistic medicine.
 
