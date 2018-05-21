@@ -1,6 +1,7 @@
 ---
 title: 'Hatha Yoga, Tuesday, 6.30-7.45pm, Halina'
 front_title: Hatha Yoga
+banner: /uploads/header-contact.jpg
 description: yoga class
 yoast_keyword: yoga
 start_time: '2000-01-01T18:30:00+00:00'
