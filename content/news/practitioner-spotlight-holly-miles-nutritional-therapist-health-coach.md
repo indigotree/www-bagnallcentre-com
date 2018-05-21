@@ -40,7 +40,7 @@ For more information please visit my website [Holly Miles Nutrition](https://hol
 
 **Holly Miles, Registered Nutritional Therapist and Health Coach**
 
-**BSc MSc NTDP mBANT CNHC. **
+**BSc MSc NTDP mBANT CNHC.**
 
 You can also find Holly's Facebook page [here](https://www.facebook.com/hollymilesnutrition/) and her Facebook Group - The Body Composition Diet - [here](https://www.facebook.com/groups/175733899703361/)
 
