@@ -1,8 +1,9 @@
 ---
-title: 'Pilates, Monday, 10-11am, Hazel'
+title: 'Pilates, Monday, 10-11am, Hazel - no classes after 21/5/18'
 front_title: Pilates
 description: Pilates class
 yoast_keyword: Pilates
+draft: true
 start_time: '2000-01-01T10:00:00+00:00'
 end_time: '2000-01-01T11:00:00+00:00'
 event_day: monday
