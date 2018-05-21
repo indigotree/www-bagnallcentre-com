@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Monday, 9-10am, Hazel'
+title: 'Pilates, Monday, 9-10am, Hazel - no classes after 21/5/18'
 front_title: Pilates
 description: Pilates class
 yoast_keyword: 'Pilates '
