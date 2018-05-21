@@ -6,7 +6,7 @@ yoast_keyword: Pilates
 start_time: '2000-01-01T18:45:00+00:00'
 end_time: '2000-01-01T19:45:00+00:00'
 event_day: tuesday
-level: Mixed Ability
+level: Intermediate
 associate: Pali
 term: Ongoing
 room: Studio
