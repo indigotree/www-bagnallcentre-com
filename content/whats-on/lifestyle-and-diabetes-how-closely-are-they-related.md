@@ -1,9 +1,8 @@
 ---
 title: Lifestyle and Diabetes - How Closely Are They Related?
 description: >-
-  The Bagnall Centre Lifestyle and Diabetes Conference at 9.00am-4.30pm on
-  Friday 8th June aims to raise awareness of the importance of lifestyle in
-  diabetes prevention, management and reversal .
+  Worrying about keeping your family healthy? Concerned about high blood sugar?
+  Recently diagnosed with diabetes?
 yoast_keyword: Diabetes
 starts_at: 2018-06-08T09:00:00.000Z
 featured_image: /uploads/lifestyle-diabetes-event.png
