@@ -11,15 +11,28 @@ event_categories: featured
 ---
 ![Half apple Half burger image](/uploads/lifestyle-diabetes-event.png)
 
-We are excited to announce our next conference which aims to:
-
-* raise awareness of the importance of lifestyle in diabetes prevention, management and reversal;
-* demonstrate why an increasing number of medical professionals now recognise that a healthy lifestyle is a universally available and powerful anti-diabetes intervention;
-* build awareness and understanding of the relationship between lifestyle and diabetes and how to reduce your risk.
+* Worrying about keeping you and your family healthy?
+* Concerned about high blood sugar? 
+* Recently diagnosed with diabetes? 
 
 Diabetes is one of the fastest growing threats to the health of the modern human. It is estimated that over 4 million people, or at least 1 in 16 people in the UK are potentially unknowingly living with, or in severe danger of developing, Type 2 diabetes. In fact, almost half of those affected are believed to be unaware of their condition! Type 1 diabetes affects 400,000 people in the UK.
 
 With all of the complications that this life-changing condition can lead to; from nerve and ocular damage to potentially seizures and even death, it is more vital than ever for us to be aware of our own culpability in the prevalence of this growing epidemic.
+
+With the rising diabetes crisis affecting adults and children alike, do you struggle to balance a healthful home, while navigating time constraints, complex messages and information overload? 
+
+Well come along to...
+
+**LIFESTYLE AND DIABETES - HOW CLOSELY ARE THEY RELATED? A doctor-led conference. **
+
+Join health aware peers, medical professionals and holistic practitioners and...
+
+* Learn to relax to reduce blood sugar
+* Experience doctor-led mindfulness and meditation
+* Discover how to reduce diabetes risk factors in your environment
+* Understand the diabetes support available to you
+* Exercise with diabetes? No problem. Our experts explain
+* Hear top tips from doctors on identifying foods that raise blood sugar and simple alternatives
 
 **Confirmed speakers include:**
 
@@ -36,8 +49,8 @@ With all of the complications that this life-changing condition can lead to; fro
 
 Tickets are available from Eventbrite here. <a href="https://www.eventbrite.co.uk/e/lifestyle-and-diabetes-how-closely-are-they-related-tickets-42565255826" target="_blank">Please click here.</a>
 
-Early Bird Discount Tickets £75. Standard Tickets £95.
+**Friends and Family Discount £45. **
 
-**More information coming soon.** 
+Standard Tickets £95.
 
 If you would like to find out more about the conference please call us on [01494 791 288](tel:01494791288) or email <mailto:bookings@bagnallcentre.com>
