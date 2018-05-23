@@ -1,8 +1,8 @@
 ---
 title: Lifestyle and Diabetes - How Closely Are They Related?
 description: >-
-  Worrying about keeping your family healthy? Concerned about high blood sugar?
-  Recently diagnosed with diabetes? Come to our Conference on 8th June. 
+  Worrying about keeping you and your family healthy? Concerned about high blood
+  sugar? Recently diagnosed with diabetes? Come to our Conference on 8th June. 
 yoast_keyword: Diabetes
 starts_at: 2018-06-08T09:00:00.000Z
 featured_image: /uploads/lifestyle-diabetes-event.png
