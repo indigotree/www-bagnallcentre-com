@@ -33,4 +33,6 @@ Price: £10 including refreshments (please book in advance to avoid disappointme
 
 For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required.
 
+Get in touch with us at <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to book your place.
+
 ![null](/uploads/emotions.jpg)
