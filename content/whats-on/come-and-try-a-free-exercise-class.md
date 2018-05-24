@@ -40,7 +40,7 @@ Tuesday 6.30-7.45pm
 
 
 
-**Yin Yoga & Meditation with Halina **
+**Yin Yoga & Meditation with Halina**
 
 _Yin Yoga emphasises stillness, core softness and surrender. Long, deep, passive holds and breath work practice, preparing one's body and mind for meditation._
 
