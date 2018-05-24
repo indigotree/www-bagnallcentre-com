@@ -50,7 +50,7 @@
 </footer>
 
 
-{{ if end (eq $.Site.Data.emergency.enable "yes") $.Site.Data.emergency.message }}
+{{ if and (eq $.Site.Data.emergency.enable "yes") $.Site.Data.emergency.message }}
     <div id="emergency" class="hide">
         {{ $.Site.Data.emergency.message | markdownify }}
     </div>
