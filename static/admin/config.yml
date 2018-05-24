@@ -135,7 +135,7 @@ collections:
         description: "Emergency Message"
         fields: 
           - { label: "Enable or Disable", name: "enable", widget: "select", options: ["no", "yes"] }
-          - { label: "Message", name: "body", widget: "markdown" }
+          - { label: "Message", name: "message", widget: "markdown" }
 
       - label: "Social"
         name: "social"
