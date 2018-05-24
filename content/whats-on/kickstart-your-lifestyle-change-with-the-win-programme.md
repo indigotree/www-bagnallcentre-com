@@ -25,4 +25,4 @@ This intensive programme requires a considerable commitment throughout a 6 week 
 
 Participants will receive feedback during the programme and will take away a feedback form regarding their health status which they can make available to their GP.
 
-To find out more please email <mailto:events@bagnallcentre.com>
+To find out more please get in touch with us at <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288)
