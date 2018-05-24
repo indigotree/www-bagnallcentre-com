@@ -24,4 +24,4 @@ Mary Louise Morris teaches the dot b programme to pupils and staff at Kingston G
 
 4.30-5.30pm, Tuesday 26th June 
 
-For any enquiries or to book your place please contact Mary Louise on 07740 369806 or email wellbeing@goodtobe.co.uk
+For any enquiries or to book your place please contact Mary Louise on [07740 369806](tel:07740369806) or email <mailto:wellbeing@goodtobe.co.uk>
