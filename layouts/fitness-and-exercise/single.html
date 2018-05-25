@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-    {{ partial "inner-hero" ( dict "image" "/uploads/header-news.jpg" "title" "Fitness & Exercise" "Scope" . ) }}
+    {{ partial "inner-hero" ( dict "image" "/uploads/header-search.jpg" "title" "Fitness & Exercise" "Scope" . ) }}
 
     <div class="bg--grey content-area content-area--danger">
 
@@ -25,12 +25,12 @@
                     <label>Class:</label>
                     <span class="text-danger">{{ .Title }}</span>
                 </div>
-                
+
                 <div class="label-inline">
                     <label>Price:</label>
                     <span class="text-danger">{{ .Params.price }}</span>
                 </div>
-                
+
                 <div class="label-inline">
                     <label>Room:</label>
                     <span class="text-danger">{{ .Params.room }}</span>
@@ -48,7 +48,7 @@
 
             <div class="column--md-3">
                 {{ partial "whats-on-widget" . }}
-            
+
                 {{ partial "mailing-list" . }}
             </div>
 
