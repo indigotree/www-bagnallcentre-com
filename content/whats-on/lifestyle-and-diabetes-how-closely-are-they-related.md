@@ -5,12 +5,10 @@ description: >-
   sugar? Recently diagnosed with diabetes? Come to our Conference on 8th June. 
 yoast_keyword: Diabetes
 starts_at: 2018-06-08T09:00:00.000Z
-featured_image: /uploads/lifestyle-diabetes-event.png
+featured_image: /uploads/public flyer diabetes conference june 2018 a5 back page.jpg
 event_categories: featured
 ---
 ![Flyer 1 Diabetes and Lifestyle - how closely are they related?](/uploads/public flyer diabetes conference june 2018 a5 front page.jpg)
-
-![Flyer 2 Diabetes and Lifestyle - how closely are they related?](/uploads/public flyer diabetes conference june 2018 a5 back page.jpg)
 
 * Worrying about keeping you and your family healthy?
 * Concerned about high blood sugar? 
