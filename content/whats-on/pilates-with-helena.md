@@ -7,6 +7,7 @@ yoast_keyword: Pilates
 draft: false
 starts_at: '2018-06-04T10:00:22+01:00'
 featured_image: /uploads/helena pilates.png
+event_categories: featured
 ---
 ![Pilates](/uploads/helena pilates.png)
 
