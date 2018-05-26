@@ -48,7 +48,7 @@ Join health aware peers, medical professionals and holistic practitioners and...
 
 Tickets are available from Eventbrite here. <a href="https://www.eventbrite.co.uk/e/lifestyle-and-diabetes-how-closely-are-they-related-tickets-42565255826" target="_blank">Please click here.</a>
 
-**Friends and Family Discount £45. **
+**Friends and Family Discount £45**
 
 Standard Tickets £95.
 
