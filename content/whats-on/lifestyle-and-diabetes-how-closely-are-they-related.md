@@ -53,3 +53,7 @@ Tickets are available from Eventbrite here. <a href="https://www.eventbrite.co.u
 Standard Tickets £95.
 
 If you would like to find out more about the conference please call us on [01494 791 288](tel:01494791288) or email <mailto:bookings@bagnallcentre.com>
+
+![Flyer 1 Diabetes and Lifestyle - how closely are they related? ](/uploads/public flyer diabetes conference june 2018 a5 front page.jpg)
+
+![Flyer 2 Diabetes and Lifestyle - how closely are they related? ](/uploads/public flyer diabetes conference june 2018 a5 back page.jpg)
