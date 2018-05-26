@@ -3,7 +3,7 @@ title: 'Come and try a FREE Exercise Class! '
 description: 'Would you like to try one of our classes for FREE? '
 yoast_keyword: exercise
 draft: false
-starts_at: '2018-05-29T13:16:11+01:00'
+starts_at: '2018-06-05T09:00:11+01:00'
 featured_image: >-
   /uploads/older man pilates ball exercise smaller shutterstock_244733575 copy
   2.jpg
