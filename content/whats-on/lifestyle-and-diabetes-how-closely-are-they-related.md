@@ -22,7 +22,7 @@ With the rising diabetes crisis affecting adults and children alike, do you stru
 
 Well come along to...
 
-**LIFESTYLE AND DIABETES - HOW CLOSELY ARE THEY RELATED? A doctor-led conference. **
+**LIFESTYLE AND DIABETES - HOW CLOSELY ARE THEY RELATED? A doctor-led conference**
 
 Join health aware peers, medical professionals and holistic practitioners and...
 
