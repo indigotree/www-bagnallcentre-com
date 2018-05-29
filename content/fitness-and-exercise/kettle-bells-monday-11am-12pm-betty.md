@@ -1,6 +1,6 @@
 ---
-title: 'Kettle Bells, Monday, 11am-12pm, Betty'
-front_title: Kettle Bells
+title: 'Kettle Bell Circuit Training, Monday, 11am-12pm, Betty'
+front_title: Kettle Bell Circuit Training
 description: Kettle Bells
 yoast_keyword: 'Kettle Bells '
 draft: false
@@ -13,4 +13,4 @@ term: Ongoing
 room: Gym
 price: £12 (£10 block booking)
 ---
-Kettle Bell training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance.
+Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance.
