@@ -13,4 +13,4 @@ term: Ongoing
 room: Gym
 price: £12 (£10 block booking)
 ---
-Kettle Bells with Betty is a challenging and efficient workout which will build your strength and endurance whilst engaging your core and boosting cardio fitness.
+Kettle Bell training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance.
