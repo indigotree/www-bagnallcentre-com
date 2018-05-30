@@ -37,7 +37,7 @@ Blocks of 8 consecutive classes cost £80. Please contact Bagnall Reception for 
 
 _Spaces are limited to 10 people and will be offered on a first come first served basis._
 
-_To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing _[_01494 791288_](tel:01494791288)_ or emailing_ [_bookings@bagnallcentre.com_](mailto:bookings@bagnallcentre.com)
+_To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing _[_01494 791288_](tel:01494791288)_ or emailing _[_bookings@bagnallcentre.com_](mailto:bookings@bagnallcentre.com)
 
 **The Instructor**
 
