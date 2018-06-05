@@ -4,8 +4,8 @@ front_title: Kettle Bell Circuit Training
 description: Kettle Bells
 yoast_keyword: 'Kettle Bells '
 draft: false
-start_time: '2000-01-01T19:45:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T11:00:00+00:00'
+end_time: '2000-01-01T12:00:00+00:00'
 event_day: monday
 level: Mixed Ability
 associate: Betty
