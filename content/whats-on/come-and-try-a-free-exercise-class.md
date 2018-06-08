@@ -12,6 +12,12 @@ Try before you buy!
 
 Our Practitioners are offering the following classes for free! 
 
+**Pilates for Men**
+
+_This mixed ability class is suitable for all levels. The class offers a more intensive workout with focus on specific target areas for men to strengthen the deep core, increase flexibility, enhance overall lifting power and sports performance and improve mobility and posture._ 
+
+Monday 8-9pm (starting 11th June)
+
 **Pilates with Helena**
 
 _Polestar Pilates with Helena focuses on whole body wellness through intelligent movement.  Tone, strengthen and lengthen muscles, improve flexibility and increase mobility of spine and joints, correct posture, relieve muscle tension and back pain. Restore, achieve and excel in physical movement._
@@ -46,4 +52,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
