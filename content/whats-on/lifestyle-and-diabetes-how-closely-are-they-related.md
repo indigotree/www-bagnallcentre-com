@@ -6,7 +6,7 @@ description: >-
 yoast_keyword: Diabetes
 starts_at: 2018-06-08T09:00:00.000Z
 featured_image: /uploads/image-diabetes-chronic-disease-1920.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Diabetes and Lifestyle - how closely are they related?](/uploads/public flyer diabetes conference june 2018 a5 front page.jpg)
 
