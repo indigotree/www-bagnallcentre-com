@@ -8,7 +8,7 @@ yoast_keyword: cookery class
 draft: false
 starts_at: '2018-07-21T10:00:40+01:00'
 featured_image: /uploads/image-food-for-health-small.jpg
-event_categories: ''
+event_categories: featured
 ---
 Basic and functional but highly empowering classes, where you will be taught to create everyday meals that can make an immense difference to the health of both you and your family.
 
