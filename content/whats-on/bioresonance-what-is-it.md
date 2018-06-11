@@ -5,7 +5,7 @@ yoast_keyword: bioresonance
 draft: false
 starts_at: '2018-06-11T10:00:00+01:00'
 featured_image: /uploads/bioresonance waves unsplash  copy.jpg
-event_categories: featured
+event_categories: ''
 ---
 This talk will look into:
 
