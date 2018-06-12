@@ -11,6 +11,6 @@ level: Mixed Ability
 associate: Betty
 term: Ongoing
 room: Gym
-price: £12 (£10 block booking)
+price: '£12 (£10 block booking), FIRST CLASS FREE!'
 ---
 Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance.
