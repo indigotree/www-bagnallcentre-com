@@ -10,7 +10,7 @@ starts_at: 2018-05-26T10:00:00.000Z
 featured_image: /uploads/kitchen-with-table-cloths.jpg
 event_categories: ''
 ---
-**_We are delighted that this class has now sold out and are pleased to be running the next one on Saturday 21st July! Book your place for 21st July [here](https://www.eventbrite.co.uk/e/food-for-health-on-a-budget-tickets-46070362695)._**
+_**We are delighted that this class has now sold out and are pleased to be running the next one on Saturday 21st July! Book your place for 21st July [here](https://www.eventbrite.co.uk/e/food-for-health-on-a-budget-tickets-46070362695).**_
 
 This class will equip you with a foundation of skills and knowledge that will enable you to make lasting and delicious changes to your diet, both easily and affordably. 
 
@@ -36,5 +36,3 @@ Zoe is currently studying to be a Natural Chef at the College of Naturopathic Me
 Cook for Life will be running plant-based cookery teaching classes at the Bagnall Centre throughout the year. 
 
 To book your place please go to [Eventbrite](https://www.eventbrite.co.uk/e/food-for-health-on-a-budget-tickets-44634165992).
-
-![image of kitchen with table cloths](/uploads/kitchen-with-table-cloths.jpg)
