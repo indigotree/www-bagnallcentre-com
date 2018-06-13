@@ -4,10 +4,10 @@ description: Come to our Effortless Meditation Evening Classes with Terry Breeze
 yoast_keyword: Meditation
 draft: true
 starts_at: 2018-06-07T18:45:32.000Z
-featured_image: /uploads/wave meditation.jpg
-event_categories: []
+featured_image: /uploads/terry-poster.jpg
+event_categories: featured
 ---
-![Effortless Meditation](/uploads/wave meditation.jpg)
+![Effortless Meditation](/uploads/terry-poster.jpg)
 
 Do you want to drop your stress levels, relax, feel more confident, like yourself more, enjoy life to the max, make relating more fulfilling?
 
@@ -19,8 +19,8 @@ Discover how the great benefits of deep mental rest can be easily incorporated i
 
 Recognise your superpower and enter the timeless now.
 
-7 week evening class 7.45-8.45pm, Thursday 7th June.
+7 week evening class 7.45-8.45pm, Thursday 21st June.
 
 £95, concessions available.
 
-If you are interested call  Terry Breeze on <a href="tel:+447749710227" >07749 710227</a>
+To book your place, email bookings@bagallcentre.com or call us on 01494 791 288.
