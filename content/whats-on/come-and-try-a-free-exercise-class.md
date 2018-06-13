@@ -12,7 +12,13 @@ Try before you buy!
 
 Our Practitioners are offering the following classes for free! 
 
-**Pilates for Men**
+**Kettle Bell Circuit Training with Betty**
+
+_Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance._
+
+Monday 11am-12pm 
+
+**Pilates for Men with Pali**
 
 _This mixed ability class is suitable for all levels. The class offers a more intensive workout with focus on specific target areas for men to strengthen the deep core, increase flexibility, enhance overall lifting power and sports performance and improve mobility and posture._ 
 
@@ -44,6 +50,12 @@ _Yin Yoga emphasises stillness, core softness and surrender. Long, deep, passive
 
 Tuesday 7.45-9pm
 
+**Body Weight Circuit Training with Betty**
+
+_Body Weight Circuit Training with Betty is a great cardio workout, also working on toning and strengthening the body. A challenging workout, combining high impact with low intensity. Suitable for all abilities - the only competition is with yourself!_
+
+Friday 11.30am-12.30pm 
+
 **Children's Yoga with Irina**
 
 _Children's Yoga with Irina are energetic and engaging classes where we will improve strength, flexibility and coordination while learning about our breathing and our bodies. Creating awareness, sneaking in mindfulness techniques, sharing plenty of laughter and always ending with a good bit of time for relaxation._
@@ -52,4 +64,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-_**Your Lifestyle. Your Health. Your Choices.**_
+**_Your Lifestyle. Your Health. Your Choices._**
