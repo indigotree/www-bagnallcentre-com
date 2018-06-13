@@ -1,10 +1,10 @@
 ---
-title: 'Yoga, Tuesday, 6-7pm, Shiv'
+title: 'Yoga, Tuesday, 6-8pm, Shiv'
 front_title: Yoga
 description: Yoga class
 yoast_keyword: Yoga
-start_time: '2000-01-01T18:15:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T18:00:00+00:00'
+end_time: '2000-01-01T20:00:00+00:00'
 event_day: tuesday
 level: Mixed Ability
 associate: Shiv
