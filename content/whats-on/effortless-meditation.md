@@ -2,7 +2,7 @@
 title: Effortless Meditation
 description: Come to our Effortless Meditation Evening Classes with Terry Breeze
 yoast_keyword: Meditation
-draft: true
+draft: false
 starts_at: 2018-06-07T18:45:32.000Z
 featured_image: /uploads/terry-poster.jpg
 event_categories: featured
@@ -19,7 +19,7 @@ Discover how the great benefits of deep mental rest can be easily incorporated i
 
 Recognise your superpower and enter the timeless now.
 
-7 week evening class 7.45-8.45pm, Thursday 21st June.
+7 week evening class 7.30-9pm, starting Thursday 21st June.
 
 £95, concessions available.
 
