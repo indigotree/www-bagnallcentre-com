@@ -23,4 +23,4 @@ Recognise your superpower and enter the timeless now.
 
 £95, concessions available.
 
-To book your place, email bookings@bagallcentre.com or call us on 01494 791 288.
+Get in touch with us at <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to book your place.
