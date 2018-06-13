@@ -4,10 +4,10 @@ description: Come to our Effortless Meditation Evening Classes with Terry Breeze
 yoast_keyword: Meditation
 draft: false
 starts_at: 2018-06-07T18:45:32.000Z
-featured_image: /uploads/terry-poster.jpg
+featured_image: /uploads/effortless-meditation-boat-small.jpeg
 event_categories: featured
 ---
-![Effortless Meditation](/uploads/terry-poster.jpg)
+![Effortless Meditation](/uploads/effortless-meditation-boat-small.jpeg)
 
 Do you want to drop your stress levels, relax, feel more confident, like yourself more, enjoy life to the max, make relating more fulfilling?
 
