@@ -36,7 +36,7 @@ Chickpea mini quiches and gluten-free, oat-flour crepes with healthy date carame
 
 £20 per class or £50 for block of three. 
 
-**Book your child's place at **[**Eventbrite**](https://www.eventbrite.co.uk/d/united-kingdom--amersham/play-with-your-food/?q=bagnall&mode=search&page=1)
+Book your child's place at [Eventbrite](https://www.eventbrite.co.uk/d/united-kingdom--amersham/play-with-your-food/?q=bagnall&mode=search&page=1)
 
 The class will be run by Cook for Life (Zoe Hill and Katie Firth), and is sponsored by Bucks County Council and L.I.F.E., a new charitable venture at The Bagnall Centre, to provide subsidised, accessible and healthy cookery classes. Cook for Life will be running plant-based cookery teaching classes at the Bagnall Centre throughout the year. 
 
