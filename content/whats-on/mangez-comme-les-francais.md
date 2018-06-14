@@ -12,7 +12,9 @@ We are happy to announce our first French conversational workshop at the Bagnall
 
 If you love France, the French language or the French food you will enjoy this course. This workshop will enable you to practice French while making new friends. 
 
-You will add to your range of vocabulary and discover some French gastronomy in a healthy way. Please join us for a practical and communicative learning. 
+You will add to your range of vocabulary and discover some French gastronomy in a healthy way. 
+
+Please join us for a practical and communicative learning. 
 
 You will:
 
