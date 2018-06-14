@@ -30,6 +30,6 @@ Sunday 15th July 2018, 10 am – 1 pm.
 
 **Cost: £60 - Early Bird Discount: £45 (for bookings made by 6th July)**
 
-**To book your place please go to **[**Eventbrite**](https://www.eventbrite.co.uk/e/mangez-comme-les-francais-tickets-47018260884?aff=erelexpmlt)**.**
+**To book your place please go to **[**Eventbrite**](https://www.eventbrite.co.uk/e/mangez-comme-les-francais-tickets-47018260884)
 
 **Places in the Bagnall Centre teaching kitchen are limited so please do book as soon as possible.**
