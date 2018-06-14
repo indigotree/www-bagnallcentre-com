@@ -24,7 +24,7 @@ You will:
 * Have a healthy cookery demonstration,
 * Eat a delicious plant-based lunch.
 
-Sunday 15th July 2018, 10 am – 1 pm
+Sunday 15th July 2018, 10 am – 1 pm.
 
 **Cost: £60 - Early Bird Discount: £45 (for bookings made by 6th July)**
 
