@@ -6,20 +6,18 @@ draft: false
 starts_at: '2018-07-10T16:30:51+01:00'
 featured_image: /uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg
 ---
-![](/uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg)
+![null](/uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg)
 
 Creative and educational cookery classes for kids aged 7-12, designed to give them the confidence to begin to cook for themselves - not to mention occupying their time after school, and giving you a break - and a night off from making dinner!
 
 These classes will allow kids to experiment with a wide range of food with different tastes, textures and appearances, and show them how to create their own healthy recipes to suit their own tastes.
 
-All the food will be gluten, dairy and nut free.
+All the food will be plant-based and gluten, dairy and nut free.
 
 Your child will learn;
 
 1. To be open to trying new and different foods, particularly different flavours, or foods that look different to those that they are used to.
-
 2. Healthy, easy recipes that they can personalise, to encourage a more varied diet.
-
 3. To experiment with different seasonings, additions or substitutions to existing recipes, to encourage creativity with food.
 
 **10th July - "Build-your-own" Burger**
@@ -37,8 +35,6 @@ Chickpea mini quiches and gluten-free, oat-flour crepes with healthy date carame
 4.30pm - 6.30pm
 
 Plant-based, Gluten and Nut-free
-
-The Bagnall Centre HP5 1PE
 
 £20 per class or £50 for block of three. 
 
