@@ -34,8 +34,6 @@ Chickpea mini quiches and gluten-free, oat-flour crepes with healthy date carame
 
 4.30pm - 6.30pm
 
-Plant-based, Gluten and Nut-free
-
 £20 per class or £50 for block of three. 
 
 **Book your child's place at **[**Eventbrite**](https://www.eventbrite.co.uk/d/united-kingdom--amersham/play-with-your-food/?q=bagnall&mode=search&page=1)**.**
