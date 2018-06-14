@@ -1,5 +1,5 @@
 ---
-title: Play with your Food TO DO
+title: Play with your Food
 description: Creative and educational cookery classes for kids aged 7-12
 yoast_keyword: cookery
 draft: false
