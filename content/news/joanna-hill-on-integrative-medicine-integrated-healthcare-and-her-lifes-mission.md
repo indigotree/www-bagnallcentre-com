@@ -1,6 +1,6 @@
 ---
 title: >-
-  Joanna Hill on Integrative Medicine Integrated Healthcare and her Life's
+  Joanna Hill on Integrative Medicine, Integrated Healthcare and her Life's
   Mission
 description: 'fortheAgeless interviews Joanna Hill, Founder of The Bagnall Centre'
 yoast_keyword: Integrated Healthcare
