@@ -1,5 +1,5 @@
 ---
-title: 'PRACTITIONER SPOTLIGHT: Pali Kumari, Kumari Fitness'
+title: 'PRACTITIONER SPOTLIGHT: Pali Kumari - Kumari Fitness'
 description: >-
   Pali Kumari teaches Pilates, Barre and TRX Suspension Training. Find out more
   here. 
