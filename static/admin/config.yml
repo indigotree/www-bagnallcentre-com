@@ -98,7 +98,7 @@ collections:
       - { label: "Banner Alt", name: "banner_alt", widget: "string", required: false }
       - { label: "Description", name: "description", widget: "string", required: true }
       - { label: "Focus Keyword", name: "yoast_keyword", widget: "string", required: true }
-      - { label: "Treatments", name: "treatments", widget: "select", options: ["therapy", "wellbeing", "nutrition", "lifestyle"], required: true }
+      - { label: "Treatments", name: "treatments", widget: "select", options: ["therapies", "wellbeing", "nutrition", "lifestyle"], required: true }
       - { label: "Draft", name: "draft", widget: "boolean", default: false, required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Featured Image", name: "featured_image", widget: "image", required: true }
