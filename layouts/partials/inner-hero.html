@@ -1,6 +1,6 @@
 {{ $alt := .Scope.Params.banner_alt | default .title }}
 
-<div class="inner-hero {{ if .Scope.Params.colour }}inner-hero--{{ .Params.colour }}{{ end }}">
+<div class="inner-hero {{ if .Scope.Params.colour }}inner-hero--{{ .Scope.Params.colour }}{{ end }}">
 
     {{ if .Scope.Params.banner }}
         <img src="{{ .Scope.Params.banner | absURL }}" alt="{{ $alt }}">
