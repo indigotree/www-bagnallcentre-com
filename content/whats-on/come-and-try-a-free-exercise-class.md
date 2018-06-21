@@ -9,7 +9,7 @@ featured_image: >-
   2.jpg
 event_categories: ''
 ---
-Try before you buy! 
+**Try before you buy!  **
 
 Our Practitioners are offering the following classes for free! 
 
@@ -65,4 +65,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
