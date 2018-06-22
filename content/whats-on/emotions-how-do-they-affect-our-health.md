@@ -7,7 +7,7 @@ yoast_keyword: emotions
 draft: false
 starts_at: '2018-07-09T10:00:00+01:00'
 featured_image: /uploads/emotions.jpg
-event_categories: featured
+event_categories: ''
 ---
 This talk will look at: 
 
