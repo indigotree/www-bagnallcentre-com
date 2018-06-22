@@ -1,5 +1,5 @@
 ---
-title: 'Forever Young, Wednesday, 11.15am-12.15pm, Hannah'
+title: 'Wednesday, 11.15am-12.15pm, Forever Young, Hannah'
 front_title: Forever Young
 description: exercise class
 yoast_keyword: exercise
