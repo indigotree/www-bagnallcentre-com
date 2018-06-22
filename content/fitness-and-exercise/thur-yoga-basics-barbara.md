@@ -1,5 +1,5 @@
 ---
-title: 'Yoga Basics, Thursday, 7-8pm, Barbara'
+title: 'Thursday, 7-8pm, Yoga Basics, Barbara'
 front_title: Yoga Basics
 description: Yoga class
 yoast_keyword: yoga
