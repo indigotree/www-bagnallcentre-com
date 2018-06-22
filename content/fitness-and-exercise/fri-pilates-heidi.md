@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Friday, 9.30-10.30am, Heidi'
+title: 'Friday, 9.30-10.30am, Pilates, Heidi'
 front_title: Pilates
 description: Pilates class
 yoast_keyword: Pilates
