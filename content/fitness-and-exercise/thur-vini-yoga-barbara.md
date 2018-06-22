@@ -1,5 +1,5 @@
 ---
-title: 'Vini Yoga, Thursday, 9.30-10.30am, Barbara'
+title: 'Thursday, 9.30-10.30am, Vini Yoga, Barbara'
 front_title: Vini Yoga
 description: Vini Yoga class
 yoast_keyword: 'Vini Yoga '
