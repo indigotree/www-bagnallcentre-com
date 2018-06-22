@@ -1,5 +1,5 @@
 ---
-title: 'Body Weight Circuit Training, Friday, 11.30am-12.30pm, Betty'
+title: 'Friday, 11.30am-12.30pm, Body Weight Circuit Training, Betty'
 front_title: Body Weight Circuit Training
 description: Body Weight Circuit Training class
 yoast_keyword: 'circuit training '
