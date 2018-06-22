@@ -11,6 +11,6 @@ level: Mixed Ability
 associate: Pali
 term: Ongoing
 room: Studio
-price: £10 block booking (FIRST CLASS FREE IN JUNE)
+price: '£10 block booking, FIRST CLASS FREE IN JUNE!'
 ---
 Pilates for Men is suitable for all levels. The class offers a more intensive total body workout with focus on specific target areas for men to strengthen the deep core, increase flexibility, enhance overall lifting power and sports performance and improve mobility and posture.
