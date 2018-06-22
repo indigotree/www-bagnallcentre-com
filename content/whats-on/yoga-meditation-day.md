@@ -15,4 +15,4 @@ Enjoy a full day of yoga, deep relaxation and meditation.
 
 **£60, includes vegan lunch. £30 deposit to secure your place.**
 
-To book call Carly on [07866 607520](tel:07866607520) or email [contact@kitespirit.co.uk](email:contact@kitespirit.co.uk)
+To book call Carly on [07866 607520](tel:07866607520) or email <mailto:contact@kitespirit.co.uk>
