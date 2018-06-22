@@ -4,8 +4,8 @@ front_title: Hatha Yoga
 banner: /uploads/header-contact.jpg
 description: yoga class
 yoast_keyword: yoga
-start_time: '2000-01-01T18:30:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T19:00:00+00:00'
+end_time: '2000-01-01T20:15:00+00:00'
 event_day: tuesday
 level: Mixed Ability
 associate: Halina
