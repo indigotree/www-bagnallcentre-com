@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Monday, 10-11am, Helena'
+title: 'Monday, 10-11am, Pilates, Helena'
 front_title: Pilates
 description: >-
   Pilates with Helena focuses on whole body wellness through intelligent
