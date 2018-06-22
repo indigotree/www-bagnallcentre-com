@@ -1,5 +1,5 @@
 ---
-title: 'Sivananda Yoga, Saturday, 9-10am, Teresa'
+title: 'Saturday, 9-10am, Sivananda Yoga, Teresa'
 front_title: Sivananda Yoga
 description: Sivananda Yoga class
 yoast_keyword: Sivananda Yoga
