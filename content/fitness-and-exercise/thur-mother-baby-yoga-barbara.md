@@ -1,5 +1,5 @@
 ---
-title: 'Mother & Baby Yoga, Thursday, 10.45-11.45am, Barbara'
+title: 'Thursday, 10.45-11.45am, Mother & Baby Yoga, Barbara'
 front_title: Mother & Baby Yoga
 description: Mother & Baby Yoga Class
 yoast_keyword: Yoga
