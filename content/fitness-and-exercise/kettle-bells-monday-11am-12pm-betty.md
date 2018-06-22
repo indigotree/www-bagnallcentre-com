@@ -1,5 +1,5 @@
 ---
-title: 'Kettle Bell Circuit Training, Monday, 11am-12pm, Betty'
+title: 'Monday, 11am-12pm, Kettle Bell Circuit Training, Betty'
 front_title: Kettle Bell Circuit Training
 description: Kettle Bells
 yoast_keyword: 'Kettle Bells '
