@@ -1,5 +1,5 @@
 ---
-title: 'Dynamic Vinyasa Flow Yoga, Friday, 10.30-11.30am, Hazel'
+title: 'Friday, 10.30-11.30am, Dynamic Vinyasa Flow Yoga, Hazel'
 front_title: Dynamic Vinyasa Flow Yoga
 description: Yoga Class
 yoast_keyword: Yoga
