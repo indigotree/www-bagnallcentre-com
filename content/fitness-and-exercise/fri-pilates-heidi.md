@@ -8,7 +8,7 @@ end_time: '2000-01-01T10:30:00+00:00'
 event_day: friday
 level: Mixed Ability
 associate: Heidi
-term: Term Time Only
+term: Ongoing
 room: Gym
 price: £12 (£10 block booking)
 ---
