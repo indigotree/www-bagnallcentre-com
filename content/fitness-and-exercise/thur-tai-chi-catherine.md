@@ -1,5 +1,5 @@
 ---
-title: 'Tai Chi, Thursday, 8-9pm, Catherine'
+title: 'Thursday, 8-9pm, Tai Chi, Catherine'
 front_title: Tai Chi
 description: Tai Chi Class
 yoast_keyword: Tai Chi
