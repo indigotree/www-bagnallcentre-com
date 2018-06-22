@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Wednesday, 8-9pm, Heidi'
+title: 'Wednesday, 8-9pm, Pilates, Heidi'
 front_title: Pilates
 description: >-
   The BASI (Body Arts and Science international) approach to Pilates provides a
