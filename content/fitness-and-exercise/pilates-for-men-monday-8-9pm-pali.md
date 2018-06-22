@@ -1,5 +1,5 @@
 ---
-title: 'Pilates for Men, Monday, 8-9pm, Pali'
+title: 'Monday, 8-9pm, Pilates for Men, Pali'
 front_title: Pilates for Men
 description: Pilates for Men
 yoast_keyword: Pilates Men
