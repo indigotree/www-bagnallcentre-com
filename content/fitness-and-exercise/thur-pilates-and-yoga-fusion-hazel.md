@@ -1,5 +1,5 @@
 ---
-title: 'Pilates & Yoga Fusion, Thursday, 7-8pm, Hazel'
+title: 'Thursday, 7-8pm, Pilates & Yoga Fusion, Hazel'
 front_title: Pilates & Yoga Fusion
 description: Pilates and Yoga Fusion
 yoast_keyword: Pilates and Yoga Fusion
