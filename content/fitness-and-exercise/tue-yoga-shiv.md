@@ -1,5 +1,5 @@
 ---
-title: 'Yoga, Tuesday, 6-8pm, Shiv'
+title: 'Tuesday, 6-8pm, Yoga, Shiv'
 front_title: Yoga
 description: Yoga class
 yoast_keyword: Yoga
