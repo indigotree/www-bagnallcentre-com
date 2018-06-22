@@ -1,5 +1,5 @@
 ---
-title: 'Children''s Yoga (Reception to Y3), Saturday, 10-10.45am, Irina'
+title: 'Saturday, Children''s Yoga (Reception to Y3), 10-10.45am, Irina'
 front_title: Children's Yoga (Reception to Y3)
 description: children's yoga class
 yoast_keyword: children's yoga
