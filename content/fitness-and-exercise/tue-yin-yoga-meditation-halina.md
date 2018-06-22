@@ -11,6 +11,6 @@ level: Mixed Ability
 associate: Halina
 term: Ongoing
 room: Classroom
-price: £11 (£10 block booking) FIRST CLASS FREE!
+price: '£11 (£10 block booking), FIRST CLASS FREE!'
 ---
 Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises.
