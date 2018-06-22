@@ -1,5 +1,5 @@
 ---
-title: 'Pilates, Wednesday, 10.30-11.30am, Georgia'
+title: 'Wednesday, 10.30-11.30am, Pilates, Georgia'
 front_title: Pilates
 description: Body Control Pilates class
 yoast_keyword: Pilates
