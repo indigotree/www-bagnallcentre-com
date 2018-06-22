@@ -2,10 +2,10 @@
 title: Effortless Meditation
 description: Come to our Effortless Meditation Evening Classes with Terry Breeze
 yoast_keyword: Meditation
-draft: false
+draft: true
 starts_at: '2018-06-21T19:30:32+01:00'
 featured_image: /uploads/effortless-meditation-boat-canva-510x250px.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Effortless Meditation](/uploads/effortless-meditation-boat-canva-510x250px.jpg)
 
