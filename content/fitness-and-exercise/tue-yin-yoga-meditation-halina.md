@@ -1,5 +1,5 @@
 ---
-title: 'Hatha Yoga, Tuesday, 6.30-7.45pm, Halina'
+title: 'Tuesday, 7.00-8.15pm, Hatha Yoga, Halina'
 front_title: Hatha Yoga
 banner: /uploads/header-contact.jpg
 description: yoga class
