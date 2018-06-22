@@ -1,8 +1,8 @@
 ---
 title: 'Tuesday, 7.50-8.50pm, TRX Suspension Training, Pali'
 front_title: TRX Suspension Training
-description: Trx Suspension Training class
-yoast_keyword: Trx Suspension Training
+description: TRX Suspension Training class
+yoast_keyword: TRX Suspension Training
 start_time: '2000-01-01T19:50:00+00:00'
 end_time: '2000-01-01T20:50:00+00:00'
 event_day: tuesday
