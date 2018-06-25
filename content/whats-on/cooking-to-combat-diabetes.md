@@ -9,7 +9,7 @@ starts_at: 2018-07-14T10:00:00.000Z
 featured_image: /uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster.jpg
 event_categories: featured
 ---
-![Photo of Hilda Solomons](/uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster.jpg)
+![Photo of Hilda Solomons](/uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster-smaller.jpg)
 
 This class is aimed at diabetics of all types and their families. The class will equip you to make simple but powerful changes to your diet and lifestyle which can halt the progression of, and in some cases reverse, your diabetes. 
 
