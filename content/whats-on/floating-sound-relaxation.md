@@ -50,4 +50,4 @@ Session 2: 19.30-20.45pm.
 
 Please arrive no more than 5 minutes before the session start time as the door will be locked until then. Please be on time, as due to the nature of this session we are unable to admit late comers and the door will be locked promptly at either 6pm or 7:30pm.
 
-Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) to book your place.
+Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.
