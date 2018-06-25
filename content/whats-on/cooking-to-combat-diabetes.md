@@ -6,10 +6,10 @@ description: >-
 yoast_keyword: diabetes
 draft: false
 starts_at: 2018-07-14T10:00:00.000Z
-featured_image: /uploads/kitchen-with-table-cloths.jpg
+featured_image: /uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster.jpg
 event_categories: featured
 ---
-![Photo of Hilda Solomons](/uploads/image-hilda-solomons.jpg)
+![Photo of Hilda Solomons](/uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster.jpg)
 
 This class is aimed at diabetics of all types and their families. The class will equip you to make simple but powerful changes to your diet and lifestyle which can halt the progression of, and in some cases reverse, your diabetes. 
 
@@ -26,7 +26,7 @@ Hilda Solomons is a Nutritional Therapist and Medical Herbalist. She studied at 
 
 Hilda believes in the extraordinary ability of the human body to heal itself. She uses nutrient-rich foods, medicinal herbs and exercise to support the body’s innate healing ability and supports her patients in making the lifestyle changes necessary to attain the best possible state of health. 
 
-Cost: £50, Early Bird Discount: £45 (for bookings made by 2nd June)
+Cost: £35
 
 Places in the Bagnall Centre teaching kitchen are limited so please book as soon as possible.
 
