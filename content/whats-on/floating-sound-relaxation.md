@@ -38,7 +38,7 @@ Please wear a long sleeved top and leggings or yoga trousers that cover your kne
 
 It is important to ensure that clothing is zipper free and to remove all jewellery (e.g. body piercings, watches, hair clips etc.) before the session as these can cause damage to the hammocks.
 
-Health note: Please let me know in advance if you are in your first-trimester of pregnancy, have a metal implant or pacemaker, if you suffer from vertigo or have had recent surgery, particularly if you have had recent eye surgery or are under the care of an eye specialist, or if you suffer from a sound sensitive/inner ear condition or have any other health concerns and would like to check if this session is appropriate for you, please do get in touch so we can have a chat.
+Health note: please let Sam know in advance if you are in your first-trimester of pregnancy, have a metal implant or pacemaker, if you suffer from vertigo or have had recent surgery, particularly if you have had recent eye surgery or are under the care of an eye specialist, or if you suffer from a sound sensitive/inner ear condition or have any other health concerns and would like to check if this session is appropriate for you, please do get in touch so we can have a chat.
 
 Safety information: each hammock has a working load limit of 27 stones, and the steel roundslings have a stress load of 2 tonnes. We have been Engineer approved that each hammock has a weight bearing load of 100kgs/15.5 stones for the purposes of this class. There is however some degree of flexibility if your current weight is over this limit, please mention it to us if you’re unsure. We will always employ our utmost discretion.
 
