@@ -1,6 +1,6 @@
 ---
 title: 'Floating Sound Relaxation '
-description: Floating Sound Relaxation
+description: Decompress from your busy week and start the weekend feeling relaxed!
 yoast_keyword: Floating Sound Relaxation
 draft: false
 starts_at: '2018-07-27T18:00:52+01:00'
