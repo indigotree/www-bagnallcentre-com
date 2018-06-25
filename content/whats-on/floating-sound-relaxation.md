@@ -44,10 +44,12 @@ Safety information: each hammock has a working load limit of 27 stones, and the 
 
 A session costs £15 and are limited to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
-Session 1: 18.00-19.15pm
+**Friday 27th July**
 
-Session 2: 19.30-20.45pm. 
+**Session 1: 18.00-19.15pm**
+
+**Session 2: 19.30-20.45pm**
 
 Please arrive no more than 5 minutes before the session start time as the door will be locked until then. Please be on time, as due to the nature of this session we are unable to admit late comers and the door will be locked promptly at either 6pm or 7:30pm.
 
-Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.
+**Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.**
