@@ -9,7 +9,7 @@ featured_image: >-
   2.jpg
 event_categories: ''
 ---
-**Try before you buy!  **
+**Try before you buy!**
 
 Our Practitioners are offering the following classes for free! 
 
