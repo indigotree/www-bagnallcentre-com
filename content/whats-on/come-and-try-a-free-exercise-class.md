@@ -45,12 +45,6 @@ _Emphasises movement, alignment, rhythm and requires appropriate effort. Release
 
 Tuesday 7-8.15pm
 
-**Yin Yoga & Meditation with Halina**
-
-_Yin Yoga emphasises stillness, core softness and surrender. Long, deep, passive holds and breath work practice, preparing one's body and mind for meditation._
-
-Tuesday 7.45-9pm
-
 **Body Weight Circuit Training with Betty**
 
 _Body Weight Circuit Training with Betty is a great cardio workout, also working on toning and strengthening the body. A challenging workout, combining high impact with low intensity. Suitable for all abilities - the only competition is with yourself!_
