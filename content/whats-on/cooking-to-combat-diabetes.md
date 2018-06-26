@@ -28,6 +28,8 @@ Hilda believes in the extraordinary ability of the human body to heal itself. Sh
 
 Cost: £35
 
+The class will be run by L.I.F.E., a new charitable venture at The Bagnall Centre, to provide subsidised, accessible and healthy cookery classes.
+
 Places in the Bagnall Centre teaching kitchen are limited so please book as soon as possible.
 
 To book your place please go to [Eventbrite](https://www.eventbrite.co.uk/o/the-bagnall-centre-for-integrated-healthcare-15107851824).
