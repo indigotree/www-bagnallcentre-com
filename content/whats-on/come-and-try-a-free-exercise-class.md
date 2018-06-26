@@ -43,7 +43,7 @@ Tuesday 10-11am
 
 _Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises._
 
-Tuesday 6.30-7.45pm
+Tuesday 7-8.15pm
 
 **Yin Yoga & Meditation with Halina**
 
@@ -65,4 +65,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-_**Your Lifestyle. Your Health. Your Choices.**_
+**_Your Lifestyle. Your Health. Your Choices._**
