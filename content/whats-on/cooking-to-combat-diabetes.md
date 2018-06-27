@@ -5,7 +5,7 @@ description: >-
   powerful diet and lifestyle changes, this class is for you.
 yoast_keyword: diabetes
 draft: false
-starts_at: 2018-07-14T10:00:00.000Z
+starts_at: '2018-07-07T11:00:00+01:00'
 featured_image: /uploads/hilda-solomons-cooking-to-combat-diabetes-zoe-new-poster.jpg
 event_categories: featured
 ---
