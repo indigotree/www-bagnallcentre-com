@@ -4,8 +4,8 @@ front_title: Sivananda Yoga
 description: Sivananda Yoga
 yoast_keyword: Sivananda Yoga
 draft: false
-start_time: '2000-01-01T11:00:00+00:00'
-end_time: '2000-01-01T11:50:00+00:00'
+start_time: '2000-01-01T19:45:00+00:00'
+end_time: '2000-01-01T19:45:00+00:00'
 event_day: saturday
 level: Mixed Ability
 associate: Teresa
