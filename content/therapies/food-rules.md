@@ -1,5 +1,6 @@
 ---
 title: Food Rules
+banner: /uploads/header-nutrition.jpg
 description: Food Rules
 yoast_keyword: 'Food Rules '
 treatments: nutrition
