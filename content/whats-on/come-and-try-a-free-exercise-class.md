@@ -39,6 +39,12 @@ _With its foundations set firmly in ancient yogic tradition and its emphasis on 
 
 Tuesday 10-11am
 
+**Pilates with Pali**
+
+_Pali’s Pilates classes enable you to understand how to get more from your own body; to be able to move more freely with strength, improved flexibility and increased postural awareness. With a strong emphasis on form and technique that challenges the body and mind, each class will leave you feeling invigorated with a sense of wellbeing and accomplishment._
+
+Tuesday 18.45-19.45pm
+
 **Hatha Yoga with Halina**
 
 _Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises._
