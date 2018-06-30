@@ -5,7 +5,7 @@ yoast_keyword: Yoga & Meditation Day
 draft: false
 starts_at: '2018-07-01T10:00:46+01:00'
 featured_image: /uploads/carly-yoga-day.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![yoga](/uploads/carly-yoga-day.jpg)
 
