@@ -7,7 +7,7 @@ starts_at: '2018-07-09T09:00:11+01:00'
 featured_image: >-
   /uploads/older man pilates ball exercise smaller shutterstock_244733575 copy
   2.jpg
-event_categories: ''
+event_categories: featured
 ---
 **Try before you buy!**
 
