@@ -51,6 +51,12 @@ _Body Weight Circuit Training with Betty is a great cardio workout, also working
 
 Friday 11.30am-12.30pm 
 
+**Sivananda Yoga with Teresa**
+
+_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
+
+Saturday 9-10am, 11-11.50am
+
 **Children's Yoga with Irina**
 
 _Children's Yoga with Irina are energetic and engaging classes where we will improve strength, flexibility and coordination while learning about our breathing and our bodies. Creating awareness, sneaking in mindfulness techniques, sharing plenty of laughter and always ending with a good bit of time for relaxation._
@@ -59,4 +65,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
