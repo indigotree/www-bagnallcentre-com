@@ -9,6 +9,10 @@ yoast_keyword: health
 draft: false
 date: '2018-06-30T14:10:19+01:00'
 author: Imogen Emms
+categories:
+  - News
+  - Health
+  - Lifestyle
 featured_image: /uploads/pills.jpg
 ---
 ![pills](/uploads/pills.jpg)
