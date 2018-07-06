@@ -5,6 +5,7 @@ yoast_keyword: French workshop
 draft: false
 starts_at: '2018-07-15T10:00:27+01:00'
 featured_image: /uploads/mangez-comme-les-francais-bowl-text-canva-510x250px.jpg
+event_categories: featured
 ---
 ![French workshop poster](/uploads/mangez-comme-les-français-.jpg)
 
