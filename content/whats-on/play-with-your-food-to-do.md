@@ -3,11 +3,13 @@ title: Play with your Food
 description: Creative and educational cookery classes for kids aged 7-12
 yoast_keyword: cookery
 draft: false
-starts_at: '2018-07-10T16:30:51+01:00'
+starts_at: '2018-07-31T16:30:51+01:00'
 featured_image: /uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg
 event_categories: featured
 ---
-![null](/uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg)
+![play with your food](/uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg)
+
+**MORE DATES WILL BE CONFIRMED SOON!**
 
 Creative and educational cookery classes for kids aged 7-12, designed to give them the confidence to begin to cook for themselves - not to mention occupying their time after school, and giving you a break - and a night off from making dinner!
 
@@ -21,23 +23,23 @@ Your child will learn;
 2. Healthy, easy recipes that they can personalise, to encourage a more varied diet.
 3. To experiment with different seasonings, additions or substitutions to existing recipes, to encourage creativity with food.
 
-**10th July - "Build-your-own" Burger**
+**Different classes will include...**
+
+**"Build-your-own" Burger**
 
 Learn to make their own bean burgers, gluten-free healthy buns and oven-baked, healthy chips, decorated with all of the delicious veggie toppings you could ever wish for as well as homemade sauces and dips.
 
-**11th July - Try out "Tasty Tapas"**
+**Try out "Tasty Tapas"**
 
 Creating a selection of tantalising and tempting but simple Spanish-style tapas dishes, incorporating many new kinds of vegetables and seasonings, getting kids to enjoy their veggies!
 
-**13th July - "La petite haute cuisine"**
+**"La petite haute cuisine"**
 
 Chickpea mini quiches and gluten-free, oat-flour crepes with healthy date caramel, this is kid-friendly French-style food made healthy, without losing any of the flavour, encouraging more nourishing versions of classic foods.
 
 4.30pm - 6.30pm
 
 £20 per class or £50 for block of three. 
-
-**Book your child's place at [Eventbrite](https://www.eventbrite.co.uk/d/united-kingdom--amersham/play-with-your-food/?q=bagnall&mode=search&page=1).**
 
 The class will be run by Cook for Life (Zoe Hill and Katie Firth), and is sponsored by Bucks County Council and L.I.F.E., a new charitable venture at The Bagnall Centre, to provide subsidised, accessible and healthy cookery classes. Cook for Life will be running plant-based cookery teaching classes at the Bagnall Centre throughout the year. 
 
