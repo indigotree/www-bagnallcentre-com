@@ -2,7 +2,7 @@
 title: Mangez comme les francais
 description: 'A workshop with flavours of France! '
 yoast_keyword: French workshop
-draft: false
+draft: true
 starts_at: '2018-07-15T10:00:27+01:00'
 featured_image: /uploads/mangez-comme-les-francais-bowl-text-canva-510x250px.jpg
 event_categories: featured
