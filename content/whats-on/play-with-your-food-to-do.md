@@ -5,7 +5,7 @@ yoast_keyword: cookery
 draft: false
 starts_at: '2018-07-31T16:30:51+01:00'
 featured_image: /uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg
-event_categories: featured
+event_categories: ''
 ---
 ![play with your food](/uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg)
 
