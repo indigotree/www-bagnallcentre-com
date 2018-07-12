@@ -56,4 +56,4 @@ Please arrive no more than 5 minutes before the session start time as the door w
 
 **Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.**
 
-**Find out more at Meetup **[**here**](https://www.meetup.com/Chesham-Gong-Bath-Sound-Meditation/events/251911839/)**. **
+Find out more at Meetup [here](https://www.meetup.com/Chesham-Gong-Bath-Sound-Meditation/events/251911839/).
