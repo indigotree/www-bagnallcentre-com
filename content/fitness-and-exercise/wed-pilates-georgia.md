@@ -8,7 +8,7 @@ end_time: '2000-01-01T10:30:00+00:00'
 event_day: wednesday
 level: Mixed Ability
 associate: Georgia
-term: Ongoing
+term: Term Time Only
 room: Studio
 price: £66 for 6 weeks (pre book only)
 ---
