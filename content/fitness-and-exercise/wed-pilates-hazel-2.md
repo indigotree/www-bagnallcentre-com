@@ -10,6 +10,6 @@ level: Beginners/Intermediate
 associate: Hazel
 term: Term Time Only
 room: Studio
-price: £12 (£10 block booking)
+price: £10 (£8 block booking)
 ---
 Stott Pilates with Hazel focuses on working the deep stabilising muscles to strengthen your core, sculpting & toning, increasing strength & flexibility & relieving muscle tension.
