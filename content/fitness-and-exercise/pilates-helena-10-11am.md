@@ -13,7 +13,7 @@ end_time: '2000-01-01T11:00:00+00:00'
 event_day: monday
 level: Mixed Ability
 associate: Helena
-term: Term Time only
+term: Ongoing
 room: Studio
 price: '£10 block booking, FIRST CLASS FREE! '
 ---
