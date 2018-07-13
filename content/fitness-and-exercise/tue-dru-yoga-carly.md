@@ -8,7 +8,7 @@ end_time: '2000-01-01T11:00:00+00:00'
 event_day: tuesday
 level: Mixed Ability
 associate: Carly
-term: Ongoing
+term: 'Term Time Only '
 room: Classroom
 price: '£10, FIRST CLASS FREE!'
 ---
