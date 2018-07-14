@@ -13,7 +13,7 @@ categories:
   - Nutrition
   - Therapy
   - Practitioner Spotlight
-featured_image: /uploads/zoe-hill-cooking.jpg
+featured_image: /uploads/taste-of-life-canva-510x250px.jpg
 ---
 We love working with our Practitioners!
 
