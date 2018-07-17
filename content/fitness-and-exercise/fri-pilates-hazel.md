@@ -8,7 +8,7 @@ end_time: '2000-01-01T10:30:00+00:00'
 event_day: friday
 level: Mixed Ability
 associate: Hazel
-term: Term time only
+term: Term Time Only
 room: Studio
 price: £10 (£8 block booking)
 ---
