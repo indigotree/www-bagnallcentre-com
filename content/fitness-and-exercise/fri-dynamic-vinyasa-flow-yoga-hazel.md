@@ -8,7 +8,7 @@ end_time: '2000-01-01T11:30:00+00:00'
 event_day: friday
 level: Beginners
 associate: Hazel
-term: Term time only
+term: Term Time Only
 room: Studio
 price: £10 (£8 block booking)
 ---
