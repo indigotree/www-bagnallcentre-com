@@ -25,14 +25,6 @@ _This mixed ability class is suitable for all levels. The class offers a more in
 
 Monday 8-9pm (starting 11th June)
 
-**Pilates with Helena**
-
-_Polestar Pilates with Helena focuses on whole body wellness through intelligent movement.  Tone, strengthen and lengthen muscles, improve flexibility and increase mobility of spine and joints, correct posture, relieve muscle tension and back pain. Restore, achieve and excel in physical movement._
-
-Monday 10-11am (starting 4th June), 7-8pm, 8-9pm
-
-Thursday 10-11am, 7-8pm
-
 **Dru Yoga with Carly**
 
 _With its foundations set firmly in ancient yogic tradition and its emphasis on soft, flowing movements, Dru Yoga can help increase energy levels, ease back pain, and wash away stress._
@@ -71,4 +63,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-_**Your Lifestyle. Your Health. Your Choices.**_
+**_Your Lifestyle. Your Health. Your Choices._**
