@@ -2,7 +2,6 @@
 var TimeControl = createClass({
 
     componentDidMount: function () {
-        console.log(this.props.onChange('2000-01-01T19:45:00+00:00'));
         document.body.addEventListener('mousedown', this.closeTimeControl);
     },
 
