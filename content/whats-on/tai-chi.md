@@ -3,7 +3,7 @@ title: Tai Chi
 description: Have you tried Tai Chi?
 yoast_keyword: Tai Chi
 draft: false
-starts_at: '2018-07-30T12:00:00+01:00'
+starts_at: '2018-09-01T12:00:00+01:00'
 featured_image: /uploads/tai-chi.jpg
 event_categories: ''
 ---
