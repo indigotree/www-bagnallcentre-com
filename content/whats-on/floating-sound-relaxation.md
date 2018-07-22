@@ -5,6 +5,7 @@ yoast_keyword: Floating Sound Relaxation
 draft: false
 starts_at: '2018-07-27T18:00:52+01:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
+event_categories: featured
 ---
 ![Floating Sound Meditation](/uploads/floating-sound-meditation-copy.jpg)
 
