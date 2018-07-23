@@ -19,11 +19,15 @@ _Kettle Bell Circuit Training challenges almost every muscle in the body. It is 
 
 Monday 11am-12pm 
 
+
+
 **Pilates for Men with Pali**
 
 _This mixed ability class is suitable for all levels. The class offers a more intensive workout with focus on specific target areas for men to strengthen the deep core, increase flexibility, enhance overall lifting power and sports performance and improve mobility and posture._ 
 
 Monday 8-9pm (starting 11th June)
+
+
 
 **Dru Yoga with Carly**
 
@@ -31,11 +35,23 @@ _With its foundations set firmly in ancient yogic tradition and its emphasis on 
 
 Tuesday 10-11am
 
+
+
 **Pilates with Pali**
 
 _Pali’s Pilates classes enable you to understand how to get more from your own body; to be able to move more freely with strength, improved flexibility and increased postural awareness. With a strong emphasis on form and technique that challenges the body and mind, each class will leave you feeling invigorated with a sense of wellbeing and accomplishment._
 
-Tuesday 18.45-19.45pm
+Tuesday 6.45-7.45pm
+
+
+
+**Sivananda Yoga with Teresa**
+
+_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
+
+Wednesday 8-9pm
+
+
 
 **Hatha Yoga with Halina**
 
@@ -43,17 +59,15 @@ _Emphasises movement, alignment, rhythm and requires appropriate effort. Release
 
 Tuesday 7-8.15pm
 
+
+
 **Body Weight Circuit Training with Betty**
 
 _Body Weight Circuit Training with Betty is a great cardio workout, also working on toning and strengthening the body. A challenging workout, combining high impact with low intensity. Suitable for all abilities - the only competition is with yourself!_
 
 Friday 11.30am-12.30pm 
 
-**Sivananda Yoga with Teresa**
 
-_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
-
-Saturday 9-10am, 11-11.50am
 
 **Children's Yoga with Irina**
 
@@ -63,4 +77,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
