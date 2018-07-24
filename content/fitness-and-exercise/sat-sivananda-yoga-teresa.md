@@ -8,7 +8,7 @@ end_time: '2000-01-01T10:00:00+00:00'
 event_day: saturday
 level: Mixed Ability
 associate: Teresa
-term: Ongoing
+term: Term Time Only
 room: Studio
 price: £10 (£8 block booking)
 ---
