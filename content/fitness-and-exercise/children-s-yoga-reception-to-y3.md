@@ -8,7 +8,7 @@ start_time: '2000-01-01T10:00:00+00:00'
 end_time: '2000-01-01T10:45:00+00:00'
 event_day: saturday
 level: Mixed Ability
-associate: Irina Boyes
+associate: 'Irina '
 term: Term Time Only
 room: Classroom
 price: '£7, FIRST CLASS FREE! Block booking is essential as places are limited. '
