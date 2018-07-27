@@ -11,7 +11,7 @@ categories:
   - News
   - Health
   - Fitness
-  - Pratitioner Spotlight
+  - Practitioner Spotlight
 featured_image: /uploads/pali.jpg
 ---
 We love working with our Practitioners!
