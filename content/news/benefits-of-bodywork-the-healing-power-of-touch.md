@@ -39,10 +39,22 @@ In the UK, both osteopaths and chiropractors must be registered with the relevan
 
 **Qigong**
 
-Qigong covers movement and hands on bodywork - Tai Chi (sometimes described as moving meditation) is a branch of Qigong and Tui Na (therapeutic massage and bodywork) is often used in conjunction with Qigong. Qigong is a mind-body-spirit practice to improve mental and physical health by integrating posture, movement, breathing technique, self-massage, sound, and focused intent. Qigong can open the flow of energy in meridians used in acupuncture and Chinese medicine (reference: [National Qi Gong Association](https://www.nqa.org/what-is-qigong-))
+Qigong covers movement and hands on bodywork - Tai Chi (sometimes described as moving meditation) is a branch of Qigong and Tui Na (therapeutic massage and bodywork) is often used in conjunction with Qigong. Qigong is a mind-body-spirit practice to improve mental and physical health by integrating posture, movement, breathing technique, self-massage, sound, and focused intent. Qigong can open the flow of energy in meridians used in acupuncture and Chinese medicine (reference: [National Qi Gong Association](https://www.nqa.org/what-is-qigong-)).
 
 Qigong - the term consists of two source words: Qi and Gong. The second one is synonymous with the Kung in the Chinese word Kung Fu (Gong Fu) and it refers to any skill that to master requires a great deal of effort over a long period of time. Hence Qigong means: "Any Qi training that requires a long time and a lot of effort." But what is Qi? There are many different translations of Qi - internal energy, energy stream, energy flow, spirit, will, and also the sum of near-indefinite processes accompanying life (amassing to more than 20 meanings in English-Chinese dictionaries).
 
 We're delighted to welcome our new Practitioners - Ben Hayward who practices Osteopathy and Robert Peter who will be running Qigong classes and practicing Tui Na.
 
 With Robert, we are also planning to launch a Master Massage Practitioner Course this autumn incorporating osteopathy, chiropractic, Tui Na and more - watch this space for more news!
+
+References:
+
+https://www.osteopathy.org.uk/visiting-an-osteopath/about-osteopathy/
+
+https://www.spine-health.com/treatment/chiropractic/what-a-chiropractor
+
+https://www.bupa.co.uk/health-information/complementary-therapies/chiropractic
+
+https://www.theguardian.com/lifeandstyle/2016/jul/31/the-hands-on-power-of-touch-psychology-well-being
+
+https://www.sparkpeople.com/resource/wellness_articles.asp?id=1818
