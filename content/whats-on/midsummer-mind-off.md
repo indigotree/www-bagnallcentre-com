@@ -5,7 +5,7 @@ yoast_keyword: meditation
 draft: true
 starts_at: '2018-07-29T10:00:04+01:00'
 featured_image: /uploads/midsummer-mind-off-website-image.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Midsummer Mind Off](/uploads/midsummer-mind-off-website-image.jpg)
 
