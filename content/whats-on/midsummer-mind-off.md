@@ -2,7 +2,7 @@
 title: Midsummer Mind Off
 description: Meditation & Conscious Living made easy & fun with Terry Breeze
 yoast_keyword: meditation
-draft: false
+draft: true
 starts_at: '2018-07-29T10:00:04+01:00'
 featured_image: /uploads/midsummer-mind-off-website-image.jpg
 event_categories: featured
