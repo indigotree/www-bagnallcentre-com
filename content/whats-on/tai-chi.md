@@ -9,6 +9,10 @@ event_categories: ''
 ---
 ![Tai Chi](/uploads/tai-chi.jpg)
 
+**Our classes run at 12-1pm on Mondays and 8-9pm and 9-10pm on Thursdays.** 
+
+**Next blocks of 8 consecutive classes are starting on Monday 3rd September and Thursday 6th September: £80 for 8 week block booking.** 
+
 Tai chi, also called tai chi chuan, combines deep breathing and relaxation with flowing movements.
 
 Originally developed as a martial art in 13th-century China, tai chi is today practised around the world as a health-promoting exercise. 
@@ -37,7 +41,7 @@ Blocks of 8 consecutive classes cost £80. Please contact Bagnall Reception for 
 
 _Spaces are limited to 10 people and will be offered on a first come first served basis._
 
-_To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing [01494 791288](tel:01494791288) or emailing [bookings@bagnallcentre.com](mailto:bookings@bagnallcentre.com)_
+_To book a block please pay at the Bagnall Reception either by cash or cheque or via BACS. You can contact reception by ringing [01494 791288](tel:01494791288) or emailing <mailto:bookings@bagnallcentre.com>_
 
 **The Instructor**
 
