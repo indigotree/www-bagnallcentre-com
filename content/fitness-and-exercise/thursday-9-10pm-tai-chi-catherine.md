@@ -4,8 +4,8 @@ front_title: Tai Chi
 description: Tai Chi Class
 yoast_keyword: Tai Chi
 draft: false
-start_time: '2000-01-01T19:45:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T21:00:00+00:00'
+end_time: '2000-01-01T22:00:00+00:00'
 event_day: thursday
 level: Mixed Ability
 associate: Catherine
