@@ -1,6 +1,8 @@
 ---
 title: Pure Food
-description: 'Learn to cook whole, plant-based foods in delicious and simple ways. '
+description: >-
+  Come to our Pure Food cookery classes and learn to cook whole, plant-based
+  foods in delicious and simple ways. 
 yoast_keyword: cookery
 draft: false
 starts_at: '2018-10-06T10:00:20+01:00'
@@ -8,7 +10,7 @@ featured_image: /uploads/pure-food-banner-canva-510x250px.jpg
 ---
 ![Pure Food poster](/uploads/pure-food-banner-canva-510x250px.jpg)
 
-Learn to cook whole, plant-based foods in delicious and simple ways, without the need for refined oils, sodium or sugar. 
+Come to our Pure Food cookery classes and learn to cook whole, plant-based foods in delicious and simple ways, without the need for refined oils, sodium or sugar. 
 
 Discover less refined alternatives with the same amazing textures and tastes, as well as simple dishes that don't require extensive additions, allowing their natural flavours to shine through. 
 
