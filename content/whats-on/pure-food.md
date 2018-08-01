@@ -14,6 +14,13 @@ Come to our Pure Food cookery classes and learn to cook whole, plant-based foods
 
 Discover less refined alternatives with the same amazing textures and tastes, as well as simple dishes that don't require extensive additions, allowing their natural flavours to shine through. 
 
+The food you will be preparing will be totally free from:
+
+* Refined salt
+* Refined sugar
+* Refined oil
+* Gluten 
+
 _This class will be run by Zoe Hill, Plant-based Natural Chef. If you have been advised by your doctor to reduce your intake of sodium and saturated fats, or just wish to improve your health by reducing your intake of refined foods without missing out on flavour, this class is for you._ 
 
 **10am-1pm, Saturday 6th October. £25.** 
