@@ -1,5 +1,5 @@
 ---
-title: 'Our Founder, Joanna Hill''s Journal on Integrated Healthcare - Part 1 '
+title: 'Joanna Hill''s Journal on Integrated Healthcare - Part 1 '
 description: >-
   The Bagnall Centre is now six years old, and what a very long journey it has
   been!
