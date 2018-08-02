@@ -3,6 +3,7 @@ var TimeControl = createClass({
 
     componentDidMount: function () {
         document.body.addEventListener('mousedown', this.closeTimeControl);
+        this.handleChange();
     },
 
     componentWillUnmount: function () {
