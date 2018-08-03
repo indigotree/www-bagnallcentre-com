@@ -45,7 +45,7 @@ Safety information: each hammock has a working load limit of 27 stones, and the 
 
 A session costs £15 and are limited to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
-**Friday 7th September  **
+**Friday 7th September**
 
 **Session 1: 18.00-19.15pm**
 
