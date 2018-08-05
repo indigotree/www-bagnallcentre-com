@@ -16,7 +16,10 @@ The talks are held from 10.00am-12.00pm on Monday mornings.
 
 Our next Programme of talks is outlined below. 
 
-**10am-12pm, Monday 10th September**
+**Milk and Dairy Products: more harm than good? Monday 10th September**
+
+
+
 
 **Price: £10 including refreshments (please book in advance to avoid disappointment!).** 
 
