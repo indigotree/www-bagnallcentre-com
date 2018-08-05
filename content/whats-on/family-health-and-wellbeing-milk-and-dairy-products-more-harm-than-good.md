@@ -23,6 +23,8 @@ Our next talk will focus on Milk and Dairy Products and their effect on our heal
 
 **Price: £10 including refreshments (please book in advance to avoid disappointment!).** 
 
+To book your place, please email <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288). 
+
 For the benefit of complementary health practitioners, the talks qualify for Continuing Professional Development points and Brian will provide CPD certificates if required.
 
 **Your Lifestyle. Your Health. Your Choices.**
