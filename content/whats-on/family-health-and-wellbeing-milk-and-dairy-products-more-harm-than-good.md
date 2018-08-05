@@ -19,7 +19,7 @@ The talks are open to our customers and complementary health professionals who w
 
 Our next talk will focus on Milk and Dairy Products and their effect on our health. 
 
-**10am-12pm, Monday 10th September**
+**10am-12pm, Monday 10th September.**
 
 **Price: £10 including refreshments (please book in advance to avoid disappointment!).** 
 
