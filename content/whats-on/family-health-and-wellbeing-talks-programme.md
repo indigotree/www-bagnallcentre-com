@@ -26,7 +26,7 @@ Our next Programme of talks is outlined below.
 
 **Dowsing: what is the use of it? (including a practical session) 10th December**
 
-**The Pineal Gland: why is it so special? 14th January **
+**The Pineal Gland: why is it so special? 14th January**
 
 **Telepathy and ESP: what is the evidence? 11th February**
 
