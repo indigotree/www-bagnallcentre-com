@@ -22,7 +22,7 @@ If you would like us to feature a spotlight on you and your work then please get
 Here's what Zoe has to say about what she does,
 and why she does it.
 
-![Zoe cooking](/uploads/zoe-hill-cooking.jpg)
+![Zoe cooking](/uploads/zoe-cooking-2-.jpg)
 
 "My passion is not only for cooking and experimentation with food, but also for nutrition and teaching healthy cookery, as well as enabling and empowering people to improve their health with delicious, nourishing plant-based foods.​
 
