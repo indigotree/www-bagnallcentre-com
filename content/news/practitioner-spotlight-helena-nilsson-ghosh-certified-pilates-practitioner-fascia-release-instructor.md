@@ -55,7 +55,7 @@ I am also trained in the latest fascia release techniques and teach simple but e
 
 If you want to find out more about Helena’s classes, private sessions or workshops then please visit her [website](https://www.prioritypilates.com/) for more information.
 
-Helena’s next Self-Massage Workshop ‘Release your Lower Back’ will be held on Saturday 6 of October, 2.15-3.45 pm. To find out more and to book click [here](https://www.prioritypilates.com/self-massage-workshops). 
+Helena’s next Self-Massage Workshop ‘Release your Lower Back’ will be held on Saturday 6th October from 2.15-3.45 pm. To find out more and to book click [here](https://www.prioritypilates.com/self-massage-workshops). 
 
 You can also follow Helena on [Facebook](https://www.facebook.com/prioritypilates/) for great everyday tips on how to help you live a pain free life.  
 
