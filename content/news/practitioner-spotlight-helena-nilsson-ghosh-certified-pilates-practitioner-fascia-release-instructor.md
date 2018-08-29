@@ -23,9 +23,7 @@ We love working with our Practitioners!
 
 If you would like us to feature a spotlight on you and your work then please get in touch!
 
-Here's what Helena has to say about what she does,
-
-and why she does it.
+Here's what Helena has to say about what she does, and why she does it.
 
 \*\*Who am I?\*\*
 
