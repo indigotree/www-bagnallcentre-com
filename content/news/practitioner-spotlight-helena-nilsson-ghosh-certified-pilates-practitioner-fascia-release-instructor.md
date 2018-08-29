@@ -25,7 +25,7 @@ If you would like us to feature a spotlight on you and your work then please get
 
 Here's what Helena has to say about what she does, and why she does it.
 
-\*\*Who am I?\*\*
+**Who am I?**
 
 I am originally from Sweden but have spent all my adult life in the UK.  I currently live in a small village just outside Chesham together with my husband and two young boys.
 
@@ -35,7 +35,7 @@ I teach Pilates and self-massage techniques (focusing on fascia release) to enab
 
 My ultimate aim is to educate and empower people to manage their own wellbeing long term through practicing self-care. I help my clients to get back to feeling stronger, more balanced and enjoying an active life again without pain.
 
-\*\*My story\*\*
+**My story**
 
 I used to have terrible neck and back pain caused by sitting hunched over a computer all day. 
 
@@ -47,7 +47,7 @@ I had previously thought that a few weeks with a specialist would solve my probl
 
 After having my second child I made the decision to leave my office-based job and start teaching Pilates and self-massage techniques in a quest to help others become free from pain, in the same way I had managed to.  
 
-\*\*What can you expect from my sessions?\*\*
+**What can you expect from my sessions?**
 
 My Pilates classes and private sessions focus on precision and form,  targeting the supporting core muscles as well as keeping you safe and free from undue tension, making them ideal for those with niggling pain. My clients often mention that they leave feeling calm and strong. They enjoy a good full body workout but feel stretched too. 
 
