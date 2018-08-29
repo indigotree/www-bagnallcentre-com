@@ -6,7 +6,7 @@ description: >-
   Helena Nilsson Ghosh is a Certified Pilates Practitioner & Fascia Release
   Instructor. Find out more about what she does and why she does it here.
 yoast_keyword: Pilates
-draft: true
+draft: false
 date: '2018-08-13T08:26:31+01:00'
 author: Imogen Emms
 categories:
@@ -15,7 +15,7 @@ categories:
   - News
   - Health
   - Pilates
-featured_image: /uploads/helena-nilsson-ghosh.jpg
+featured_image: /uploads/helena-s-logo-510x250px-canva.jpg
 ---
 ![pilates teacher](/uploads/helena-nilsson-ghosh.jpg)
 
