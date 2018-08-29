@@ -17,6 +17,8 @@ categories:
   - Pilates
 featured_image: /uploads/helena-nilsson-ghosh.jpg
 ---
+![pilates teacher](/uploads/helena-nilsson-ghosh.jpg)
+
 We love working with our Practitioners!
 
 If you would like us to feature a spotlight on you and your work then please get in touch!
