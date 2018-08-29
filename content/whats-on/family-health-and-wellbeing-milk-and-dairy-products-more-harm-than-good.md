@@ -19,6 +19,20 @@ The talks are open to our customers and complementary health professionals who w
 
 Our next talk will focus on Milk and Dairy Products and their effect on our health. 
 
+The topics included are: 
+
+* What are dairy products?
+* A comparison of different milks.
+* Examples of non nutritional components in milk.
+* The problems with lactose and milk proteins.
+* The body’s response to dairy and common symptoms.
+* Aspects to consider about dietary changes and ways to conduct a dairy elimination diet.
+* Dairy industry environmental factors.
+* Nutritional aspects of full fat products.
+* The process of pasteurisation and arguments for and against.
+* The homogenisation process and concerns.
+* The effects of dairy on nutrition.
+
 **10am-12pm, Monday 10th September.**
 
 **Price: £10 including refreshments (please book in advance to avoid disappointment!).** 
