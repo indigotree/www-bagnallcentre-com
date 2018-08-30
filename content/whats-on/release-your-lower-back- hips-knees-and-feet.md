@@ -1,5 +1,5 @@
 ---
-title: "Release your Lower Back,\_Hips, Knees and Feet"
+title: "Fascia Release Workshop - Release your Lower Back,\_Hips, Knees and Feet"
 description: "An introductory\_self-massage and fascia release workshop. "
 yoast_keyword: massage
 draft: false
@@ -8,7 +8,7 @@ featured_image: /uploads/melt-workshop-6-oct-2018-510x250px.jpg
 ---
 ![self massage fascia release workshop](/uploads/melt-workshop-6-oct-2018-510x250px.jpg)
 
-**Release your Lower Back, Hips, Knees and Feet (INT*)**
+**Fascia Release Workshop - Release your Lower Back, Hips, Knees and Feet (INT*)**
 
 **Saturday 6th October 2.15-3.45 pm** 
 
