@@ -1,5 +1,5 @@
 ---
-title: 'Qi Gong for Strength*, 7-8pm, Tuesday, Robert'
+title: 'Tuesday, 7-8pm, Qi Gong for Strength*, Robert'
 front_title: Qi Gong for Strength*
 description: Qi Gong for Strength
 yoast_keyword: Qi Gong
