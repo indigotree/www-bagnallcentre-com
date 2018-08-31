@@ -10,6 +10,6 @@ level: Beginners/Intermediate
 associate: Helena
 term: Ongoing
 room: Classroom
-price: £12 (£10 block booking)
+price: '£12 (£10 block booking), FIRST CLASS £5!'
 ---
 Polestar Pilates with Helena focuses on whole body wellness through intelligent movement. Tone, strengthen and lengthen muscles, improve flexibility and increase mobility of spine and joints, correct posture, relieve muscle tension and back pain. Restore, achieve and excel in physical movement.
