@@ -3,8 +3,8 @@ title: 'Tuesday, 6.45-7.45pm, Pilates, Pali'
 front_title: Pilates
 description: Pilates class
 yoast_keyword: Pilates
-start_time: '2000-01-01T18:45:00+00:00'
-end_time: '2000-01-01T19:45:00+00:00'
+start_time: '2000-01-01T19:00:00+00:00'
+end_time: '2000-01-01T20:00:00+00:00'
 event_day: tuesday
 level: Intermediate
 associate: Pali
