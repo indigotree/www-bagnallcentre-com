@@ -10,7 +10,7 @@ event_day: wednesday
 level: Beginners/Intermediate
 associate: Robert
 term: Starts 19/9
-room: Studio
+room: Classroom
 price: £10 per class
 ---
-Qigong for Life practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems.
+Qi Gong for Life practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems.
