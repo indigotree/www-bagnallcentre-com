@@ -3,7 +3,7 @@ title: The Importance of Movement
 description: 'This month we’ve been reflecting on the importance of movement in our lives. '
 yoast_keyword: movement
 draft: false
-date: '2018-09-01T09:08:48+01:00'
+date: '2018-08-31T09:08:48+01:00'
 author: Imogen Emms
 categories:
   - News
