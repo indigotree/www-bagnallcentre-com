@@ -5,7 +5,7 @@ yoast_keyword: Tai Chi
 draft: false
 starts_at: '2018-09-03T12:00:00+01:00'
 featured_image: /uploads/tai-chi.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Tai Chi](/uploads/tai-chi.jpg)
 
