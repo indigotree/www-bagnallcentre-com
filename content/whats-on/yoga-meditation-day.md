@@ -11,7 +11,7 @@ event_categories: ''
 
 Enjoy a full day of yoga, deep relaxation and meditation. 
 
-10am-4pm, Sunday 1st October. 
+10am-4pm, Sunday 21st October. 
 
 **£60, includes vegan lunch. £30 deposit to secure your place.**
 
