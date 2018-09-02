@@ -3,7 +3,7 @@ title: Play with your Food
 description: Creative and educational cookery classes for kids aged 7-12
 yoast_keyword: cookery
 draft: false
-starts_at: '2018-09-19T16:30:51+01:00'
+starts_at: '2018-09-30T16:30:51+01:00'
 featured_image: /uploads/play-with-your-food-eventbrite-capture-14.6.18.jpeg
 event_categories: ''
 ---
