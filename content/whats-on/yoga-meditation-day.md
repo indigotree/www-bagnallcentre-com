@@ -1,7 +1,7 @@
 ---
 title: 'Yoga & Meditation Day '
 description: Have you booked our Yoga & Meditation Day with Carly Kite?
-yoast_keyword: Yoga & Meditation Day
+yoast_keyword: Yoga
 draft: false
 starts_at: '2018-10-21T10:00:46+01:00'
 featured_image: /uploads/carly-yoga-day.jpg
@@ -11,7 +11,7 @@ event_categories: ''
 
 Enjoy a full day of yoga, deep relaxation and meditation. 
 
-10am-4pm, Sunday 1st October 
+10am-4pm, Sunday 1st October. 
 
 **£60, includes vegan lunch. £30 deposit to secure your place.**
 
