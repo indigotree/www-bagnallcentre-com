@@ -7,6 +7,7 @@ yoast_keyword: Sound Meditation
 draft: false
 starts_at: '2018-09-21T19:30:42+01:00'
 featured_image: /uploads/autumn-equinox-canva-510x250px.jpg
+event_categories: featured
 ---
 ![Autumn Equinox Sound Meditation](/uploads/autumn-equinox-canva-510x250px.jpg)
 
