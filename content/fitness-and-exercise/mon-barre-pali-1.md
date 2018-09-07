@@ -3,8 +3,8 @@ title: 'Monday, 10.30-11.30am, Barre, Pali'
 front_title: Barre
 description: Barre class
 yoast_keyword: Barre
-start_time: '2000-01-01T10:30:00+00:00'
-end_time: '2000-01-01T11:30:00+00:00'
+start_time: '2000-01-01T10:00:00+00:00'
+end_time: '2000-01-01T11:00:00+00:00'
 event_day: monday
 level: Mixed Ability
 associate: Pali
