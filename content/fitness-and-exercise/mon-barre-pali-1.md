@@ -1,5 +1,5 @@
 ---
-title: 'Monday, 10.30-11.30am, Barre, Pali'
+title: 'Monday, 10-11am, Barre, Pali'
 front_title: Barre
 description: Barre class
 yoast_keyword: Barre
