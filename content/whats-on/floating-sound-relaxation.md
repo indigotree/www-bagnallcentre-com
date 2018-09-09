@@ -43,7 +43,7 @@ Health note: please let Sam know in advance if you are in your first-trimester o
 
 Safety information: each hammock has a working load limit of 27 stones, and the steel roundslings have a stress load of 2 tonnes. We have been Engineer approved that each hammock has a weight bearing load of 100kgs/15.5 stones for the purposes of this class. There is however some degree of flexibility if your current weight is over this limit, please mention it to us if you’re unsure. We will always employ our utmost discretion.
 
-A session costs £15 and are limited to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
+A session costs £15 and are **limited** to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
 **PLEASE NOTE THAT WE ONLY HAVE A FEW SPACES REMAINING AS THEY SELL OUT VERY QUICKLY, SO GET IN TOUCH IF YOU ARE INTERESTED!**
 
