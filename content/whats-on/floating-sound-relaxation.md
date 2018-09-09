@@ -3,9 +3,9 @@ title: 'Floating Sound Relaxation '
 description: Decompress from your busy week and start the weekend feeling relaxed!
 yoast_keyword: Floating Sound Relaxation
 draft: false
-starts_at: '2018-09-07T18:00:52+01:00'
+starts_at: '2018-09-14T18:00:52+01:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![Floating Sound Meditation](/uploads/floating-sound-meditation-copy.jpg)
 
@@ -45,17 +45,36 @@ Safety information: each hammock has a working load limit of 27 stones, and the 
 
 A session costs £15 and are limited to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
-**Friday 7th September**
-
-**Session 1: 18.00-19.15pm**
-
-**Session 2: 19.30-20.45pm**
+**PLEASE NOTE THAT WE ONLY HAVE A FEW SPACES REMAINING AS THEY SELL OUT VERY QUICKLY, SO GET IN TOUCH IF YOU ARE INTERESTED!**
 
 **Friday 14th September**
 
-**Session 1: 18.00-19.15pm**
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
 
-**Session 2: 19.30-20.45pm**
+**Friday 12th October**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
+**Friday 26th October**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
+**Friday 9th November**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
+**Friday 23rd November**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
+**Friday 7th December**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
+**Friday 14th December**
+
+Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+
 
 Please arrive no more than 5 minutes before the session start time as the door will be locked until then. Please be on time, as due to the nature of this session we are unable to admit late comers and the door will be locked promptly at either 6pm or 7:30pm.
 
