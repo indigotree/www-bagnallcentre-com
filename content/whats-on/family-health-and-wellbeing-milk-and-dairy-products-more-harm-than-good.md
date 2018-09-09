@@ -9,7 +9,7 @@ yoast_keyword: health
 draft: false
 starts_at: '2018-09-10T10:00:45+01:00'
 featured_image: /uploads/milk-canva-510x250.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![milk](/uploads/milk-canva-510x250.jpg)
 
