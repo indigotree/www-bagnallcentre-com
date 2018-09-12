@@ -9,7 +9,7 @@ end_time: '2000-01-01T19:00:00+00:00'
 event_day: monday
 level: Beginners/Intermediate
 associate: Robert
-term: Starts 17/9
+term: Starts 1/10
 room: Classroom
 price: £10 per class
 ---
