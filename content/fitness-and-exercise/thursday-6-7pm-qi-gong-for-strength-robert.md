@@ -9,7 +9,7 @@ end_time: '2000-01-01T19:00:00+00:00'
 event_day: thursday
 level: Intermediate
 associate: Robert
-term: Starts 20/9
+term: Starts 4/10
 room: Classroom
 price: £12 (£160 block booking)
 ---
