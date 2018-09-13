@@ -9,7 +9,7 @@ end_time: '2000-01-01T08:00:00+00:00'
 event_day: wednesday
 level: Beginners
 associate: Robert
-term: Starts 19/9
+term: Starts 3/10
 room: Studio
 price: £10 per class
 ---
