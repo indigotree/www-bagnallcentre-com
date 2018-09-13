@@ -3,9 +3,9 @@ title: 'Floating Sound Relaxation '
 description: Decompress from your busy week and start the weekend feeling relaxed!
 yoast_keyword: Floating Sound Relaxation
 draft: false
-starts_at: '2018-09-14T18:00:52+01:00'
+starts_at: '2018-10-12T18:00:52+01:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Floating Sound Meditation](/uploads/floating-sound-meditation-copy.jpg)
 
@@ -45,7 +45,9 @@ Safety information: each hammock has a working load limit of 27 stones, and the 
 
 A session costs £15 and are **limited** to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
-**PLEASE NOTE THAT WE ONLY HAVE A FEW SPACES REMAINING AS THEY SELL OUT VERY QUICKLY, SO GET IN TOUCH IF YOU ARE INTERESTED!**
+**PLEASE NOTE THAT ALL SPACES ARE NOW FILLED FOR AUTUMN, MORE DATES WILL BE ANNOUNCED FOR THE NEW YEAR.**
+
+**PLEASE GET IN TOUCH WITH SAM DIRECTLY IF YOU WOULD LIKE TO BE ADDED TO THE WAITING LIST IN CASE OF CANCELLATION.**
 
 **Friday 14th September**
 
