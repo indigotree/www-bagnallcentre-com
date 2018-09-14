@@ -1,15 +1,15 @@
 ---
-title: 'Chesham Gong Bath & Sound Meditation '
+title: Chesham Gong Bath & Sound Meditation
 description: >-
   This is a group for like minded people to experience the sacred sounds of the
   gong and other complementary instruments within the setting of a gong
   bath/sound meditation.
 yoast_keyword: meditation
 draft: false
-starts_at: '2018-10-20T12:45:53+01:00'
+starts_at: '2018-11-17T12:45:39+00:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
 ---
-![Gong Bath & Sound Meditation](/uploads/floating-sound-meditation-copy.jpg)
+![](/uploads/floating-sound-meditation-copy.jpg)
 
 This is a group for like minded people to experience the sacred sounds of the gong and other complementary instruments within the setting of a gong bath/sound meditation. During the session you are bathed in the powerful sound waves created by the gongs, enabling the body and mind to relax and release any stress and tension. All you have to do is lie down and relax. 
 
