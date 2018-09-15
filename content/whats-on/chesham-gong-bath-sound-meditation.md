@@ -1,5 +1,5 @@
 ---
-title: Chesham Gong Bath & Sound Meditation
+title: Chesham Gong Bath and Sound Meditation
 description: >-
   This is a group for like minded people to experience the sacred sounds of the
   gong and other complementary instruments within the setting of a gong
