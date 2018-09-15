@@ -6,7 +6,7 @@ description: >-
   bath/sound meditation.
 yoast_keyword: meditation
 draft: false
-starts_at: '2018-10-20T12:45:56+01:00'
+starts_at: '2018-11-17T00:45:05+00:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
 ---
 ![gong bath](/uploads/floating-sound-meditation-copy.jpg)
