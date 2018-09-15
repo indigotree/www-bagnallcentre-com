@@ -19,4 +19,4 @@ If you are in your first trimester of pregnancy or have a health condition that 
 
 12.45-1.45pm Saturday 20th October. Cost £10.
 
-Please email Sam Hyder or call on 07787 291529 to book your place.
+**Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.**
