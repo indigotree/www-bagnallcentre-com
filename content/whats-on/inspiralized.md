@@ -6,7 +6,7 @@ draft: false
 starts_at: '2018-10-20T10:00:19+01:00'
 featured_image: /uploads/inspiralized-canva-510x250pix.jpg
 ---
-![cookery class](/uploads/inspiralized-canva-510x250pix.jpg)
+![cookery class](/uploads/inspiralized-poster.jpg)
 
 An entirely plant-based and gluten-free spiralizing class.
 
