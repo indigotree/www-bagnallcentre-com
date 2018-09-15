@@ -5,7 +5,7 @@ description: >-
   gong and other complementary instruments within the setting of a gong
   bath/sound meditation.
 yoast_keyword: meditation
-draft: true
+draft: false
 starts_at: '2018-10-20T12:45:13+01:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
 ---
