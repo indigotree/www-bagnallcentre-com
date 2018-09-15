@@ -10,7 +10,7 @@ event_day: saturday
 level: Mixed Ability
 associate: 'Irina '
 term: Term Time Only
-room: Classroom
+room: Gym
 price: '£7, FIRST CLASS FREE! Block booking is essential as places are limited. '
 ---
 Children's Yoga with Irina are energetic and engaging classes where we will improve strength, flexibility and coordination while learning about our breathing and our bodies. Creating awareness, sneaking in mindfulness techniques, sharing plenty of laughter and always ending with a good bit of time for relaxation.
