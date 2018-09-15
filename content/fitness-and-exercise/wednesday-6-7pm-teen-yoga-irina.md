@@ -13,4 +13,8 @@ term: Term Time Only
 room: Classroom
 price: '£8, FIRST CLASS FREE! Starts 31/10. Block booking essential. '
 ---
+This is a flow yoga class, introducing teens to a real adult style yoga class. Here teenagers will practice pose sequences designed to help them to discover greater strength, flexibility and comfort in their bodies, learn specific breathing techniques to relieve stress and anxiety, improve their balance, coordination and concentration. 
 
+Each class will conclude with a brief guided relaxation, giving teens techniques they can use in daily life to find a sense of calm and well-being whenever they need it. 
+
+No previous yoga experience necessary.
