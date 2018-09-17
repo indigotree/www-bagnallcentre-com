@@ -15,13 +15,13 @@ categories:
   - Wellbeing
 featured_image: /uploads/image-mindfulness-1920.jpg
 ---
-Mindfulness is a mental state achieved by focussing your attention on the present moment and simultaneously acknowledging and accepting thoughts and physical feelings. This awareness of being present inthe moment can enable you to create mental space to respond in new and different ways to situations.
+Mindfulness is a mental state achieved by focussing your attention on the present moment and simultaneously acknowledging and accepting thoughts and physical feelings. This awareness of being present in the moment can enable you to create mental space to respond in new and different ways to situations.
 
 Incorporating mindfulness into your daily life can help you reduce stress and anxiety. Whilst we aren’t always able to entirely control our lives, being mindful can be a valuable part of your mental toolkit and can enable you to enjoy life more and understand yourself better.
 
 Whilst it is a bit of a buzz word currently there is nothing new about mindfulness, as a practice it is thousands of years old and thought to have originated in Buddhist thinking and meditation practice over two and a half thousand years ago. Its purpose was to address and relieve self-induced suffering arising from the dysfunctional ways people tend to react and respond to experiences.
 
-Perhaps the increasing pressures of our modern, connected world and the associated difficulties of switching off from technology are contributing to the recent surge in popularity of practicing mindfulness and over the last 30 years ithas become increasingly secularised and simplified to suit a Western context.
+Perhaps the increasing pressures of our modern, connected world and the associated difficulties of switching off from technology are contributing to the recent surge in popularity of practicing mindfulness and over the last 30 years it has become increasingly secularised and simplified to suit a Western context.
 
 Mindfulness can help to promote a deeper awareness and understanding of your mental state; increasingly children are being taught mindfulness which can have multiple and long-term benefits in all aspects of their lives and well being.
 
@@ -30,7 +30,7 @@ In the UK, the [**Mindfulness in Schools Project**](https://mindfulnessinschools
 A mindful learning revolution is taking place in Australian schools, where teachers are turning to positive education, mindfulness and strength-based teaching. An emphasis on positive reinforcement seems to be improving student wellbeing and behaviour (we posted about this on Twitter and Facebook on 3rd July).
 
 Take a look at [**Action for Happiness**](http://www.actionforhappiness.org/) which is an amazing movement (with the Dalai Lama as its patron) aiming to increase wellbeing in homes, workplaces, schools and local communities. Their vision is a happier world, with fewer people suffering from mental health problems, and more people feeling good, functioning well and helping others.
-
+
 Here are some of our top tips to help you to be more mindful every day.
 
 ### Be aware
