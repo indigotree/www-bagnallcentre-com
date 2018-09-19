@@ -51,7 +51,7 @@ Wednesday 6-7pm
 
 _Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
 
-Wednesday 8-9pm
+Wednesday 8-9pm & Saturday 9-10am
 
 **Body Weight Circuit Training with Betty**
 
