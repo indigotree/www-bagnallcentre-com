@@ -3,7 +3,7 @@ title: 'Come and try a FREE Exercise Class! '
 description: 'Would you like to try one of our classes for FREE? '
 yoast_keyword: exercise
 draft: false
-starts_at: '2018-09-30T09:00:11+01:00'
+starts_at: '2018-10-07T09:00:11+01:00'
 featured_image: >-
   /uploads/older man pilates ball exercise smaller shutterstock_244733575 copy
   2.jpg
@@ -31,17 +31,27 @@ _With its foundations set firmly in ancient yogic tradition and its emphasis on 
 
 Tuesday 10-11am
 
-**Sivananda Yoga with Teresa**
-
-_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
-
-Wednesday 8-9pm
-
 **Hatha Yoga with Halina**
 
 _Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises._
 
 Tuesday 7-8.15pm
+
+**Teen Yoga with Irina**
+
+_This is a flow yoga class, introducing teens to a real adult style yoga class. Here teenagers will practice pose sequences designed to help them to discover greater strength, flexibility and comfort in their bodies, learn specific breathing techniques to relieve stress and anxiety, improve their balance, coordination and concentration._
+
+_Each class will conclude with a brief guided relaxation, giving teens techniques they can use in daily life to find a sense of calm and well-being whenever they need it._
+
+_No previous yoga experience necessary._
+
+Wednesday 6-7pm
+
+**Sivananda Yoga with Teresa**
+
+_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
+
+Wednesday 8-9pm
 
 **Body Weight Circuit Training with Betty**
 
