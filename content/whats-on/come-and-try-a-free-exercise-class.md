@@ -11,7 +11,9 @@ event_categories: ''
 ---
 **Try before you buy!**
 
-Our Practitioners are offering the following classes for free.
+Our Practitioners are offering the following classes for free!
+
+
 
 **Kettle Bell Circuit Training with Betty**
 _Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance._
