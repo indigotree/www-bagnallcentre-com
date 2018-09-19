@@ -45,7 +45,7 @@ _Each class will conclude with a brief guided relaxation, giving teens technique
 
 _No previous yoga experience necessary._
 
-Wednesday 6-7pm
+Wednesday 6-7pm (starts 31st October)
 
 **Sivananda Yoga with Teresa**
 
