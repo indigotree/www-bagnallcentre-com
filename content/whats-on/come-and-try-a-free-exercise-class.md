@@ -33,7 +33,7 @@ Tuesday 10-11am
 
 
 **Hatha Yoga with Halina**
-_Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises._
+_Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates, energises._
 
 Tuesday 7-8.15pm
 
