@@ -19,11 +19,13 @@ _Kettle Bell Circuit Training challenges almost every muscle in the body. It is 
 
 Monday 11am-12pm 
 
+
 **Pilates for Men with Pali**
 
 _This mixed ability class is suitable for all levels. The class offers a more intensive workout with focus on specific target areas for men to strengthen the deep core, increase flexibility, enhance overall lifting power and sports performance and improve mobility and posture._ 
 
 Monday 7-8pm & 8-9pm
+
 
 **Dru Yoga with Carly**
 
@@ -31,11 +33,13 @@ _With its foundations set firmly in ancient yogic tradition and its emphasis on 
 
 Tuesday 10-11am
 
+
 **Hatha Yoga with Halina**
 
 _Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates,  energises._
 
 Tuesday 7-8.15pm
+
 
 **Teen Yoga with Irina**
 
@@ -47,11 +51,13 @@ _No previous yoga experience necessary._
 
 Wednesday 6-7pm (starts 31st October)
 
+
 **Sivananda Yoga with Teresa**
 
 _Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
 
 Wednesday 8-9pm & Saturday 9-10am
+
 
 **Body Weight Circuit Training with Betty**
 
@@ -59,11 +65,13 @@ _Body Weight Circuit Training with Betty is a great cardio workout, also working
 
 Friday 11.30am-12.30pm 
 
+
 **Children's Yoga with Irina**
 
 _Children's Yoga with Irina are energetic and engaging classes where we will improve strength, flexibility and coordination while learning about our breathing and our bodies. Creating awareness, sneaking in mindfulness techniques, sharing plenty of laughter and always ending with a good bit of time for relaxation._
 
 Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
+
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
