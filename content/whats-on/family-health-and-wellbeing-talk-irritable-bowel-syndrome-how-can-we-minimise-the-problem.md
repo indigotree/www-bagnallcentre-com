@@ -9,6 +9,7 @@ yoast_keyword: IBS
 draft: false
 starts_at: '2018-10-08T10:00:29+01:00'
 featured_image: /uploads/image-gut-health-1920.jpg
+event_categories: featured
 ---
 ![gut health IBS](/uploads/image-gut-health-1920.jpg)
 
