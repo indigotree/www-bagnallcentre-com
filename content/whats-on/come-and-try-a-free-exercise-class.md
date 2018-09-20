@@ -13,8 +13,6 @@ event_categories: ''
 
 Our Practitioners are offering the following classes for free!
 
-
-
 **Kettle Bell Circuit Training with Betty**
 _Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance._
 
@@ -73,8 +71,6 @@ _Children's Yoga with Irina are energetic and engaging classes where we will imp
 
 Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
-
-
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-_**Your Lifestyle. Your Health. Your Choices.**_
+**_Your Lifestyle. Your Health. Your Choices._**
