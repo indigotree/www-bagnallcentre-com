@@ -1,6 +1,6 @@
 ---
 title: Play with your Food
-description: Creative and educational cookery classes for kids aged 7-12
+description: COMING SOON! Creative and educational cookery classes for kids aged 7-12.
 yoast_keyword: cookery
 draft: false
 starts_at: '2018-11-03T16:30:51+00:00'
