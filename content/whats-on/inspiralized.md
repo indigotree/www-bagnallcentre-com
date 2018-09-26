@@ -8,6 +8,10 @@ featured_image: /uploads/inspiralized-canva-510x250pix.jpg
 ---
 ![cookery class](/uploads/inspiralized-poster.jpg)
 
+Come and be Inspiralized!
+
+
+
 An entirely plant-based and gluten-free spiralizing class.
 
 Bring your favourite adult along to this awesome class on spiralizing - and take home your very own spiralizer!
@@ -18,6 +22,6 @@ Spiralizing is a fun and interesting way to create amazing dishes from both raw 
 
 10am-1pm, Saturday 20th October. 
 
-Tickets for 1 adult or 1 child £35 (spiralizer included).
+Tickets for 1 adult or 1 child £35 (spiralizer included). Minimum age 9. 
 
 Find us on [Eventbrite](https://www.eventbrite.co.uk/e/inspiralized-tickets-50237853773) or email <mailto:tasteoflifefood@gmail.com>
