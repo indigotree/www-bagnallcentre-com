@@ -1,5 +1,5 @@
 ---
-title: 'Tuesday, 7-8pm, Qi Gong for Strength*, Robert'
+title: 'Tuesday, 7-8pm, Meditation Qi Gong*, Robert'
 front_title: Qi Gong for Strength*
 description: Qi Gong for Strength
 yoast_keyword: Qi Gong
@@ -13,6 +13,6 @@ term: Starts 2/10
 room: Classroom
 price: £12 (£160 block booking)
 ---
-Shaolin Luohan Shi Ba Shou (Qi Gong for Strength*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs. 
+Shaolin Luohan Shi Ba Shou (Meditation Qi Gong*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs. 
 
- Qi Gong for Strength* - a block runs for 8 weeks and includes 2 classes a week.
+ Meditation Qi Gong* - a block runs for 8 weeks and includes 2 classes a week.
