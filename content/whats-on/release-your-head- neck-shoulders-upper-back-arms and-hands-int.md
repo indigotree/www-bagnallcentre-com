@@ -15,8 +15,9 @@ This introductory self-massage and fascia release workshop will teach you how t
 ​
 
 
-You will feel a difference in as little as 10 minutes and when practiced regularly it will improve your body’s ability to restore balance and repair itself, creating remarkable lasting changes.  You will see and feel results otherwise only achieved through ongoing, costly hands-on therapies.
+You will feel a difference in as little as 10 minutes and when practiced regularly it will improve your body’s ability to restore balance and repair itself, creating remarkable lasting changes. You will see and feel results otherwise only achieved through ongoing, costly hands-on therapies.
 ​
+
 Other common benefits include:
 
 Reduced:
