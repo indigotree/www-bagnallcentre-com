@@ -7,7 +7,7 @@ draft: false
 start_time: '2000-01-01T19:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
 event_day: tuesday
-level: Intermediate
+level: Beginners/Intermediate
 associate: Robert
 term: Starts 2/10
 room: Classroom
