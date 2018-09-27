@@ -39,11 +39,11 @@ All equipment needed will be provided for the Workshop and the MELT balls will 
 
 **Booking essential, as spaces are limited.**
 
+**2-3.30pm, Saturday 10th November.**
+
 £40 (Early bird discount - £35 - if you book before 21st October)
 
-
 **Click [here](https://www.prioritypilates.com/self-massage-workshops) to book your place.** 
-
 
 If you have any questions about the workshop you can contact Helena directly by email to <mailto:infoprioritypilates@gmail.com> or call [07958 596 597](tel:07958596597)
 
