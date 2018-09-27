@@ -2,7 +2,7 @@
 title: 'Thursday, 6-7pm, Meditation Qi Gong*, Robert'
 front_title: Meditation Qi Gong*
 description: Qi Gong
-yoast_keyword: Qi Gong
+yoast_keyword: Qigong
 draft: false
 start_time: '2000-01-01T18:00:00+00:00'
 end_time: '2000-01-01T19:00:00+00:00'
