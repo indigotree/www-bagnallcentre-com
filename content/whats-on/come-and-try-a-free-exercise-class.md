@@ -13,9 +13,6 @@ event_categories: ''
 
 Our Practitioners are offering the following classes for free!
 
-**Meditation & Qi Gong (Beginners)**
-Wednesday 7-8am. 
-£10 per class. FIRST CLASS FREE!
 
 **Kettle Bell Circuit Training with Betty**
 _Kettle Bell Circuit Training challenges almost every muscle in the body. It is an efficient way to build core stability, strength and power whilst boosting your cardio and muscle endurance._
@@ -27,10 +24,22 @@ _This mixed ability class is suitable for all levels. The class offers a more in
 
 Monday 7-8pm & 8-9pm
 
+
+
 **Qi Gong for Life (Beginners/Intermediate)**
+
+_Qi Gong for Life practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
+
 Monday 6-7pm and Wednesday 7-8pm.
 
+
 **Qi Gong for Strength (Intermediate)**
+
+_Shaolin Luohan Shi Ba Shou (Qi Gong for Strength*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs._
+
+** Qi Gong for Strength* - a block runs for 8 weeks and includes 2 classes a week.**
+
+Tuesday 7-8pm and Thursday 6-7pm.
 
 
 **Dru Yoga with Carly**
@@ -38,10 +47,18 @@ _With its foundations set firmly in ancient yogic tradition and its emphasis on 
 
 Tuesday 10-11am
 
+
 **Hatha Yoga with Halina**
 _Emphasises movement, alignment, rhythm and requires appropriate effort. Releases, exhilarates, energises._
 
 Tuesday 7-8.15pm
+
+**Meditation & Qi Gong (Beginners)**
+
+_Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
+
+Wednesday 7-8am. 
+
 
 **Teen Yoga with Irina**
 _This is a flow yoga class, introducing teens to a real adult style yoga class. Here teenagers will practice pose sequences designed to help them to discover greater strength, flexibility and comfort in their bodies, learn specific breathing techniques to relieve stress and anxiety, improve their balance, coordination and concentration._
@@ -52,10 +69,12 @@ _No previous yoga experience necessary._
 
 Wednesday 6-7pm (starts 31st October)
 
+
 **Sivananda Yoga with Teresa**
 _Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
 
 Wednesday 8-9pm & Saturday 9-10am
+
 
 **Body Weight Circuit Training with Betty**
 _Body Weight Circuit Training with Betty is a great cardio workout, also working on toning and strengthening the body. A challenging workout, combining high impact with low intensity. Suitable for all abilities - the only competition is with yourself!_
@@ -69,4 +88,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
