@@ -9,9 +9,9 @@ end_time: '2000-01-01T19:00:00+00:00'
 event_day: wednesday
 level: Mixed Ability
 associate: Irina
-term: Term Time Only
+term: Starts 31/10
 room: Gym
-price: '£8, FIRST CLASS FREE! Starts 31/10. Block booking essential. '
+price: '£8, FIRST CLASS FREE! Block booking essential. '
 ---
 This is a flow yoga class, introducing teens to a real adult style yoga class. Here teenagers will practice pose sequences designed to help them to discover greater strength, flexibility and comfort in their bodies, learn specific breathing techniques to relieve stress and anxiety, improve their balance, coordination and concentration. 
 
