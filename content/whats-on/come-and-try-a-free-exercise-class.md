@@ -27,14 +27,12 @@ Monday 7-8pm & 8-9pm
 
 
 **Qi Gong for Life (Beginners/Intermediate)**
-
 _Qi Gong for Life practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
 
 Monday 6-7pm and Wednesday 7-8pm.
 
 
 **Qi Gong for Strength (Intermediate)**
-
 _Shaolin Luohan Shi Ba Shou (Qi Gong for Strength*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs._
 
 ** Qi Gong for Strength* - a block runs for 8 weeks and includes 2 classes a week.**
@@ -54,7 +52,6 @@ _Emphasises movement, alignment, rhythm and requires appropriate effort. Release
 Tuesday 7-8.15pm
 
 **Meditation & Qi Gong (Beginners)**
-
 _Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
 
 Wednesday 7-8am. 
