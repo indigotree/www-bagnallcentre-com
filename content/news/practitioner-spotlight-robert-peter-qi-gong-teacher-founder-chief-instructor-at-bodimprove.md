@@ -64,3 +64,5 @@ Calmness and relaxation during exercises affect the whole body, improving functi
 **Classes start in the first week of October.** 
 
 To find out more about Robert visit his website [here](https://bodimprove.com/).
+
+You can also connect with Robert on [Twitter](https://twitter.com/bodimprove) and [Facebook](https://www.facebook.com/bodimprove).
