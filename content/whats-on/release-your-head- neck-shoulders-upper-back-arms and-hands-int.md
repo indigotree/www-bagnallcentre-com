@@ -8,7 +8,7 @@ featured_image: /uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg
 ---
 ![fascia release workshop](/uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg)
 
-**​Release your Head, Neck, Shoulders, Upper Back, Arms and Hands (INT*)**
+# **​Release your Head, Neck, Shoulders, Upper Back, Arms and Hands (INT*)**
 
 This introductory self-massage and fascia release workshop will teach you how to release long held tension, stiffness and pain in and around your head, neck, shoulders, upper back, arms, wrists and hands brought on by everyday living and stress using simple self-treatment techniques. 
 ​
