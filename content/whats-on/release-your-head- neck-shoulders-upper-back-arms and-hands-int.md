@@ -9,9 +9,12 @@ featured_image: /uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg
 ![fascia release workshop](/uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg)
 
 This introductory self-massage and fascia release workshop will teach you how to release long held tension, stiffness and pain in and around your head, neck, shoulders, upper back, arms, wrists and hands brought on by everyday living and stress using simple self-treatment techniques. 
+
+
+​You will discover how to identify painful tension and dehydrated connective tissue (fascia) in your own body and learn how to release and re-hydrate this tissue yourself using small soft balls and rollers.
 ​
-You will discover how to identify painful tension and dehydrated connective tissue (fascia) in your own body and learn how to release and re-hydrate this tissue yourself using small soft balls and rollers.
-​
+
+
 You will feel a difference in as little as 10 minutes and when practiced regularly it will improve your body’s ability to restore balance and repair itself, creating remarkable lasting changes.  You will see and feel results otherwise only achieved through ongoing, costly hands-on therapies.
 ​
 Other common benefits include:
