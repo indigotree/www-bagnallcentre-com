@@ -1,8 +1,8 @@
 ---
 title: 'Tuesday, 7-8pm, Meditation Qi Gong*, Robert'
-front_title: Qi Gong for Strength*
-description: Qi Gong for Strength
-yoast_keyword: Qi Gong
+front_title: Meditation Qi Gong*
+description: Qi Gong
+yoast_keyword: Qigong
 draft: false
 start_time: '2000-01-01T19:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
