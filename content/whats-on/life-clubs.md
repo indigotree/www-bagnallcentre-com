@@ -10,7 +10,7 @@ featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 ---
 ![LIFE CLUBS group](/uploads/life-clubs-group-canva-510x250.jpg)
 
-## What’s Your  Best  Thing  Today? 
+## What’s Your  Best  Thing  Today?
 
 Our monthly LIFE  CLUBs start by asking this question which sets the positive, solution-focused approach.  Life Clubs workshops use fun,  highly interactive and structured materials to get the right/left brains firing together to produce answers to questions such as:-      
 
@@ -32,6 +32,12 @@ So if you want to get more out of life, be in control, turn your life around, co
 
 Come along to one Club as a ‘taster’ then book up for the whole course.
 
+1 Workshop £50.
+
+3 Consecutive Workshops £125.
+
+10 Workshops £350. 
+
 **Beware – LIFE CLUBS will change your Life!!**
 
 Call Chris on [07904 420317](<tel:07904 420317>) or go to [www.lifeclubs.co.uk](http://lifeclubs.co.uk/p/chesham)
@@ -45,12 +51,6 @@ And you can find LIFE CLUBS on social media.
 [Twitter](https://twitter.com/LifeClubs)
 
 Workshops will run at the Bagnall Centre on Saturdays from 9.30am-1.30pm on the following dates. 
-
-1 Workshop £50.
-
-3 Consecutive Workshops £125.
-
-10 Workshops £350. 
 
 **2018**
 
