@@ -27,7 +27,7 @@ featured_image: /uploads/directors-robert-rozagorski.jpg
 
 I’m the founder and Chief Instructor at Bodimprove. I have been training in Martial Arts since the age of 12, that’s 23 years now. At the age of 16, I met 'Sifu Sławomir Pawłowski' and with him, I started training in the 'Shaolin Luohan Quan' Style and many other styles of the Shaolin Martial Order. 
 
-It was also 'Sifu Sławomir' who first introduced me to Qigong & Taiji. Under his supervision, I studied the Qigong systems of Shaolin Ba Duan Jin, Shaolin Yi Jin Jing, introductory exercises to the Xi Sui Jing system, Shi Er Da Jin Gong and the Shaolin system Luohan Zhuang Kung as well as Taiji '24 Yang' Style.
+It was also 'Sifu Sławomir' who first introduced me to Qi Gong & Taiji. Under his supervision, I studied the Qi Gong systems of Shaolin Ba Duan Jin, Shaolin Yi Jin Jing, introductory exercises to the Xi Sui Jing system, Shi Er Da Jin Gong and the Shaolin system Luohan Zhuang Kung as well as Taiji '24 Yang' Style.
 
 In 2016, I made my first visit to Llandudno where I studied Guo Lin Qi Gong under the supervision of Dr Xie. I visited Dr Xie on several occasions, perfecting my style of teaching and in 2017, I had the great honour to become his 'Tudi' (Apprentice) and train continuously with him, every day, for over six months.
 
