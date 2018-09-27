@@ -32,10 +32,10 @@ _Qi Gong for Life practice reduces hypertension, eliminates stress and restores 
 Monday 6-7pm and Wednesday 7-8pm.
 
 
-**Qi Gong for Strength (Intermediate)**
-_Shaolin Luohan Shi Ba Shou (Qi Gong for Strength*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs._
+**Meditation Qi Gong (Beginners/Intermediate)**
+_Shaolin Luohan Shi Ba Shou (Meditation Qi Gong*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs._
 
-** Qi Gong for Strength* - a block runs for 8 weeks and includes 2 classes a week.**
+** Meditation Qi Gong* - a block runs for 8 weeks and includes 2 classes a week.**
 
 Tuesday 7-8pm and Thursday 6-7pm.
 
