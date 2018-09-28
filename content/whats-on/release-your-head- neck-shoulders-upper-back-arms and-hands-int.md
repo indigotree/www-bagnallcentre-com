@@ -12,7 +12,7 @@ This introductory self-massage and fascia release workshop will teach you how t
 
 ​You will discover how to identify painful tension and dehydrated connective tissue (fascia) in your own body and learn how to release and re-hydrate this tissue yourself using small soft balls and rollers.
 
-​You will feel a difference in as little as 10 minutes and when practiced regularly it will improve your body’s ability to restore balance and repair itself, creating remarkable lasting changes. You will see and feel results otherwise only achieved through ongoing, costly hands-on therapies.​
+​You will feel a difference in as little as 10 minutes and when practiced regularly it will improve your body’s ability to restore balance and repair itself, creating remarkable lasting changes. You will see and feel results otherwise only achieved through ongoing, costly hands-on therapies.
 
 Other common benefits include:
 
