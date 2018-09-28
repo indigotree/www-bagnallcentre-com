@@ -11,8 +11,8 @@ level: Beginners/Intermediate
 associate: Robert
 term: Starts 2/10
 room: Classroom
-price: £12 (£160 block booking)
+price: '£12 per class, FIRST CLASS FREE! (£160 block booking)'
 ---
-Shaolin Luohan Shi Ba Shou (Meditation Qi Gong*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs. 
+Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems.
 
  Meditation Qi Gong* - a block runs for 8 weeks and includes 2 classes a week.
