@@ -33,11 +33,11 @@ Monday 6-7pm and Wednesday 7-8pm.
 
 **Meditation Qi Gong (Beginners/Intermediate)**
 
-_Shaolin Luohan Shi Ba Shou (Meditation Qi Gong*) movements stimulate faster blood circulation, develop muscles, strengthen bones, increase tendon elasticity, improve oxygenation of the body, and generate Chi energy flow through reservoirs and meridians, acting favourably on all organs._
+_Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
 
 ** Meditation Qi Gong* - a block runs for 8 weeks and includes 2 classes a week.**
 
-Tuesday 7-8pm and Thursday 6-7pm.
+Tuesday 7-8pm and Wednesday 7-8am.
 
 **Dru Yoga with Carly**
 
@@ -87,4 +87,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
