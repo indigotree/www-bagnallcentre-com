@@ -51,6 +51,6 @@ All equipment needed will be provided for the Workshop and the MELT balls will 
 
 Click [here](https://www.prioritypilates.com/self-massage-workshops) to book on:  
 
-If you have any questions about the workshop contact Helena directly by email to <mailto:infoprioirtypilates@gmail.com> or call [07958 596 597](tel:07958596597)
+If you have any questions about the workshop contact Helena directly by email to <mailto:infoprioritypilates@gmail.com> or call [07958 596 597](tel:07958596597)
 
 \*INT (Introductory) classes are a pre-requisite to other fascia release workshops run by Helena Nilsson Ghosh from Priority Pilates.
