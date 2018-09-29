@@ -35,9 +35,7 @@ Come along to the first Club for free as a taster.
 Then book any of the following packages:-
 1 x Workshop £50
 3 x Workshops £125
-10 xWorkshops £300
-
-Make a clear commitment to your Life in 2018 and in 2019 you will have the best life EVER!
+10 x Workshops £300
 
 **Beware – LIFE CLUBS will change your Life!!**
 
