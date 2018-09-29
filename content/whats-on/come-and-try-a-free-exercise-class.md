@@ -63,7 +63,7 @@ _This is a flow yoga class, introducing teens to a real adult style yoga class. 
 
 _Each class will conclude with a brief guided relaxation, giving teens techniques they can use in daily life to find a sense of calm and well-being whenever they need it._
 
-_No previous yoga experience necessary._
+_No previous yoga experience necessary. Suitable for Y8 children and older._
 
 Wednesday 6-7pm (starts 31st October)
 
@@ -87,4 +87,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-_**Your Lifestyle. Your Health. Your Choices.**_
+**_Your Lifestyle. Your Health. Your Choices._**
