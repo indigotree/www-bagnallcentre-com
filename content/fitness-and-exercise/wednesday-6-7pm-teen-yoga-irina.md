@@ -17,4 +17,4 @@ This is a flow yoga class, introducing teens to a real adult style yoga class. H
 
 Each class will conclude with a brief guided relaxation, giving teens techniques they can use in daily life to find a sense of calm and well-being whenever they need it. 
 
-No previous yoga experience necessary.
+No previous yoga experience necessary. Suitable for Y8 children and older.
