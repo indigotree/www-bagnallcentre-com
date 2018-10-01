@@ -4,7 +4,7 @@ description: >-
   Our monthly LIFE  CLUBs start by asking this question which sets the positive,
   solution-focused approach. 
 yoast_keyword: life clubs coaching
-draft: true
+draft: false
 starts_at: '2018-10-13T09:30:25+01:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 ---
@@ -30,12 +30,17 @@ We set goals and actions which take Clubbers nearer to the life they want.
 
 So if you want to get more out of life, be in control, turn your life around, come along once a month and learn to Laugh More, Love More, Play More and Earn More!
 
-Come along to the first Club for free as a taster.
+1st Workshop £50*
 
-Then book any of the following packages:-
-1 x Workshop £50
-3 x Workshops £125
-10 x Workshops £300
+3 Workshops £125
+
+10 Workshops £350
+
+Concessions for students, over 65's, disabled and unwaged £20.
+
+Book now to get 2019 Workshops at  current rates.
+
+\*Will count towards package of three and ten if subsequently booked.
 
 **Beware – LIFE CLUBS will change your Life!!**
 
