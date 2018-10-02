@@ -13,7 +13,7 @@ term: Starts 2/10
 room: Classroom
 price: '£12 per class, FIRST CLASS FREE! (£160 block booking)'
 ---
-Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and highly effective meditation process that can improve your overall health and well-being. Qigong is an ancient Chinese system of health cultivation. Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course._
+Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and highly effective meditation process that can improve your overall health and well-being. Qigong is an ancient Chinese system of health cultivation. Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course.
  
 During this 8 week course you will learn 2 Qigong Meditation Systems that you can take home and practice whenever you like.
 
