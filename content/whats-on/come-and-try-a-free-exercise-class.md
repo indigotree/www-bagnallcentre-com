@@ -39,7 +39,13 @@ _During this 8 week course you will learn 2 Qigong Meditation Systems that you c
 
 ** Meditation Qi Gong* - a block runs for 9 weeks and includes 2 classes a week.**
 
-Tuesday 7-8pm and Wednesday 7-8am.
+Tuesday 7-8pm and Wednesday 6-7pm.
+
+**Morning Meditation**
+
+_Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
+
+Wednesday 7-8am. 
 
 **Dru Yoga with Carly**
 
