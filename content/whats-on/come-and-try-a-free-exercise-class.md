@@ -43,7 +43,9 @@ Tuesday 7-8pm and Wednesday 6-7pm.
 
 **Morning Meditation**
 
-_Meditation and Qi Gong practice reduces hypertension, eliminates stress and restores optimal function of internal organs. Calmness and relaxation during exercises affect the whole body, improving functions of the digestive, circulatory, nervous and immune systems._
+_Qigong is an ancient Chinese method to strengthen life energy (Qi). It makes you feel stronger, and more relaxed. There are studies suggesting that regular practice reduces stress, improves health, and enhances quality of life._
+
+_This Morning Qigong is for you if you're ready to wake up everyday before the sunrise and come to the Bagnall Centre to practice for 45 minutes Qigong exercises that will increase your energy, and help you deal with stress during the day._
 
 Wednesday 7-8am. 
 
