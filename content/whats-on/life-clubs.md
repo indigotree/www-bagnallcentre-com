@@ -54,7 +54,7 @@ And you can find LIFE CLUBS on social media.
 
 [Twitter](https://twitter.com/LifeClubs)
 
-Workshops will run at the Bagnall Centre on Saturdays from 9.30am-1.30pm on the following dates. 
+Workshops will run at the Bagnall Centre on Saturdays from 10am-1pm on the following dates. 
 
 **2018**
 
