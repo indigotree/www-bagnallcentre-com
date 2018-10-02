@@ -37,7 +37,7 @@ _Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and
 
 Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course._
  
-_During this 8 week course you will learn 2 Qigong Meditation Systems that you can take home and practice whenever you like._
+_During this 9 week course you will learn 2 Qigong Meditation Systems that you can take home and practice whenever you like._
 
 ** Meditation Qi Gong* - a block runs for 9 weeks and includes 2 classes a week.**
 
