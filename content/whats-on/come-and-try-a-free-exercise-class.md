@@ -33,7 +33,9 @@ Monday 6-7pm and Wednesday 7-8pm.
 
 **Meditation Qi Gong (Beginners/Intermediate)**
 
-_Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and highly effective meditation process that can improve your overall health and well-being. Qigong is an ancient Chinese system of health cultivation. Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course._
+_Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and highly effective meditation process that can improve your overall health and well-being. Qigong is an ancient Chinese system of health cultivation. 
+
+Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course._
  
 _During this 8 week course you will learn 2 Qigong Meditation Systems that you can take home and practice whenever you like._
 
@@ -45,7 +47,8 @@ Tuesday 7-8pm and Wednesday 6-7pm.
 
 _Qigong is an ancient Chinese method to strengthen life energy (Qi). It makes you feel stronger, and more relaxed. There are studies suggesting that regular practice reduces stress, improves health, and enhances quality of life._
 
-_This Morning Qigong is for you if you're ready to wake up everyday before the sunrise and come to the Bagnall Centre to practice for 45 minutes Qigong exercises that will increase your energy, and help you deal with stress during the day._
+_This Morning Qigong is for you if you're ready to wake up everyday before the sunrise and come to the Bagnall Centre to practice Qigong exercises for an hour to increase your energy and help you deal with stress during the day._
+
 
 Wednesday 7-8am. 
 
