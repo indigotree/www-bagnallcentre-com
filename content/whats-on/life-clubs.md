@@ -1,11 +1,11 @@
 ---
-title: Life Clubs
+title: Life Clubs - What's Your Best Thing Today?
 description: >-
   Our monthly LIFE  CLUBs start by asking this question which sets the positive,
   solution-focused approach. 
 yoast_keyword: life clubs coaching
 draft: false
-starts_at: '2018-10-13T09:30:25+01:00'
+starts_at: '2018-10-13T10:00:25+01:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 ---
 ![LIFE CLUBS group](/uploads/life-clubs-group-canva-510x250.jpg)
