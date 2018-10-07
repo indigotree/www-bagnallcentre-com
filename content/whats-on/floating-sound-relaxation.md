@@ -1,9 +1,11 @@
 ---
 title: 'Floating Sound Relaxation '
-description: Decompress from your busy week and start the weekend feeling relaxed!
+description: >-
+  Decompress from your busy week and start the weekend feeling relaxed! Fully
+  booked for the rest of 2018, new dates for 2019 coming soon!
 yoast_keyword: Floating Sound Relaxation
 draft: false
-starts_at: '2018-10-12T18:00:52+01:00'
+starts_at: '2019-01-04T18:00:52+00:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
 event_categories: ''
 ---
