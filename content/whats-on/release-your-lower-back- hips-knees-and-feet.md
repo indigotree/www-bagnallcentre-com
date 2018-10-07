@@ -5,7 +5,7 @@ yoast_keyword: massage
 draft: false
 starts_at: '2018-10-06T14:15:18+01:00'
 featured_image: /uploads/melt-workshop-6-oct-2018-510x250px.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![self massage fascia release workshop](/uploads/melt-workshop-6-oct-2018-510x250px.jpg)
 
