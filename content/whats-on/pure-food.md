@@ -7,7 +7,7 @@ yoast_keyword: cookery
 draft: false
 starts_at: '2018-10-06T10:00:20+01:00'
 featured_image: /uploads/pure-food-banner-canva-510x250px.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![Pure Food poster](/uploads/pure-food-banner-canva-510x250px.jpg)
 
