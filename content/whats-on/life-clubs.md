@@ -9,7 +9,7 @@ starts_at: '2018-10-13T10:00:25+01:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 event_categories: featured
 ---
-![LIFE CLUBS group](/uploads/life-clubs-group-canva-510x250.jpg)
+![LIFE CLUBS ](/uploads/life-clubs-logo-canva-510x250px.jpg)
 
 ## What’s Your  Best  Thing  Today?
 
