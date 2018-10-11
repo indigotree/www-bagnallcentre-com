@@ -10,6 +10,8 @@ Taiji Stick FORM Workshop - Health Preservation Exercise
 
 (Tai Ji Yang Sheng Zhang)
 
+![Taiji Stick Workshop](/uploads/taiji-stick-workshop-image-canva-510-x-250px.jpg)
+
 In China’s traditional health culture, it has long been a practice to exercise with an instrument like a stick. Excavated from the Mawangdui Tomb, Han Dynasty (206BC - AD220) are illustrations of figures yielding sticks.
 
 All the movements are soft and slow, easy to practise and embody the concept of harmony between yin and yang. 
