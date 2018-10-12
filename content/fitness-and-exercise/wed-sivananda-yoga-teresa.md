@@ -10,7 +10,7 @@ level: Mixed Ability
 associate: Teresa
 term: Ongoing
 room: Classroom
-price: '£10 (£8 block booking), FIRST CLASS FREE!'
+price: £10 (£8 block booking)
 ---
 
 Sivanada Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice.
