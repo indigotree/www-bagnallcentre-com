@@ -36,7 +36,7 @@ Monday 6-7pm and Wednesday 7-8pm.
 _Inner Nourishing Qigong Meditation or 12 Pieces of Brocade is an accessible and highly effective meditation process that can improve your overall health and well-being. Qigong is an ancient Chinese system of health cultivation. 
 
 Utilising breath and simple movements, Inner Nourishing Qigong Meditation gives your mind something to do during meditation. The static forms are similar to meditation in which there is no physical movement, and are performed in the sitting position. Motional forms are embodied in self-massage and the 12 sets of sitting forms. Both the static and dynamic forms are intertwined in a combination of mind, body, and breath.  Chinese Medicine Essential Foundations will also be taught during this course._
- 
+
 _During this 9 week course you will learn 2 Qigong Meditation Systems that you can take home and practice whenever you like._
 
 ** Meditation Qi Gong* - a block runs for 9 weeks and includes 2 classes a week.**
@@ -49,7 +49,6 @@ _Qigong is an ancient Chinese method to strengthen life energy (Qi). It makes yo
 
 _This Morning Qigong is for you if you're ready to wake up everyday before the sunrise and come to the Bagnall Centre to practice Qigong exercises for an hour to increase your energy and help you deal with stress during the day._
 
-
 Wednesday 7-8am. 
 
 **Dru Yoga with Carly**
@@ -57,7 +56,6 @@ Wednesday 7-8am.
 _With its foundations set firmly in ancient yogic tradition and its emphasis on soft, flowing movements, Dru Yoga can help increase energy levels, ease back pain, and wash away stress._
 
 Tuesday 10-11am
-
 
 **Meditation & Qi Gong (Beginners)**
 
@@ -75,12 +73,6 @@ _No previous yoga experience necessary. Suitable for Y8 children and older._
 
 Wednesday 6-7pm (starts 31st October)
 
-**Sivananda Yoga with Teresa**
-
-_Sivananda Yoga is a traditional, holistic Yoga system that combines pranayama (breathing), asana (posture) and relaxation to build strength, flexibility and a deep meditative practice._
-
-Wednesday 8-9pm & Saturday 9-10am
-
 **Body Weight Circuit Training with Betty**
 
 _Body Weight Circuit Training with Betty is a great cardio workout, also working on toning and strengthening the body. A challenging workout, combining high impact with low intensity. Suitable for all abilities - the only competition is with yourself!_
@@ -95,4 +87,4 @@ Saturday 10-10.45am (Reception to Y3), 11-11.55am (Y4-Y7)
 
 Email us at <mailto:bookings@bagnallcentre.com> or ring [01494 791288 ](tel:01494791288)to reserve your place! 
 
-**_Your Lifestyle. Your Health. Your Choices._**
+_**Your Lifestyle. Your Health. Your Choices.**_
