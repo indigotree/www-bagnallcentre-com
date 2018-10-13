@@ -3,7 +3,7 @@ title: 'Taiji Stick Workshop '
 description: Taiji Stick Workshop
 yoast_keyword: Taiji
 draft: false
-starts_at: '2018-10-14T10:00:41+01:00'
+starts_at: '2018-12-09T10:00:41+00:00'
 featured_image: /uploads/taiji-stick-workshop-image-canva-510-x-250px.jpg
 ---
 Taiji Stick FORM Workshop - Health Preservation Exercise
