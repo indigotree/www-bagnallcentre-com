@@ -161,7 +161,7 @@ var CategoriesControl = createClass({
 
 
 
-CMS.registerPreviewStyle('https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.css');
+CMS.registerPreviewStyle('https://unpkg.com/netlify-cms-yoast-seo@1.0.3/dist/main.css');
 
 // Pages
 //
