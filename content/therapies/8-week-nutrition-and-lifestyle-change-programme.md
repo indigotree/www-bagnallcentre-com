@@ -1,6 +1,6 @@
 ---
 title: '8-week Nutrition and Lifestyle Change Programme '
-banner: ''
+banner: /uploads/joint-logo-canva-510-x-250-px.jpg
 description: 'Who is this for? Read more in our Programme Outline '
 yoast_keyword: diabetes
 treatments: lifestyle
@@ -29,7 +29,7 @@ The programme includes:
 
 This will be based on a reduced calorie, reduced carbohydrate Mediterranean style diet, which will be tailored to your individual needs, considering your current health including diagnosed medical conditions and any additional symptoms such as digestive issues or fatigue, any medications, personal preferences and time constraints. 
 
-**Please note:** 
+**Please note:**
 
 **IF you are taking one or more blood sugar lowering medications, you MUST discuss suitability of a reduced carbohydrate diet with your GP before starting this programme.   Medication does not exclude you from this programme but may require additional blood glucose monitoring or adjustments to medication* which will need to be discussed/managed by your GP.  If you choose not to discuss this with your GP, you do so as an independent choice.**
 
