@@ -1,11 +1,12 @@
 ---
-title: "Lifestyle"
-description: ""
-treatments: "lifestyle"
-banner: "/uploads/header-nutrition.jpg"
-colour: "success"
+title: Lifestyle
+banner: /uploads/header-nutrition.jpg
+description: ' It’s important to identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation.'
+yoast_keyword: lifestyle
+treatments: lifestyle
 draft: false
-featured_image: "/uploads/image-meditation-1920.jpg"
+featured_image: /uploads/image-meditation-1920.jpg
+colour: success
 ---
 
 It’s important to identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation.
