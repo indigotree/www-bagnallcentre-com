@@ -35,9 +35,9 @@ This will be based on a reduced calorie, reduced carbohydrate Mediterranean styl
 
 As part of the 8-week programme you will be provided with advice and support on key lifestyle factors associated with overall health:
 
-**Sleep: **developing strategies for improving quality and duration of sleep.
+**Sleep:** developing strategies for improving quality and duration of sleep.
 
-**Stress management and relaxation: **identifying and addressing causes of stress and learning how to support relaxation through mindfulness and breathing exercises. 
+**Stress management and relaxation:** identifying and addressing causes of stress and learning how to support relaxation through mindfulness and breathing exercises. 
 
 **Activity levels:** helping you to find achievable ways of incorporating more regular physical activity into your week.  
 
