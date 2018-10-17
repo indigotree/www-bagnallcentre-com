@@ -29,13 +29,7 @@ Results from several studies have shown that calorie and carbohydrate restricted
 Lifestyle factors including activity levels, sleep and stress management all appear to have a significant impact on both current health and future health risks and may all play a key role in the development and subsequent management of type 2 diabetes. For example:
 
 * It is well established that regular physical activity can improve insulin sensitivity and blood glucose control, with modest physical activity being found to be associated with a 58% reduction in risk of type 2 diabetes in high risk populations.
-
-
-
 * Epidemiological data indicates a relationship between sleep duration, obesity and HBA1c levels in type 2 diabetes which may be driven by the association between lack of sleep and lower circulating levels of the satiety hormone leptin, coupled with increased levels of the appetite-stimulating hormone ghrelin. Combined, these may encourage increased energy intake, potentially leading to obesity and elevated blood glucose, both of which are precursors to type 2 diabetes. 
-
-
-
 * Psychological stress is known to have a negative impact on blood sugar management, with some researchers hypothesising that mind-body therapies may have a positive impact on type 2 diabetes, through down-regulation of the hypothalamic-pituitary axis.
 
 ## Supporting Adherence to a Diet and Lifestyle Programme
@@ -79,8 +73,6 @@ De Geest, S. & Sabaté, E., 2003. Adherence to long-term therapies: Evidence for
 Miles, H.G.E. & Barrow, M., 2018. Committed To Weightloss: An IPA Analysis into the Experiences of Individuals Who Lost Weight Through Nutritional Intervention. Current Research in Nutrition and Food Science Journal, 6(1), pp.51–69. Available at: [www.foodandnutritionaljournal.org ](http://www.foodandnutritionjournal.org/volume6number1/committed-to-weight-loss-an-ipa-analysis-into-the-experiences-of-individuals-who-lost-weight-through-nutritional-intervention/)
 
 Muñoz Obino, K.F., Aguiar Pereira, C. & Caron-Lienert, R.S., 2017. Coaching and barriers to weight loss: An integrative review. Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, 10, pp.1–11.
-
-
 
 Your Lifestyle. Your Health. Your Choices. 
 
