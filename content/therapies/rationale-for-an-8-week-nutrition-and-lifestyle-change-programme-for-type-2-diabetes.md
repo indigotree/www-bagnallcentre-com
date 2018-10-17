@@ -74,7 +74,6 @@ Miles, H.G.E. & Barrow, M., 2018. Committed To Weightloss: An IPA Analysis into 
 
 Muñoz Obino, K.F., Aguiar Pereira, C. & Caron-Lienert, R.S., 2017. Coaching and barriers to weight loss: An integrative review. Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, 10, pp.1–11.
 
-Your Lifestyle. Your Health. Your Choices. 
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
 For enquiries call [01494 791288](tel:01494791288)
