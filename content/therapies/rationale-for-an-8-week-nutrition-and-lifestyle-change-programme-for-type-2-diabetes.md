@@ -40,6 +40,8 @@ One of the challenges associated with any diet and lifestyle change programme is
 
 Nutritional therapist and health coach Holly Miles, in conjunction with the Bagnall Centre for Integrated Healthcare, has developed an 8-week diet and lifestyle change programme which aims to address key diet and lifestyle factors associated with type 2 diabetes. The programme includes a personalised diet, advice on sleep, activity levels and stress management and regular coaching sessions which provide structure and accountability, on-going advice and education, strategies for overcoming any barriers to change and regular monitoring to help keep participants on track. 
 
+![](/uploads/joint-logo-canva-510-x-250-px.jpg)
+
 **References**
 
 [www.england.nhs.uk/diabetes/diabetes-prevention](www.england.nhs.uk/diabetes/diabetes-prevention)
@@ -73,7 +75,6 @@ De Geest, S. & Sabaté, E., 2003. Adherence to long-term therapies: Evidence for
 Miles, H.G.E. & Barrow, M., 2018. Committed To Weightloss: An IPA Analysis into the Experiences of Individuals Who Lost Weight Through Nutritional Intervention. Current Research in Nutrition and Food Science Journal, 6(1), pp.51–69. Available at: [www.foodandnutritionaljournal.org ](http://www.foodandnutritionjournal.org/volume6number1/committed-to-weight-loss-an-ipa-analysis-into-the-experiences-of-individuals-who-lost-weight-through-nutritional-intervention/)
 
 Muñoz Obino, K.F., Aguiar Pereira, C. & Caron-Lienert, R.S., 2017. Coaching and barriers to weight loss: An integrative review. Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy, 10, pp.1–11.
-
 
 {{< cta button="Ring Now" link="tel:01494791288">}}
 For enquiries call [01494 791288](tel:01494791288)
