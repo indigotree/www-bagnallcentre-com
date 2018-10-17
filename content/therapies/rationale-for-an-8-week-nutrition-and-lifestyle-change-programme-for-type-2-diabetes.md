@@ -2,7 +2,7 @@
 title: >-
   Rationale for an 8-week Nutrition and Lifestyle Change Programme for Type 2
   Diabetes
-banner: /uploads/nutrition-lifestyle.jpg
+banner: ''
 description: >-
   We are now running a Nutrition and Lifestyle Change Programme in conjunction
   with nutritional therapist and life coach Holly Miles.
