@@ -1,6 +1,6 @@
 ---
 title: '8-week Nutrition and Lifestyle Change Programme '
-banner: /uploads/joint-logo-canva-510-x-250-px.jpg
+banner: /uploads/apple-burger-canva-510x250px.jpg
 description: 'Who is this for? Read more in our Programme Outline '
 yoast_keyword: diabetes
 treatments: lifestyle
