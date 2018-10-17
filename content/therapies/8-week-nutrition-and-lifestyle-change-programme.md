@@ -21,6 +21,8 @@ If you answered “yes” to any of these questions you may be interested in our
 
 An 8-week diet and lifestyle change programme run by BANT and CNHC registered nutritional therapist and health coach Holly Miles, in conjunction with the Bagnall Centre for Integrated Healthcare. This programme has been developed to support healthy weight loss, improve overall health and wellness and help improve blood sugar control. 
 
+![](/uploads/joint-logo-canva-510-x-250-px.jpg)
+
 Holly Miles will be holding 2 information sessions about the programme at 7.30pm on Wednesday 7th November and 12.30pm on Thursday 8th November. Please book in advance as places are limited. Contact <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to reserve your place. 
 
 The programme includes:
