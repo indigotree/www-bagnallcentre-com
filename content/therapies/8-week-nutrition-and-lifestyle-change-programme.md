@@ -31,7 +31,7 @@ This will be based on a reduced calorie, reduced carbohydrate Mediterranean styl
 
 **Please note:** 
 
-IF you are taking one or more blood sugar lowering medications, you MUST discuss suitability of a reduced carbohydrate diet with your GP before starting this programme.   Medication does not exclude you from this programme but may require additional blood glucose monitoring or adjustments to medication* which will need to be discussed/managed by your GP.  If you choose not to discuss this with your GP, you do so as an independent choice.
+**IF you are taking one or more blood sugar lowering medications, you MUST discuss suitability of a reduced carbohydrate diet with your GP before starting this programme.   Medication does not exclude you from this programme but may require additional blood glucose monitoring or adjustments to medication which will need to be discussed/managed by your GP.  If you choose not to discuss this with your GP, you do so as an independent choice.**
 
 ## Advice on Lifestyle
 
