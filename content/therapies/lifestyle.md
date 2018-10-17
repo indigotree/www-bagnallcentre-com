@@ -4,7 +4,7 @@ banner: /uploads/header-nutrition.jpg
 description: ' It’s important to identify what lifestyle changes we feel will make us happiest, and these don’t need to involve a full-scale transformation.'
 yoast_keyword: lifestyle
 treatments: lifestyle
-draft: false
+draft: true
 featured_image: /uploads/image-meditation-1920.jpg
 colour: success
 ---
