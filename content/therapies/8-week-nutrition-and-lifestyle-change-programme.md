@@ -8,8 +8,6 @@ draft: false
 featured_image: /uploads/joint-logo-canva-510-x-250-px.jpg
 colour: success
 ---
-# 8-week Nutrition and Lifestyle Change Programme 
-
 ## Who is this for?
 
 * Are you a type 2 diabetic, pre-diabetic or concerned that you may be at risk of developing type 2 diabetes?
@@ -43,7 +41,7 @@ As part of the 8-week programme you will be provided with advice and support on 
 
 **Activity levels:** helping you to find achievable ways of incorporating more regular physical activity into your week.  
 
-## Weekly Appointments:  
+## Weekly Appointments:
 
 You will receive 8 regular weekly appointments to provide on-going advice and accountability, help with addressing any physical or emotional barriers to change and the encouragement to stay motivated.  These sessions can also be used to help you work through issues which may be contributing to stress such as poor work/life balance and low self-esteem or to help you work through other personal challenges.
 
