@@ -16,7 +16,7 @@ colour: success
 
 According to NHS England there are 3.4 million people living with type 2 diabetes in the UK, with around 200,000 new diagnoses each year. Not only is type 2 diabetes currently estimated to cost the NHS around £8.8 billion a year, but there is also a significant personal cost to those individuals living with this disease, which if not controlled can lead to numerous complications and have a significant impact on quality of life.
 
-Type 2 diabetes is generally regarded as being a chronic, progressive disease which over time leads to irreversible beta cell failure, with some patients eventually requiring long   term medication. Whilst some individuals appear to be genetically at greater risk of developing type 2 diabetes, diet and lifestyle are understood to play a significant role in its development., ,    
+Type 2 diabetes is generally regarded as being a chronic, progressive disease which over time leads to irreversible beta cell failure, with some patients eventually requiring long   term medication. Whilst some individuals appear to be genetically at greater risk of developing type 2 diabetes, diet and lifestyle are understood to play a significant role in its development.    
 
 There is now a growing body of evidence to suggest that it may be possible to “reverse” or put type 2 diabetes into “remission” (where individuals with type 2 diabetes are able to get their HbA1c below 42 mmol/mol), through a combination of diet and lifestyle changes which support weight loss and improve the function of insulin in the body. 
 
