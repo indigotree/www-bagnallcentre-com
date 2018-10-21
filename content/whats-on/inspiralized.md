@@ -5,7 +5,7 @@ yoast_keyword: cookery class
 draft: false
 starts_at: '2018-10-20T10:00:19+01:00'
 featured_image: /uploads/inspiralized-canva-510x250pix.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![cookery class](/uploads/inspiralized-poster.jpg)
 
