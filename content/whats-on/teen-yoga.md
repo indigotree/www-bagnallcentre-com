@@ -7,6 +7,7 @@ yoast_keyword: teen yoga
 draft: false
 starts_at: '2018-10-31T18:00:59+00:00'
 featured_image: /uploads/yoga-tree-canva-510x250px.jpg
+event_categories: featured
 ---
 ![yoga](/uploads/yoga-tree-canva-510x250px.jpg)
 
