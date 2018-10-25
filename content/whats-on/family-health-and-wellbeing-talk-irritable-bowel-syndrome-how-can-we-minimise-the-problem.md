@@ -11,7 +11,7 @@ starts_at: '2018-11-12T10:00:29+00:00'
 featured_image: /uploads/chairs-on-wire-unsplash-24.10.18.jpg
 event_categories: ''
 ---
-![gut health IBS](/uploads/chairs-on-wire-unsplash-24.10.18.jpg)
+![chairs](/uploads/chairs-on-wire-unsplash-24.10.18.jpg)
 
 Respected wellbeing expert Brian Isbell, an experienced natural health practitioner and educator, is holding regular Bagnall Centre Family Health and Wellbeing talks on Monday mornings. 
 
