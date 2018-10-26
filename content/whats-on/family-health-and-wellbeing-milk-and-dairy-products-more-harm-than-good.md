@@ -1,39 +1,36 @@
 ---
-title: >-
-  Family Health and Wellbeing Talk - Milk and Dairy Products - more harm than
-  good? 
+title: 'Family Health and Wellbeing Talk - Dowsing - what is the use of it? '
 description: >-
-  Our Autumn Family Health and Wellbeing Talk Programme starts on Monday 10th
-  September. 
-yoast_keyword: health
+  Our December Family Health and Wellbeing Talk Programme will explore dowsing
+  and includes a practical session. 
+yoast_keyword: dowsing
 draft: false
-starts_at: '2018-09-10T10:00:45+01:00'
-featured_image: /uploads/milk-canva-510x250.jpg
+starts_at: '2018-12-10T10:00:45+00:00'
+featured_image: /uploads/dowsing-canva-510x250px.jpg
 event_categories: ''
 ---
-![milk](/uploads/milk-canva-510x250.jpg)
+![dowsing](/uploads/dowsing-canva-510x250px.jpg)
 
 Respected wellbeing expert Brian Isbell, an experienced natural health practitioner and educator, is holding regular Bagnall Centre Family Health and Wellbeing talks on Monday mornings. 
 
 The talks are open to our customers and complementary health professionals who wish to broaden and deepen their knowledge of self-care and integrated healthcare. These talks will help you and your family understand and implement simple and effective health and wellbeing practices.
 
-Our next talk will focus on Milk and Dairy Products and their effect on our health. 
+Our next talk will focus on Dowsing and will include a practical session. 
 
 The topics included are: 
 
-* What are dairy products?
-* A comparison of different milks.
-* Examples of non nutritional components in milk.
-* The problems with lactose and milk proteins.
-* The body’s response to dairy and common symptoms.
-* Aspects to consider about dietary changes and ways to conduct a dairy elimination diet.
-* Dairy industry environmental factors.
-* Nutritional aspects of full fat products.
-* The process of pasteurisation and arguments for and against.
-* The homogenisation process and concerns.
-* The effects of dairy on nutrition.
+* What is dowsing?
+* What equipment is used?
+* How is it carried out?
+* What preparation is needed?
+* How to use rods.
+* Number, map and water dowsing. 
+* Research evidence and the medical opinion of dowsing.
 
-**10am-12pm, Monday 10th September.**
+
+The slightly shorter talk will be followed by an opportunity to use a pendulum and dowsing rods.
+
+**10am-12pm, Monday 10th December.**
 
 **Price: £10 including refreshments (please book in advance to avoid disappointment!).** 
 
