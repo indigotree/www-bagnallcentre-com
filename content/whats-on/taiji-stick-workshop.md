@@ -1,6 +1,8 @@
 ---
 title: 'Taiji Stick Workshop '
-description: Taiji Stick Workshop
+description: >-
+  Experience a Taiji Stick Workshop - all the movements are soft and slow, easy
+  to practise and embody the concept of harmony between yin and yang. 
 yoast_keyword: Taiji
 draft: false
 starts_at: '2018-12-09T10:00:41+00:00'
