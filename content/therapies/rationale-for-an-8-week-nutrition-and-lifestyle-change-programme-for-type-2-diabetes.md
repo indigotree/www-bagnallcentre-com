@@ -4,12 +4,12 @@ title: >-
   Diabetes
 banner: /uploads/image-diabetes-chronic-disease-small.jpg
 description: >-
-  We are now running a Nutrition and Lifestyle Change Programme in conjunction
-  with nutritional therapist and life coach Holly Miles.
+  A Nutrition and Lifestyle Change Programme with nutritional therapist and life
+  coach Holly Miles.
 yoast_keyword: Diabetes
 treatments: lifestyle
 draft: false
-featured_image: /uploads/joint-logo-canva-510-x-250-px.jpg
+featured_image: /uploads/holly-miles-logo-canva-510x250px.jpg
 colour: success
 ---
 # Type 2 Diabetes
@@ -38,9 +38,9 @@ One of the challenges associated with any diet and lifestyle change programme is
 
 ## Our 8-Week Diet and Lifestyle Change Programme
 
-Nutritional therapist and health coach Holly Miles, in conjunction with the Bagnall Centre for Integrated Healthcare, has developed an 8-week diet and lifestyle change programme which aims to address key diet and lifestyle factors associated with type 2 diabetes. The programme includes a personalised diet, advice on sleep, activity levels and stress management and regular coaching sessions which provide structure and accountability, on-going advice and education, strategies for overcoming any barriers to change and regular monitoring to help keep participants on track. 
+Nutritional therapist and health coach Holly Miles has developed an 8-week diet and lifestyle change programme which aims to address key diet and lifestyle factors associated with type 2 diabetes. The programme includes a personalised diet, advice on sleep, activity levels and stress management and regular coaching sessions which provide structure and accountability, on-going advice and education, strategies for overcoming any barriers to change and regular monitoring to help keep participants on track. 
 
-![](/uploads/joint-logo-canva-510-x-250-px.jpg)
+![null](/uploads/holly-miles-logo-canva-510x250px.jpg)
 
 **References**
 
