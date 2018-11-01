@@ -5,7 +5,7 @@ description: 'Who is this for? Read more in our Programme Outline '
 yoast_keyword: diabetes
 treatments: lifestyle
 draft: false
-featured_image: /uploads/joint-logo-canva-510-x-250-px.jpg
+featured_image: /uploads/holly-miles-logo-canva-510x250px.jpg
 colour: success
 ---
 ## Who is this for?
@@ -19,9 +19,9 @@ If you answered “yes” to any of these questions you may be interested in our
 
 ## About the Programme
 
-An 8-week diet and lifestyle change programme run by BANT and CNHC registered nutritional therapist and health coach Holly Miles, in conjunction with the Bagnall Centre for Integrated Healthcare. This programme has been developed to support healthy weight loss, improve overall health and wellness and help improve blood sugar control. 
+An 8-week diet and lifestyle change programme run by BANT and CNHC registered nutritional therapist and health coach Holly Miles. This programme has been developed to support healthy weight loss, improve overall health and wellness and help improve blood sugar control. 
 
-![](/uploads/joint-logo-canva-510-x-250-px.jpg)
+![holly miles](/uploads/holly-miles-logo-canva-510x250px.jpg)
 
 Holly Miles will be holding 2 information sessions about the programme at 7.30pm on Wednesday 7th November and 12.30pm on Thursday 8th November. Please book in advance as places are limited. Contact <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to reserve your place. 
 
@@ -33,7 +33,7 @@ This will be based on a reduced calorie, reduced carbohydrate Mediterranean styl
 
 **Please note:**
 
-**IF you are taking one or more blood sugar lowering medications, you MUST discuss suitability of a reduced carbohydrate diet with your GP before starting this programme.   Medication does not exclude you from this programme but may require additional blood glucose monitoring or adjustments to medication* which will need to be discussed/managed by your GP.  If you choose not to discuss this with your GP, you do so as an independent choice.**
+**IF you are taking one or more blood sugar lowering medications, you MUST discuss suitability of a reduced carbohydrate diet with your GP before starting this programme. Medication does not exclude you from this programme but may require additional blood glucose monitoring or adjustments to medication* which will need to be discussed/managed by your GP.  If you choose not to discuss this with your GP, you do so as an independent choice.**
 
 ## Advice on Lifestyle
 
@@ -55,7 +55,7 @@ As part of your appointments we will track progress using a Tanita Body Composit
 
 If you have any queries about your programme or feel you need some additional motivation, Holly will be available to offer support via email between sessions.\*\**
 
-\* The Bagnall Centre for Integrated Healthcare and Holly Miles Nutrition cannot give advice on medication.
+\* Holly Miles Nutrition cannot give advice on medication.
 
 \*\* Tanita body composition analysers are not suitable for anyone with an implanted medical device such as a pacemaker.  
 
@@ -65,7 +65,7 @@ If you have any queries about your programme or feel you need some additional mo
 
 If you would like to know more about the programme, please email Holly Miles on <mailto:info@hollymilesnutrition.co.uk> to arrange an initial chat over the phone.  
 
-Alternatively, if you would like to book a place on this programme, please contact the Bagnall Centre of Integrated Healthcare by email to <mailto:bookings@bagnallcentre.com> or you can phone [01494 791288 ](tel:01494791288)to book your place.  Once your booking is confirmed you will be sent a number of documents which will need completing and returning a minimum of 48 hours before your first appointment.  These include:
+Alternatively, if you would like to book a place on this programme, please contact the Bagnall Centre for Integrated Healthcare by email to <mailto:bookings@bagnallcentre.com> or you can phone [01494 791288 ](tel:01494791288)to book your place.  Once your booking is confirmed you will be sent a number of documents which will need completing and returning a minimum of 48 hours before your first appointment.  These include:
 
 * Terms of engagement 
 * Health questionnaire 
