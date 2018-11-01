@@ -7,6 +7,7 @@ yoast_keyword: cookery
 draft: false
 starts_at: '2018-11-25T10:00:20+00:00'
 featured_image: /uploads/virtuous-indulgence-canva-510x250px.jpg
+event_categories: featured
 ---
 ![cookery class](/uploads/virtuous-indulgence-canva-510x250px.jpg)
 
