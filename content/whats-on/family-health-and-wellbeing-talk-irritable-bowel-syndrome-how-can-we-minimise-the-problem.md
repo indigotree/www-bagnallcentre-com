@@ -9,7 +9,7 @@ yoast_keyword: sitting
 draft: false
 starts_at: '2018-11-12T10:00:29+00:00'
 featured_image: /uploads/chairs-on-wire-unsplash-24.10.18.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![chairs](/uploads/chairs-on-wire-unsplash-24.10.18.jpg)
 
