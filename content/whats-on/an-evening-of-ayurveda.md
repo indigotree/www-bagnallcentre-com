@@ -1,6 +1,6 @@
 ---
 title: An Evening of Ayurveda
-description: 'Come and enjoy a Yoga Session and Supper Club with Teresa and Zoe '
+description: Come and enjoy a Yoga Session and Supper Club with Teresa
 yoast_keyword: Ayurveda
 draft: false
 starts_at: '2018-12-14T18:00:31+00:00'
