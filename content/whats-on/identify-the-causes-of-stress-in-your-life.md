@@ -17,4 +17,4 @@ Sign up quickly for the few remaining spaces.
 
 **Wednesday 7th November 11.30am and Friday 9th November 2pm.**
 
-Enquire at Reception by emailing <mailto:bookings@bagnallcentre.com> or calling [01494 791288](tel:01494791288) or to find out more call Chris on [07904 420317](tel:07904420317)
+Enquire at Reception by emailing <mailto:bookings@bagnallcentre.com> or calling [01494 791288](tel:01494791288) or to find out more call Chris on [07904 420317](tel:07904420317).
