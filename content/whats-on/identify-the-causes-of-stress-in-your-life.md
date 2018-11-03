@@ -1,5 +1,5 @@
 ---
-title: Identify the causes of stress in your life
+title: LifeClubs - Identify the causes of stress in your life
 description: >-
   LifeClubs are offering free 1:1 sessions during International Stress Awareness
   Week
