@@ -5,7 +5,7 @@ description: >-
   Week
 yoast_keyword: stress
 draft: false
-starts_at: '2018-11-11T11:30:00+00:00'
+starts_at: '2018-11-07T11:30:00+00:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 event_categories: featured
 ---
