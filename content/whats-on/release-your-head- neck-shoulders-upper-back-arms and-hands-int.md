@@ -5,7 +5,7 @@ yoast_keyword: fascia release workshop
 draft: false
 starts_at: '2018-11-10T14:00:59+00:00'
 featured_image: /uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![fascia release workshop](/uploads/hand-workshop-for-10.11.18-workshop-canva-510x250px.jpg)
 
