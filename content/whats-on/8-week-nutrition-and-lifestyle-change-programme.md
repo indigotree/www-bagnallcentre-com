@@ -8,7 +8,7 @@ yoast_keyword: lifestyle
 draft: false
 starts_at: '2018-11-08T12:30:47+00:00'
 featured_image: /uploads/holly-miles-logo-canva-510x250px.jpg
-event_categories: featured
+event_categories: ''
 ---
 Who is our 8-week Nutrition and Lifestyle Change Programme for?  
 
