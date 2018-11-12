@@ -5,7 +5,7 @@ description: >-
   solution-focused approach. 
 yoast_keyword: life clubs coaching
 draft: false
-starts_at: '2018-11-10T10:00:25+00:00'
+starts_at: '2018-11-17T10:00:25+00:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 event_categories: ''
 ---
