@@ -3,7 +3,7 @@ title: 'Wednesday, 7-8pm, Qi Gong for Life, Robert'
 front_title: Qi Gong for Life
 description: Qi Gong
 yoast_keyword: Qi Gong
-draft: false
+draft: true
 start_time: '2000-01-01T19:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
 event_day: wednesday
