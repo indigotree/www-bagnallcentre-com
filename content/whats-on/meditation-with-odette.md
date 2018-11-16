@@ -3,7 +3,7 @@ title: Meditation with Odette
 description: Come to Meditation with Odette every Tuesday
 yoast_keyword: Meditation
 draft: false
-starts_at: '2018-11-13T13:00:41+00:00'
+starts_at: '2018-11-20T13:00:41+00:00'
 featured_image: /uploads/odette-meditation-image-canva-510x250px.jpg
 ---
 Meditation with Odette is an opportunity to relax, sit comfortably and learn techniques to:
