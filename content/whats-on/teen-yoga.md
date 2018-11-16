@@ -5,7 +5,7 @@ description: >-
   Y8 children and older. 
 yoast_keyword: teen yoga
 draft: false
-starts_at: '2018-11-14T18:00:59+00:00'
+starts_at: '2018-11-21T18:00:59+00:00'
 featured_image: /uploads/yoga-tree-canva-510x250px.jpg
 event_categories: ''
 ---
