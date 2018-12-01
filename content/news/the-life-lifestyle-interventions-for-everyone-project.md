@@ -14,6 +14,8 @@ categories:
   - Wellbeing
 featured_image: /uploads/7662-bagnall-logo.jpg
 ---
+![](/uploads/7662-bagnall-logo.jpg)
+
 We are delighted to announce that we have already begun working on the pilot stage of the LIFE Project. 
 
 The LIFE Project (Lifestyle Interventions For Everyone) has developed from Joanna’s passionate desire to inspire and help people to achieve positive lifestyle change to benefit their health and wellbeing.
