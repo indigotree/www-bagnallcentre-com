@@ -11,6 +11,7 @@ categories:
   - News
   - Lifestyle
   - Health
+  - Nutrition
   - Wellbeing
 featured_image: /uploads/7662-bagnall-logo.jpg
 ---
