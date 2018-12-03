@@ -7,7 +7,7 @@ yoast_keyword: dowsing
 draft: false
 starts_at: '2018-12-10T10:00:45+00:00'
 featured_image: /uploads/dowsing-canva-510x250px.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![dowsing](/uploads/dowsing-canva-510x250px.jpg)
 
