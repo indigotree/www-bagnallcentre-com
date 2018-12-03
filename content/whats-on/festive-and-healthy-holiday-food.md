@@ -5,6 +5,7 @@ yoast_keyword: cookery
 draft: false
 starts_at: '2018-12-16T11:00:34+00:00'
 featured_image: /uploads/festive-and-healthy-holiday-food-canva-510x250px.jpg
+event_categories: featured
 ---
 ![Festive and Healthy Holiday Food](/uploads/festive-and-healthy-holiday-food-canva-510x250px.jpg)
 
