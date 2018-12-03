@@ -7,7 +7,7 @@ yoast_keyword: hormones christmas
 draft: false
 starts_at: '2018-12-02T10:30:29+00:00'
 featured_image: /uploads/kiwi-canva-510x250px.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![hormones christmas](/uploads/kiwi-canva-510x250px.jpg)
 
