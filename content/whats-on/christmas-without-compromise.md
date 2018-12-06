@@ -4,7 +4,7 @@ description: >-
   Cookery lesson for Christmas - delicious festive main dishes and hearty
   desserts that don't compromise on flavour or nutrition. 
 yoast_keyword: cookery
-draft: false
+draft: true
 starts_at: '2018-12-09T10:00:55+00:00'
 featured_image: /uploads/christmas-without-compromise-canva-510x250px.jpg
 event_categories: featured
