@@ -2,7 +2,7 @@
 title: An Evening of Ayurveda
 description: Come and enjoy a Yoga Session and Supper Club with Teresa
 yoast_keyword: Ayurveda
-draft: false
+draft: true
 starts_at: '2018-12-14T18:00:31+00:00'
 featured_image: /uploads/an-evening-of-ayurveda-canva-510x250px.jpg
 ---
