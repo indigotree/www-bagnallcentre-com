@@ -7,7 +7,7 @@ description: >-
   will be teaching Qi Gong at The Bagnall Centre from October. Find out more
   here. 
 yoast_keyword: qi gong
-draft: false
+draft: true
 date: '2018-09-14T17:23:04+01:00'
 author: Imogen Emms
 categories:
