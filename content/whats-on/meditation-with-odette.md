@@ -2,7 +2,7 @@
 title: Meditation with Odette
 description: Come to Meditation with Odette every Tuesday
 yoast_keyword: Meditation
-draft: false
+draft: true
 starts_at: '2019-01-08T13:00:41+00:00'
 featured_image: /uploads/odette-meditation-image-canva-510x250px.jpg
 ---
