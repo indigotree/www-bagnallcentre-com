@@ -3,7 +3,7 @@ title: 'Monday, 8-9pm, Pilates for Men, Pali'
 front_title: Pilates for Men
 description: Pilates for Men
 yoast_keyword: Pilates Men
-draft: false
+draft: true
 start_time: '2000-01-01T20:00:00+00:00'
 end_time: '2000-01-01T21:00:00+00:00'
 event_day: monday
