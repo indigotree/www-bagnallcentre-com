@@ -3,6 +3,7 @@ title: 'Thursday, 8-9pm, Tai Chi, Catherine'
 front_title: Tai Chi
 description: Tai Chi Class
 yoast_keyword: Tai Chi
+draft: true
 start_time: '2000-01-01T20:00:00+00:00'
 end_time: '2000-01-01T21:00:00+00:00'
 event_day: thursday
