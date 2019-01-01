@@ -3,6 +3,7 @@ title: 'Saturday, 9-10am, Sivananda Yoga, Teresa'
 front_title: Sivananda Yoga
 description: Sivananda Yoga class
 yoast_keyword: Sivananda Yoga
+draft: true
 start_time: '2000-01-01T09:00:00+00:00'
 end_time: '2000-01-01T10:00:00+00:00'
 event_day: saturday
