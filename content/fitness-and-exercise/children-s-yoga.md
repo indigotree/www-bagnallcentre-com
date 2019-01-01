@@ -3,7 +3,7 @@ title: 'Saturday, 11-11.55am, Children''s Yoga (Y4-Y7), Irina'
 front_title: Children's Yoga (Y4-Y7)
 description: children's yoga class
 yoast_keyword: children's yoga
-draft: false
+draft: true
 start_time: '2000-01-01T11:00:00+00:00'
 end_time: '2000-01-01T11:55:00+00:00'
 event_day: saturday
