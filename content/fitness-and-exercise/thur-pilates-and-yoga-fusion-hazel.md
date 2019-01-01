@@ -3,6 +3,7 @@ title: 'Thursday, 7-8pm, Pilates & Yoga Fusion, Hazel'
 front_title: Pilates & Yoga Fusion
 description: Pilates and Yoga Fusion
 yoast_keyword: Pilates and Yoga Fusion
+draft: true
 start_time: '2000-01-01T19:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
 event_day: thursday
