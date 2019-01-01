@@ -3,6 +3,7 @@ title: 'Tuesday, 6-8pm, Yoga, Shiv'
 front_title: Yoga
 description: Yoga class
 yoast_keyword: Yoga
+draft: true
 start_time: '2000-01-01T18:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
 event_day: tuesday
