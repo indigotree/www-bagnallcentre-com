@@ -13,7 +13,6 @@ term: Bagnall
 room: Studio
 price: '0'
 ---
-
 # Studio & Gym classes diary
 
 **To book your place in any of our classes please call us on 01494 791288.**
@@ -23,9 +22,8 @@ price: '0'
 ### Opening Hours
 
 |                    |               |
-|--------------------|---------------|
-| Monday - Thursday: | 09:00 - 21:00 |
+| ------------------ | ------------- |
+| Monday - Thursday: | 09:00 - 17:00 |
 | Friday:            | 09:00 - 17:00 |
-| Saturday:          | 09:00 - 17:00 |
+| Saturday:          | Closed        |
 | Sunday:            | Closed        |
-
