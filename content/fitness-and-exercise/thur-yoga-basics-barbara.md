@@ -3,6 +3,7 @@ title: 'Thursday, 7-8pm, Yoga Basics, Barbara'
 front_title: Yoga Basics
 description: Yoga class
 yoast_keyword: yoga
+draft: true
 start_time: '2000-01-01T19:00:00+00:00'
 end_time: '2000-01-01T20:00:00+00:00'
 event_day: thursday
