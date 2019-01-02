@@ -5,7 +5,7 @@ description: >-
   solution-focused approach. 
 yoast_keyword: life clubs coaching
 draft: false
-starts_at: '2018-12-08T10:00:25+00:00'
+starts_at: '2019-01-12T10:00:25+00:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
 event_categories: ''
 ---
@@ -67,20 +67,4 @@ Workshops will run at the Bagnall Centre on Saturdays from 10am-1pm on the follo
 
 **2019**
 
-12th January  
-
-9th February 
-
-9th March  
-
-6th April  
-
-11th May 
-
-8th June  
-
-13th July  
-
-17th August 
-
-14th September
+12th January
