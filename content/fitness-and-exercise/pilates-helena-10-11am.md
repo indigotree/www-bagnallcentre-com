@@ -7,7 +7,7 @@ description: >-
   increase mobility of spine and joints, correct posture, relieve muscle tension
   and back pain. Restore, achieve and excel in physical movement.
 yoast_keyword: Pilates
-draft: false
+draft: true
 start_time: '2000-01-01T10:00:00+00:00'
 end_time: '2000-01-01T11:00:00+00:00'
 event_day: monday
