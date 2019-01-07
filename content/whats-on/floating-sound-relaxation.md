@@ -5,9 +5,9 @@ description: >-
   booked for the rest of 2018, new dates for 2019 coming soon!
 yoast_keyword: Floating Sound Relaxation
 draft: false
-starts_at: '2019-01-04T18:00:52+00:00'
+starts_at: '2019-01-11T18:00:52+00:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![Floating Sound Meditation](/uploads/floating-sound-meditation-copy.jpg)
 
