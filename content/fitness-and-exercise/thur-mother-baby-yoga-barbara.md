@@ -3,6 +3,7 @@ title: 'Thursday, 10.45-11.45am, Mother & Baby Yoga, Barbara'
 front_title: Mother & Baby Yoga
 description: Mother & Baby Yoga Class
 yoast_keyword: Yoga
+draft: true
 start_time: '2000-01-01T10:45:00+00:00'
 end_time: '2000-01-01T11:45:00+00:00'
 event_day: thursday
