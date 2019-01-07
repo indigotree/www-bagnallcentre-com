@@ -7,7 +7,7 @@ yoast_keyword: life clubs coaching
 draft: false
 starts_at: '2019-01-12T10:00:25+00:00'
 featured_image: /uploads/life-clubs-logo-canva-510x250px.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![LIFE CLUBS ](/uploads/life-clubs-logo-canva-510x250px.jpg)
 
