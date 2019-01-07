@@ -15,7 +15,7 @@ Decompress from your busy week and start the weekend feeling relaxed!
 
 During this multi-sensory experience, you will be cosily cocooned inside a vibrantly coloured silk hammock, chosen for its uplifting and relaxing properties, whilst being gently rocked into ‘a deeply relaxed state of being, free from tension and anxiety’. Soothing aromas will fill the air around you, as your entire being is immersed within an ambient soundscape of gongs and complementary instruments.
 
-Dr. Herbert Benson author of ‘The Relaxation Response’ found that repetitive movement (the gentle rocking of the hammock) helps to elicit your body’s Relaxation Response. This allows for a lower heart rate, blood pressure and muscle tension. The Relaxation Response is essentially the opposite reaction to the ‘fight or flight’ response, which helps to counteract the physiological effects of stress. By tuning into the senses (touch, sight, sound, and smell) your awareness is bought into your body and into the present moment, helping you to have a healthier response to stress.
+Dr. Herbert Benson, author of ‘The Relaxation Response’, found that repetitive movement (the gentle rocking of the hammock) helps to elicit your body’s Relaxation Response. This allows for a lower heart rate, blood pressure and muscle tension. The Relaxation Response is essentially the opposite reaction to the ‘fight or flight’ response, which helps to counteract the physiological effects of stress. By tuning into the senses (touch, sight, sound, and smell) your awareness is bought into your body and into the present moment, helping you to have a healthier response to stress.
 
 Some of the possible benefits of the session can include:
 
