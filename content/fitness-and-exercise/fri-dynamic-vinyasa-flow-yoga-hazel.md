@@ -3,6 +3,7 @@ title: 'Friday, 10.30-11.30am, Dynamic Vinyasa Flow Yoga, Hazel'
 front_title: Dynamic Vinyasa Flow Yoga
 description: Yoga Class
 yoast_keyword: Yoga
+draft: true
 start_time: '2000-01-01T10:30:00+00:00'
 end_time: '2000-01-01T11:30:00+00:00'
 event_day: friday
