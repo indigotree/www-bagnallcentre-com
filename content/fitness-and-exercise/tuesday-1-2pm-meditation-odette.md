@@ -3,7 +3,7 @@ title: 'Tuesday, 1-2pm, Meditation, Odette'
 front_title: 'Meditation '
 description: Meditation
 yoast_keyword: Meditation
-draft: false
+draft: true
 start_time: '2000-01-01T13:00:00+00:00'
 end_time: '2000-01-01T14:00:00+00:00'
 event_day: tuesday
