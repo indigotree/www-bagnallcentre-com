@@ -3,6 +3,7 @@ title: 'Friday, 9.30-10.30am, Pilates, Hazel'
 front_title: Pilates
 description: Pilates class
 yoast_keyword: Pilates
+draft: true
 start_time: '2000-01-01T09:30:00+00:00'
 end_time: '2000-01-01T10:30:00+00:00'
 event_day: friday
