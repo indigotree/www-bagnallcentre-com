@@ -8,7 +8,7 @@ yoast_keyword: meditation
 draft: false
 starts_at: '2019-01-11T18:00:05+00:00'
 featured_image: /uploads/floating-sound-meditation-copy.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![gong bath](/uploads/floating-sound-meditation-copy.jpg)
 
