@@ -3,6 +3,7 @@ title: 'Friday, 11.30am-12.30pm, Body Weight Circuit Training, Betty'
 front_title: Body Weight Circuit Training
 description: Body Weight Circuit Training class
 yoast_keyword: 'circuit training '
+draft: true
 start_time: '2000-01-01T11:30:00+00:00'
 end_time: '2000-01-01T12:30:00+00:00'
 event_day: friday
