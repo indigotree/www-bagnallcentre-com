@@ -23,7 +23,7 @@ Some of the possible benefits of the session can include:
 
 \- promoting a sense of deep rest and relaxation calming the brain, allowing the body and mind to relax
 
-\- haromising the nervous system
+\- harmonising the nervous system
 
 \- decompression of the spine, helping to relieve tensions in the back and neck
 
@@ -45,41 +45,20 @@ Health note: please let Sam know in advance if you are in your first-trimester o
 
 Safety information: each hammock has a working load limit of 27 stones, and the steel roundslings have a stress load of 2 tonnes. We have been Engineer approved that each hammock has a weight bearing load of 100kgs/15.5 stones for the purposes of this class. There is however some degree of flexibility if your current weight is over this limit, please mention it to us if you’re unsure. We will always employ our utmost discretion.
 
-A session costs £15 and are **limited** to 8 people at a time and last for 1 hour and 15 minutes. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
+A session costs £15 and are **limited** to 8 people at a time and last for 1 hour. There will be 2 sessions available at the following time slots (pre-pay booking is required to secure your spot):
 
-**PLEASE NOTE THAT ALL SPACES ARE NOW FILLED FOR AUTUMN, MORE DATES WILL BE ANNOUNCED FOR THE NEW YEAR.**
+Session 1: 6-7pm, Session 2: 7-8pm
 
 **PLEASE GET IN TOUCH WITH SAM DIRECTLY IF YOU WOULD LIKE TO BE ADDED TO THE WAITING LIST IN CASE OF CANCELLATION.**
 
-**Friday 14th September**
+**Friday 11th January**
 
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+**Saturday 12th January**
 
-**Friday 12th October**
+**Friday 18th January**
 
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
+**Friday 25th January**
 
-**Friday 26th October**
-
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
-
-**Friday 9th November**
-
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
-
-**Friday 23rd November**
-
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
-
-**Friday 7th December**
-
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
-
-**Friday 14th December**
-
-Session 1: 18.00-19.15pm, Session 2: 19.30-20.45pm
-
-
-Please arrive no more than 5 minutes before the session start time as the door will be locked until then. Please be on time, as due to the nature of this session we are unable to admit late comers and the door will be locked promptly at either 6pm or 7:30pm.
+Please arrive no more than 5 minutes before the session start time as the door will be locked until then. Please be on time, as due to the nature of this session we are unable to admit late comers and the door will be locked promptly at either 6pm or 7pm.
 
 **Please email [Sam Hyder](mailto:sam_hyder@hotmail.co.uk) or call on [07787 291529](tel:07787291529) to book your place.**
