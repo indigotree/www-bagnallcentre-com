@@ -1,6 +1,6 @@
 ---
-title: 'Yoga & Meditation Day '
-description: Have you booked our Yoga & Meditation Day with Carly Kite?
+title: Yoga & Meditation
+description: Have you booked your place at Yoga & Meditation with Carly Kite?
 yoast_keyword: Yoga
 draft: false
 starts_at: '2019-01-27T10:00:46+00:00'
