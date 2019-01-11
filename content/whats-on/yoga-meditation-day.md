@@ -3,16 +3,16 @@ title: 'Yoga & Meditation Day '
 description: Have you booked our Yoga & Meditation Day with Carly Kite?
 yoast_keyword: Yoga
 draft: false
-starts_at: '2018-10-21T10:00:46+01:00'
+starts_at: '2019-01-27T10:00:46+00:00'
 featured_image: /uploads/carly-yoga-day.jpg
 event_categories: ''
 ---
 ![yoga](/uploads/carly-yoga-day.jpg)
 
-Enjoy a full day of yoga, deep relaxation and meditation. 
+Enjoy yoga, deep relaxation and meditation. 
 
-10am-4pm, Sunday 21st October. 
+10am-1pm, Sunday 27th January. 
 
-**£66, includes vegan lunch. £30 deposit to secure your place.**
+**£60 plus £12 if lunch is required. **
 
 To book call Carly on [07866 607520](tel:07866607520) or email <mailto:contact@kitespirit.co.uk>
