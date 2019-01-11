@@ -1,6 +1,6 @@
 ---
 title: Simple Nourishment
-description: Healthy cookery lesson and sit-down lunch
+description: Healthy cookery lesson and sit-down lunch.
 yoast_keyword: cookery
 draft: false
 starts_at: '2019-01-13T10:00:00+00:00'
