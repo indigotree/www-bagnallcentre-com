@@ -8,11 +8,11 @@ featured_image: /uploads/brain-canva.jpg
 ---
 ![null](/uploads/brain-canva.jpg)
 
-The next talk of the Health & Wellbeing series will be on Monday 14th January from 10am-12pm at the Bagnall Centre.
+Respected wellbeing expert Brian Isbell, an experienced natural health practitioner and educator, is holding regular Bagnall Centre Family Health and Wellbeing talks on Monday mornings. 
 
-The talk will be on ’The Pineal Gland - why is it so special?'
+The talks are open to our customers and complementary health professionals who wish to broaden and deepen their knowledge of self-care and integrated healthcare. These talks will help you and your family understand and implement simple and effective health and wellbeing practices.
 
-The talk will include: 
+This talk will include: 
 
 Anatomy and unique features of the pineal gland. 
 
