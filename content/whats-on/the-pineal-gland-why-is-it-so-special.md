@@ -26,4 +26,8 @@ The effects of geomagnetic variation.
 
 A hypothesis for the healing mechanism.
 
+10am-12pm Monday 14th January. £10. 
+
+Please book in advance to avoid disappointment! 
+
 Please email <mailto:bookings@bagnallcentre.com> or call [01494 791288](tel:01494791288) to book your place.
