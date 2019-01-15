@@ -3,7 +3,7 @@ title: 8-week Nutrition and Lifestyle Change Programme
 description: 'Who is our 8-week Nutrition and Lifestyle Change Programme for?  '
 yoast_keyword: lifestyle
 draft: false
-starts_at: '2019-01-21T12:30:47+00:00'
+starts_at: '2019-01-31T12:30:47+00:00'
 featured_image: /uploads/holly-miles-logo-canva-510x250px.jpg
 event_categories: featured
 ---
