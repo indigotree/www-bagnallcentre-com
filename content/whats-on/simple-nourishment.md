@@ -5,7 +5,7 @@ yoast_keyword: cookery
 draft: false
 starts_at: '2019-01-13T10:00:00+00:00'
 featured_image: /uploads/simple-canva.jpg
-event_categories: featured
+event_categories: ''
 ---
 ![null](/uploads/simple-canva.jpg)
 
