@@ -5,7 +5,7 @@ yoast_keyword: Yoga
 draft: false
 starts_at: '2019-01-27T10:00:46+00:00'
 featured_image: /uploads/carly-yoga-day.jpg
-event_categories: ''
+event_categories: featured
 ---
 ![yoga](/uploads/carly-yoga-day.jpg)
 
